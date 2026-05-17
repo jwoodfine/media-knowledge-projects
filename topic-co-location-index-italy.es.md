@@ -4,7 +4,7 @@ title: "Índice de Co-ubicación: Italia"
 slug: topic-co-location-index-italy
 category: governance
 type: topic
-quality: complete
+quality: partial
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
@@ -23,15 +23,15 @@ En estos mercados, el Objetivo Primario es IKEA, con validación secundaria prop
 
 ## Nivel 4+ (★★★★+) — Nodos de Grado Institucional
 
-Una calificación de Nivel 4+ significa un nodo de grado institucional con una notable gravedad comercial. Reflejando el estándar de excelencia Michelin, estas ubicaciones representan los entornos comerciales más validados de Italia, donde las anclas primarias y la infraestructura cívica esencial convergen para crear centros minoristas defensivos.
+Una calificación de Nivel 4+ indica un nodo donde la presencia del ancla primaria cuenta con el respaldo de al menos un operador secundario e infraestructura cívica esencial dentro de los radios de captación requeridos. La convergencia de operadores en todas las categorías confirma la solidez comercial del sitio.
 
-| Rango | Municipio | Ancla Primaria | Nivel | Cobertura Secundaria (≤3km) | Infraestructura Cívica (≤5km) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| *...* | *Datos pendientes de sincronización con el motor GIS* | *...* | *...* | *...* | *...* |
-
-*(Nota: El índice completo de más de 20 sitios primarios evaluados está disponible a través de la plataforma GIS de Woodfine. Este documento destaca los "Top 200" nodos de élite.)*
+*El índice de sitios clasificados para Italia está disponible en [gis.woodfinegroup.com](https://gis.woodfinegroup.com). El índice completo cubre más de 20 ubicaciones de ancla evaluadas.*
 
 ## Ver También
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]
+
+---
+
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*

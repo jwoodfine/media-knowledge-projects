@@ -11,7 +11,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-05-02
 editor: pointsav-engineering
-paired_with: co-location-methodology.md
+paired_with: topic-co-location-methodology.md
 cites:
   - ni-51-102
   - osc-sn-51-721
@@ -44,3 +44,7 @@ El índice de co-ubicación actúa como un filtro defensivo para el despliegue d
 ## Procedencia
 - **Adaptación Estratégica:** Basada en el documento inglés `co-location-methodology.md`.
 - **Refinamiento:** 2026-05-02 por project-language Task.
+
+---
+
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*

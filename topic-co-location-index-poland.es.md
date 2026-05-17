@@ -4,7 +4,7 @@ title: "Índice de Co-ubicación: Polonia"
 slug: topic-co-location-index-poland
 category: governance
 type: topic
-quality: complete
+quality: partial
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
@@ -23,15 +23,15 @@ En Polonia, estos nodos están anclados por IKEA (Objetivo Primario) y respaldad
 
 ## Nivel 4+ (★★★★+) — Nodos Comerciales de Alta Validación
 
-Una calificación de Nivel 4+ en Polonia denota un nodo comercial de interés institucional significativo. Siguiendo el modelo de excelencia Michelin, estos sitios son reconocidos por su excepcional sinergia estructural, ofreciendo una rara combinación de anclas minoristas primarias e infraestructura cívica esencial.
+Una calificación de Nivel 4+ en Polonia indica un nodo donde la presencia del ancla primaria cuenta con el respaldo de operadores secundarios e infraestructura cívica esencial dentro de los radios de captación requeridos. La convergencia de operadores en todas las categorías confirma la solidez comercial del sitio.
 
-| Rango | Municipio | Ancla Primaria | Nivel | Cobertura Secundaria (≤3km) | Infraestructura Cívica (≤5km) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| *...* | *Datos pendientes de sincronización con el motor GIS* | *...* | *...* | *...* | *...* |
-
-*(Nota: El índice completo de más de 15 sitios primarios evaluados está disponible a través de la plataforma GIS de Woodfine. Este documento destaca los "Top 200" nodos de élite.)*
+*El índice de sitios clasificados para Polonia está disponible en [gis.woodfinegroup.com](https://gis.woodfinegroup.com). El índice completo cubre más de 15 ubicaciones de ancla evaluadas.*
 
 ## Ver También
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]
+
+---
+
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*

@@ -11,7 +11,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-02
 editor: pointsav-engineering
-paired_with: co-location-ranking-system.es.md
+paired_with: topic-co-location-ranking-system.es.md
 cites:
   - ni-51-102
   - osc-sn-51-721
@@ -59,7 +59,7 @@ The combination of present categories determines the site rank. There are twelve
 
 ## Quality Tiers and Distribution
 
-The twelve ranks are grouped into five tiers, analogous to the Michelin Star system, to provide a high-level view of market quality.
+The twelve ranks are grouped into five tiers to provide a high-level view of market quality.
 
 ### ★★★★★ Tier 5 — Full Co-location
 *Rank 1 only. All four categories present.*
@@ -104,3 +104,7 @@ Integration of the aviation facility dataset (29,020 records) into tertiary scor
 - **Refinement:** 2026-05-02 by project-language Task
 - **Verification:** Rank distribution and matrix logic confirmed against `app-orchestration-gis/build-clusters.py`.
 - **BCSC Posture:** Forward-looking algorithm expansions (aviation data integration) labeled per ni-51-102.
+
+---
+
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*

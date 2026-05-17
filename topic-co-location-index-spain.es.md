@@ -4,7 +4,7 @@ title: "Índice de Co-ubicación: España"
 slug: topic-co-location-index-spain
 category: governance
 type: topic
-quality: complete
+quality: partial
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
@@ -17,21 +17,19 @@ cites:
   - osc-sn-51-721
 ---
 
-El Índice de Co-ubicación de España evalúa los principales nodos comerciales de la Península Ibérica, centrándose en la sofisticada convergencia de los centros de poder minorista. Según la [[topic-co-location-methodology]], estos "Top 200" nodos representan la mayor concentración de escasez comercial y validación de capital.
-
-En el contexto europeo, estos sitios se definen por la presencia de IKEA como Objetivo Primario, flanqueado por operadores Secundarios esenciales como Leroy Merlin y Makro.
+El Índice de Co-ubicación de España clasifica los nodos comerciales del mercado español según la [[topic-co-location-methodology]]. Los sitios se evalúan donde IKEA opera como ancla Objetivo Primario, puntuados frente a operadores secundarios (Leroy Merlin, Makro) e infraestructura cívica terciaria dentro de los radios de captación definidos.
 
 ## Nivel 4+ (★★★★+) — Sinergia Comercial Excepcional
 
-Una designación Nivel 4+ en España indica un nodo de calidad excepcional, análogo a un prestigioso destino con estrellas Michelin. Estos sitios exhiben una rara convergencia de anclas minoristas primarias e infraestructura terciaria crítica dentro de radios de captación optimizados, asegurando la viabilidad comercial a largo plazo.
+Una designación Nivel 4+ indica un nodo donde la presencia del ancla primaria cuenta con el respaldo de al menos un operador secundario e infraestructura cívica esencial dentro de los radios de captación requeridos. La convergencia de operadores en todas las categorías confirma la solidez comercial del sitio.
 
-| Rango | Municipio | Ancla Primaria | Nivel | Cobertura Secundaria (≤3km) | Infraestructura Cívica (≤5km) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| *...* | *Datos pendientes de sincronización con el motor GIS* | *...* | *...* | *...* | *...* |
-
-*(Nota: El índice completo de más de 20 sitios primarios evaluados está disponible a través de la plataforma GIS de Woodfine. Este documento destaca los "Top 200" nodos de élite representativos.)*
+*El índice de sitios clasificados para España está disponible en [gis.woodfinegroup.com](https://gis.woodfinegroup.com). El índice completo cubre más de 20 ubicaciones de ancla evaluadas.*
 
 ## Ver También
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]
+
+---
+
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*

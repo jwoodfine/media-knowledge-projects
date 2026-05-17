@@ -4,7 +4,7 @@ title: "Co-location Index: Italy"
 slug: topic-co-location-index-italy
 category: governance
 type: topic
-quality: complete
+quality: partial
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
@@ -17,21 +17,19 @@ cites:
   - osc-sn-51-721
 ---
 
-The Italy Co-location Index identifies the apex of commercial convergence within the Italian peninsula. Utilizing the [[topic-co-location-methodology]], the index maps the "Top 200" nodes where retail synergy achieves institutional-grade density.
-
-In these markets, the Primary Target is IKEA, with secondary validation provided by major operators such as Leroy Merlin and Makro, creating high-barrier commercial ecosystems.
+The Italy Co-location Index ranks commercial nodes across the Italian peninsula using the [[topic-co-location-methodology]]. Sites are evaluated where IKEA operates as the Primary Target anchor, scored against secondary operators (Leroy Merlin, Makro) and tertiary civic infrastructure within defined catchment radii.
 
 ## Tier 4+ (★★★★+) — Institutional Grade Nodes
 
-A Tier 4+ rating signifies an institutional-grade node of remarkable commercial gravity. Mirroring the Michelin standard of excellence, these locations represent the most validated commercial environments in Italy, where primary anchors and essential civic infrastructure converge to create defensive retail hubs.
+A Tier 4+ rating indicates a node where primary anchor presence is supported by secondary operators and essential civic infrastructure within the required catchment radii. These represent the most validated commercial environments the Italy dataset currently identifies.
 
-| Rank | Municipality | Primary Anchor | Tier | Secondary Coverage (≤3km) | Civic Infrastructure (≤5km) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| *...* | *Data pending GIS Engine synchronization* | *...* | *...* | *...* | *...* |
-
-*(Note: The full index of 20+ primary evaluated sites is available via the Woodfine GIS platform. This document highlights the "Top 200" elite nodes.)*
+*The ranked site index for Italy is available at [gis.woodfinegroup.com](https://gis.woodfinegroup.com).*
 
 ## See Also
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]
+
+---
+
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*

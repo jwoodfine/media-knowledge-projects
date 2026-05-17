@@ -4,7 +4,7 @@ title: "Índice de Co-ubicación: México"
 slug: topic-co-location-index-mexico
 category: governance
 type: topic
-quality: complete
+quality: partial
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
@@ -17,21 +17,19 @@ cites:
   - osc-sn-51-721
 ---
 
-El Índice de Co-ubicación de México proporciona un análisis sofisticado de la liquidez comercial y la convergencia institucional en el mercado mexicano. Utilizando la [[topic-co-location-methodology]], el índice captura los "Top 200" nodos donde la sinergia minorista alcanza los estándares institucionales.
-
-Estas ubicaciones de primer nivel se caracterizan por la agrupación deliberada de Objetivos Primarios de alto volumen con anclas Secundarias, creando bastiones comerciales defensivos con características significativas de barrera de entrada.
+El Índice de Co-ubicación de México clasifica los nodos comerciales del mercado mexicano según la [[topic-co-location-methodology]]. Los sitios se evalúan donde Walmart Supercentre opera como ancla Objetivo Primario, puntuados frente a operadores secundarios (Home Depot, Costco) e infraestructura cívica terciaria dentro de los radios de captación definidos.
 
 ## Nivel 5 (★★★★★) — Convergencia Institucional
 
-Una calificación de Nivel 5 en México denota un nodo comercial de clase mundial. Al igual que un establecimiento con estrellas Michelin, estos sitios representan el estándar absoluto de validación, contando con un Objetivo Primario (Walmart Supercentre) en proximidad inmediata a anclas Secundarias (Home Depot, Costco) e infraestructura cívica Terciaria robusta.
+La designación Nivel 5 en México es la validación más alta de la matriz: Objetivo Primario (Walmart Supercentre), anclas secundarias (Home Depot, Costco) e infraestructura cívica terciaria esencial, todos presentes dentro de los radios de captación requeridos. Los compromisos de capital independientes de operadores en las tres categorías confirman la solidez comercial del área de influencia.
 
-| Rango | Municipio | Ancla Primaria | Nivel | Cobertura Secundaria (≤3km) | Infraestructura Cívica (≤5km) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| *...* | *Datos pendientes de sincronización con el motor GIS* | *...* | *...* | *...* | *...* |
-
-*(Nota: El índice completo de más de 300 nodos evaluados es accesible a través de la plataforma GIS de Woodfine. Este documento destaca los "Top 200" nodos.)*
+*El índice de sitios clasificados para México está disponible en [gis.woodfinegroup.com](https://gis.woodfinegroup.com). El índice completo cubre más de 300 ubicaciones de ancla evaluadas.*
 
 ## Ver También
 *   [[topic-tier-index-north-america]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]
+
+---
+
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*

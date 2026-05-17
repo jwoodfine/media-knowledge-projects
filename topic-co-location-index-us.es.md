@@ -4,7 +4,7 @@ title: "Índice de Co-ubicación: Estados Unidos"
 slug: topic-co-location-index-us
 category: governance
 type: topic
-quality: complete
+quality: partial
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
@@ -17,21 +17,19 @@ cites:
   - osc-sn-51-721
 ---
 
-El Índice de Co-ubicación de los Estados Unidos constituye el referente definitivo de convergencia comercial en el mercado norteamericano. Evaluados bajo la rigurosa [[topic-co-location-methodology]], este índice identifica los "Top 400" nodos comerciales que exhiben el mayor grado de sinergia minorista de grado institucional.
-
-En el sistema de clasificación de Woodfine, estas ubicaciones no son meras zonas de alto tráfico; representan el ápice de los activos inmobiliarios comerciales validados, donde la convergencia de anclas primarias e infraestructura crítica genera un ecosistema económico autosustentable.
+El Índice de Co-ubicación de los Estados Unidos clasifica los nodos comerciales del mercado estadounidense según la [[topic-co-location-methodology]]. Los sitios se evalúan donde Walmart Supercentre opera como ancla Objetivo Primario, puntuados frente a operadores secundarios (Home Depot, Costco) e infraestructura cívica terciaria dentro de los radios de captación definidos.
 
 ## Nivel 5 (★★★★★) — El Ápice de la Convergencia
 
-La designación Nivel 5 es el equivalente comercial a una calificación de tres estrellas Michelin: un nodo tan excepcionalmente estructurado que "justifica el viaje" para el despliegue de capital. Estos sitios presentan la presencia simultánea de un Objetivo Primario (Walmart Supercentre), anclas Secundarias (Costco, Home Depot) e infraestructura cívica Terciaria esencial.
+La designación Nivel 5 en los Estados Unidos es la validación más alta de la matriz: Objetivo Primario (Walmart Supercentre), anclas secundarias (Home Depot, Costco) e infraestructura cívica terciaria esencial, todos presentes dentro de los radios de captación requeridos. Los compromisos de capital independientes de los operadores en las tres categorías confirman la solidez comercial del área de influencia.
 
-| Rango | Municipio | Ancla Primaria | Nivel | Cobertura Secundaria (≤3km) | Infraestructura Cívica (≤5km) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| *...* | *Datos pendientes de sincronización con el motor GIS* | *...* | *...* | *...* | *...* |
-
-*(Nota: El índice completo de más de 3,500 nodos evaluados es accesible a través de la plataforma GIS de Woodfine. Este documento destaca los "Top 400" nodos de élite.)*
+*El índice de sitios clasificados para los Estados Unidos está disponible en [gis.woodfinegroup.com](https://gis.woodfinegroup.com). El índice completo cubre más de 3,500 ubicaciones de ancla evaluadas.*
 
 ## Ver También
 *   [[topic-tier-index-north-america]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]
+
+---
+
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*

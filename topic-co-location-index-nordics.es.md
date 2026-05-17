@@ -4,7 +4,7 @@ title: "Índice de Co-ubicación: Países Nórdicos"
 slug: topic-co-location-index-nordics
 category: governance
 type: topic
-quality: complete
+quality: partial
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
@@ -17,21 +17,19 @@ cites:
   - osc-sn-51-721
 ---
 
-El Índice de Co-ubicación de los Países Nórdicos proporciona un mapeo sofisticado de la convergencia comercial en el norte de Europa. Basado en la [[topic-co-location-methodology]], el índice identifica los "Top 200" nodos donde la sinergia minorista institucional es más pronunciada.
-
-Dada la planificación urbana única de la región, estos sitios representan el nivel absoluto de liquidez comercial, centrados en IKEA como Objetivo Primario y respaldados por infraestructura Secundaria y Terciaria de alta calidad.
+El Índice de Co-ubicación de los Países Nórdicos clasifica los nodos comerciales del norte de Europa según la [[topic-co-location-methodology]]. Los sitios se evalúan donde IKEA opera como ancla Objetivo Primario, puntuados frente a operadores secundarios e infraestructura cívica terciaria dentro de los radios de captación definidos.
 
 ## Nivel 4+ (★★★★+) — Hubs Nórdicos de Élite
 
-Una designación Nivel 4+ en la región nórdica representa un nodo de prestigio comercial excepcional. Al igual que un destino con estrellas Michelin, estos hubs son reconocidos por su superior agrupación de anclas primarias y activos cívicos, representando los entornos comerciales más resilientes del mercado.
+Una designación Nivel 4+ indica un nodo donde la presencia del ancla primaria cuenta con el respaldo de al menos un operador secundario e infraestructura cívica esencial dentro de los radios de captación requeridos. Estos sitios representan los entornos comerciales más sólidos que identifica actualmente el conjunto de datos nórdico.
 
-| Rango | Municipio | Ancla Primaria | Nivel | Cobertura Secundaria (≤3km) | Infraestructura Cívica (≤5km) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| *...* | *Datos pendientes de sincronización con el motor GIS* | *...* | *...* | *...* | *...* |
-
-*(Nota: El índice completo de más de 30 sitios primarios evaluados está disponible a través de la plataforma GIS de Woodfine. Este documento destaca los "Top 200" nodos de élite.)*
+*El índice de sitios clasificados para los Países Nórdicos está disponible en [gis.woodfinegroup.com](https://gis.woodfinegroup.com). El índice completo cubre más de 30 ubicaciones de ancla evaluadas.*
 
 ## Ver También
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]
+
+---
+
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*

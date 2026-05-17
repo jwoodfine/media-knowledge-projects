@@ -11,7 +11,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-05-02
 editor: pointsav-engineering
-paired_with: co-location-intelligence-overview.md
+paired_with: topic-co-location-intelligence-overview.md
 cites:
   - overture-maps-cdla-2-0
   - osm-odbl
@@ -55,3 +55,7 @@ La expansión de las fuentes de datos para los indicadores terciarios (salud y e
 - **Adaptación Estratégica:** Basada en el documento inglés `co-location-intelligence-overview.md`.
 - **Refinamiento:** 2026-05-02 por project-language Task.
 - **BCSC Posture:** Los objetivos de expansión de datos están etiquetados según ni-51-102.
+
+---
+
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*

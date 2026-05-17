@@ -4,7 +4,7 @@ title: "Co-location Index: Poland"
 slug: topic-co-location-index-poland
 category: governance
 type: topic
-quality: complete
+quality: partial
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
@@ -17,21 +17,19 @@ cites:
   - osc-sn-51-721
 ---
 
-The Poland Co-location Index identifies the high-growth commercial nodes defining the Central European retail landscape. Utilizing the [[topic-co-location-methodology]], the index highlights the "Top 200" locations that demonstrate institutional-grade convergence.
-
-In Poland, these nodes are anchored by IKEA (Primary Target) and supported by major Secondary operators such as Makro and Leroy Merlin, creating high-value defensive commercial clusters.
+The Poland Co-location Index ranks commercial nodes across the Polish market using the [[topic-co-location-methodology]]. Sites are evaluated where IKEA operates as the Primary Target anchor, scored against secondary operators (Makro, Leroy Merlin) and tertiary civic infrastructure within defined catchment radii.
 
 ## Tier 4+ (★★★★+) — High-Validation Commercial Nodes
 
-A Tier 4+ rating in Poland denotes a commercial node of significant institutional interest. Following the Michelin model of excellence, these sites are recognized for their exceptional structural synergy, offering a rare combination of primary retail anchors and essential civic infrastructure.
+A Tier 4+ rating in Poland indicates a node where primary anchor presence is supported by secondary operators and essential civic infrastructure within the required catchment radii. The convergence of operators across categories confirms the site's commercial standing.
 
-| Rank | Municipality | Primary Anchor | Tier | Secondary Coverage (≤3km) | Civic Infrastructure (≤5km) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| *...* | *Data pending GIS Engine synchronization* | *...* | *...* | *...* | *...* |
-
-*(Note: The full index of 15+ primary evaluated sites is available via the Woodfine GIS platform. This document highlights the "Top 200" elite nodes.)*
+*The ranked site index for Poland is available at [gis.woodfinegroup.com](https://gis.woodfinegroup.com). The full index covers 15+ evaluated anchor locations.*
 
 ## See Also
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]
+
+---
+
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*

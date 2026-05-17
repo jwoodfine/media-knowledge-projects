@@ -11,7 +11,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-05-02
 editor: pointsav-engineering
-paired_with: co-location-ranking-system.md
+paired_with: topic-co-location-ranking-system.md
 cites:
   - ni-51-102
   - osc-sn-51-721
@@ -47,3 +47,7 @@ Para mantener la relevancia del índice, el sistema aplica una **regla de calibr
 ## Procedencia
 - **Adaptación Estratégica:** Basada en el documento inglés `co-location-ranking-system.md`.
 - **Refinamiento:** 2026-05-02 por project-language Task.
+
+---
+
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*

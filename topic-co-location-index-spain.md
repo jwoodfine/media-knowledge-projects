@@ -4,7 +4,7 @@ title: "Co-location Index: Spain"
 slug: topic-co-location-index-spain
 category: governance
 type: topic
-quality: complete
+quality: partial
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
@@ -17,21 +17,19 @@ cites:
   - osc-sn-51-721
 ---
 
-The Spain Co-location Index assesses the premier commercial nodes across the Iberian Peninsula, focusing on the sophisticated convergence of retail power-centers. According to the [[topic-co-location-methodology]], these "Top 200" nodes represent the highest concentration of commercial scarcity and capital validation.
-
-In the European context, these sites are defined by the presence of IKEA as the Primary Target, flanked by essential Secondary operators such as Leroy Merlin and Makro.
+The Spain Co-location Index ranks commercial nodes across the Iberian Peninsula using the [[topic-co-location-methodology]]. Sites are evaluated where IKEA operates as the Primary Target anchor, scored against secondary operators (Leroy Merlin, Makro) and tertiary civic infrastructure within defined catchment radii.
 
 ## Tier 4+ (★★★★+) — Exceptional Commercial Synergy
 
-A Tier 4+ designation in Spain indicates a node of exceptional quality, analogous to a prestigious Michelin-starred destination. These sites exhibit a rare convergence of primary retail anchors and critical tertiary infrastructure within optimized catchment radii, ensuring long-term commercial viability.
+A Tier 4+ designation in Spain indicates a node where primary and secondary anchors are joined by tertiary civic infrastructure within the required catchment radii. The convergence of operators across categories confirms the site's commercial standing.
 
-| Rank | Municipality | Primary Anchor | Tier | Secondary Coverage (≤3km) | Civic Infrastructure (≤5km) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| *...* | *Data pending GIS Engine synchronization* | *...* | *...* | *...* | *...* |
-
-*(Note: The full index of 20+ primary evaluated sites is available via the Woodfine GIS platform. This document highlights the representative "Top 200" elite nodes.)*
+*The ranked site index for Spain is available at [gis.woodfinegroup.com](https://gis.woodfinegroup.com).*
 
 ## See Also
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]
+
+---
+
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*

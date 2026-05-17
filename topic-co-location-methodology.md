@@ -11,7 +11,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-02
 editor: pointsav-engineering
-paired_with: co-location-methodology.es.md
+paired_with: topic-co-location-methodology.es.md
 cites:
   - ni-51-102
   - osc-sn-51-721
@@ -69,3 +69,7 @@ The methodology is applied consistently across global markets by mapping regiona
 - **Refinement:** 2026-05-02 by project-language Task
 - **Verification:** Methodology definitions confirmed against `app-orchestration-gis` documentation and current regional configurations.
 - **BCSC Posture:** Forward-looking methodology expansions (transport data) labeled per ni-51-102.
+
+---
+
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
