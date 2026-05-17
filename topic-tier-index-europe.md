@@ -21,7 +21,7 @@ The European Co-location Tier Index serves as the authoritative map of commercia
 
 ## Market Scarcity and Institutional Validation
 
-Achieving a high-tier designation requires the simultaneous convergence of multiple independent, capital-intensive operators within a restricted geographic radius. These top-tier sites represent the apex of commercial validation, analogous to a 3-star Michelin rating: indicating a market node so exceptionally structured that it is "worth a special journey" for institutional capital deployment.
+Achieving a high-tier designation requires the simultaneous convergence of multiple independent, capital-intensive operators within a restricted geographic radius. These top-tier sites represent the apex of commercial validation: each operator's capital commitment independently confirms the trade area's commercial strength.
 
 ## Regional Overview
 
@@ -40,3 +40,7 @@ The following table summarizes the distribution of the highest-quality nodes acr
 *   [[topic-co-location-methodology]]
 *   [[topic-tier-index-north-america]]
 *   [[topic-co-location-ranking-system]]
+
+---
+
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
