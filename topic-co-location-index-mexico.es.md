@@ -11,7 +11,8 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-06
 editor: pointsav-engineering
-paired_with: topic-co-location-index-mexico.md
+short_description: "Índice clasificado de los principales nodos de convergencia comercial en México, identificando sitios donde los anclas Walmart Supercentre se agrupan con Home Depot, Costco e infraestructura cívica."
+ topic-co-location-index-mexico.md
 cites:
   - ni-51-102
   - osc-sn-51-721

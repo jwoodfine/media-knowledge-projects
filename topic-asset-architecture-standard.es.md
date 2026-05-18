@@ -11,7 +11,8 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-06
 editor: pointsav-engineering
-paired_with: topic-asset-architecture-standard.md
+short_description: "Requisitos estructurales uniformes para los desarrollos Woodfine: construcción de concreto y acero, dimensionamiento previo a la adquisición y configuración estandarizada en toda la cartera."
+ topic-asset-architecture-standard.md
 cites:
   - ni-51-102
   - osc-sn-51-721

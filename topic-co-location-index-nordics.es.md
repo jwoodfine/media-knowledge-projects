@@ -11,7 +11,8 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-06
 editor: pointsav-engineering
-paired_with: topic-co-location-index-nordics.md
+short_description: "Índice clasificado de sitios de convergencia comercial en Suecia, Noruega, Dinamarca, Finlandia e Islandia, anclados por IKEA con operadores secundarios nórdicos."
+ topic-co-location-index-nordics.md
 cites:
   - ni-51-102
   - osc-sn-51-721

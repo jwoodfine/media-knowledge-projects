@@ -11,6 +11,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-02
 editor: pointsav-engineering
+short_description: "Ranked index of high-value co-location nodes in Canada, evaluating Walmart Supercentre anchor sites by proximity to Costco, Home Depot, and civic infrastructure."
 paired_with: topic-co-location-index-canada.es.md
 cites:
   - ni-51-102

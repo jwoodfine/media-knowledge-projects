@@ -11,6 +11,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-02
 editor: pointsav-engineering
+short_description: "Aggregated tier-ranked index of commercial convergence nodes across the United States, Canada, and Mexico, summarizing quality tier distribution by market."
 paired_with: topic-tier-index-north-america.es.md
 cites:
   - ni-51-102

@@ -11,7 +11,8 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-06
 editor: pointsav-engineering
-paired_with: topic-co-location-index-spain.md
+short_description: "Índice clasificado de nodos de co-ubicación en España, anclados por IKEA con validación secundaria de Leroy Merlin y Makro en la Península Ibérica."
+ topic-co-location-index-spain.md
 cites:
   - ni-51-102
   - osc-sn-51-721

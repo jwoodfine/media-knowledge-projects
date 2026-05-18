@@ -11,7 +11,8 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-06
 editor: pointsav-engineering
-paired_with: topic-site-ledger-integration.md
+short_description: "Vínculo operacional que conecta cada sitio de construcción físico con un contenedor de archivo digital aislado, manteniendo registros de auditoría inmutables desde el inicio hasta la puesta en servicio."
+ topic-site-ledger-integration.md
 cites:
   - ni-51-102
   - osc-sn-51-721

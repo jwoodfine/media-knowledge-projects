@@ -11,6 +11,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-06
 editor: pointsav-engineering
+short_description: "Operational link binding each physical construction site to an isolated digital archive container, maintaining immutable audit records from groundbreak through commissioning."
 paired_with: topic-site-ledger-integration.es.md
 cites:
   - ni-51-102

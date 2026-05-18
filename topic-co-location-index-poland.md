@@ -11,6 +11,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-06
 editor: pointsav-engineering
+short_description: "Ranked index of high-growth commercial convergence nodes in Poland, where IKEA anchors cluster with Makro, Leroy Merlin, Auchan, and civic infrastructure."
 paired_with: topic-co-location-index-poland.es.md
 cites:
   - ni-51-102

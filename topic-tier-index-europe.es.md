@@ -11,7 +11,8 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-06
 editor: pointsav-engineering
-paired_with: topic-tier-index-europe.md
+short_description: "Índice clasificado por niveles de nodos de convergencia comercial en mercados europeos, resumiendo la distribución por nivel de calidad con IKEA como ancla principal."
+ topic-tier-index-europe.md
 cites:
   - ni-51-102
   - osc-sn-51-721

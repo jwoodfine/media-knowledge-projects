@@ -11,6 +11,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-05-02
 editor: pointsav-engineering
+short_description: "Marco de análisis espacial determinista que evalúa nodos de bienes raíces comerciales basado en la convergencia objetiva de operadores minoristas de capital intensivo."
 paired_with: topic-co-location-methodology.md
 cites:
   - ni-51-102

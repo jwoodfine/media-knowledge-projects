@@ -11,6 +11,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-05-02
 editor: pointsav-engineering
+short_description: "Algoritmo de puntuación de 12 rangos determinista que evalúa sitios de co-ubicación minorista por convergencia de ancla nombrada en radios de captación definidos."
 paired_with: topic-co-location-ranking-system.md
 cites:
   - ni-51-102

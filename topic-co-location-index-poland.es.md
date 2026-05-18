@@ -11,7 +11,8 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-06
 editor: pointsav-engineering
-paired_with: topic-co-location-index-poland.md
+short_description: "Índice clasificado de nodos de convergencia comercial de alto crecimiento en Polonia, donde los anclas IKEA se agrupan con Makro, Leroy Merlin, Auchan e infraestructura cívica."
+ topic-co-location-index-poland.md
 cites:
   - ni-51-102
   - osc-sn-51-721

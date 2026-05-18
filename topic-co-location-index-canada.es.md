@@ -11,6 +11,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-05-02
 editor: pointsav-engineering
+short_description: "Índice clasificado de nodos de co-ubicación de alto valor en Canadá, evaluando sitios ancla Walmart Supercentre por proximidad a Costco, Home Depot e infraestructura cívica."
 paired_with: topic-co-location-index-canada.md
 cites:
   - ni-51-102

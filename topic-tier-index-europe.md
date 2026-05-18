@@ -11,6 +11,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-06
 editor: pointsav-engineering
+short_description: "Aggregated tier-ranked index of commercial convergence nodes across European markets, summarizing quality tier distribution with IKEA as the primary anchor."
 paired_with: topic-tier-index-europe.es.md
 cites:
   - ni-51-102

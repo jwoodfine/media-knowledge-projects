@@ -11,6 +11,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-06
 editor: pointsav-engineering
+short_description: "Ranked index of top commercial convergence nodes in Mexico, identifying sites where Walmart Supercentre anchors cluster with Home Depot, Costco, and civic infrastructure."
 paired_with: topic-co-location-index-mexico.es.md
 cites:
   - ni-51-102

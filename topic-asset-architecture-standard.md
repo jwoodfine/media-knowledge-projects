@@ -11,6 +11,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-06
 editor: pointsav-engineering
+short_description: "Uniform structural requirements for Woodfine developments: concrete and steel construction, pre-acquisition dimensioning, and standardized configuration applied across the portfolio."
 paired_with: topic-asset-architecture-standard.es.md
 cites:
   - ni-51-102

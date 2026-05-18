@@ -11,7 +11,8 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-06
 editor: pointsav-engineering
-paired_with: topic-zoning-acquisition-rules.md
+short_description: "Requisitos de verificación previos a la compra que garantizan que cada parcela adquirida tenga zonificación confirmada para el desarrollo previsto, eliminando la especulación inmobiliaria."
+ topic-zoning-acquisition-rules.md
 cites:
   - ni-51-102
   - osc-sn-51-721

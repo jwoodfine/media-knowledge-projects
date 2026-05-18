@@ -11,6 +11,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-06
 editor: pointsav-engineering
+short_description: "Ranked index of co-location nodes across Spain, anchored by IKEA with secondary validation from Leroy Merlin and Makro within the Iberian Peninsula."
 paired_with: topic-co-location-index-spain.es.md
 cites:
   - ni-51-102

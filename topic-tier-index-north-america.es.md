@@ -11,6 +11,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-05-02
 editor: pointsav-engineering
+short_description: "Índice clasificado por niveles de nodos de convergencia comercial en Estados Unidos, Canadá y México, resumiendo la distribución por nivel de calidad por mercado."
 paired_with: topic-tier-index-north-america.md
 cites:
   - ni-51-102

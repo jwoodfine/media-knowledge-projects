@@ -11,7 +11,8 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-06
 editor: pointsav-engineering
-paired_with: topic-co-location-index-italy.md
+short_description: "Índice clasificado de nodos de co-ubicación de grado institucional en Italia, centrado en ubicaciones ancla IKEA con convergencia secundaria de Leroy Merlin y Makro."
+ topic-co-location-index-italy.md
 cites:
   - ni-51-102
   - osc-sn-51-721
