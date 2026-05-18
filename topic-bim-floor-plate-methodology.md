@@ -2,6 +2,7 @@
 schema: foundry-doc-v1
 title: "Floor plate methodology — key plans and tiles"
 slug: topic-bim-floor-plate-methodology
+short_description: "A geometric self-similar aperiodic space-planning system sizing floor plates from actual furniture inventory through Key Plans, Tiles, and Building Core assemblies — all dimensions traceable to real furniture SKUs, every climate zone matching exactly one Tile."
 category: bim
 type: topic
 quality: complete

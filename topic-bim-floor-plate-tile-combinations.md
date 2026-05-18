@@ -2,6 +2,7 @@
 schema: foundry-doc-v1
 title: "Floor plate tile combinations — sample compositions and trade-offs"
 slug: topic-bim-floor-plate-tile-combinations
+short_description: "The named sample Tile compositions from the V12 Methodology — four configurations documenting the trade-offs each makes across tenant mix, climate-zone autonomy, leasing gap positions, and demising tolerance."
 category: bim
 type: topic
 quality: complete

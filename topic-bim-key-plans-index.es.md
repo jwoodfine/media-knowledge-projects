@@ -2,6 +2,7 @@
 schema: foundry-doc-v1
 title: "Índice de plantas clave — referencia maestra"
 slug: topic-bim-key-plans-index
+short_description: "Directorio maestro de 72 key plans en nueve Development Classes, pareando Development Class con Typology y Eco Region para producir los slugs de nombre de archivo referenciados en artefactos BIM posteriores, tokens DTCG, clasificaciones de entidad IFC y superposiciones reglamentarias."
 category: bim
 type: topic
 quality: complete

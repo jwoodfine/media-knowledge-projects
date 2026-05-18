@@ -2,6 +2,7 @@
 schema: foundry-doc-v1
 title: "Oficina Privada — planos clave"
 slug: topic-bim-private-office-key-plans
+short_description: "Especificaciones de Private Office key plan — tres tamaños de suite (30, 43 y 64 m²) abriéndose directamente al corredor de edificio compartido sin corredor bilateral interno, dimensionados para inquilinos profesionales individuales en lugar de firmas."
 category: bim
 type: topic
 quality: complete

@@ -2,6 +2,7 @@
 schema: foundry-doc-v1
 title: "Profundidades de zona por tipo de uso — fuentes, valores y justificación"
 slug: topic-bim-zone-depths-per-use-type
+short_description: "Profundidades canónicas de Zone 1 Habitat, Zone 2 Magazine y Zone 3 Corridor por lado para siete tipos de uso de Oficina Profesional de Private Office a Business, con anchos de edificio derivados y citas de fuente a bocetos V12 y documentos de metodología."
 category: bim
 type: topic
 quality: complete

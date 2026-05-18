@@ -2,6 +2,7 @@
 schema: foundry-doc-v1
 title: "Combinaciones de baldosas en la planta — composiciones de muestra y compromisos"
 slug: topic-bim-floor-plate-tile-combinations
+short_description: "Las composiciones de Tile de muestra nombradas de la Metodología V12 — cuatro configuraciones documentando los intercambios que cada una realiza entre mezcla de inquilinos, autonomía de zona climática, posiciones de brecha de arrendamiento y tolerancia de demarcación."
 category: bim
 type: topic
 quality: complete

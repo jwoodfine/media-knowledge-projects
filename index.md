@@ -2,6 +2,7 @@
 schema: foundry-doc-v1
 title: "Woodfine Capital Projects — Co-location Intelligence Platform"
 slug: index
+short_description: "Woodfine Management Corp.'s retail co-location intelligence platform — spatial methodologies, ranking algorithms, and regional deployment indices across 8 retail markets spanning 13 countries, with 7,594 scored clusters from 229,054 locations analyzed."
 category: root
 status: active
 bcsc_class: current-fact

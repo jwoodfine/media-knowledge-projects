@@ -2,6 +2,7 @@
 schema: foundry-doc-v1
 title: "Leasing plan efficiencies — aperiodic tiles vs. modular grids"
 slug: topic-bim-leasing-plan-efficiencies
+short_description: "Quantitative case for the aperiodic tile system: irregular Private Office widths produce 1.78 times more distinct leasable configurations than a uniform modular grid at 95 percent of the area, with 78 percent of the door and service hookup count."
 category: bim
 type: topic
 quality: complete
