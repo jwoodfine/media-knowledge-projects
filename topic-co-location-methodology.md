@@ -11,6 +11,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-02
 editor: pointsav-engineering
+short_description: "Deterministic spatial analysis framework evaluating commercial real estate nodes based on objective convergence of capital-intensive retail operators."
 paired_with: topic-co-location-methodology.es.md
 cites:
   - ni-51-102

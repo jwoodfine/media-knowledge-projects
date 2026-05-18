@@ -11,6 +11,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-06
 editor: pointsav-engineering
+short_description: "Geographic targeting framework defining which markets the co-location intelligence platform covers, with structural and verifiable selection criteria."
 paired_with: topic-regional-market-matrix.es.md
 cites:
   - ni-51-102

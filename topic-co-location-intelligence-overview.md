@@ -11,6 +11,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-02
 editor: pointsav-engineering
+short_description: "Systematic geographic analysis identifying and ranking retail sites where large-format categories converge within defined catchment radii."
 paired_with: topic-co-location-intelligence-overview.es.md
 cites:
   - overture-maps-cdla-2-0
