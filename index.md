@@ -5,7 +5,7 @@ slug: index
 category: root
 status: active
 bcsc_class: current-fact
-last_edited: 2026-05-07
+last_edited: 2026-05-17
 editor: pointsav-engineering
 ---
 
@@ -21,5 +21,9 @@ that identifies, ranks, and validates commercial real estate nodes across
 8 retail markets spanning 13 countries. As of May 2026, the platform has scored
 7,594 co-location clusters from 229,054 retail locations analyzed. The platform
 is live at gis.woodfinegroup.com and is built and maintained by PointSav Digital
-Systems. This encyclopedia is the reference for the firm's spatial methodologies,
-ranking algorithms, and regional deployment indices.
+Systems. This encyclopedia is the methodology reference for the firm's spatial
+scoring, ranking algorithms, BIM standards, and regional deployment indices.
+
+Forward-looking statements in this wiki reflect current intentions and are
+subject to risk and uncertainty; statements are framed using planned, intended,
+or target language per the firm's continuous-disclosure practice.

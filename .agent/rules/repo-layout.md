@@ -23,6 +23,7 @@ companion-file tier.
 | `index.md` | Wiki home page (lede-only per cluster convention) | required |
 | `featured-topic.yaml` | Featured topic selection for wiki home | optional |
 | `leapfrog-facts.yaml` | Leapfrog fact data for wiki rendering | optional |
+| `reference-invariants.yaml` | Homepage reference invariants panel — three plain-English structural claims (engine Phase D) | optional |
 | `glossary-projects.csv` | Projects glossary (canonical source of truth per cluster convention) | required |
 
 ## Allowed root directories
