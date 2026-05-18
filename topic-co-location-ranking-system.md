@@ -11,6 +11,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-05-02
 editor: pointsav-engineering
+short_description: "Deterministic 12-rank scoring algorithm evaluating retail co-location sites by named-anchor convergence across defined catchment radii."
 paired_with: topic-co-location-ranking-system.es.md
 cites:
   - ni-51-102
