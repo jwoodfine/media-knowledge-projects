@@ -17,23 +17,23 @@
 # Updated: 2026-05-09 by project-editorial Task — initial publication
 
 facts:
-  - text: "the platform evaluates 7,594 co-location clusters from 229,054 retail locations — the complete North American and European retail footprint across 13 countries?"
+  - text: "The platform evaluates 7,594 co-location clusters from 229,054 retail locations — the complete North American and European retail footprint across 13 countries."
     link_slug: co-location-intelligence-overview
 
-  - text: "Tier 5 sites in North America represent only 3.7% of total anchor locations, well below the 10% calibration threshold that would trigger secondary-radius tightening?"
+  - text: "Tier 5 sites in North America represent only 3.7% of total anchor locations, well below the 10% calibration threshold that would trigger secondary-radius tightening."
     link_slug: co-location-ranking-system
 
-  - text: "the North American index identifies exactly 102 Tier 5 sites — locations where a Primary anchor converges with both hardware and warehouse secondary, plus healthcare and higher-education tertiary infrastructure within 3km–5km catchments?"
+  - text: "The North American index identifies exactly 102 Tier 5 sites — locations where a Primary anchor converges with both hardware and warehouse secondary, plus healthcare and higher-education tertiary infrastructure within 3km–5km catchments."
     link_slug: tier-index-north-america
 
-  - text: "Canadian nodes in Grande Prairie, Milton, and Dartmouth achieve full Tier 5 convergence with explicitly named hospitals and regional colleges as tertiary anchors, making institutional capital deployment defensible at the municipal level?"
+  - text: "Canadian nodes in Grande Prairie, Milton, and Dartmouth achieve full Tier 5 convergence with explicitly named hospitals and regional colleges as tertiary anchors, making institutional capital deployment defensible at the municipal level."
     link_slug: co-location-index-canada
 
-  - text: "the co-location methodology rejects analyst forecasts entirely: every node is validated by the independent capital commitments of named national-format retailers — operators that apply rigorous traffic-count and demographic analysis before any site selection?"
+  - text: "The co-location methodology rejects analyst forecasts entirely: every node is validated by the independent capital commitments of named national-format retailers — operators that apply rigorous traffic-count and demographic analysis before any site selection."
     link_slug: co-location-methodology
 
-  - text: "European Tier 5 sites do not exist in the current dataset — the 0 Tier 5 count reflects data maturity gaps in tertiary healthcare and higher-education infrastructure, not market weakness?"
+  - text: "European Tier 5 sites do not exist in the current dataset — the 0 Tier 5 count reflects data maturity gaps in tertiary healthcare and higher-education infrastructure, not market weakness."
     link_slug: tier-index-europe
 
-  - text: "every Woodfine development site generates an immutable daily construction audit trail — flat-text records that investors and regulators can independently verify, with no database dependency or retrospective rewrites permitted?"
+  - text: "Every Woodfine development site generates an immutable daily construction audit trail — flat-text records that investors and regulators can independently verify, with no database dependency or retrospective rewrites permitted."
     link_slug: site-ledger-integration
