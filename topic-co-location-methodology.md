@@ -47,11 +47,13 @@ Sites are evaluated using a 12-rank matrix that maps to five quality tiers. This
 
 | Tier | Description | Commercial Validation |
 |------|-------------|-----------------------|
-| ★★★★★ | Tier 5 — Full Co-location | Absolute commercial convergence: Anchor + Hardware + Warehouse + Both Tertiaries. |
-| ★★★★ | Tier 4 — Strong Co-location | Complete commercial pairing with partial institutional support. |
-| ★★★ | Tier 3 — Partial Co-location | The commercial baseline: pairing of the Anchor with both secondary categories. |
-| ★★ | Tier 2 — Limited Co-location | Anchor presence with a single secondary validator. |
-| ★ | Tier 1 — Anchor Only | Fundamental anchor presence; secondary co-location opportunity uncaptured. |
+| ★★★★★ | Tier 5 — Full Co-location | All four categories present: Hardware, Warehouse Club, Healthcare, and Higher Education. |
+| ★★★★ | Tier 4 — Strong Co-location | Both commercial secondaries plus one tertiary; one institutional dimension absent. |
+| ★★★ | Tier 3 — Partial Co-location | Two categories present: full secondary pairing (Rank 4), or a single secondary with at least one tertiary (Ranks 5–7). |
+| ★★ | Tier 2 — Limited Co-location | One category present: Hardware only (Rank 8), or Warehouse Club with a single tertiary (Ranks 9–10). |
+| ★ | Tier 1 — Anchor Only | Commercial secondaries largely absent: tertiary-only convergence (Rank 11) or Warehouse Club only (Rank 12). |
+
+See [[topic-co-location-ranking-system]] for the complete 12-rank specification, rank-to-tier mapping, and site counts by tier.
 
 ## Strategy and Application
 
