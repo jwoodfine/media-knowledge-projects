@@ -4,12 +4,12 @@ title: "Co-location Index: Nordics"
 slug: topic-co-location-index-nordics
 category: governance
 type: topic
-quality: partial
+quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-06
+last_edited: 2026-05-19
 editor: pointsav-engineering
 short_description: "Ranked index of commercial convergence sites across Sweden, Norway, Denmark, Finland, and Iceland, anchored by IKEA with Nordic secondary operators."
 paired_with: topic-co-location-index-nordics.es.md
@@ -19,6 +19,14 @@ cites:
 ---
 
 The Nordics Co-location Index ranks commercial nodes across Northern Europe using the [[topic-co-location-methodology]]. The index evaluates sites where IKEA operates as the Primary Target anchor, scored against secondary and tertiary infrastructure within defined catchment radii.
+
+## Anchor Network
+
+IKEA maintains approximately 55 stores across the Nordic region: Sweden (~20), Denmark (~8), Norway (~8), Finland (~7), and Iceland (~1). Secondary anchors vary by country: Bauhaus DIY operates in Sweden, Denmark, Norway, and Finland; Biltema and Jula cover Sweden and Norway; Stark operates in Denmark. The Nordic healthcare and university systems concentrate infrastructure in capital cities and major university towns — Stockholm, Gothenburg, Malmö, Copenhagen, Aarhus, Oslo, Bergen, Helsinki, and Tampere each have major hospital systems and research universities within the same urban catchment areas as IKEA stores.
+
+## Nordic Market Characteristics
+
+The Nordic region's smaller geographic spread means fewer distinct co-location nodes compared to larger markets, but each validated node benefits from the density of institutional infrastructure typical of Nordic urban planning. Nordic cities tend to site large-format retail, civic hospitals, and university campuses within the same suburban zone. The full ranked index covers 30+ evaluated anchor locations across the five countries.
 
 ## Tier 4+ (★★★★+) — Premier Nordic Hubs
 
@@ -30,6 +38,12 @@ A Tier 4+ designation indicates a node where primary anchor presence is supporte
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]
+
+---
+## Provenance
+- **Draft Source:** `topic-co-location-index-nordics.md` (content-wiki-projects)
+- **Refinement:** 2026-05-19 by project-knowledge Task
+- **BCSC Posture:** Standard current-fact reporting.
 
 ---
 

@@ -4,21 +4,29 @@ title: "Índice de Co-ubicación: México"
 slug: topic-co-location-index-mexico
 category: governance
 type: topic
-quality: partial
+quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
-last_edited: 2026-05-06
+language_protocol: TRANSLATE-ES
+last_edited: 2026-05-19
 editor: pointsav-engineering
 short_description: "Índice clasificado de los principales nodos de convergencia comercial en México, identificando sitios donde los anclas Walmart Supercentre se agrupan con Home Depot, Costco e infraestructura cívica."
- topic-co-location-index-mexico.md
+paired_with: topic-co-location-index-mexico.md
 cites:
   - ni-51-102
   - osc-sn-51-721
 ---
 
 El Índice de Co-ubicación de México clasifica los nodos comerciales del mercado mexicano según la [[topic-co-location-methodology]]. Los sitios se evalúan donde Walmart Supercentre opera como ancla Objetivo Primario, puntuados frente a operadores secundarios (Home Depot, Costco) e infraestructura cívica terciaria dentro de los radios de captación definidos.
+
+## Red de Anclas
+
+México es uno de los mercados internacionales más importantes de Walmart. Walmart de México opera múltiples formatos; Walmart Supercentre — el Objetivo Primario de co-ubicación — está presente en los principales mercados metropolitanos, incluyendo Ciudad de México (múltiples ubicaciones), Guadalajara, Monterrey, Puebla, Querétaro, León y Tijuana. Home Depot México opera aproximadamente 140 tiendas; Costco México opera aproximadamente 40 locales. El Sistema Nacional de Hospitales Públicos de México proporciona infraestructura terciaria en las capitales estatales, junto con campus universitarios de la UNAM, el Tec de Monterrey y universidades públicas regionales.
+
+## Perfil de Convergencia Nivel 5
+
+Un sitio de Nivel 5 en México requiere compromisos de capital independientes de operadores en las tres categorías de la matriz: Walmart Supercentre (Primario), Home Depot y Costco (Secundarios), y un hospital regional más un campus universitario dentro del radio de captación terciario. La amplia presencia de Walmart Supercentre y el patrón de co-ubicación de Costco y Home Depot en los mercados metropolitanos mexicanos hacen que el Nivel 5 sea alcanzable en ciudades de tamaño medio donde la infraestructura cívica también se concentra. El índice completo cubre más de 300 ubicaciones de ancla evaluadas.
 
 ## Nivel 5 (★★★★★) — Convergencia Institucional
 
@@ -30,6 +38,12 @@ La designación Nivel 5 en México es la validación más alta de la matriz: Obj
 *   [[topic-tier-index-north-america]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]
+
+---
+## Procedencia
+- **Adaptación Estratégica:** Basada en el documento inglés `topic-co-location-index-mexico.md`.
+- **Refinamiento:** 2026-05-19 por project-knowledge Task.
+- **Postura BCSC:** Información de hechos actuales estándar.
 
 ---
 

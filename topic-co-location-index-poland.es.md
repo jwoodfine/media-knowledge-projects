@@ -4,23 +4,29 @@ title: "Índice de Co-ubicación: Polonia"
 slug: topic-co-location-index-poland
 category: governance
 type: topic
-quality: partial
+quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
-last_edited: 2026-05-06
+language_protocol: TRANSLATE-ES
+last_edited: 2026-05-19
 editor: pointsav-engineering
 short_description: "Índice clasificado de nodos de convergencia comercial de alto crecimiento en Polonia, donde los anclas IKEA se agrupan con Makro, Leroy Merlin, Auchan e infraestructura cívica."
- topic-co-location-index-poland.md
+paired_with: topic-co-location-index-poland.md
 cites:
   - ni-51-102
   - osc-sn-51-721
 ---
 
-El Índice de Co-ubicación de Polonia identifica los nodos comerciales de alto crecimiento que definen el panorama minorista de Europa Central. Utilizando la [[topic-co-location-methodology]], el índice destaca las "Top 200" ubicaciones que demuestran una convergencia de grado institucional.
+El Índice de Co-ubicación de Polonia clasifica los nodos comerciales del mercado polaco según la [[topic-co-location-methodology]]. Los sitios se evalúan donde IKEA opera como ancla Objetivo Primario, puntuados frente a operadores secundarios (Makro, Leroy Merlin) e infraestructura cívica terciaria dentro de los radios de captación definidos.
 
-En Polonia, estos nodos están anclados por IKEA (Objetivo Primario) y respaldados por grandes operadores Secundarios como Makro y Leroy Merlin, creando clústeres comerciales defensivos de alto valor.
+## Red de Anclas
+
+IKEA opera aproximadamente 12 tiendas en Polonia, con presencia en Varsovia (dos tiendas), Cracovia, Wrocław, Gdańsk, Poznań, Łódź, Katowice, Lublin, Bydgoszcz, Białystok y Szczecin. Los operadores secundarios tienen una distribución densa: Leroy Merlin (~60 ubicaciones), Makro (~40 locales de Metro Cash & Carry), Castorama (~80 ubicaciones) y OBI (~50 ubicaciones). Las 24 grandes universidades públicas de Polonia y los hospitales de las capitales de voivodato proporcionan infraestructura terciaria en las mismas ciudades donde opera IKEA.
+
+## Densidad de Convergencia en Europa Central
+
+La expansión comercial de Polonia durante la década de 2010 y 2020 generó una alta densidad de convergencia co-ubicada, especialmente en ciudades de tamaño medio (200.000–600.000 habitantes) donde una sola zona comercial acoge múltiples anclas de gran formato. Ciudades como Wrocław, Poznań, Gdańsk y Cracovia combinan presencia IKEA con alta densidad de operadores secundarios y sólida infraestructura cívica terciaria, generando condiciones fiables de Nivel 4+. El índice completo cubre más de 15 ubicaciones de ancla evaluadas.
 
 ## Nivel 4+ (★★★★+) — Nodos Comerciales de Alta Validación
 
@@ -32,6 +38,12 @@ Una calificación de Nivel 4+ en Polonia indica un nodo donde la presencia del a
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]
+
+---
+## Procedencia
+- **Adaptación Estratégica:** Basada en el documento inglés `topic-co-location-index-poland.md`.
+- **Refinamiento:** 2026-05-19 por project-knowledge Task.
+- **Postura BCSC:** Información de hechos actuales estándar.
 
 ---
 

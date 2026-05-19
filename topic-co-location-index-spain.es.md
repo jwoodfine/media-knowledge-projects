@@ -4,15 +4,15 @@ title: "Índice de Co-ubicación: España"
 slug: topic-co-location-index-spain
 category: governance
 type: topic
-quality: partial
+quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
-last_edited: 2026-05-06
+language_protocol: TRANSLATE-ES
+last_edited: 2026-05-19
 editor: pointsav-engineering
 short_description: "Índice clasificado de nodos de co-ubicación en España, anclados por IKEA con validación secundaria de Leroy Merlin y Makro en la Península Ibérica."
- topic-co-location-index-spain.md
+paired_with: topic-co-location-index-spain.md
 cites:
   - ni-51-102
   - osc-sn-51-721
@@ -20,16 +20,30 @@ cites:
 
 El Índice de Co-ubicación de España clasifica los nodos comerciales del mercado español según la [[topic-co-location-methodology]]. Los sitios se evalúan donde IKEA opera como ancla Objetivo Primario, puntuados frente a operadores secundarios (Leroy Merlin, Makro) e infraestructura cívica terciaria dentro de los radios de captación definidos.
 
-## Nivel 4+ (★★★★+) — Sinergia Comercial Excepcional
+## Red de Anclas
 
-Una designación Nivel 4+ indica un nodo donde la presencia del ancla primaria cuenta con el respaldo de al menos un operador secundario e infraestructura cívica esencial dentro de los radios de captación requeridos. La convergencia de operadores en todas las categorías confirma la solidez comercial del sitio.
+IKEA opera aproximadamente 19 tiendas en España, con las mayores concentraciones en el área de Madrid (tres a cuatro tiendas), el área de Barcelona (dos a tres tiendas) y capitales regionales como Valencia, Bilbao, Sevilla, Zaragoza, Valladolid y las Islas Canarias. Anclas secundarias: Leroy Merlin (~90 ubicaciones en España) y Makro (~35 locales de Metro Cash & Carry). Las 50 universidades públicas de España y su densa red de hospitales públicos se concentran en las mismas áreas metropolitanas que las operaciones de IKEA.
 
-*El índice de sitios clasificados para España está disponible en [gis.woodfinegroup.com](https://gis.woodfinegroup.com). El índice completo cubre más de 20 ubicaciones de ancla evaluadas.*
+## Características de Convergencia Ibérica
+
+La red de IKEA en España presenta un sólido patrón de co-ubicación con Leroy Merlin: en la mayoría de los mercados españoles donde opera IKEA, existe un Leroy Merlin dentro del radio de captación secundario requerido. Esta coincidencia estructural establece un nivel base fiable de Nivel 4 en la mayor parte de las ubicaciones españolas de IKEA. La validación terciaria — presencia de hospitales y universidades — es consistente en las ciudades capital de región. El índice completo para España está disponible en gis.woodfinegroup.com.
+
+## Nivel 4+ (★★★★+) — Nodos de Alta Validación
+
+Una designación Nivel 4+ en España indica un nodo donde las anclas primaria y secundaria se complementan con infraestructura cívica terciaria dentro de los radios de captación requeridos. La convergencia de operadores en todas las categorías confirma la solidez comercial del sitio.
+
+*El índice de sitios clasificados para España está disponible en [gis.woodfinegroup.com](https://gis.woodfinegroup.com).*
 
 ## Ver También
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]
+
+---
+## Procedencia
+- **Adaptación Estratégica:** Basada en el documento inglés `topic-co-location-index-spain.md`.
+- **Refinamiento:** 2026-05-19 por project-knowledge Task.
+- **Postura BCSC:** Información de hechos actuales estándar.
 
 ---
 

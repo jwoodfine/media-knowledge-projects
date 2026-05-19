@@ -4,34 +4,46 @@ title: "Índice de Co-ubicación: Italia"
 slug: topic-co-location-index-italy
 category: governance
 type: topic
-quality: partial
+quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
-last_edited: 2026-05-06
+language_protocol: TRANSLATE-ES
+last_edited: 2026-05-19
 editor: pointsav-engineering
 short_description: "Índice clasificado de nodos de co-ubicación de grado institucional en Italia, centrado en ubicaciones ancla IKEA con convergencia secundaria de Leroy Merlin y Makro."
- topic-co-location-index-italy.md
+paired_with: topic-co-location-index-italy.md
 cites:
   - ni-51-102
   - osc-sn-51-721
 ---
 
-El Índice de Co-ubicación de Italia identifica el ápice de la convergencia comercial en la península italiana. Utilizando la [[topic-co-location-methodology]], el índice mapea los "Top 200" nodos donde la sinergia minorista alcanza una densidad de grado institucional.
+El Índice de Co-ubicación de Italia clasifica los nodos comerciales de la península italiana según la [[topic-co-location-methodology]]. Los sitios se evalúan donde IKEA opera como ancla Objetivo Primario, puntuados frente a operadores secundarios (Leroy Merlin, Makro) e infraestructura cívica terciaria dentro de los radios de captación definidos.
 
-En estos mercados, el Objetivo Primario es IKEA, con validación secundaria proporcionada por grandes operadores como Leroy Merlin y Makro, creando ecosistemas comerciales con altas barreras de entrada.
+## Red de Anclas
+
+IKEA opera aproximadamente 22 tiendas en Italia. Las concentraciones más importantes se encuentran en el área de Milán (Corsico, Carugate, Cinisello Balsamo), Roma (Porta di Roma), Turín (Collegno), Florencia (Sesto Fiorentino), Génova, Bolonia y Nápoles. Anclas secundarias presentes en los mismos mercados metropolitanos: Leroy Merlin (~40 ubicaciones en Italia) y Makro (~50 locales de Metro Cash & Carry). Las 67 universidades estatales de Italia y los principales sistemas hospitalarios (Gemelli, Niguarda, Policlinico di Milano, Careggi, y los sistemas Policlinico de Turín y Florencia) proporcionan infraestructura terciaria en las mismas zonas metropolitanas.
+
+## Patrón de Convergencia Típico
+
+Los nodos italianos de Nivel 4+ se concentran en zonas comerciales periurbanas en torno a las cinco grandes áreas metropolitanas. El nodo validado típico combina una tienda IKEA con un Leroy Merlin o Makro en un radio de 3 km, adyacente a un hospital regional y un campus universitario en un radio de 5 km. Esta agrupación refleja el patrón de desarrollo comercial italiano: el comercio de gran formato se ha concentrado en los corredores de circunvalación de los centros de población, co-ubicado con infraestructura cívica que precedió al desarrollo minorista.
 
 ## Nivel 4+ (★★★★+) — Nodos de Grado Institucional
 
-Una calificación de Nivel 4+ indica un nodo donde la presencia del ancla primaria cuenta con el respaldo de al menos un operador secundario e infraestructura cívica esencial dentro de los radios de captación requeridos. La convergencia de operadores en todas las categorías confirma la solidez comercial del sitio.
+Una calificación de Nivel 4+ indica un nodo donde la presencia del ancla primaria cuenta con el respaldo de operadores secundarios e infraestructura cívica esencial dentro de los radios de captación requeridos. Estos sitios representan los entornos comerciales más validados que identifica actualmente el conjunto de datos de Italia.
 
-*El índice de sitios clasificados para Italia está disponible en [gis.woodfinegroup.com](https://gis.woodfinegroup.com). El índice completo cubre más de 20 ubicaciones de ancla evaluadas.*
+*El índice de sitios clasificados para Italia está disponible en [gis.woodfinegroup.com](https://gis.woodfinegroup.com).*
 
 ## Ver También
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]
+
+---
+## Procedencia
+- **Adaptación Estratégica:** Basada en el documento inglés `topic-co-location-index-italy.md`.
+- **Refinamiento:** 2026-05-19 por project-knowledge Task.
+- **Postura BCSC:** Información de hechos actuales estándar.
 
 ---
 
