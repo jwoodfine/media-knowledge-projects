@@ -1,0 +1,36 @@
+# leapfrog-facts.es.yaml — Panel "¿Sabías que?" para projects.woodfinegroup.com
+#
+# El motor lee este archivo en cada solicitud; si está ausente, suprime el panel.
+# El operador rota los hechos mensualmente; los más recientes van al inicio.
+# Cada hecho debe citar un slug publicado y contener una afirmación
+# independientemente verificable.
+# Lector: comunidad financiera institucional — analista de REIT, mesa de
+# activos reales de capital privado, asignador inmobiliario de fondos soberanos.
+# Cada hecho debe transmitir señal cuantitativa o de escasez que enmarque
+# un patrón relevante para operaciones.
+#
+# Creado: 2026-05-20 por project-editorial@claude-code
+# Adaptación estratégica de leapfrog-facts.yaml para audiencias de
+# América Latina y España.
+
+facts:
+  - text: "La plataforma evalúa 7.594 clústeres de co-localización a partir de 229.054 ubicaciones minoristas: la totalidad del portafolio minorista de América del Norte y Europa en 13 países."
+    link_slug: co-location-intelligence-overview
+
+  - text: "Los sitios de Nivel 5 en América del Norte representan sólo el 3,7% del total de ubicaciones ancla, muy por debajo del umbral de calibración del 10% que activaría el ajuste del radio secundario."
+    link_slug: co-location-ranking-system
+
+  - text: "El índice norteamericano identifica exactamente 102 sitios de Nivel 5: ubicaciones donde un ancla primaria converge con infraestructura secundaria de hardware y almacén, más infraestructura terciaria de salud y educación superior en radios de 3 a 5 km."
+    link_slug: tier-index-north-america
+
+  - text: "Los nodos canadienses en Grande Prairie, Milton y Dartmouth alcanzan convergencia completa de Nivel 5 con hospitales y universidades regionales específicamente nombrados como anclas terciarias, lo que hace defendible el despliegue de capital institucional a nivel municipal."
+    link_slug: co-location-index-canada
+
+  - text: "La metodología de co-localización rechaza las previsiones de los analistas: cada nodo se valida mediante los compromisos de capital independientes de minoristas de formato nacional que aplican análisis riguroso de afluencia y datos demográficos antes de cualquier selección de sitio."
+    link_slug: co-location-methodology
+
+  - text: "Los sitios europeos de Nivel 5 no existen en el conjunto de datos actual: el conteo de cero refleja brechas en la madurez de los datos de infraestructura terciaria de salud y educación superior, no debilidad del mercado."
+    link_slug: tier-index-europe
+
+  - text: "Cada sitio de desarrollo de Woodfine genera un registro diario inmutable de auditoría de construcción: registros en texto plano que inversores y reguladores pueden verificar de forma independiente, sin dependencia de bases de datos ni reescrituras retroactivas."
+    link_slug: site-ledger-integration
