@@ -9,69 +9,76 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-02
+last_edited: 2026-05-22
 editor: pointsav-engineering
-short_description: "Deterministic spatial analysis framework evaluating commercial real estate nodes based on objective convergence of capital-intensive retail operators."
+short_description: "A deterministic spatial-analysis framework that ranks commercial real-estate nodes by the objective convergence of independent, capital-intensive retail operators — independent corroboration in place of market sentiment."
 paired_with: topic-co-location-methodology.es.md
 cites:
   - ni-51-102
   - osc-sn-51-721
+  - planetizen-retail-clusters
 ---
 
-The Woodfine co-location methodology ranks development sites by the objective convergence of independent, capital-intensive retail operators — not by subjective market sentiment or analyst forecasts. A node qualifies when a hypermarket, warehouse club, and home improvement superstore have each independently committed capital within 1.0–3.0 km of each other.
+Retail development capital is usually committed on comparables and analyst sentiment. Whether independent demand actually converges at a site — the reason it should succeed — is assumed rather than measured.
+
+The Woodfine co-location methodology measures it. <!--claim id=convergence-ranking confidence=structural cites=[]-->It ranks development sites by the objective convergence of independent, capital-intensive retail operators, not by market sentiment or analyst forecasts.<!--/claim-->
+
+<!--claim id=node-qualification confidence=structural cites=[]-->A node qualifies when a hypermarket, a warehouse club, and a home-improvement superstore have each independently committed capital within 1.0 to 3.0 km of one another.<!--/claim--> Each operator runs its own site-selection process; convergence is independent corroboration, not a single forecast.
+
+For a capital allocator the index is a defensive filter: it prioritises the sites where several parties have independently validated the trade area. This article covers the Named-Anchor Model, the three operator tiers, and the five quality tiers.
 
 ## The Named-Anchor Model
 
-The foundation of the methodology is the **Named-Anchor Model**. Large-format retailers apply rigorous, data-driven site selection criteria before committing capital to a market. When multiple independent operators converge on the same geographic node, that convergence signals a validated commercial corridor: a location where multiple parties have independently confirmed the trade area's strength.
+<!--claim id=named-anchor confidence=established cites=[planetizen-retail-clusters]-->Large-format retailers apply rigorous, data-driven site-selection criteria before committing capital to a market. When several independent operators converge on the same geographic node, that convergence signals a validated commercial corridor — a location where multiple parties have independently confirmed the trade area's strength.<!--/claim-->
 
-The methodology categorizes these operators into three distinct tiers based on their commercial function and foot-traffic contribution:
+The methodology sorts these operators into three tiers, by commercial function and foot-traffic contribution.
 
-### 1. Primary Targets (The Anchor)
-The foundational requirement for any evaluated node. The Primary Target represents the core traffic driver.
-*   **North America:** Walmart Supercentre
-*   **Europe:** IKEA (operational baseline)
+### Primary Targets — the anchor
 
-### 2. Secondary Targets (Commercial Support)
-Complementary large-format operators that validate the trade area's commercial depth. They are evaluated within a strict **1.0 km to 3.0 km** catchment radius of the Primary Target.
-*   **Secondary-1 (Hardware):** Home Depot, Lowe's, Leroy Merlin.
-*   **Secondary-2 (Warehouse Club):** Costco, Sam's Club, Makro.
+The foundational requirement for any evaluated node; the core traffic driver.
 
-### 3. Tertiary Targets (Institutional Support)
-Civic and institutional infrastructure that provide a non-cyclical, stable demographic baseline. Evaluated within a **5.0 km** catchment radius.
-*   **Tertiary-A (Healthcare):** Major hospitals and medical centers.
-*   **Tertiary-B (Higher Education):** Universities and colleges.
+- **North America:** Walmart Supercentre.
+- **Europe:** IKEA, as the operational baseline.
 
-## Quality Tiers and Site Validation
+### Secondary Targets — commercial support
 
-Sites are evaluated using a 12-rank matrix that maps to five quality tiers. This tiered approach allows for precise differentiation between "commodity" retail nodes and those rare locations where critical commercial elements converge.
+Complementary large-format operators that validate the trade area's commercial depth. They are evaluated within a strict 1.0 km to 3.0 km catchment radius of the Primary Target.
 
-| Tier | Description | Commercial Validation |
+- **Secondary-1 (hardware):** Home Depot, Lowe's, Leroy Merlin.
+- **Secondary-2 (warehouse club):** Costco, Sam's Club, Makro.
+
+### Tertiary Targets — institutional support
+
+Civic and institutional infrastructure that provides a non-cyclical, stable demographic baseline. Evaluated within a 5.0 km catchment radius.
+
+- **Tertiary-A (healthcare):** major hospitals and medical centres.
+- **Tertiary-B (higher education):** universities and colleges.
+
+## Quality tiers and site validation
+
+<!--claim id=twelve-rank-matrix confidence=structural cites=[]-->Sites are evaluated on a 12-rank matrix that maps to five quality tiers, separating commodity retail nodes from the rare locations where critical commercial elements converge.<!--/claim-->
+
+| Tier | Description | Commercial validation |
 |------|-------------|-----------------------|
-| ★★★★★ | Tier 5 — Full Co-location | All four categories present: Hardware, Warehouse Club, Healthcare, and Higher Education. |
-| ★★★★ | Tier 4 — Strong Co-location | Both commercial secondaries plus one tertiary; one institutional dimension absent. |
-| ★★★ | Tier 3 — Partial Co-location | Two categories present: full secondary pairing (Rank 4), or a single secondary with at least one tertiary (Ranks 5–7). |
-| ★★ | Tier 2 — Limited Co-location | One category present: Hardware only (Rank 8), or Warehouse Club with a single tertiary (Ranks 9–10). |
-| ★ | Tier 1 — Anchor Only | Commercial secondaries largely absent: tertiary-only convergence (Rank 11) or Warehouse Club only (Rank 12). |
+| ★★★★★ | Tier 5 — Full co-location | All four categories present: hardware, warehouse club, healthcare, higher education |
+| ★★★★ | Tier 4 — Strong co-location | Both commercial secondaries plus one tertiary; one institutional dimension absent |
+| ★★★ | Tier 3 — Partial co-location | Two categories present: a full secondary pairing, or one secondary with at least one tertiary |
+| ★★ | Tier 2 — Limited co-location | One category present: hardware only, or warehouse club with a single tertiary |
+| ★ | Tier 1 — Anchor only | Commercial secondaries largely absent: tertiary-only convergence, or warehouse club only |
 
-See [[topic-co-location-ranking-system]] for the complete 12-rank specification, rank-to-tier mapping, and site counts by tier.
+See [[topic-co-location-ranking-system]] for the complete 12-rank specification, the rank-to-tier mapping, and site counts by tier.
 
-## Strategy and Application
+## Strategy and application
 
-The co-location index acts as a defensive filter for capital deployment. By focusing on Tier 4 and Tier 5 nodes, investors can prioritize sites with the highest levels of capital validation and the strongest multi-format demographic anchors.
+<!--claim id=defensive-filter confidence=structural cites=[]-->The co-location index acts as a defensive filter for capital deployment. By focusing on Tier 4 and Tier 5 nodes, an investor prioritises sites with the highest level of independent capital validation and the strongest multi-format demographic anchors.<!--/claim-->
 
-The methodology is applied consistently across global markets by mapping regional operators to these canonical roles. Future expansion of the methodology includes the integration of logistics and transport data to add a fourth dimension to the matrix. [ni-51-102] [osc-sn-51-721]
+The methodology applies consistently across global markets by mapping regional operators to these canonical roles. A planned expansion integrates logistics and transport data to add a fourth dimension to the matrix; that expansion is forward-looking and framed per `[ni-51-102]` and `[osc-sn-51-721]`.
 
-## See Also
-*   [[topic-co-location-ranking-system]]
-*   [[topic-co-location-intelligence-overview]]
-*   [[topic-co-location-anchors]]
+## See also
 
----
-## Provenance
-- **Draft Source:** `TOPIC-co-location-methodology.md` (project-gis)
-- **Refinement:** 2026-05-02 by project-language Task
-- **Verification:** Methodology definitions confirmed against `app-orchestration-gis` documentation and current regional configurations.
-- **BCSC Posture:** Forward-looking methodology expansions (transport data) labeled per ni-51-102.
+- [[topic-co-location-ranking-system]]
+- [[topic-co-location-intelligence-overview]]
+- [[topic-co-location-anchors]]
 
 ---
 
