@@ -1,6 +1,6 @@
 @~/Foundry/AGENT.md
 
-# content-wiki-projects — Repo Guide
+# media-knowledge-projects — Repo Guide
 
 > **State:** active | **Last updated:** 2026-05-20
 > **Role:** Totebox sub-clone under project-knowledge cluster
@@ -38,7 +38,7 @@ All content is `topic-*.md` files (English canonical) paired with
 ## Artifacts produced here
 
 All files are **TOPIC-*** or **COMMS-*** artifacts:
-- `topic-*.md` / `topic-*.es.md` → project-editorial gateway → content-wiki-projects
+- `topic-*.md` / `topic-*.es.md` → project-editorial gateway → media-knowledge-projects
 - `comms/text-*.md` → project-editorial gateway (release communications)
 
 Self-contained content repo — stage directly to this repo; no `drafts-outbound/` needed.

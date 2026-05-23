@@ -5,7 +5,7 @@
 
 <br/>
 
-**[→ woodfinegroup.com](https://woodfinegroup.com)** &nbsp;·&nbsp; **[→ Despliegue de Flota](https://github.com/woodfine/woodfine-fleet-deployment)** &nbsp;·&nbsp; **[→ Wiki de Gobernanza Corporativa](https://github.com/woodfine/content-wiki-corporate)**
+**[→ woodfinegroup.com](https://woodfinegroup.com)** &nbsp;·&nbsp; **[→ Despliegue de Flota](https://github.com/woodfine/woodfine-fleet-deployment)** &nbsp;·&nbsp; **[→ Wiki de Gobernanza Corporativa](https://github.com/woodfine/media-knowledge-corporate)**
 
 </div>
 
