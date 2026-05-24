@@ -43,17 +43,16 @@ The following municipalities host nodes that have achieved full commercial conve
 
 *Note: Rank is determined by the specific proximity distances within the matrix. The complete index of all 400+ Canadian anchor sites, including Tier 1 through Tier 4 rankings, is available via the [gis.woodfinegroup.com](https://gis.woodfinegroup.com) platform.*
 
-## See Also
-*   [[topic-tier-index-north-america]]
-*   [[topic-co-location-methodology]]
-*   [[topic-co-location-ranking-system]]
-
----
 ## Provenance
 - **Draft Source:** `TOPIC-co-location-index-canada.md` (project-gis)
 - **Refinement:** 2026-05-02 by project-language Task
 - **Verification:** Municipal rankings and anchor coverage verified against `app-orchestration-gis` build results.
 - **BCSC Posture:** Standard current-fact reporting.
+
+## See Also
+*   [[topic-tier-index-north-america]]
+*   [[topic-co-location-methodology]]
+*   [[topic-co-location-ranking-system]]
 
 ---
 

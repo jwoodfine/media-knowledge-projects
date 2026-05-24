@@ -90,21 +90,20 @@ As of 2 May 2026, Rank-1 sites represent 3.7% of total anchors — well below th
 
 ## Market Adaptation
 
-Each of the eight retail markets utilizes a dedicated region configuration that maps local operators to the canonical anchor and secondary roles. This ensures the algorithm applies consistent structural logic across jurisdictions where different brands fill equivalent commercial functions (e.g., Costco in Canada, Makro in Europe).
+Each of the eight retail markets uses a dedicated region configuration that maps local operators to the canonical anchor and secondary roles. This ensures the algorithm applies consistent structural logic across jurisdictions where different brands fill equivalent commercial functions (e.g., Costco in Canada, Makro in Europe).
 
 Integration of the aviation facility dataset (29,020 records) into tertiary scoring is a planned target for future iterations of the ranking matrix. [ni-51-102] [osc-sn-51-721]
 
-## See Also
-*   [[topic-co-location-methodology]]
-*   [[topic-co-location-intelligence-overview]]
-*   [[topic-co-location-anchors]]
-
----
 ## Provenance
 - **Draft Source:** `topic-co-location-ranking-system.draft.md` (project-gis)
 - **Refinement:** 2026-05-02 by project-language Task
 - **Verification:** Rank distribution and matrix logic confirmed against `app-orchestration-gis/build-clusters.py`.
 - **BCSC Posture:** Forward-looking algorithm expansions (aviation data integration) labeled per ni-51-102.
+
+## See Also
+*   [[topic-co-location-methodology]]
+*   [[topic-co-location-intelligence-overview]]
+*   [[topic-co-location-anchors]]
 
 ---
 

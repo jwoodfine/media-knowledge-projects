@@ -34,16 +34,15 @@ A Tier 4+ designation indicates a node where primary anchor presence is supporte
 
 *The ranked site index for the Nordics is available at [gis.woodfinegroup.com](https://gis.woodfinegroup.com). The full index covers 30+ evaluated anchor locations.*
 
-## See Also
-*   [[topic-tier-index-europe]]
-*   [[topic-co-location-methodology]]
-*   [[topic-co-location-ranking-system]]
-
----
 ## Provenance
 - **Draft Source:** `topic-co-location-index-nordics.md` (content-wiki-projects)
 - **Refinement:** 2026-05-19 by project-knowledge Task
 - **BCSC Posture:** Standard current-fact reporting.
+
+## See Also
+*   [[topic-tier-index-europe]]
+*   [[topic-co-location-methodology]]
+*   [[topic-co-location-ranking-system]]
 
 ---
 

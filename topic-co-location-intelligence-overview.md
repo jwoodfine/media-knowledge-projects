@@ -75,17 +75,16 @@ The GIS platform renders the ranked site index as an interactive map at [gis.woo
 
 The platform is updated when new chain data is ingested or when the ranking matrix is recalibrated. All dataset counts and version identifiers are displayed in the platform header to ensure operational transparency.
 
-## See Also
-*   [[topic-co-location-methodology]]
-*   [[topic-co-location-ranking-system]]
-*   [[topic-tier-index-north-america]]
-
----
 ## Provenance
 - **Draft Source:** `topic-co-location-intelligence-overview.draft.md` (project-gis)
 - **Refinement:** 2026-05-02 by project-language Task
 - **Verification:** Site counts and country coverage verified against `app-orchestration-gis/config.py` as of May 2, 2026.
 - **BCSC Posture:** Forward-looking expansion targets for European tertiary data labeled per ni-51-102.
+
+## See Also
+*   [[topic-co-location-methodology]]
+*   [[topic-co-location-ranking-system]]
+*   [[topic-tier-index-north-america]]
 
 ---
 

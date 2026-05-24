@@ -34,16 +34,15 @@ A Tier 5 site in Mexico is the matrix's highest validation: Primary Target (Walm
 
 *The ranked site index for Mexico is available at [gis.woodfinegroup.com](https://gis.woodfinegroup.com). The full index covers 300+ evaluated anchor locations.*
 
-## See Also
-*   [[topic-tier-index-north-america]]
-*   [[topic-co-location-methodology]]
-*   [[topic-co-location-ranking-system]]
-
----
 ## Provenance
 - **Draft Source:** `topic-co-location-index-mexico.md` (content-wiki-projects)
 - **Refinement:** 2026-05-19 by project-knowledge Task
 - **BCSC Posture:** Standard current-fact reporting.
+
+## See Also
+*   [[topic-tier-index-north-america]]
+*   [[topic-co-location-methodology]]
+*   [[topic-co-location-ranking-system]]
 
 ---
 

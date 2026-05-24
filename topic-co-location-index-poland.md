@@ -34,16 +34,15 @@ A Tier 4+ rating in Poland indicates a node where primary anchor presence is sup
 
 *The ranked site index for Poland is available at [gis.woodfinegroup.com](https://gis.woodfinegroup.com). The full index covers 15+ evaluated anchor locations.*
 
-## See Also
-*   [[topic-tier-index-europe]]
-*   [[topic-co-location-methodology]]
-*   [[topic-co-location-ranking-system]]
-
----
 ## Provenance
 - **Draft Source:** `topic-co-location-index-poland.md` (content-wiki-projects)
 - **Refinement:** 2026-05-19 by project-knowledge Task
 - **BCSC Posture:** Standard current-fact reporting.
+
+## See Also
+*   [[topic-tier-index-europe]]
+*   [[topic-co-location-methodology]]
+*   [[topic-co-location-ranking-system]]
 
 ---
 
