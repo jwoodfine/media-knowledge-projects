@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-02
+last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Algoritmo de puntuación de 12 rangos determinista que evalúa sitios de co-ubicación minorista por convergencia de ancla nombrada en radios de captación definidos."
 paired_with: topic-co-location-ranking-system.md
@@ -46,8 +46,7 @@ Para mantener la relevancia del índice, el sistema aplica una **regla de calibr
 
 ---
 ## Procedencia
-- **Adaptación Estratégica:** Basada en el documento inglés `co-location-ranking-system.md`.
-- **Refinamiento:** 2026-05-02 por project-language Task.
+- **Verificación:** La distribución de rangos y la lógica de la matriz han sido verificadas contra la configuración de la plataforma GIS al 2 de mayo de 2026.
 
 ---
 

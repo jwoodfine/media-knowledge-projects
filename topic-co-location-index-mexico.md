@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-19
+last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Ranked index of top commercial convergence nodes in Mexico, identifying sites where Walmart Supercentre anchors cluster with Home Depot, Costco, and civic infrastructure."
 paired_with: topic-co-location-index-mexico.es.md
@@ -35,9 +35,7 @@ A Tier 5 site in Mexico is the matrix's highest validation: Primary Target (Walm
 *The ranked site index for Mexico is available at [gis.woodfinegroup.com](https://gis.woodfinegroup.com). The full index covers 300+ evaluated anchor locations.*
 
 ## Provenance
-- **Draft Source:** `topic-co-location-index-mexico.md` (content-wiki-projects)
-- **Refinement:** 2026-05-19 by project-knowledge Task
-- **BCSC Posture:** Standard current-fact reporting.
+- **Verification:** Anchor network data sourced from OpenStreetMap records as of May 2026.
 
 ## See Also
 *   [[topic-tier-index-north-america]]

@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-02
+last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Ranked index of high-value co-location nodes in Canada, evaluating Walmart Supercentre anchor sites by proximity to Costco, Home Depot, and civic infrastructure."
 paired_with: topic-co-location-index-canada.es.md
@@ -44,10 +44,7 @@ The following municipalities host nodes that have achieved full commercial conve
 *Note: Rank is determined by the specific proximity distances within the matrix. The complete index of all 400+ Canadian anchor sites, including Tier 1 through Tier 4 rankings, is available via the [gis.woodfinegroup.com](https://gis.woodfinegroup.com) platform.*
 
 ## Provenance
-- **Draft Source:** `TOPIC-co-location-index-canada.md` (project-gis)
-- **Refinement:** 2026-05-02 by project-language Task
-- **Verification:** Municipal rankings and anchor coverage verified against `app-orchestration-gis` build results.
-- **BCSC Posture:** Standard current-fact reporting.
+- **Verification:** Municipal rankings and anchor coverage verified against GIS platform build results as of 2 May 2026.
 
 ## See Also
 *   [[topic-tier-index-north-america]]

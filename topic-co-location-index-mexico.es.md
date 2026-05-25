@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-19
+last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Índice clasificado de los principales nodos de convergencia comercial en México, identificando sitios donde los anclas Walmart Supercentre se agrupan con Home Depot, Costco e infraestructura cívica."
 paired_with: topic-co-location-index-mexico.md
@@ -41,9 +41,7 @@ La designación Nivel 5 en México es la validación más alta de la matriz: Obj
 
 ---
 ## Procedencia
-- **Adaptación Estratégica:** Basada en el documento inglés `topic-co-location-index-mexico.md`.
-- **Refinamiento:** 2026-05-19 por project-knowledge Task.
-- **Postura BCSC:** Información de hechos actuales estándar.
+- **Verificación:** Datos de la red de anclas obtenidos de registros de OpenStreetMap a mayo de 2026.
 
 ---
 

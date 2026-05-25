@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-02
+last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Índice clasificado por niveles de nodos de convergencia comercial en Estados Unidos, Canadá y México, resumiendo la distribución por nivel de calidad por mercado."
 paired_with: topic-tier-index-north-america.md
@@ -36,8 +36,7 @@ El índice sirve como el filtro defensivo principal para el despliegue de capita
 
 ---
 ## Procedencia
-- **Adaptación Estratégica:** Basada en el documento inglés `tier-index-north-america.md`.
-- **Refinamiento:** 2026-05-02 por project-language Task.
+- **Verificación:** Los recuentos de sitios y la cobertura de anclas han sido verificados contra la configuración de la plataforma GIS al 2 de mayo de 2026. Los objetivos de expansión de datos para México y Canadá son resultados previstos, etiquetados conforme a [ni-51-102].
 
 ---
 

@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-02
+last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Índice clasificado de nodos de co-ubicación de alto valor en Canadá, evaluando sitios ancla Walmart Supercentre por proximidad a Costco, Home Depot e infraestructura cívica."
 paired_with: topic-co-location-index-canada.md
@@ -42,8 +42,7 @@ Los siguientes municipios albergan nodos que han logrado una convergencia comerc
 
 ---
 ## Procedencia
-- **Adaptación Estratégica:** Basada en el documento inglés `co-location-index-canada.md`.
-- **Refinamiento:** 2026-05-02 por project-language Task.
+- **Verificación:** Clasificaciones municipales y cobertura de anclas verificadas contra los resultados de la plataforma GIS al 2 de mayo de 2026.
 
 ---
 

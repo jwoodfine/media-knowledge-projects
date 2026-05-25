@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-06
+last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Aggregated tier-ranked index of commercial convergence nodes across European markets, summarizing quality tier distribution with IKEA as the primary anchor."
 paired_with: topic-tier-index-europe.es.md
@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The European Co-location Tier Index serves as the authoritative map of commercial convergence across key European markets. Utilizing the [[topic-co-location-methodology]], the index identifies the highest-value commercial nodes based on the convergence of Primary Targets (IKEA) with essential Secondary (Leroy Merlin, Makro) and Tertiary (Healthcare, Higher Education) anchors.
+The European Co-location Tier Index ranks commercial nodes across Spain, Italy, Poland, and the Nordic region by the independent convergence of large-format retail and civic infrastructure. Each node is scored by the proximity of IKEA (Primary Target) to secondary hardware and warehouse operators (Leroy Merlin, Makro) and tertiary civic anchors (healthcare, higher education) within defined catchment radii, following the [[topic-co-location-methodology]].
 
 ## Market Scarcity and Institutional Validation
 
@@ -35,7 +35,7 @@ The following table summarizes the distribution of the highest-quality nodes acr
 | **Italy** | 20+ | 1 | 20 | [[topic-co-location-index-italy]] |
 | **Poland** | 15+ | 1 | 15 | [[topic-co-location-index-poland]] |
 
-*(Note: Site counts are dynamic and reflect the latest processing run of the GIS data processing system. Current as of May 2026. Tier 5 sites in the EU are exceptionally rare and are grouped with Tier 4 for this overview.)*
+*(Note: Site counts are dynamic and reflect the latest processing run of the Geographic Information System (GIS) data platform. Current as of May 2026. Tier 5 sites in the EU are exceptionally rare and are grouped with Tier 4 for this overview.)*
 
 ## See Also
 *   [[topic-co-location-methodology]]

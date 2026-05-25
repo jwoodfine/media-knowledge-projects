@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-02
+last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Aggregated tier-ranked index of commercial convergence nodes across the United States, Canada, and Mexico, summarizing quality tier distribution by market."
 paired_with: topic-tier-index-north-america.es.md
@@ -36,7 +36,7 @@ The following table summarizes the distribution of high-tier nodes across North 
 | **United States** | 3,500+ | 85 | 220 | [[topic-co-location-index-us]] |
 | **Mexico** | 300+ | 5 | 24 | [[topic-co-location-index-mexico]] |
 
-*Site counts are dynamic and reflect the current state of the GIS data processing system as of 2 May 2026. The dataset includes 2,488 ranked sites across North America.*
+*Site counts are dynamic and reflect the current state of the Geographic Information System (GIS) data processing platform as of 2 May 2026. The dataset includes 2,488 ranked sites across North America.*
 
 ## Operational Application
 
@@ -46,10 +46,8 @@ Expansion of the Mexican and Canadian datasets to include tertiary healthcare da
 
 ---
 ## Provenance
-- **Draft Source:** `TOPIC-tier-index-north-america.md` (project-gis)
-- **Refinement:** 2026-05-02 by project-language Task
-- **Verification:** Regional site counts and anchor mappings confirmed against `app-orchestration-gis/config.py`.
-- **BCSC Posture:** Forward-looking data expansion targets for Mexico/Canada labeled per ni-51-102.
+- **Verification:** Regional site counts and anchor mappings confirmed against the GIS platform configuration as of 2 May 2026.
+- **Forward-looking disclosure:** Data expansion targets for Mexico/Canada are intended outcomes, labeled per [ni-51-102].
 
 ---
 

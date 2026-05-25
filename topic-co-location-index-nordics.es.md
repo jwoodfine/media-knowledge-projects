@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-19
+last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Índice clasificado de sitios de convergencia comercial en Suecia, Noruega, Dinamarca, Finlandia e Islandia, anclados por IKEA con operadores secundarios nórdicos."
 paired_with: topic-co-location-index-nordics.md
@@ -41,9 +41,7 @@ Una designación Nivel 4+ indica un nodo donde la presencia del ancla primaria c
 
 ---
 ## Procedencia
-- **Adaptación Estratégica:** Basada en el documento inglés `topic-co-location-index-nordics.md`.
-- **Refinamiento:** 2026-05-19 por project-knowledge Task.
-- **Postura BCSC:** Información de hechos actuales estándar.
+- **Verificación:** Datos de la red de anclas obtenidos de registros de OpenStreetMap a mayo de 2026.
 
 ---
 

@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-19
+last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Índice clasificado de nodos de convergencia comercial de alto crecimiento en Polonia, donde los anclas IKEA se agrupan con Makro, Leroy Merlin, Auchan e infraestructura cívica."
 paired_with: topic-co-location-index-poland.md
@@ -41,9 +41,7 @@ Una calificación de Nivel 4+ en Polonia indica un nodo donde la presencia del a
 
 ---
 ## Procedencia
-- **Adaptación Estratégica:** Basada en el documento inglés `topic-co-location-index-poland.md`.
-- **Refinamiento:** 2026-05-19 por project-knowledge Task.
-- **Postura BCSC:** Información de hechos actuales estándar.
+- **Verificación:** Datos de la red de anclas obtenidos de registros de OpenStreetMap a mayo de 2026.
 
 ---
 

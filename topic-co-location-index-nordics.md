@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-19
+last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Ranked index of commercial convergence sites across Sweden, Norway, Denmark, Finland, and Iceland, anchored by IKEA with Nordic secondary operators."
 paired_with: topic-co-location-index-nordics.es.md
@@ -35,9 +35,7 @@ A Tier 4+ designation indicates a node where primary anchor presence is supporte
 *The ranked site index for the Nordics is available at [gis.woodfinegroup.com](https://gis.woodfinegroup.com). The full index covers 30+ evaluated anchor locations.*
 
 ## Provenance
-- **Draft Source:** `topic-co-location-index-nordics.md` (content-wiki-projects)
-- **Refinement:** 2026-05-19 by project-knowledge Task
-- **BCSC Posture:** Standard current-fact reporting.
+- **Verification:** Anchor network data sourced from OpenStreetMap records as of May 2026.
 
 ## See Also
 *   [[topic-tier-index-europe]]

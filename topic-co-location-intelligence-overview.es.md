@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-02
+last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Análisis geográfico sistemático que identifica y clasifica sitios minoristas donde las categorías de gran formato convergen dentro de radios de captación definidos."
 paired_with: topic-co-location-intelligence-overview.md
@@ -53,9 +53,7 @@ La expansión de las fuentes de datos para los indicadores terciarios (salud y e
 
 ---
 ## Procedencia
-- **Adaptación Estratégica:** Basada en el documento inglés `co-location-intelligence-overview.md`.
-- **Refinamiento:** 2026-05-02 por project-language Task.
-- **BCSC Posture:** Los objetivos de expansión de datos están etiquetados según ni-51-102.
+- **Verificación:** Los recuentos de sitios y la cobertura por país han sido verificados contra la configuración de la plataforma GIS al 2 de mayo de 2026. Los objetivos de expansión de datos europeos son resultados previstos, etiquetados conforme a [ni-51-102].
 
 ---
 

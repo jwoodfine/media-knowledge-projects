@@ -10,12 +10,12 @@ status: pre-build
 audience: operator
 bcsc_class: vendor-internal
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-17
+last_edited: 2026-05-25
 editor: pointsav-engineering
 paired_with: topic-bim-key-plans-index.md
 ---
 
-El Directorio de Plantas Clave inventaría cada sub-área diferenciada de la planta que el Modelo de Información del Edificio reconoce. Cada entrada combina una Clase de Desarrollo con una Tipología y (donde corresponde) una Eco Región, generando un identificador de nombre de archivo que se referencia desde todos los artefactos BIM posteriores (tokens DTCG, clasificaciones de entidades IFC, solvers en Rust, presentaciones, superposiciones de normativa).
+El Directorio de Plantas Clave inventaría cada sub-área diferenciada de la planta que el Modelo de Información del Edificio (BIM, por sus siglas en inglés) reconoce. Cada entrada combina una Clase de Desarrollo con una Tipología y (donde corresponde) una Eco Región, generando un identificador de nombre de archivo que se referencia desde todos los artefactos BIM posteriores — tokens del Design Token Community Group (DTCG), clasificaciones de entidades de las Clases de Fundaciones de la Industria (IFC), solvers en Rust, presentaciones y superposiciones de normativa.
 
 El Directorio actual (V2, con fechas tanto del 2025-01-07 como redatado al 2026-01-06 — contenido idéntico) contiene **72 plantas clave en nueve Clases de Desarrollo**.
 

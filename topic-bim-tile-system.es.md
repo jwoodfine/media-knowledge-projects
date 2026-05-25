@@ -10,7 +10,7 @@ status: pre-build
 audience: operator
 bcsc_class: vendor-internal
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-17
+last_edited: 2026-05-25
 editor: pointsav-engineering
 paired_with: topic-bim-tile-system.md
 ---
@@ -34,7 +34,7 @@ Existen tres familias de baldosas regulares (Pequeña, Mediana, Grande) y una fa
 | Baldosa E-1 | End Cap Mixto (Izquierda) | OP mixta + Profesional Pequeña + corredor | 3 | Lado corto izquierdo |
 | Baldosa E-2 | End Cap Mixto (Derecha) | Espejo de E-1 | 3 | Lado corto derecho |
 
-**Nota.** La Metodología V12 (p. 2) también documenta una "Baldosa B" Pequeña con composición 300 + 500 + 300 + 450 + 450 + 300 = 2.300 SF de OP + 400 SF residual. El PDF de Alternativas amplía la Baldosa B en Baldosa B-1 con una unidad Profesional Pequeña añadida. Convención: Baldosa B-1 es el token vigente; Baldosa B es la abreviatura de la metodología para la misma función.
+**Nota.** La Metodología V12 (p. 2) también documenta una "Baldosa B" Pequeña con composición 300 + 500 + 300 + 450 + 450 + 300 = 2.300 SF de OP + 400 SF residual. El PDF de Alternativas amplía la Baldosa B en Baldosa B-1 con una unidad Profesional Pequeña añadida. Baldosa B-1 es el token vigente; Baldosa B es la abreviatura de la metodología para la misma función.
 
 ### Baldosas Medianas — 3.500 SF (325,16 m²)
 

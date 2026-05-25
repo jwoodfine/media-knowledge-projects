@@ -10,12 +10,12 @@ status: pre-build
 audience: operator
 bcsc_class: vendor-internal
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-17
+last_edited: 2026-05-25
 editor: pointsav-engineering
 paired_with: topic-bim-key-plans-index.es.md
 ---
 
-The Key Plan Directory inventories every distinct floor-plate sub-area that the Building Information Model recognises. Each entry pairs a Development Class with a Typology and (where relevant) an Eco Region, yielding a file-name slug that is referenced from every downstream BIM artefact (DTCG tokens, IFC entity classifications, Rust solvers, slide decks, regulation overlays).
+The Key Plan Directory inventories every distinct floor-plate sub-area that the Building Information Model (BIM) recognises. Each entry pairs a Development Class with a Typology and (where relevant) an Eco Region, yielding a file-name slug that is referenced from every downstream BIM artefact — Design Token Community Group (DTCG) tokens, Industry Foundation Classes (IFC) entity classifications, Rust solvers, slide decks, and regulation overlays.
 
 The current Directory (V2, dated both 2025-01-07 and re-dated 2026-01-06 — identical content) contains **72 key plans across nine Development Classes**.
 

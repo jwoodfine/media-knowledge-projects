@@ -34,7 +34,7 @@ There are three regular tile families (Small, Medium, Large) and one residual fa
 | Tile E-1 | Mixed End Cap (Left) | Mixed PO + Professional Small + corridor | 3 | Left short side |
 | Tile E-2 | Mixed End Cap (Right) | Mirror of E-1 | 3 | Right short side |
 
-**Note.** The V12 Methodology (p. 2) also documents a Small "Tile B" with composition 300 + 500 + 300 + 450 + 450 + 300 = 2,300 SF of PO + 400 SF residual. The Alternatives PDF expands Tile B into Tile B-1 with a Professional Small unit added. Convention: Tile B-1 is the live token; Tile B is the methodology shorthand for the same role.
+**Note.** The V12 Methodology (p. 2) also documents a Small "Tile B" with composition 300 + 500 + 300 + 450 + 450 + 300 = 2,300 SF of PO + 400 SF residual. The Alternatives PDF expands Tile B into Tile B-1 with a Professional Small unit added. Tile B-1 is the live token; Tile B is the methodology shorthand for the same role.
 
 ### Medium Tiles — 3,500 SF (325.16 m²)
 

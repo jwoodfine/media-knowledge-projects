@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-02
+last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Deterministic 12-rank scoring algorithm evaluating retail co-location sites by named-anchor convergence across defined catchment radii."
 paired_with: topic-co-location-ranking-system.es.md
@@ -20,7 +20,7 @@ cites:
 
 The Woodfine co-location ranking system evaluates retail sites using a **named-anchor combination matrix** — a deterministic algorithm that scores each hypermarket anchor location based on the convergence of secondary and tertiary retail and civic categories within defined catchment radii.
 
-The system produces a 12-rank index mapped to five quality tiers, visualised on the GIS platform using a warm-to-cool colour scale: deep amber (★★★★★ Tier 5, highest) through pale blue (★ Tier 1, lowest). This approach provides an objective, capital-validated framework for assessing commercial site defensibility.
+The system produces a 12-rank index mapped to five quality tiers, visualised on the Geographic Information System (GIS) platform at [gis.woodfinegroup.com](https://gis.woodfinegroup.com) using a warm-to-cool colour scale: deep amber (★★★★★ Tier 5, highest) through pale blue (★ Tier 1, lowest). This approach provides an objective, capital-validated framework for assessing commercial site defensibility.
 
 ## The Named-Anchor Model
 
@@ -95,10 +95,8 @@ Each of the eight retail markets uses a dedicated region configuration that maps
 Integration of the aviation facility dataset (29,020 records) into tertiary scoring is a planned target for future iterations of the ranking matrix. [ni-51-102] [osc-sn-51-721]
 
 ## Provenance
-- **Draft Source:** `topic-co-location-ranking-system.draft.md` (project-gis)
-- **Refinement:** 2026-05-02 by project-language Task
-- **Verification:** Rank distribution and matrix logic confirmed against `app-orchestration-gis/build-clusters.py`.
-- **BCSC Posture:** Forward-looking algorithm expansions (aviation data integration) labeled per ni-51-102.
+- **Verification:** Rank distribution and matrix logic confirmed against the GIS platform build configuration as of 2 May 2026.
+- **Forward-looking disclosure:** Aviation dataset integration into tertiary scoring is an intended target, labeled per [ni-51-102].
 
 ## See Also
 *   [[topic-co-location-methodology]]

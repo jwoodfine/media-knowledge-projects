@@ -10,16 +10,14 @@ status: pre-build
 audience: operator
 bcsc_class: vendor-internal
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-17
+last_edited: 2026-05-25
 editor: pointsav-engineering
 paired_with: topic-bim-floor-plate-methodology.es.md
 ---
 
-> "Key Plans and Tiles" means a geometric self-similar aperiodic space-planning system based on furniture and equipment arrangements and circulation versus modular area-per-person progressions.
+The floor plate methodology is a geometric space-planning system in which every square foot of a building is assigned to a named Key Plan that traces directly to real furniture dimensions. A **Key Plan** is the smallest unit: a labelled rectangle around one tenant's actual furniture inventory, sized to enclose desks, storage, circulation, and accessibility clearances. A **Tile** is a composable group of Key Plans — each Tile is exactly one HVAC climate zone. A **Floor Plate** is the assembly of Tiles plus a Building Core plus Special Tiles; nothing on the floor is left unrepresented.
 
-Source: V12 Methodology (May 2025) and V12 Tear Sheet (January 2026). The definition is invariant across both versions.
-
-A **Key Plan** is the smallest unit: a labelled rectangle around one tenant's actual furniture inventory, sized to enclose desks, storage, circulation, and accessibility. A **Tile** is a composable group of Key Plans. A **Floor Plate** is the assembly of Tiles plus a Building Core plus Special Tiles. Nothing on the floor is left unrepresented.
+The system is defined in the V12 Methodology (May 2025) and V12 Tear Sheet (January 2026) as "a geometric self-similar aperiodic space-planning system based on furniture and equipment arrangements and circulation versus modular area-per-person progressions."
 
 Three properties qualify the system:
 

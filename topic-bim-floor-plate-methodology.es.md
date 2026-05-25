@@ -10,16 +10,14 @@ status: pre-build
 audience: operator
 bcsc_class: vendor-internal
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-17
+last_edited: 2026-05-25
 editor: pointsav-engineering
 paired_with: topic-bim-floor-plate-methodology.md
 ---
 
-> "Plantas Clave y Baldosas" es un sistema de planificación espacial geométrico, autosimilar y aperiódico basado en disposiciones de mobiliario y equipamiento, circulación y progresiones modulares de área por persona.
+La metodología de planta es un sistema de planificación espacial geométrico en el que cada pie cuadrado de un edificio se asigna a una Planta Clave con nombre que se rastrea directamente hasta dimensiones de mobiliario real. Una **Planta Clave** es la unidad mínima: un rectángulo etiquetado alrededor del inventario real de mobiliario de un inquilino, dimensionado para incluir escritorios, almacenamiento, circulación y holguras de accesibilidad. Una **Baldosa** es un grupo componible de Plantas Clave — cada Baldosa es exactamente una zona climática HVAC. Una **Planta** es el conjunto de Baldosas más un Núcleo del Edificio más Baldosas Especiales; nada de la planta queda sin representar.
 
-Fuente: Metodología V12 (mayo 2025) y Ficha Técnica V12 (enero 2026). La definición es invariable en ambas versiones.
-
-Una **Planta Clave** es la unidad mínima: un rectángulo etiquetado alrededor del inventario real de mobiliario de un inquilino, dimensionado para incluir escritorios, almacenamiento, circulación y accesibilidad. Una **Baldosa** es un grupo componible de Plantas Clave. Una **Planta** es el conjunto de Baldosas más un Núcleo del Edificio más Baldosas Especiales. Nada de la planta queda sin representar.
+El sistema se define en la Metodología V12 (mayo 2025) y la Ficha Técnica V12 (enero 2026) como "un sistema de planificación espacial geométrico, autosimilar y aperiódico basado en disposiciones de mobiliario y equipamiento, circulación y progresiones modulares de área por persona."
 
 Tres propiedades cualifican el sistema:
 

@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-06
+last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Índice clasificado por niveles de nodos de convergencia comercial en mercados europeos, resumiendo la distribución por nivel de calidad con IKEA como ancla principal."
  topic-tier-index-europe.md
@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El Índice de Niveles de Co-ubicación de Europa sirve como el mapa autoritativo de la convergencia comercial en los principales mercados europeos. Utilizando la [[topic-co-location-methodology]], el índice identifica los nodos comerciales de mayor valor basados en la convergencia de Objetivos Primarios (IKEA) con anclas Secundarias (Leroy Merlin, Makro) y Terciarias (Salud, Educación Superior) esenciales.
+El Índice de Niveles de Co-ubicación de Europa clasifica los nodos comerciales de España, Italia, Polonia y la región nórdica según la convergencia independiente del comercio de gran formato y la infraestructura cívica. Cada nodo se puntúa por la proximidad de IKEA (Objetivo Primario) a operadores secundarios de ferretería y almacén (Leroy Merlin, Makro) y anclas cívicas terciarias (salud, educación superior) dentro de los radios de captación definidos, siguiendo la [[topic-co-location-methodology]].
 
 ## Escasez de Mercado y Validación Institucional
 

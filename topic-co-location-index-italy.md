@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-19
+last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Ranked index of institutional-grade co-location nodes in Italy, centered on IKEA anchor locations with secondary convergence from Leroy Merlin and Makro."
 paired_with: topic-co-location-index-italy.es.md
@@ -35,9 +35,7 @@ A Tier 4+ rating indicates a node where primary anchor presence is supported by 
 *The ranked site index for Italy is available at [gis.woodfinegroup.com](https://gis.woodfinegroup.com).*
 
 ## Provenance
-- **Draft Source:** `topic-co-location-index-italy.md` (content-wiki-projects)
-- **Refinement:** 2026-05-19 by project-knowledge Task
-- **BCSC Posture:** Standard current-fact reporting.
+- **Verification:** Anchor network data sourced from OpenStreetMap records as of May 2026.
 
 ## See Also
 *   [[topic-tier-index-europe]]

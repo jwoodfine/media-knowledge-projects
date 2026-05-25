@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-02
+last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Systematic geographic analysis identifying and ranking retail sites where large-format categories converge within defined catchment radii."
 paired_with: topic-co-location-intelligence-overview.es.md
@@ -71,15 +71,13 @@ The current absence of Tier 5 sites in Europe reflects data coverage target mile
 
 ## Interactive Surface
 
-The GIS platform renders the ranked site index as an interactive map at [gis.woodfinegroup.com](https://gis.woodfinegroup.com). The interface supports real-time filtering by cluster grade and catchment radius (1 km, 2 km, or 3 km). 
+The Geographic Information System (GIS) platform renders the ranked site index as an interactive map at [gis.woodfinegroup.com](https://gis.woodfinegroup.com). The interface supports real-time filtering by cluster grade and catchment radius (1 km, 2 km, or 3 km). 
 
 The platform is updated when new chain data is ingested or when the ranking matrix is recalibrated. All dataset counts and version identifiers are displayed in the platform header to ensure operational transparency.
 
 ## Provenance
-- **Draft Source:** `topic-co-location-intelligence-overview.draft.md` (project-gis)
-- **Refinement:** 2026-05-02 by project-language Task
-- **Verification:** Site counts and country coverage verified against `app-orchestration-gis/config.py` as of May 2, 2026.
-- **BCSC Posture:** Forward-looking expansion targets for European tertiary data labeled per ni-51-102.
+- **Verification:** Site counts and country coverage verified against the GIS platform configuration as of 2 May 2026.
+- **Forward-looking disclosure:** European tertiary data expansion targets are intended outcomes, labeled per [ni-51-102].
 
 ## See Also
 *   [[topic-co-location-methodology]]
