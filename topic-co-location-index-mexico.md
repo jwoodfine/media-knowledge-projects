@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The Mexico Co-location Index ranks commercial nodes across the Mexican market using the [[topic-co-location-methodology]]. Sites are evaluated where Walmart Supercentre operates as the Primary Target anchor, scored against secondary operators (Home Depot, Costco) and tertiary civic infrastructure within defined catchment radii.
+The Mexico Co-location Index ranks commercial nodes across the Mexican market using the [[topic-co-location-methodology]] and the [[topic-co-location-ranking-system|deterministic ranking system]]. Sites are evaluated where Walmart Supercentre operates as the Primary Target [[topic-co-location-anchors|anchor]], scored against secondary operators (Home Depot, Costco) and tertiary civic infrastructure within defined catchment radii. Mexico is one of three markets covered in the [[topic-tier-index-north-america|North American tier index]].
 
 ## Anchor Network
 

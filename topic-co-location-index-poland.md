@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The Poland Co-location Index ranks commercial nodes across the Polish market using the [[topic-co-location-methodology]]. Sites are evaluated where IKEA operates as the Primary Target anchor, scored against secondary operators (Makro, Leroy Merlin) and tertiary civic infrastructure within defined catchment radii.
+The Poland Co-location Index ranks commercial nodes across the Polish market using the [[topic-co-location-methodology]] and the [[topic-co-location-ranking-system|deterministic ranking system]]. Sites are evaluated where IKEA operates as the Primary Target [[topic-co-location-anchors|anchor]], scored against secondary operators (Makro, Leroy Merlin) and tertiary civic infrastructure within defined catchment radii. Poland is one of the four markets covered in the [[topic-tier-index-europe|European tier index]].
 
 ## Anchor Network
 

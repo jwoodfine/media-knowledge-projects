@@ -18,9 +18,9 @@ cites:
   - osc-sn-51-721
 ---
 
-This index identifies and ranks high-value commercial nodes within the Canadian market, evaluated according to the [[topic-co-location-methodology]]. The list represents the Canadian subset of the North American ranked index.
+This index identifies and ranks high-value commercial nodes within the Canadian market, evaluated according to the [[topic-co-location-methodology]] and operationalised by the [[topic-co-location-ranking-system|deterministic ranking system]]. The list represents the Canadian subset of the [[topic-tier-index-north-america|North American ranked index]].
 
-Sites are evaluated based on the proximity of Secondary anchors (Costco, Home Depot) and Tertiary institutional infrastructure (Healthcare, Higher Education) to the Primary Target anchor (Walmart Supercentre).
+Sites are evaluated based on the proximity of Secondary [[topic-co-location-anchors|anchors]] (Costco, Home Depot) and Tertiary institutional infrastructure (Healthcare, Higher Education) to the Primary Target anchor (Walmart Supercentre).
 
 ## Tier 5 (★★★★★) — Full Co-location Sites
 

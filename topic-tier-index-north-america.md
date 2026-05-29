@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The North American Location Intelligence index evaluates the structural convergence of major retail operators across the United States, Canada, and Mexico. Utilizing the [[topic-co-location-methodology]], the index identifies the highest-value commercial nodes based on the verified proximity of Primary Target anchors to secondary and tertiary supporting anchors.
+The North American Location Intelligence index evaluates the structural convergence of major retail operators across the United States, Canada, and Mexico. Utilizing the [[topic-co-location-methodology]] and operationalised by the [[topic-co-location-ranking-system|deterministic ranking system]], the index identifies the highest-value commercial nodes based on the verified proximity of Primary Target [[topic-co-location-anchors|anchors]] to secondary and tertiary supporting anchors. Map-facing tier labels follow the ICSC hierarchy described in [[topic-co-location-tier-nomenclature|tier nomenclature]].
 
 ## Market Scarcity and Quality Validation
 

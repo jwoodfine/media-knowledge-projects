@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The Nordics Co-location Index ranks commercial nodes across Northern Europe using the [[topic-co-location-methodology]]. The index evaluates sites where IKEA operates as the Primary Target anchor, scored against secondary and tertiary infrastructure within defined catchment radii.
+The Nordics Co-location Index ranks commercial nodes across Northern Europe using the [[topic-co-location-methodology]] and the [[topic-co-location-ranking-system|deterministic ranking system]]. The index evaluates sites where IKEA operates as the Primary Target [[topic-co-location-anchors|anchor]], scored against secondary and tertiary infrastructure within defined catchment radii. The Nordics are one of the four markets covered in the [[topic-tier-index-europe|European tier index]]; recent coverage expansions are documented in [[topic-gis-nordic-uk-coverage|Nordic and UK coverage expansion]].
 
 ## Anchor Network
 

@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The Spain Co-location Index ranks commercial nodes across the Iberian Peninsula using the [[topic-co-location-methodology]]. Sites are evaluated where IKEA operates as the Primary Target anchor, scored against secondary operators (Leroy Merlin, Makro) and tertiary civic infrastructure within defined catchment radii.
+The Spain Co-location Index ranks commercial nodes across the Iberian Peninsula using the [[topic-co-location-methodology]] and the [[topic-co-location-ranking-system|deterministic ranking system]]. Sites are evaluated where IKEA operates as the Primary Target [[topic-co-location-anchors|anchor]], scored against secondary operators (Leroy Merlin, Makro) and tertiary civic infrastructure within defined catchment radii. Spain is one of the four markets covered in the [[topic-tier-index-europe|European tier index]].
 
 ## Anchor Network
 

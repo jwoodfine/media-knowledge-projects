@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The European Co-location Tier Index ranks commercial nodes across Spain, Italy, Poland, and the Nordic region by the independent convergence of large-format retail and civic infrastructure. Each node is scored by the proximity of IKEA (Primary Target) to secondary hardware and warehouse operators (Leroy Merlin, Makro) and tertiary civic anchors (healthcare, higher education) within defined catchment radii, following the [[topic-co-location-methodology]].
+The European Co-location Tier Index ranks commercial nodes across Spain, Italy, Poland, and the Nordic region by the independent convergence of large-format retail and civic infrastructure. Each node is scored by the proximity of IKEA (Primary Target) to secondary hardware and warehouse operators (Leroy Merlin, Makro) and tertiary civic [[topic-co-location-anchors|anchors]] (healthcare, higher education) within defined catchment radii, following the [[topic-co-location-methodology]] and operationalised by the [[topic-co-location-ranking-system|deterministic ranking system]]. Map-facing tier labels follow the ICSC hierarchy described in [[topic-co-location-tier-nomenclature|tier nomenclature]].
 
 ## Market Scarcity and Institutional Validation
 

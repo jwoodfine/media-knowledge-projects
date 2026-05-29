@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The United States Co-location Index ranks 3,500+ evaluated Walmart Supercentre anchor locations by the independent convergence of secondary commercial operators (Home Depot, Costco) and tertiary civic infrastructure within defined catchment radii, following the [[topic-co-location-methodology]]. The index identifies the highest-tier nodes — sites where multiple independent capital commitments by retailers and civic institutions confirm the trade area's commercial strength. The full ranked index is available at [gis.woodfinegroup.com](https://gis.woodfinegroup.com).
+The United States Co-location Index ranks 3,500+ evaluated Walmart Supercentre [[topic-co-location-anchors|anchor]] locations by the independent convergence of secondary commercial operators (Home Depot, Costco) and tertiary civic infrastructure within defined catchment radii, following the [[topic-co-location-methodology]] and operationalised by the [[topic-co-location-ranking-system|deterministic ranking system]]. The United States is one of three markets covered in the [[topic-tier-index-north-america|North American tier index]]. The index identifies the highest-tier nodes — sites where multiple independent capital commitments by retailers and civic institutions confirm the trade area's commercial strength. The full ranked index is available at [gis.woodfinegroup.com](https://gis.woodfinegroup.com).
 
 ## Tier 5 (★★★★★) — Full Co-location
 
