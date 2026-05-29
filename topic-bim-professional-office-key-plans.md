@@ -15,7 +15,7 @@ editor: pointsav-engineering
 paired_with: topic-bim-professional-office-key-plans.es.md
 ---
 
-Professional Office is the superordinate category for five sub-types: Business, Medical, Laboratory, Academic, and Civic. It carries an "Initial Design" baseline that pre-dates the sub-type specialisation and is preserved as design lineage.
+Professional Office is the superordinate category for five sub-types: [[topic-bim-business-key-plans|Business]], [[topic-bim-medical-key-plans|Medical]], Laboratory, Academic, and Civic. It carries an "Initial Design" baseline that pre-dates the sub-type specialisation and is preserved as design lineage. Suite geometry is computed using the [[topic-bim-building-width-method|Building Width Calculator]] and the per-use-type values catalogued in [[topic-bim-zone-depths-per-use-type|zone depths per use type]]; the Key Plans feed the [[topic-bim-tile-system|Tile system]] and the [[topic-bim-floor-plate-methodology|floor plate methodology]].
 
 ## The Initial Design baseline
 
@@ -32,7 +32,7 @@ Computed building width = 2 × (6.0 + 3.8) + 2.0 = **21.6 m** (70'-10").
 
 ## Tenant categories
 
-The Key Plans system recognises eleven tenant categories:
+The [[topic-bim-key-plans-index|Key Plans]] system recognises eleven tenant categories:
 
 ```
 Private Office
@@ -48,7 +48,7 @@ Corporate Office — 3/4 Floor
 Corporate Office — Full Floor
 ```
 
-A generic Professional Office tenant who does not fall into any of the five specialisations uses the Initial Design baseline at 130 m² / 1,400 SF. In practice this is rare: most professional-services firms self-identify as Business, clinical practices as Medical, and research operations as Laboratory.
+A generic Professional Office tenant who does not fall into any of the five specialisations uses the Initial Design baseline at 130 m² / 1,400 SF. In practice this is rare: most professional-services firms self-identify as [[topic-bim-business-key-plans|Business]], clinical practices as [[topic-bim-medical-key-plans|Medical]], and research operations as Laboratory.
 
 ## Why Small + Small combinations matter
 

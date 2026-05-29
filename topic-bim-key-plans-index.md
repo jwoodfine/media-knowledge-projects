@@ -15,7 +15,7 @@ editor: pointsav-engineering
 paired_with: topic-bim-key-plans-index.es.md
 ---
 
-The Key Plan Directory inventories every distinct floor-plate sub-area that the Building Information Model (BIM) recognises. Each entry pairs a Development Class with a Typology and (where relevant) an Eco Region, yielding a file-name slug that is referenced from every downstream BIM artefact — Design Token Community Group (DTCG) tokens, Industry Foundation Classes (IFC) entity classifications, Rust solvers, slide decks, and regulation overlays.
+The Key Plan Directory inventories every distinct floor-plate sub-area that the Building Information Model (BIM) recognises. Each entry pairs a Development Class with a Typology and (where relevant) an Eco Region, yielding a file-name slug that is referenced from every downstream BIM artefact — Design Token Community Group (DTCG) tokens, Industry Foundation Classes (IFC) entity classifications, Rust solvers, slide decks, and regulation overlays. The Directory underpins the [[topic-bim-tile-system|Tile system]] and the [[topic-bim-floor-plate-methodology|floor plate methodology]]; per-use-type interior geometry is set by the [[topic-bim-building-width-method|Building Width Calculator]] and the [[topic-bim-zone-depths-per-use-type|zone depths per use type]].
 
 The current Directory (V2, dated both 2025-01-07 and re-dated 2026-01-06 — identical content) contains **72 key plans across nine Development Classes**.
 
@@ -36,7 +36,7 @@ The current Directory (V2, dated both 2025-01-07 and re-dated 2026-01-06 — ide
 
 | Index | Typology | ID | Notes |
 |---:|---|---|---|
-| 1 | Private Office | Small | PO-1 sample; 325 SF |
+| 1 | [[topic-bim-private-office-key-plans|Private Office]] | Small | PO-1 sample; 325 SF |
 | 2 | Private Office | Medium | PO-2 sample; 465 SF |
 | 3 | Private Office | Large | PO-3 sample; 685 SF |
 | 4 | Corporate Office | Full Floor | one tile per floor |
@@ -44,10 +44,10 @@ The current Directory (V2, dated both 2025-01-07 and re-dated 2026-01-06 — ide
 | 6 | Corporate Office | 1/3 Floor | |
 | 7 | Corporate Office | 1/4 Floor | one quarter-tile |
 | 8 | Corporate Office | 1/8 Floor | smallest Corporate increment |
-| 9 | Medical | Chiropractor | specialisation; no completed sample |
+| 9 | [[topic-bim-medical-key-plans|Medical]] | Chiropractor | specialisation; no completed sample |
 | 10 | Medical | Dentist | M3 sample 2,402 SF |
 | 11 | Medical | General Practitioner | specialisation |
-| 12 | Business | B-1 | small business sample 3,350 SF |
+| 12 | [[topic-bim-business-key-plans|Business]] | B-1 | small business sample 3,350 SF |
 | 13 | Business | B-2 | medium 4,302 SF |
 | 14 | Business | B-3 | large 7,524 SF |
 | 15 | Laboratory | Medical | specialisation of Lab |

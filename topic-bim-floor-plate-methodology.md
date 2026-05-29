@@ -15,7 +15,7 @@ editor: pointsav-engineering
 paired_with: topic-bim-floor-plate-methodology.es.md
 ---
 
-The floor plate methodology is a geometric space-planning system in which every square foot of a building is assigned to a named Key Plan that traces directly to real furniture dimensions. A **Key Plan** is the smallest unit: a labelled rectangle around one tenant's actual furniture inventory, sized to enclose desks, storage, circulation, and accessibility clearances. A **Tile** is a composable group of Key Plans — each Tile is exactly one HVAC climate zone. A **Floor Plate** is the assembly of Tiles plus a Building Core plus Special Tiles; nothing on the floor is left unrepresented.
+The floor plate methodology is a geometric space-planning system in which every square foot of a building is assigned to a named Key Plan that traces directly to real furniture dimensions. A **[[topic-bim-key-plans-index|Key Plan]]** is the smallest unit: a labelled rectangle around one tenant's actual furniture inventory, sized to enclose desks, storage, circulation, and accessibility clearances. A **[[topic-bim-tile-system|Tile]]** is a composable group of Key Plans — each Tile is exactly one HVAC climate zone. A **Floor Plate** is the assembly of Tiles plus a Building Core plus Special Tiles; nothing on the floor is left unrepresented. Tile geometry follows the [[topic-bim-building-width-method|Building Width Calculator]] and the [[topic-bim-zone-depths-per-use-type|zone depths per use type]]; named assembly examples are catalogued in [[topic-bim-floor-plate-tile-combinations|floor-plate tile combinations]].
 
 The system is defined in the V12 Methodology (May 2025) and V12 Tear Sheet (January 2026) as "a geometric self-similar aperiodic space-planning system based on furniture and equipment arrangements and circulation versus modular area-per-person progressions."
 
@@ -59,7 +59,7 @@ The Building Core (Elevators, Service Stairs, Emergency Stairs, Restrooms, Meter
 
 ### FP-SNAP — Special Tile width matches Key Plan width
 
-Special Tiles SP-A, SP-B, SP-C fill the residual area surrounding the Core. Their width is snapped to the nearest Professional Office Key Plan width. This preserves demising-wall continuity. SP-C, in front of the Core, must avoid direct alignment of any door with the elevator opening (V12 Methodology p. 9).
+Special Tiles SP-A, SP-B, SP-C fill the residual area surrounding the Core. Their width is snapped to the nearest [[topic-bim-professional-office-key-plans|Professional Office Key Plan]] width. This preserves demising-wall continuity. SP-C, in front of the Core, must avoid direct alignment of any door with the elevator opening (V12 Methodology p. 9).
 
 ### FP-CLIMATE — one tile, one HVAC zone
 

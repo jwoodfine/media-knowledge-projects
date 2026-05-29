@@ -15,7 +15,7 @@ editor: pointsav-engineering
 paired_with: topic-bim-building-width-method.es.md
 ---
 
-Conventional office buildings begin with a building width — sixty feet for daylight is the rule of thumb in North American Class-A speculative office — and the tenant fit-out is then made to fit. The Building Width Calculator inverts the sequence. It starts with the tenant's furniture (desk, exam table, lab bench, courtroom bench) and the building width is whatever the arrangement requires.
+Conventional office buildings begin with a building width — sixty feet for daylight is the rule of thumb in North American Class-A speculative office — and the tenant fit-out is then made to fit. The Building Width Calculator inverts the sequence. It starts with the tenant's furniture (desk, exam table, lab bench, courtroom bench) and the building width is whatever the arrangement requires. The method feeds the per-use-type values catalogued in [[topic-bim-zone-depths-per-use-type|Zone depths per use type]] and drives the geometry of the [[topic-bim-tile-system|Tile system]] that composes the [[topic-bim-floor-plate-methodology|floor plate]].
 
 Source: V12 (January 2025), *Spatial Taxonomy — Building Width Calculator*.
 
@@ -61,20 +61,20 @@ The 6 m daylight depth is the design intent for workstation-occupied space. It a
 The 6 m figure is not universal. Three of the seven established use types diverge:
 
 - **Academic** compresses Habitat to **4.7 m** because seating faces forward (toward a podium/board) rather than toward the façade.
-- **Medical** widens Habitat to **7.28 m** to accommodate exam-table depth plus patient and clinician circulation per accessibility-code clearances.
+- **[[topic-bim-medical-key-plans|Medical]]** widens Habitat to **7.28 m** to accommodate exam-table depth plus patient and clinician circulation per accessibility-code clearances.
 - **Laboratory** widens Habitat to **6.78 m** to accommodate bench depth and fume-hood clearance.
 
 ### Zone 2 — Magazine
 
 Magazine is the slack variable. It holds storage, bookshelves, filing, server rooms, and staff rooms. The width is set by what the tenant needs to balance the plate — V12 directs that the Zone 2 depth "can be used to balance out the dimensions of the floor plate to not end up with simply a long, narrow rectangle."
 
-In practice Zone 2 is the widest zone for Business (9.26 m, Option A/A) and Civic (7.23 m), and the narrowest for Private Office (1.37 m, 4'6") because individual offices carry minimal shared storage.
+In practice Zone 2 is the widest zone for [[topic-bim-business-key-plans|Business]] (9.26 m, Option A/A) and Civic (7.23 m), and the narrowest for [[topic-bim-private-office-key-plans|Private Office]] (1.37 m, 4'6") because individual offices carry minimal shared storage.
 
 ### Zone 3 — Corridor
 
 The corridor is a single centreline. Its width is set by egress and accessibility — IBC stretcher minima for Medical, IBC high-hazard egress for Laboratory, public assembly egress for Civic. V12 directs that corridors be **overdesigned by 20%** to promote well-being and absorb in-and-out traffic.
 
-Two use types — Private Office and Academic — have **no Zone 3**. Their leaseholds open directly onto the shared building corridor, which is part of the building core and outside the leasehold.
+Two use types — [[topic-bim-private-office-key-plans|Private Office]] and Academic — have **no Zone 3**. Their leaseholds open directly onto the shared building corridor, which is part of the building core and outside the leasehold.
 
 ## The 0.7 m perpendicular-desk addition
 

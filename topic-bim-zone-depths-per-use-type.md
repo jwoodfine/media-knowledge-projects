@@ -17,18 +17,20 @@ paired_with: topic-bim-zone-depths-per-use-type.es.md
 
 > **Companion:** [[topic-bim-building-width-method]] for the formula and the mirror cross-section.
 
+This article catalogues the per-side zone depths feeding the [[topic-bim-tile-system|Tile system]] and the [[topic-bim-floor-plate-methodology|floor plate methodology]]; the inventory of named Key Plans is in [[topic-bim-key-plans-index|the Key Plans index]]. Sub-type specialisations are documented under [[topic-bim-professional-office-key-plans|Professional Office]] and its [[topic-bim-medical-key-plans|Medical]], [[topic-bim-business-key-plans|Business]], and [[topic-bim-private-office-key-plans|Private Office]] sub-articles.
+
 ## Summary table — canonical values
 
 The Z1/Z2/Z3 values below are the **per-side** depths (Z1 and Z2 are mirrored, Z3 is centreline single). All values trace to the cited source.
 
 | Use Type | Z1 Habitat | Z2 Magazine | Z3 Corridor | Building Width | Source |
 |---|---|---|---|---|---|
-| Private Office | 5.9944 m / 19'8" | 1.3716 m / 4'6" | — | **14.73 m / 48'4"** | PO-1/PO-2/PO-3 sketches |
+| [[topic-bim-private-office-key-plans|Private Office]] | 5.9944 m / 19'8" | 1.3716 m / 4'6" | — | **14.73 m / 48'4"** | PO-1/PO-2/PO-3 sketches |
 | Academic | 4.7 m / 15'5" | 3.0 m / 9'10" | — | **15.40 m / 50'6"** | Summary V2, 2025-05-13 |
-| Professional Office (V12 baseline) | 6.0 m / 19'8" | 3.0 m / 9'10" | 3.0 m / 9'10" | **21.00 m / 68'11"** | V12, 2025-01-07 (Z2/Z3 marked TBD) |
+| [[topic-bim-professional-office-key-plans|Professional Office]] (V12 baseline) | 6.0 m / 19'8" | 3.0 m / 9'10" | 3.0 m / 9'10" | **21.00 m / 68'11"** | V12, 2025-01-07 (Z2/Z3 marked TBD) |
 | Laboratory | 6.7818 m / 22'3" | 4.8006 m / 15'9" | 3.048 m / 10'0" | **26.21 m / 86'0"** | Summary V2; IBC high-hazard egress |
-| Medical | 7.2819 m / 23'10" | 4.877 m / 16'0" | 2.892 m / 9'5" | **27.20 m / 89'3"** | M3/M1/M2 sketches (286 5/8" + 192" + 113 7/8") |
-| Business | 5.51 m / 18'1" | 9.26 m / 30'5" | 2.75 m / 9'0" | **29.30 m / 96'2"** | Notes V3 Option A/A (widest enumerated) |
+| [[topic-bim-medical-key-plans|Medical]] | 7.2819 m / 23'10" | 4.877 m / 16'0" | 2.892 m / 9'5" | **27.20 m / 89'3"** | M3/M1/M2 sketches (286 5/8" + 192" + 113 7/8") |
+| [[topic-bim-business-key-plans|Business]] | 5.51 m / 18'1" | 9.26 m / 30'5" | 2.75 m / 9'0" | **29.30 m / 96'2"** | Notes V3 Option A/A (widest enumerated) |
 | Civic | 6.0 m / 19'8" | 7.23 m / 23'9" | 3.6 m / 11'10" | **30.06 m / 98'8"** | Synthesised values; no completed sketch |
 
 Formula: `Width = 2 × (Z1 + Z2) + Z3`. See [[topic-bim-building-width-method]] for the derivation.

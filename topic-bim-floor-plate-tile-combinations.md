@@ -15,7 +15,7 @@ editor: pointsav-engineering
 paired_with: topic-bim-floor-plate-tile-combinations.es.md
 ---
 
-The Floor Plate Methodology is intentionally non-deterministic: the catalogue is sized so many valid compositions exist for any given tenant mix. This topic documents the named sample compositions from the V12 Methodology PDF, the trade-offs each makes, and the leasing implications.
+The [[topic-bim-floor-plate-methodology|Floor Plate Methodology]] is intentionally non-deterministic: the catalogue is sized so many valid compositions exist for any given tenant mix. This topic documents the named sample compositions from the V12 Methodology PDF, the trade-offs each makes, and the leasing implications. Tiles are drawn from the [[topic-bim-tile-system|Tile system]], composed of [[topic-bim-key-plans-index|Key Plans]] sized via the [[topic-bim-zone-depths-per-use-type|zone depths per use type]].
 
 ## The four sample compositions in V12 Methodology
 
@@ -68,11 +68,11 @@ Mostly Tile A / Tile F / Corporate fractions. Few climate zones per floor (4–6
 
 ### Private-Office-heavy (Mixed)
 
-Mostly Tile B-1 / Tile G / Mixed End Caps E-1/E-2. 30–40 climate zones per floor. Maximum thermostat autonomy. Higher HVAC engineering cost; higher leasing yield because every thermostat is its own line item.
+Mostly Tile B-1 / Tile G / Mixed End Caps E-1/E-2. 30–40 climate zones per floor. Maximum thermostat autonomy. Higher HVAC engineering cost; higher leasing yield because every thermostat is its own line item. See [[topic-bim-private-office-key-plans|Private Office key plans]] for the underlying Key Plan set.
 
 ### Professional Centre (Mixed)
 
-Mostly Tile C-1/C-2/C-3/C-4 / Tile H. Suitable for mid-range medical, business, laboratory, academic, and civic tenants. Climate-zone count is moderate (8–15 per floor). The methodology calls this the canonical mid-floor configuration.
+Mostly Tile C-1/C-2/C-3/C-4 / Tile H. Suitable for mid-range [[topic-bim-medical-key-plans|medical]], [[topic-bim-business-key-plans|business]], laboratory, academic, and civic tenants. Climate-zone count is moderate (8–15 per floor). The methodology calls this the canonical mid-floor configuration.
 
 ### Floor-plate mixed
 

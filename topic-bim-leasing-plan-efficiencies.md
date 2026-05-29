@@ -15,19 +15,19 @@ editor: pointsav-engineering
 paired_with: topic-bim-leasing-plan-efficiencies.es.md
 ---
 
-The Floor Plate Methodology defends a specific design claim: an aperiodic tile system with irregular Key Plan widths produces more distinct leasable configurations per square foot than a uniform modular grid. This topic isolates the quantitative argument and the secondary leasing levers — climate-zone autonomy, demising tolerance, and rolling efficiency.
+The [[topic-bim-floor-plate-methodology|Floor Plate Methodology]] defends a specific design claim: an aperiodic [[topic-bim-tile-system|tile system]] with irregular [[topic-bim-key-plans-index|Key Plan]] widths produces more distinct leasable configurations per square foot than a uniform modular grid. This topic isolates the quantitative argument and the secondary leasing levers — climate-zone autonomy, demising tolerance, and rolling efficiency. Named assembly examples appear in [[topic-bim-floor-plate-tile-combinations|floor-plate tile combinations]].
 
 ## The 16-vs-9 result
 
 A row of nine uniform 325 SF cells yields nine distinct contiguous leasehold sizes: 325, 650, 975, 1,300, 1,625, 1,950, 2,275, 2,600, and 2,925 SF. Total area: 2,925 SF. Combinations: 9. Climate zones: 1. Doors: 9. Service hookups: 9.
 
-The same row length filled with irregular Private Office widths (325 + 465 + 325 + 685 + 325 + 325 + 325 = 2,775 SF) yields **sixteen** distinct contiguous leasehold sizes ranging from 325 SF to 2,775 SF. Climate zones: 1. Doors: 7. Service hookups: 7.
+The same row length filled with irregular [[topic-bim-private-office-key-plans|Private Office]] widths (325 + 465 + 325 + 685 + 325 + 325 + 325 = 2,775 SF) yields **sixteen** distinct contiguous leasehold sizes ranging from 325 SF to 2,775 SF. Climate zones: 1. Doors: 7. Service hookups: 7.
 
 The aperiodic system delivers 1.78× more distinct leasable configurations at 95% of the area with 78% of the door and hookup count. The leasing instrument can match a wider distribution of tenant-requested footprints without recomposing the Tile.
 
 ## Professional Office sub-type combination counts
 
-The same argument extends across Professional Office sub-types:
+The same argument extends across [[topic-bim-professional-office-key-plans|Professional Office]] sub-types:
 
 | Sub-type | Aperiodic combinations | Modular combinations | Total SF |
 |---|---:|---:|---:|

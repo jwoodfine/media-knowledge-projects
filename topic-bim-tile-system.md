@@ -15,9 +15,9 @@ editor: pointsav-engineering
 paired_with: topic-bim-tile-system.es.md
 ---
 
-A Tile is a rectangular composable unit of the floor plate. Each Tile is exactly one HVAC climate zone. Tiles compose to fill the Net Leasable Area without remainder.
+A Tile is a rectangular composable unit of the [[topic-bim-floor-plate-methodology|floor plate]]. Each Tile is exactly one HVAC climate zone. Tiles compose to fill the Net Leasable Area without remainder. The system is defined alongside the catalogue of [[topic-bim-key-plans-index|Key Plans]] and the per-use-type [[topic-bim-zone-depths-per-use-type|zone depths]] that determine each Tile's interior geometry.
 
-There are three regular tile families (Small, Medium, Large) and one residual family (Special Tiles).
+There are three regular tile families (Small, Medium, Large) and one residual family (Special Tiles). Sample assemblies appear in [[topic-bim-floor-plate-tile-combinations|floor-plate tile combinations]].
 
 ## The three regular families
 
@@ -26,8 +26,8 @@ There are three regular tile families (Small, Medium, Large) and one residual fa
 | Code | Name | Composition | Climate zones | Role |
 |---|---|---|---|---|
 | Tile A | Corporate Office | Single 2,700 SF unit | 1 | Mid-plate Corporate anchor |
-| Tile B-1 | Private Office | 5 PO (300 + 500 + 450 + 300 + 300) + Professional Small 800 ≈ 2,700 SF | 6 | Private-office heavy interior |
-| Tile C-1 | Professional Office (Med + Med + Small) | PO-M 2,000 + PO-M 450 + PO-S 300 = 2,750 | 3 | Professional anchor (Medical, Business) |
+| Tile B-1 | [[topic-bim-private-office-key-plans|Private Office]] | 5 PO (300 + 500 + 450 + 300 + 300) + Professional Small 800 ≈ 2,700 SF | 6 | Private-office heavy interior |
+| Tile C-1 | [[topic-bim-professional-office-key-plans|Professional Office]] (Med + Med + Small) | PO-M 2,000 + PO-M 450 + PO-S 300 = 2,750 | 3 | Professional anchor ([[topic-bim-medical-key-plans|Medical]], [[topic-bim-business-key-plans|Business]]) |
 | Tile C-2 | Professional Office (Large + Small) | PO-L 2,400 + PO-S 300 = 2,700 | 2 | Larger-anchor professional |
 | Tile C-3 | (Alternatives) | Variant composition | 2 | See Alternatives PDF |
 | Tile C-4 | (Alternatives) | Variant composition | 1 | Civic / Academic anchor |

@@ -15,7 +15,7 @@ editor: pointsav-engineering
 paired_with: topic-bim-business-key-plans.es.md
 ---
 
-Business Office (Professional Office — Business) is one of the five Professional Office sub-types. Its distinguishing feature is Zone 2 Magazine at 7.3 m — the widest of any sub-type — driven by open storage walls, server rooms, print areas, and team collaboration zones characteristic of professional-services practices.
+Business Office (Professional Office — Business) is one of the five [[topic-bim-professional-office-key-plans|Professional Office]] sub-types. Its distinguishing feature is Zone 2 Magazine at 7.3 m — the widest of any sub-type — driven by open storage walls, server rooms, print areas, and team collaboration zones characteristic of professional-services practices. The depth is computed using the [[topic-bim-building-width-method|Building Width Calculator]] and feeds the [[topic-bim-tile-system|Tile system]] that composes the [[topic-bim-floor-plate-methodology|floor plate]].
 
 ## The three sizes
 
@@ -68,11 +68,11 @@ The inline commentary on the Business sketches establishes design principles tha
 
 A Tenant Washroom can be contained within Zone 2 — Magazine. Five washroom configurations (Options A–E) show different 2-stall + sinks + vestibule arrangements, all fitting within approximately 7 m × 3 m. The minimum Zone 2 width is therefore co-driven by either the Staff/Conference Room or the Tenant Washroom, whichever is wider.
 
-For sub-types with narrow Magazine (e.g., Private Office at 1.4 m), there is no Tenant Washroom in the suite — tenants use building-core washrooms.
+For sub-types with narrow Magazine (e.g., [[topic-bim-private-office-key-plans|Private Office]] at 1.4 m), there is no Tenant Washroom in the suite — tenants use building-core washrooms.
 
 ## Spatial taxonomy anchor element
 
-Each Professional Office sub-type carries one anchor element at the façade end whose dimensions drive the Habitat depth. For Business, this is the Reception — the same grammatical role that the Clean Room plays in Laboratory, the Auditorium in Academic, and the Court Room in Civic.
+Each Professional Office sub-type carries one anchor element at the façade end whose dimensions drive the Habitat depth. For Business, this is the Reception — the same grammatical role that the Clean Room plays in Laboratory, the Auditorium in Academic, the Court Room in Civic, and the exam room in [[topic-bim-medical-key-plans|Medical]].
 
 ## See also
 

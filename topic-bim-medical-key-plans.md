@@ -15,7 +15,7 @@ editor: pointsav-engineering
 paired_with: topic-bim-medical-key-plans.es.md
 ---
 
-Medical Office is one of the five Professional Office sub-types. Its distinguishing feature is Zone 1 Habitat at 7.2 m — the widest of any sub-type — driven by exam-table depth plus the circulation required for both patient and clinician access.
+Medical Office is one of the five [[topic-bim-professional-office-key-plans|Professional Office]] sub-types. Its distinguishing feature is Zone 1 Habitat at 7.2 m — the widest of any sub-type — driven by exam-table depth plus the circulation required for both patient and clinician access. The depth is computed using the [[topic-bim-building-width-method|Building Width Calculator]] and feeds the [[topic-bim-tile-system|Tile system]] that composes the [[topic-bim-floor-plate-methodology|floor plate]].
 
 ## The three sizes
 

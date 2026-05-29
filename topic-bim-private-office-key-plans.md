@@ -15,7 +15,7 @@ editor: pointsav-engineering
 paired_with: topic-bim-private-office-key-plans.es.md
 ---
 
-Private Office is a separate use type from Professional Office. Each Private Office suite opens directly onto the shared building corridor — there is no internal bilateral corridor within the Private Office floor area. The tenant is typically an individual professional rather than a firm.
+Private Office is a separate use type from [[topic-bim-professional-office-key-plans|Professional Office]]. Each Private Office suite opens directly onto the shared building corridor — there is no internal bilateral corridor within the Private Office floor area. The tenant is typically an individual professional rather than a firm. Suite geometry is computed using the [[topic-bim-building-width-method|Building Width Calculator]] and the per-use-type values catalogued in [[topic-bim-zone-depths-per-use-type|zone depths per use type]]; the Key Plans feed the [[topic-bim-tile-system|Tile system]] and the [[topic-bim-floor-plate-methodology|floor plate methodology]].
 
 ## The three sizes
 
@@ -31,7 +31,7 @@ Total when stacked side-by-side: 137 m² / 1,475 SF.
 
 | Zone | Depth | Note |
 |---|---|---|
-| Zone 1 — Habitat | 5.9944 m (19'-8") | Flagged for review at final Key Plan sign-off — marginally under the 6.0 m European Lighting Standard |
+| Zone 1 — Habitat | 5.9944 m (19'-8") | Flagged for review at final [[topic-bim-key-plans-index|Key Plan]] sign-off — marginally under the 6.0 m European Lighting Standard |
 | Zone 2 — Magazine | 1.3716 m (4'-6") | Shallow storage; minimal shared storage compared with multi-person suites |
 | Zone 3 — Corridor | 0 m | None — each office opens to the shared building corridor |
 
