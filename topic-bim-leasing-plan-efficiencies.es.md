@@ -16,15 +16,15 @@ editor: pointsav-engineering
 paired_with: topic-bim-leasing-plan-efficiencies.md
 ---
 
-La Metodología de Planta Baja defiende una afirmación de diseño específica: un sistema de baldosas aperiódicas con anchos irregulares de Planos Clave genera más configuraciones de arrendamiento distintas por metro cuadrado que una cuadrícula modular uniforme.
+La [[topic-bim-floor-plate-methodology|Metodología de Planta Baja]] defiende una afirmación de diseño específica: un [[topic-bim-tile-system|sistema de baldosas]] aperiódicas con anchos irregulares de [[topic-bim-key-plans-index|Planos Clave]] genera más configuraciones de arrendamiento distintas por metro cuadrado que una cuadrícula modular uniforme. Ejemplos de ensamblajes con nombre aparecen en [[topic-bim-floor-plate-tile-combinations|combinaciones de baldosas de la planta]].
 
 ## El resultado 16 frente a 9
 
-Una fila de nueve celdas uniformes de 325 SF produce nueve tamaños de arrendamiento contiguos distintos, con un área total de 2.925 SF y nueve puertas. La misma longitud de fila rellenada con anchos irregulares de Oficina Privada (2.775 SF en total) produce **dieciséis** tamaños de arrendamiento distintos con siete puertas y siete conexiones de servicio.
+Una fila de nueve celdas uniformes de 325 SF produce nueve tamaños de arrendamiento contiguos distintos, con un área total de 2.925 SF y nueve puertas. La misma longitud de fila rellenada con anchos irregulares de [[topic-bim-private-office-key-plans|Oficina Privada]] (2.775 SF en total) produce **dieciséis** tamaños de arrendamiento distintos con siete puertas y siete conexiones de servicio.
 
 El sistema aperiódico genera 1,78 veces más configuraciones de arrendamiento al 95% del área con el 78% de puertas y conexiones. El instrumento de arrendamiento puede adaptarse a una distribución más amplia de metrajes solicitados por inquilinos sin recomponer la Baldosa.
 
-## Conteos de combinaciones por sub-tipo de Oficina Profesional
+## Conteos de combinaciones por sub-tipo de [[topic-bim-professional-office-key-plans|Oficina Profesional]]
 
 | Sub-tipo | Combinaciones aperiódicas | Combinaciones modulares | SF total |
 |---|---:|---:|---:|

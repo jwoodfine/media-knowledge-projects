@@ -16,7 +16,7 @@ editor: pointsav-engineering
 paired_with: topic-bim-business-key-plans.md
 ---
 
-La Oficina Empresarial (Oficina Profesional — Empresarial) es uno de los cinco sub-tipos de Oficina Profesional. Su característica distintiva es la Zona 2 Revista a 7,3 m — la más ancha de cualquier sub-tipo — impulsada por paredes de almacenamiento abierto, salas de servidores, áreas de impresión y zonas de colaboración propias de firmas de servicios profesionales.
+La Oficina Empresarial (Oficina Profesional — Empresarial) es uno de los cinco sub-tipos de [[topic-bim-professional-office-key-plans|Oficina Profesional]]. Su característica distintiva es la Zona 2 Revista a 7,3 m — la más ancha de cualquier sub-tipo — impulsada por paredes de almacenamiento abierto, salas de servidores, áreas de impresión y zonas de colaboración propias de firmas de servicios profesionales. La profundidad se calcula mediante la [[topic-bim-building-width-method|Calculadora de Anchura del Edificio]] y alimenta el [[topic-bim-tile-system|sistema de teselas]] que compone la [[topic-bim-floor-plate-methodology|planta]].
 
 ## Los tres tamaños
 

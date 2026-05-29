@@ -16,7 +16,7 @@ editor: pointsav-engineering
 paired_with: topic-bim-professional-office-key-plans.md
 ---
 
-Oficina Profesional es la categoría superordinada para cinco sub-tipos: Empresarial, Médico, Laboratorio, Académico y Cívico. Conserva una línea base de "Diseño Inicial" que precede a la especialización por sub-tipos y se preserva como linaje de diseño.
+Oficina Profesional es la categoría superordinada para cinco sub-tipos: [[topic-bim-business-key-plans|Empresarial]], [[topic-bim-medical-key-plans|Médico]], Laboratorio, Académico y Cívico. Conserva una línea base de "Diseño Inicial" que precede a la especialización por sub-tipos y se preserva como linaje de diseño. La geometría de la suite se calcula mediante la [[topic-bim-building-width-method|Calculadora de Anchura del Edificio]] y los valores por tipo de uso catalogados en [[topic-bim-zone-depths-per-use-type|profundidades de zona por tipo de uso]]; las Plantas Clave alimentan el [[topic-bim-tile-system|sistema de teselas]] y la [[topic-bim-floor-plate-methodology|metodología de la planta]].
 
 ## La línea base de Diseño Inicial
 
@@ -33,7 +33,7 @@ Ancho de edificio calculado = 2 × (6,0 + 3,8) + 2,0 = **21,6 m** (70'-10").
 
 ## Categorías de inquilinos
 
-El sistema de Planos Clave reconoce once categorías de inquilinos: Oficina Privada, cinco sub-tipos de Oficina Profesional (Empresarial, Médico, Laboratorio, Académico, Cívico) y cinco tamaños de Oficina Corporativa (1/8, 1/4, 1/2, 3/4 y Planta Completa).
+El sistema de [[topic-bim-key-plans-index|Planos Clave]] reconoce once categorías de inquilinos: Oficina Privada, cinco sub-tipos de Oficina Profesional ([[topic-bim-business-key-plans|Empresarial]], [[topic-bim-medical-key-plans|Médico]], Laboratorio, Académico, Cívico) y cinco tamaños de Oficina Corporativa (1/8, 1/4, 1/2, 3/4 y Planta Completa).
 
 ## Por qué importan las combinaciones Pequeña + Pequeña
 

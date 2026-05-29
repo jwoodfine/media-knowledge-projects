@@ -15,7 +15,7 @@ editor: pointsav-engineering
 paired_with: topic-bim-key-plans-index.md
 ---
 
-El Directorio de Plantas Clave inventaría cada sub-área diferenciada de la planta que el Modelo de Información del Edificio (BIM, por sus siglas en inglés) reconoce. Cada entrada combina una Clase de Desarrollo con una Tipología y (donde corresponde) una Eco Región, generando un identificador de nombre de archivo que se referencia desde todos los artefactos BIM posteriores — tokens del Design Token Community Group (DTCG), clasificaciones de entidades de las Clases de Fundaciones de la Industria (IFC), solvers en Rust, presentaciones y superposiciones de normativa.
+El Directorio de Plantas Clave inventaría cada sub-área diferenciada de la planta que el Modelo de Información del Edificio (BIM, por sus siglas en inglés) reconoce. Cada entrada combina una Clase de Desarrollo con una Tipología y (donde corresponde) una Eco Región, generando un identificador de nombre de archivo que se referencia desde todos los artefactos BIM posteriores — tokens del Design Token Community Group (DTCG), clasificaciones de entidades de las Clases de Fundaciones de la Industria (IFC), solvers en Rust, presentaciones y superposiciones de normativa. El Directorio sustenta el [[topic-bim-tile-system|sistema de teselas]] y la [[topic-bim-floor-plate-methodology|metodología de la planta]]; la geometría interior por tipo de uso la fija la [[topic-bim-building-width-method|Calculadora de Anchura del Edificio]] y las [[topic-bim-zone-depths-per-use-type|profundidades de zona por tipo de uso]].
 
 El Directorio actual (V2, con fechas tanto del 2025-01-07 como redatado al 2026-01-06 — contenido idéntico) contiene **72 plantas clave en nueve Clases de Desarrollo**.
 
@@ -36,7 +36,7 @@ El Directorio actual (V2, con fechas tanto del 2025-01-07 como redatado al 2026-
 
 | Índice | Tipología | ID | Notas |
 |---:|---|---|---|
-| 1 | Oficina Privada | Pequeña | Muestra PO-1; 325 SF |
+| 1 | [[topic-bim-private-office-key-plans|Oficina Privada]] | Pequeña | Muestra PO-1; 325 SF |
 | 2 | Oficina Privada | Media | Muestra PO-2; 465 SF |
 | 3 | Oficina Privada | Grande | Muestra PO-3; 685 SF |
 | 4 | Oficina Corporativa | Planta completa | una baldosa por planta |
@@ -44,10 +44,10 @@ El Directorio actual (V2, con fechas tanto del 2025-01-07 como redatado al 2026-
 | 6 | Oficina Corporativa | 1/3 Planta | |
 | 7 | Oficina Corporativa | 1/4 Planta | un cuarto de baldosa |
 | 8 | Oficina Corporativa | 1/8 Planta | incremento Corporativo mínimo |
-| 9 | Médico | Quiropráctico | especialización; sin muestra completada |
+| 9 | [[topic-bim-medical-key-plans|Médico]] | Quiropráctico | especialización; sin muestra completada |
 | 10 | Médico | Dentista | Muestra M3; 2.402 SF |
 | 11 | Médico | Médico de Familia | especialización |
-| 12 | Negocio | B-1 | muestra pequeña de negocio; 3.350 SF |
+| 12 | [[topic-bim-business-key-plans|Negocio]] | B-1 | muestra pequeña de negocio; 3.350 SF |
 | 13 | Negocio | B-2 | media; 4.302 SF |
 | 14 | Negocio | B-3 | grande; 7.524 SF |
 | 15 | Laboratorio | Médico | especialización de Lab |

@@ -15,9 +15,9 @@ editor: pointsav-engineering
 paired_with: topic-bim-tile-system.md
 ---
 
-Una Baldosa es una unidad rectangular componible de la planta. Cada Baldosa es exactamente una zona climática HVAC. Las Baldosas se componen para cubrir el Área Neta Arrendable sin resto.
+Una Baldosa es una unidad rectangular componible de la [[topic-bim-floor-plate-methodology|planta]]. Cada Baldosa es exactamente una zona climática HVAC. Las Baldosas se componen para cubrir el Área Neta Arrendable sin resto. El sistema se define junto al catálogo de [[topic-bim-key-plans-index|Plantas Clave]] y las [[topic-bim-zone-depths-per-use-type|profundidades de zona]] por tipo de uso que determinan la geometría interior de cada Baldosa.
 
-Existen tres familias de baldosas regulares (Pequeña, Mediana, Grande) y una familia residual (Baldosas Especiales).
+Existen tres familias de baldosas regulares (Pequeña, Mediana, Grande) y una familia residual (Baldosas Especiales). Ejemplos de ensamblajes aparecen en [[topic-bim-floor-plate-tile-combinations|combinaciones de baldosas de la planta]].
 
 ## Las tres familias regulares
 
@@ -26,8 +26,8 @@ Existen tres familias de baldosas regulares (Pequeña, Mediana, Grande) y una fa
 | Código | Nombre | Composición | Zonas climáticas | Función |
 |---|---|---|---|---|
 | Baldosa A | Oficina Corporativa | Unidad única de 2.700 SF | 1 | Ancla corporativa de planta media |
-| Baldosa B-1 | Oficina Privada | 5 OP (300 + 500 + 450 + 300 + 300) + Profesional Pequeña 800 ≈ 2.700 SF | 6 | Interior con predominio de despachos privados |
-| Baldosa C-1 | Oficina Profesional (Med + Med + Pequeña) | OP-M 2.000 + OP-M 450 + OP-P 300 = 2.750 | 3 | Ancla profesional (Médica, Empresarial) |
+| Baldosa B-1 | [[topic-bim-private-office-key-plans|Oficina Privada]] | 5 OP (300 + 500 + 450 + 300 + 300) + Profesional Pequeña 800 ≈ 2.700 SF | 6 | Interior con predominio de despachos privados |
+| Baldosa C-1 | [[topic-bim-professional-office-key-plans|Oficina Profesional]] (Med + Med + Pequeña) | OP-M 2.000 + OP-M 450 + OP-P 300 = 2.750 | 3 | Ancla profesional ([[topic-bim-medical-key-plans|Médica]], [[topic-bim-business-key-plans|Empresarial]]) |
 | Baldosa C-2 | Oficina Profesional (Grande + Pequeña) | OP-G 2.400 + OP-P 300 = 2.700 | 2 | Profesional con ancla mayor |
 | Baldosa C-3 | (Alternativas) | Composición variante | 2 | Véase PDF de Alternativas |
 | Baldosa C-4 | (Alternativas) | Composición variante | 1 | Ancla Cívica / Académica |

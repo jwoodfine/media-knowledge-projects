@@ -15,7 +15,7 @@ editor: pointsav-engineering
 paired_with: topic-bim-floor-plate-methodology.md
 ---
 
-La metodología de planta es un sistema de planificación espacial geométrico en el que cada pie cuadrado de un edificio se asigna a una Planta Clave con nombre que se rastrea directamente hasta dimensiones de mobiliario real. Una **Planta Clave** es la unidad mínima: un rectángulo etiquetado alrededor del inventario real de mobiliario de un inquilino, dimensionado para incluir escritorios, almacenamiento, circulación y holguras de accesibilidad. Una **Baldosa** es un grupo componible de Plantas Clave — cada Baldosa es exactamente una zona climática HVAC. Una **Planta** es el conjunto de Baldosas más un Núcleo del Edificio más Baldosas Especiales; nada de la planta queda sin representar.
+La metodología de planta es un sistema de planificación espacial geométrico en el que cada pie cuadrado de un edificio se asigna a una Planta Clave con nombre que se rastrea directamente hasta dimensiones de mobiliario real. Una **[[topic-bim-key-plans-index|Planta Clave]]** es la unidad mínima: un rectángulo etiquetado alrededor del inventario real de mobiliario de un inquilino, dimensionado para incluir escritorios, almacenamiento, circulación y holguras de accesibilidad. Una **[[topic-bim-tile-system|Baldosa]]** es un grupo componible de Plantas Clave — cada Baldosa es exactamente una zona climática HVAC. Una **Planta** es el conjunto de Baldosas más un Núcleo del Edificio más Baldosas Especiales; nada de la planta queda sin representar. La geometría de las baldosas sigue la [[topic-bim-building-width-method|Calculadora de Anchura del Edificio]] y las [[topic-bim-zone-depths-per-use-type|profundidades de zona por tipo de uso]]; los ejemplos de ensamblajes con nombre están catalogados en [[topic-bim-floor-plate-tile-combinations|combinaciones de baldosas de la planta]].
 
 El sistema se define en la Metodología V12 (mayo 2025) y la Ficha Técnica V12 (enero 2026) como "un sistema de planificación espacial geométrico, autosimilar y aperiódico basado en disposiciones de mobiliario y equipamiento, circulación y progresiones modulares de área por persona."
 
@@ -59,7 +59,7 @@ El Núcleo del Edificio (ascensores, escaleras de servicio, escaleras de emergen
 
 ### FP-SNAP — la anchura de la Baldosa Especial coincide con la anchura de la Planta Clave
 
-Las Baldosas Especiales SP-A, SP-B y SP-C rellenan el área residual que rodea el Núcleo. Su anchura se ajusta a la anchura de la Planta Clave de Oficina Profesional más próxima. Esto preserva la continuidad de los tabiques divisorios. SP-C, frente al Núcleo, debe evitar la alineación directa de cualquier puerta con la apertura del ascensor (Metodología V12 p. 9).
+Las Baldosas Especiales SP-A, SP-B y SP-C rellenan el área residual que rodea el Núcleo. Su anchura se ajusta a la anchura de la [[topic-bim-professional-office-key-plans|Planta Clave de Oficina Profesional]] más próxima. Esto preserva la continuidad de los tabiques divisorios. SP-C, frente al Núcleo, debe evitar la alineación directa de cualquier puerta con la apertura del ascensor (Metodología V12 p. 9).
 
 ### FP-CLIMATE — una baldosa, una zona HVAC
 

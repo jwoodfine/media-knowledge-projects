@@ -16,7 +16,7 @@ editor: pointsav-engineering
 paired_with: topic-bim-private-office-key-plans.md
 ---
 
-Oficina Privada es un tipo de uso separado de la Oficina Profesional. Cada suite de Oficina Privada da directamente al corredor compartido del edificio — no hay corredor bilateral interno. El inquilino es típicamente un profesional individual, no una firma.
+Oficina Privada es un tipo de uso separado de la [[topic-bim-professional-office-key-plans|Oficina Profesional]]. Cada suite de Oficina Privada da directamente al corredor compartido del edificio — no hay corredor bilateral interno. El inquilino es típicamente un profesional individual, no una firma. La geometría de la suite se calcula mediante la [[topic-bim-building-width-method|Calculadora de Anchura del Edificio]] y los valores por tipo de uso catalogados en [[topic-bim-zone-depths-per-use-type|profundidades de zona por tipo de uso]]; las Plantas Clave alimentan el [[topic-bim-tile-system|sistema de teselas]] y la [[topic-bim-floor-plate-methodology|metodología de la planta]].
 
 ## Los tres tamaños
 
@@ -30,7 +30,7 @@ Oficina Privada es un tipo de uso separado de la Oficina Profesional. Cada suite
 
 | Zona | Profundidad | Nota |
 |---|---|---|
-| Zona 1 — Hábitat | 5,9944 m (19'-8") | Marcada para revisión — ligeramente inferior al estándar europeo de iluminación de 6,0 m |
+| Zona 1 — Hábitat | 5,9944 m (19'-8") | Marcada para revisión en la firma final de la [[topic-bim-key-plans-index|Planta Clave]] — ligeramente inferior al estándar europeo de iluminación de 6,0 m |
 | Zona 2 — Revista | 1,3716 m (4'-6") | Almacenamiento somero |
 | Zona 3 — Corredor | 0 m | Ninguno — cada oficina da al corredor del edificio |
 

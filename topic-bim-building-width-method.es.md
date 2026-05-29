@@ -15,7 +15,7 @@ editor: pointsav-engineering
 paired_with: topic-bim-building-width-method.md
 ---
 
-Los edificios de oficinas convencionales parten de una anchura de edificio —sesenta pies para la iluminación natural es la regla general en la oficina especulativa de Clase A en América del Norte— y el acondicionamiento del inquilino se adapta a continuación. La Calculadora de Anchura del Edificio invierte esa secuencia. Parte del mobiliario del inquilino (escritorio, camilla de exploración, mesa de laboratorio, banco de sala de vistas) y la anchura del edificio es la que exige la disposición.
+Los edificios de oficinas convencionales parten de una anchura de edificio —sesenta pies para la iluminación natural es la regla general en la oficina especulativa de Clase A en América del Norte— y el acondicionamiento del inquilino se adapta a continuación. La Calculadora de Anchura del Edificio invierte esa secuencia. Parte del mobiliario del inquilino (escritorio, camilla de exploración, mesa de laboratorio, banco de sala de vistas) y la anchura del edificio es la que exige la disposición. El método alimenta los valores por tipo de uso catalogados en [[topic-bim-zone-depths-per-use-type|profundidades de zona por tipo de uso]] y rige la geometría del [[topic-bim-tile-system|sistema de teselas]] que compone la [[topic-bim-floor-plate-methodology|planta]].
 
 Fuente: V12 (enero 2025), *Taxonomía Espacial — Calculadora de Anchura del Edificio*.
 
@@ -61,20 +61,20 @@ La profundidad de iluminación natural de 6 m es la intención de diseño para e
 El valor de 6 m no es universal. Tres de los siete tipos de uso establecidos se desvían:
 
 - **Académico** comprime el Hábitat a **4,7 m** porque el asiento mira hacia adelante (hacia un podio o pizarra) y no hacia la fachada.
-- **Médico** amplía el Hábitat a **7,28 m** para alojar la profundidad de la camilla de exploración junto con las distancias de circulación de paciente y personal sanitario según los códigos de accesibilidad.
+- **[[topic-bim-medical-key-plans|Médico]]** amplía el Hábitat a **7,28 m** para alojar la profundidad de la camilla de exploración junto con las distancias de circulación de paciente y personal sanitario según los códigos de accesibilidad.
 - **Laboratorio** amplía el Hábitat a **6,78 m** para alojar la profundidad de la mesa de trabajo y el espacio libre alrededor de la campana de extracción.
 
 ### Zona 2 — Almacén
 
 El Almacén es la variable de ajuste. Alberga almacenamiento, estanterías, archivos, salas de servidores y salas de personal. La anchura la fija lo que el inquilino necesita para equilibrar la planta — V12 indica que la profundidad de la Zona 2 "puede utilizarse para equilibrar las dimensiones de la planta y evitar obtener simplemente un rectángulo largo y estrecho."
 
-En la práctica, la Zona 2 es la zona más ancha en los usos de Negocio (9,26 m, Opción A/A) y Cívico (7,23 m), y la más estrecha en Oficina Privada (1,37 m, 4'6") porque los despachos individuales requieren muy poco almacenamiento compartido.
+En la práctica, la Zona 2 es la zona más ancha en los usos de [[topic-bim-business-key-plans|Negocio]] (9,26 m, Opción A/A) y Cívico (7,23 m), y la más estrecha en [[topic-bim-private-office-key-plans|Oficina Privada]] (1,37 m, 4'6") porque los despachos individuales requieren muy poco almacenamiento compartido.
 
 ### Zona 3 — Corredor
 
 El corredor es una única línea central. Su anchura la fijan los requisitos de evacuación y accesibilidad: mínimos de camilla del IBC para uso Médico, evacuación de alta peligrosidad del IBC para Laboratorio, evacuación de asamblea pública para uso Cívico. V12 establece que los corredores deben ser **sobredimensionados en un 20 %** para favorecer el bienestar y absorber el tráfico de entrada y salida.
 
-Dos tipos de uso — Oficina Privada y Académico — **no tienen Zona 3**. Sus arrendamientos abren directamente al corredor del edificio compartido, que forma parte del núcleo del edificio y queda fuera del arrendamiento.
+Dos tipos de uso — [[topic-bim-private-office-key-plans|Oficina Privada]] y Académico — **no tienen Zona 3**. Sus arrendamientos abren directamente al corredor del edificio compartido, que forma parte del núcleo del edificio y queda fuera del arrendamiento.
 
 ## La adición de 0,7 m por escritorios perpendiculares
 

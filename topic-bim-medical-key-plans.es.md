@@ -16,7 +16,7 @@ editor: pointsav-engineering
 paired_with: topic-bim-medical-key-plans.md
 ---
 
-La Oficina Médica es uno de los cinco sub-tipos de Oficina Profesional. Su característica distintiva es la Zona 1 Hábitat a 7,2 m — la más ancha de cualquier sub-tipo — determinada por la profundidad de la camilla de exploración más la circulación requerida para paciente y clínico.
+La Oficina Médica es uno de los cinco sub-tipos de [[topic-bim-professional-office-key-plans|Oficina Profesional]]. Su característica distintiva es la Zona 1 Hábitat a 7,2 m — la más ancha de cualquier sub-tipo — determinada por la profundidad de la camilla de exploración más la circulación requerida para paciente y clínico. La profundidad se calcula mediante la [[topic-bim-building-width-method|Calculadora de Anchura del Edificio]] y alimenta el [[topic-bim-tile-system|sistema de teselas]] que compone la [[topic-bim-floor-plate-methodology|planta]].
 
 ## Los tres tamaños
 

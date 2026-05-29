@@ -17,18 +17,20 @@ paired_with: topic-bim-zone-depths-per-use-type.md
 
 > **Complemento:** [[topic-bim-building-width-method]] para la fórmula y la sección transversal especular.
 
+Este artículo cataloga las profundidades de zona por lado que alimentan el [[topic-bim-tile-system|sistema de teselas]] y la [[topic-bim-floor-plate-methodology|metodología de la planta]]; el inventario de Plantas Clave con nombre está en [[topic-bim-key-plans-index|el índice de Plantas Clave]]. Las especializaciones por subtipo se documentan en [[topic-bim-professional-office-key-plans|Oficina Profesional]] y sus subartículos [[topic-bim-medical-key-plans|Médico]], [[topic-bim-business-key-plans|Empresarial]] y [[topic-bim-private-office-key-plans|Oficina Privada]].
+
 ## Tabla resumen — valores canónicos
 
 Los valores de Z1/Z2/Z3 indicados a continuación son las profundidades **por lado** (Z1 y Z2 son especulares; Z3 es única en la línea central). Todos los valores se remontan a la fuente citada.
 
 | Tipo de Uso | Z1 Hábitat | Z2 Almacén | Z3 Corredor | Anchura del Edificio | Fuente |
 |---|---|---|---|---|---|
-| Oficina Privada | 5,9944 m / 19'8" | 1,3716 m / 4'6" | — | **14,73 m / 48'4"** | Bocetos PO-1/PO-2/PO-3 |
+| [[topic-bim-private-office-key-plans|Oficina Privada]] | 5,9944 m / 19'8" | 1,3716 m / 4'6" | — | **14,73 m / 48'4"** | Bocetos PO-1/PO-2/PO-3 |
 | Académico | 4,7 m / 15'5" | 3,0 m / 9'10" | — | **15,40 m / 50'6"** | Resumen V2, 2025-05-13 |
-| Oficina Profesional (referencia V12) | 6,0 m / 19'8" | 3,0 m / 9'10" | 3,0 m / 9'10" | **21,00 m / 68'11"** | V12, 2025-01-07 (Z2/Z3 marcados como por definir) |
+| [[topic-bim-professional-office-key-plans|Oficina Profesional]] (referencia V12) | 6,0 m / 19'8" | 3,0 m / 9'10" | 3,0 m / 9'10" | **21,00 m / 68'11"** | V12, 2025-01-07 (Z2/Z3 marcados como por definir) |
 | Laboratorio | 6,7818 m / 22'3" | 4,8006 m / 15'9" | 3,048 m / 10'0" | **26,21 m / 86'0"** | Resumen V2; egreso de alta peligrosidad IBC |
-| Médico | 7,2819 m / 23'10" | 4,877 m / 16'0" | 2,892 m / 9'5" | **27,20 m / 89'3"** | Bocetos M3/M1/M2 (286 5/8" + 192" + 113 7/8") |
-| Negocio | 5,51 m / 18'1" | 9,26 m / 30'5" | 2,75 m / 9'0" | **29,30 m / 96'2"** | Notas V3 Opción A/A (la más ancha enumerada) |
+| [[topic-bim-medical-key-plans|Médico]] | 7,2819 m / 23'10" | 4,877 m / 16'0" | 2,892 m / 9'5" | **27,20 m / 89'3"** | Bocetos M3/M1/M2 (286 5/8" + 192" + 113 7/8") |
+| [[topic-bim-business-key-plans|Negocio]] | 5,51 m / 18'1" | 9,26 m / 30'5" | 2,75 m / 9'0" | **29,30 m / 96'2"** | Notas V3 Opción A/A (la más ancha enumerada) |
 | Cívico | 6,0 m / 19'8" | 7,23 m / 23'9" | 3,6 m / 11'10" | **30,06 m / 98'8"** | Valores sintetizados; sin boceto completado |
 
 Fórmula: `Anchura = 2 × (Z1 + Z2) + Z3`. Consulte [[topic-bim-building-width-method]] para la derivación.

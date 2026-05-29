@@ -15,7 +15,7 @@ editor: pointsav-engineering
 paired_with: topic-bim-floor-plate-tile-combinations.md
 ---
 
-La Metodología de la Planta es intencionalmente no determinista: el catálogo tiene el tamaño necesario para que existan múltiples composiciones válidas para cualquier combinación de inquilinos. Este artículo documenta las composiciones de muestra con nombre de la Metodología V12, los compromisos que implica cada una y las consecuencias para el arrendamiento.
+La [[topic-bim-floor-plate-methodology|Metodología de la Planta]] es intencionalmente no determinista: el catálogo tiene el tamaño necesario para que existan múltiples composiciones válidas para cualquier combinación de inquilinos. Este artículo documenta las composiciones de muestra con nombre de la Metodología V12, los compromisos que implica cada una y las consecuencias para el arrendamiento. Las baldosas se toman del [[topic-bim-tile-system|sistema de teselas]], compuesto de [[topic-bim-key-plans-index|Plantas Clave]] dimensionadas mediante las [[topic-bim-zone-depths-per-use-type|profundidades de zona por tipo de uso]].
 
 ## Las cuatro composiciones de muestra de la Metodología V12
 
@@ -68,11 +68,11 @@ Mayoritariamente Baldosa A / Baldosa F / fracciones Corporativas. Pocas zonas cl
 
 ### De predominio de Oficina Privada (Mixta)
 
-Mayoritariamente Baldosa B-1 / Baldosa G / End Caps mixtos E-1/E-2. De 30 a 40 zonas climáticas por planta. Autonomía máxima del termostato. Mayor coste de ingeniería HVAC; mayor rentabilidad del arrendamiento porque cada termostato es una línea de factura independiente.
+Mayoritariamente Baldosa B-1 / Baldosa G / End Caps mixtos E-1/E-2. De 30 a 40 zonas climáticas por planta. Autonomía máxima del termostato. Mayor coste de ingeniería HVAC; mayor rentabilidad del arrendamiento porque cada termostato es una línea de factura independiente. Véase [[topic-bim-private-office-key-plans|Planos clave de Oficina Privada]] para el conjunto de Plantas Clave subyacente.
 
 ### Centro Profesional (Mixta)
 
-Mayoritariamente Baldosa C-1/C-2/C-3/C-4 / Baldosa H. Adecuada para inquilinos de rango medio de usos médico, empresarial, de laboratorio, académico y cívico. El número de zonas climáticas es moderado (8–15 por planta). La metodología denomina a esta la configuración de planta media canónica.
+Mayoritariamente Baldosa C-1/C-2/C-3/C-4 / Baldosa H. Adecuada para inquilinos de rango medio de usos [[topic-bim-medical-key-plans|médico]], [[topic-bim-business-key-plans|empresarial]], de laboratorio, académico y cívico. El número de zonas climáticas es moderado (8–15 por planta). La metodología denomina a esta la configuración de planta media canónica.
 
 ### Planta mixta
 
