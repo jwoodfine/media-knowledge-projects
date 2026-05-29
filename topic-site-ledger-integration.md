@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Every active Woodfine development site generates an immutable digital audit trail maintained by the PointSav platform — the legal record of construction milestones, inspection outcomes, and schedule variances that investors and regulators can independently verify. Each site maps to its own isolated archive; events on the physical site generate records that cannot be overwritten after entry.
+Every active Woodfine development site generates an immutable digital audit trail maintained by the PointSav platform — the legal record of construction milestones, inspection outcomes, and schedule variances that investors and regulators can independently verify. Each site maps to its own isolated archive; events on the physical site generate records that cannot be overwritten after entry. The ledger records compliance with the [[topic-asset-architecture-standard|Asset Architecture Standard]] from the moment of acquisition (gated by the [[topic-zoning-acquisition-rules|zoning acquisition rules]]) through commissioning.
 
 ## The digital container model
 

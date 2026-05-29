@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Every Woodfine Management Corp. development must satisfy a structural specification before land acquisition proceeds — concrete and steel construction, pre-dimensioned floor plates, no site-specific exceptions. The standard eliminates post-acquisition design negotiation and the budget variance that follows from it.
+Every Woodfine Management Corp. development must satisfy a structural specification before land acquisition proceeds — concrete and steel construction, pre-dimensioned floor plates, no site-specific exceptions. The standard eliminates post-acquisition design negotiation and the budget variance that follows from it. It is applied alongside the [[topic-zoning-acquisition-rules|zoning acquisition rules]] and the [[topic-co-location-anchors|anchor adjacency requirement]], and compliance is recorded over time via [[topic-site-ledger-integration|site ledger integration]].
 
 ## Structural configuration
 
@@ -36,13 +36,14 @@ This discipline keeps development cost predictable across markets. A concrete-an
 
 ## Relationship to co-location anchors
 
-The standard is applied in conjunction with the co-location anchor adjacency requirement. A site that passes the architectural standard but fails the anchor proximity test — or vice versa — does not proceed. The two criteria are applied together, not sequentially.
+The standard is applied in conjunction with the [[topic-co-location-anchors|co-location anchor]] adjacency requirement. A site that passes the architectural standard but fails the anchor proximity test — or vice versa — does not proceed. The two criteria are applied together, not sequentially.
 
 ## See also
 
 - [[topic-co-location-anchors]] — anchor adjacency requirement applied alongside the architecture standard
 - [[topic-zoning-acquisition-rules]] — zoning verification that applies before any development proceeds
 - [[topic-site-ledger-integration]] — how construction compliance with the standard is recorded
+- [Three-Ring Architecture](https://documentation.pointsav.com/architecture/three-ring-architecture) — the vendor architecture standard referenced in this article
 
 ---
 

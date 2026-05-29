@@ -18,11 +18,11 @@ cites:
   - osc-sn-51-721
 ---
 
-Woodfine Management Corp. verifies zoning approval and establishes an active development timeline before completing any land acquisition — speculative land banking is prohibited by the acquisition model, not just by policy. Every parcel has a verified path to development under applicable municipal regulations before the purchase contract is executed.
+Woodfine Management Corp. verifies zoning approval and establishes an active development timeline before completing any land acquisition — speculative land banking is prohibited by the acquisition model, not just by policy. Every parcel has a verified path to development under applicable municipal regulations before the purchase contract is executed. The rule is applied alongside the [[topic-co-location-anchors|anchor]] adjacency requirement and the [[topic-asset-architecture-standard|Asset Architecture Standard]]; the development timeline is recorded by [[topic-site-ledger-integration|site ledger integration]].
 
 ## Pre-acquisition zoning verification
 
-No land purchase may proceed without prior verification of the applicable municipal zoning designation. Verification confirms that the target development — a professional office building meeting the Asset Architecture Standard — is a permitted use under the existing zoning regime, or that a rezoning approval is already in hand before purchase.
+No land purchase may proceed without prior verification of the applicable municipal zoning designation. Verification confirms that the target development — a professional office building meeting the [[topic-asset-architecture-standard|Asset Architecture Standard]] — is a permitted use under the existing zoning regime, or that a rezoning approval is already in hand before purchase.
 
 Post-acquisition rezoning is not part of the acquisition model. A parcel whose development use depends on rezoning approval that has not yet been granted is not an approved target. The zoning must be confirmed to permit the intended use before the purchase contract is executed.
 
@@ -36,7 +36,7 @@ This rule eliminates the carrying cost exposure of indefinitely held vacant land
 
 Speculative land banking — acquiring parcels with no defined development timeline in anticipation of future appreciation — is structurally prohibited. The prohibition is not a policy preference; it is a consequence of the development mandate. A parcel without an active development timeline does not satisfy the conditions for acquisition.
 
-This distinguishes the co-location platform's acquisition model from traditional real estate speculation, where land is purchased for future appreciation without commitment to productive use. Every parcel in the portfolio has a defined development purpose at the time of acquisition.
+This distinguishes the [[topic-co-location-intelligence-overview|co-location platform]]'s acquisition model from traditional real estate speculation, where land is purchased for future appreciation without commitment to productive use. Every parcel in the portfolio has a defined development purpose at the time of acquisition.
 
 ## See also
 
