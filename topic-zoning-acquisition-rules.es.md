@@ -18,11 +18,11 @@ cites:
   - osc-sn-51-721
 ---
 
-Woodfine Management Corp. verifica la aprobación de zonificación y establece un cronograma de desarrollo activo antes de completar cualquier adquisición de terreno — la acumulación especulativa de terrenos está prohibida por el modelo de adquisición, no solo por política. Cada parcela tiene una vía verificada hacia el desarrollo bajo las regulaciones municipales aplicables antes de que se ejecute el contrato de compra.
+Woodfine Management Corp. verifica la aprobación de zonificación y establece un cronograma de desarrollo activo antes de completar cualquier adquisición de terreno — la acumulación especulativa de terrenos está prohibida por el modelo de adquisición, no solo por política. Cada parcela tiene una vía verificada hacia el desarrollo bajo las regulaciones municipales aplicables antes de que se ejecute el contrato de compra. La regla se aplica junto con el requisito de adyacencia de [[topic-co-location-anchors|anclas]] y la [[topic-asset-architecture-standard|Norma de Arquitectura del Activo]]; el cronograma de desarrollo se registra mediante la [[topic-site-ledger-integration|integración del registro del sitio]].
 
 ## Verificación de zonificación previa a la adquisición
 
-Ninguna compra de terreno puede proceder sin la verificación previa de la designación de zonificación municipal aplicable. La verificación confirma que el desarrollo objetivo — un edificio de oficinas profesionales que cumpla el Estándar de Arquitectura de Activos — es un uso permitido bajo el régimen de zonificación existente, o que una aprobación de rezonificación ya está en mano antes de la compra.
+Ninguna compra de terreno puede proceder sin la verificación previa de la designación de zonificación municipal aplicable. La verificación confirma que el desarrollo objetivo — un edificio de oficinas profesionales que cumpla la [[topic-asset-architecture-standard|Norma de Arquitectura del Activo]] — es un uso permitido bajo el régimen de zonificación existente, o que una aprobación de rezonificación ya está en mano antes de la compra.
 
 La rezonificación posterior a la adquisición no forma parte del modelo de adquisición. Una parcela cuyo uso de desarrollo depende de una aprobación de rezonificación que aún no se ha concedido no es un objetivo aprobado.
 

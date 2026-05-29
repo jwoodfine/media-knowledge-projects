@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Cada desarrollo de Woodfine Management Corp. debe satisfacer una especificación estructural antes de que proceda la adquisición del terreno — construcción de hormigón y acero, placas de piso pre-dimensionadas, sin excepciones por sitio. El estándar elimina la negociación de diseño posterior a la adquisición y la variación presupuestaria que resulta de ella.
+Cada desarrollo de Woodfine Management Corp. debe satisfacer una especificación estructural antes de que proceda la adquisición del terreno — construcción de hormigón y acero, placas de piso pre-dimensionadas, sin excepciones por sitio. El estándar elimina la negociación de diseño posterior a la adquisición y la variación presupuestaria que resulta de ella. Se aplica junto con las [[topic-zoning-acquisition-rules|reglas de adquisición por zonificación]] y el requisito de adyacencia de [[topic-co-location-anchors|anclas]], y su cumplimiento se registra en el tiempo mediante la [[topic-site-ledger-integration|integración del registro del sitio]].
 
 ## Configuración estructural
 
@@ -39,6 +39,7 @@ Esta disciplina mantiene el costo de desarrollo predecible entre mercados. Un ac
 - [[topic-co-location-anchors]] — requisito de adyacencia al ancla que se aplica junto con el estándar de arquitectura
 - [[topic-zoning-acquisition-rules]] — verificación de zonificación que aplica antes de que proceda cualquier desarrollo
 - [[topic-site-ledger-integration]] — cómo se registra el cumplimiento del estándar durante la construcción
+- [Arquitectura de Tres Anillos](https://documentation.pointsav.com/architecture/three-ring-architecture) — el estándar de arquitectura del proveedor referenciado en este artículo
 
 ---
 

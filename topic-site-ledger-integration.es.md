@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Cada sitio de desarrollo activo de Woodfine genera un registro de auditoría digital inmutable mantenido por la plataforma PointSav — el registro legal de hitos de construcción, resultados de inspecciones y variaciones de cronograma que los inversores y reguladores pueden verificar de forma independiente. Cada sitio se asigna a su propio archivo aislado; los eventos en el sitio físico generan registros que no pueden sobrescribirse después de ser ingresados.
+Cada sitio de desarrollo activo de Woodfine genera un registro de auditoría digital inmutable mantenido por la plataforma PointSav — el registro legal de hitos de construcción, resultados de inspecciones y variaciones de cronograma que los inversores y reguladores pueden verificar de forma independiente. Cada sitio se asigna a su propio archivo aislado; los eventos en el sitio físico generan registros que no pueden sobrescribirse después de ser ingresados. El libro contable registra el cumplimiento de la [[topic-asset-architecture-standard|Norma de Arquitectura del Activo]] desde el momento de la adquisición (regulada por las [[topic-zoning-acquisition-rules|reglas de adquisición por zonificación]]) hasta la puesta en servicio.
 
 ## El modelo de contenedor digital
 
