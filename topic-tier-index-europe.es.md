@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El Índice de Niveles de Co-ubicación de Europa clasifica los nodos comerciales de España, Italia, Polonia y la región nórdica según la convergencia independiente del comercio de gran formato y la infraestructura cívica. Cada nodo se puntúa por la proximidad de IKEA (Objetivo Primario) a operadores secundarios de ferretería y almacén (Leroy Merlin, Makro) y anclas cívicas terciarias (salud, educación superior) dentro de los radios de captación definidos, siguiendo la [[topic-co-location-methodology]].
+El Índice de Niveles de Co-ubicación de Europa clasifica los nodos comerciales de España, Italia, Polonia y la región nórdica según la convergencia independiente del comercio de gran formato y la infraestructura cívica. Cada nodo se puntúa por la proximidad de IKEA (Objetivo Primario) a operadores secundarios de ferretería y almacén (Leroy Merlin, Makro) y [[topic-co-location-anchors|anclas]] cívicas terciarias (salud, educación superior) dentro de los radios de captación definidos, siguiendo la [[topic-co-location-methodology]] y operacionalizado por el [[topic-co-location-ranking-system|sistema de clasificación determinista]]. Las etiquetas de nivel orientadas al mapa siguen la jerarquía ICSC descrita en [[topic-co-location-tier-nomenclature|nomenclatura de niveles]].
 
 ## Escasez de Mercado y Validación Institucional
 

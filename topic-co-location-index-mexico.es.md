@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El Índice de Co-ubicación de México clasifica los nodos comerciales del mercado mexicano según la [[topic-co-location-methodology]]. Los sitios se evalúan donde Walmart Supercentre opera como ancla Objetivo Primario, puntuados frente a operadores secundarios (Home Depot, Costco) e infraestructura cívica terciaria dentro de los radios de captación definidos.
+El Índice de Co-ubicación de México clasifica los nodos comerciales del mercado mexicano según la [[topic-co-location-methodology]] y el [[topic-co-location-ranking-system|sistema de clasificación determinista]]. Los sitios se evalúan donde Walmart Supercentre opera como [[topic-co-location-anchors|ancla]] Objetivo Primario, puntuados frente a operadores secundarios (Home Depot, Costco) e infraestructura cívica terciaria dentro de los radios de captación definidos. México es uno de los tres mercados cubiertos en el [[topic-tier-index-north-america|índice de niveles de América del Norte]].
 
 ## Red de Anclas
 

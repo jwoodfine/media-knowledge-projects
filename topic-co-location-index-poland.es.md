@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El Índice de Co-ubicación de Polonia clasifica los nodos comerciales del mercado polaco según la [[topic-co-location-methodology]]. Los sitios se evalúan donde IKEA opera como ancla Objetivo Primario, puntuados frente a operadores secundarios (Makro, Leroy Merlin) e infraestructura cívica terciaria dentro de los radios de captación definidos.
+El Índice de Co-ubicación de Polonia clasifica los nodos comerciales del mercado polaco según la [[topic-co-location-methodology]] y el [[topic-co-location-ranking-system|sistema de clasificación determinista]]. Los sitios se evalúan donde IKEA opera como [[topic-co-location-anchors|ancla]] Objetivo Primario, puntuados frente a operadores secundarios (Makro, Leroy Merlin) e infraestructura cívica terciaria dentro de los radios de captación definidos. Polonia es uno de los cuatro mercados cubiertos en el [[topic-tier-index-europe|índice europeo de niveles]].
 
 ## Red de Anclas
 

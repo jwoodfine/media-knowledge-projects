@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El Índice de Co-ubicación de Italia clasifica los nodos comerciales de la península italiana según la [[topic-co-location-methodology]]. Los sitios se evalúan donde IKEA opera como ancla Objetivo Primario, puntuados frente a operadores secundarios (Leroy Merlin, Makro) e infraestructura cívica terciaria dentro de los radios de captación definidos.
+El Índice de Co-ubicación de Italia clasifica los nodos comerciales de la península italiana según la [[topic-co-location-methodology]] y el [[topic-co-location-ranking-system|sistema de clasificación determinista]]. Los sitios se evalúan donde IKEA opera como [[topic-co-location-anchors|ancla]] Objetivo Primario, puntuados frente a operadores secundarios (Leroy Merlin, Makro) e infraestructura cívica terciaria dentro de los radios de captación definidos. Italia es uno de los cuatro mercados cubiertos en el [[topic-tier-index-europe|índice europeo de niveles]].
 
 ## Red de Anclas
 
