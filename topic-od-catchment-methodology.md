@@ -15,7 +15,7 @@ short_description: "Trade areas for each co-location cluster are defined using c
 paired_with: topic-od-catchment-methodology.es.md
 ---
 
-The Woodfine co-location platform defines trade areas for each cluster using an Origin-Destination (O-D) model based on crow-flies distance rings over a hexagonal spatial grid. Each cluster is assigned two catchment zones that determine which population and spend data is attributed to it.
+The Woodfine [[topic-co-location-methodology|co-location]] platform defines trade areas for each cluster using an Origin-Destination (O-D) model based on crow-flies distance rings over a hexagonal spatial grid. Each cluster is assigned two catchment zones that determine which population and spend data is attributed to it. The trade-area inputs to the [[topic-co-location-ranking-system|deterministic ranking system]] and the [[topic-catchment-ranking-methodology-v3|V3 catchment ranking methodology]] flow from this model; population and spend layers are documented in [[topic-trade-area-data-sources|trade-area data sources]].
 
 ## Spatial Framework
 
@@ -52,7 +52,7 @@ The platform distinguishes two perspectives on catchment population.
 
 ## One Cell, Multiple Clusters
 
-A single H3 cell may fall within the catchment of multiple co-location clusters. This is intentional: trade areas are not exclusive territories. A household within 35 km of two competing clusters contributes to both clusters' primary catchment populations. This reflects the competitive retail landscape and is foundational to the cross-cluster comparison methodology.
+A single H3 cell may fall within the catchment of multiple co-location clusters. This is intentional: trade areas are not exclusive territories. A household within 35 km of two competing clusters contributes to both clusters' primary catchment populations. This reflects the competitive retail landscape and is foundational to the cross-cluster comparison methodology; cluster boundary handling at the same parking lot is documented in [[topic-cluster-deduplication-threshold|cluster deduplication threshold]].
 
 ## Application
 

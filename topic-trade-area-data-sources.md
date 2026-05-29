@@ -15,7 +15,7 @@ short_description: "Population estimates from WorldPop 2026 and annual per-capit
 paired_with: topic-trade-area-data-sources.es.md
 ---
 
-Population estimates and retail spend estimates are the two input layers that drive trade area statistics for each co-location cluster. Both are derived from publicly available data sources and applied at the H3 resolution-7 hexagonal grid level.
+Population estimates and retail spend estimates are the two input layers that drive trade area statistics for each [[topic-co-location-methodology|co-location]] cluster. Both are derived from publicly available data sources and applied at the H3 resolution-7 hexagonal grid level, per the [[topic-od-catchment-methodology|O-D catchment methodology]]. Together they supply the population and spend axes used by the [[topic-co-location-ranking-system|deterministic ranking system]] and the [[topic-catchment-ranking-methodology-v3|V3 catchment ranking methodology]].
 
 ## Population Data
 

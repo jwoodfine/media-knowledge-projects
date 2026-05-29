@@ -18,13 +18,13 @@ cites:
   - osc-sn-51-721
 ---
 
-The Woodfine co-location ranking system evaluates retail sites using a **named-anchor combination matrix** — a deterministic algorithm that scores each hypermarket anchor location based on the convergence of secondary and tertiary retail and civic categories within defined catchment radii.
+The Woodfine [[topic-co-location-methodology|co-location methodology]] is operationalised as a **named-anchor combination matrix** — a deterministic algorithm that scores each hypermarket [[topic-co-location-anchors|anchor]] location based on the convergence of secondary and tertiary retail and civic categories within defined catchment radii.
 
-The system produces a 12-rank index mapped to five quality tiers, visualised on the Geographic Information System (GIS) platform at [gis.woodfinegroup.com](https://gis.woodfinegroup.com) using a warm-to-cool colour scale: deep amber (★★★★★ Tier 5, highest) through pale blue (★ Tier 1, lowest). This approach provides an objective, capital-validated framework for assessing commercial site defensibility.
+The system produces a 12-rank index mapped to five quality tiers, visualised on the Geographic Information System (GIS) platform at [gis.woodfinegroup.com](https://gis.woodfinegroup.com) using a warm-to-cool colour scale: deep amber (★★★★★ Tier 5, highest) through pale blue (★ Tier 1, lowest). The map-facing labels — Regional, District, Local, Fringe — follow the ICSC hierarchy described in [[topic-co-location-tier-nomenclature|tier nomenclature]], and qualification gates are detailed in the [[topic-catchment-ranking-methodology-v3|V3 catchment ranking methodology]]. This approach provides an objective, capital-validated framework for assessing commercial site defensibility.
 
 ## The Named-Anchor Model
 
-Every co-location site in the index is anchored by a single hypermarket or large-format general merchandise operator — Walmart, IKEA, Carrefour, and their regional equivalents. The anchor is the foundational requirement: no site without a qualifying anchor is admitted to the index.
+Every co-location site in the index is anchored by a single hypermarket or large-format general merchandise operator — Walmart, IKEA, Carrefour, and their regional equivalents. The anchor is the foundational requirement: no site without a qualifying anchor is admitted to the index. The full chain-to-family mapping is documented in the [[topic-retail-brand-family-taxonomy|retail brand family taxonomy]].
 
 Secondary and tertiary operators are classified into four deterministic categories:
 

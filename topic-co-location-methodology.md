@@ -21,11 +21,11 @@ cites:
 
 Retail development capital is usually committed on comparables and analyst sentiment. Whether independent demand actually converges at a site — the reason it should succeed — is assumed rather than measured.
 
-The Woodfine co-location methodology measures it. <!--claim id=convergence-ranking confidence=structural cites=[]-->It ranks development sites by the objective convergence of independent, capital-intensive retail operators, not by market sentiment or analyst forecasts.<!--/claim-->
+The Woodfine co-location methodology measures it. <!--claim id=convergence-ranking confidence=structural cites=[]-->It ranks development sites by the objective convergence of independent, capital-intensive retail operators, not by market sentiment or analyst forecasts.<!--/claim--> The framework is operationalised by the [[topic-co-location-ranking-system|deterministic ranking system]] and exposed to platform users via the [[topic-co-location-intelligence-overview|co-location intelligence overview]].
 
-<!--claim id=node-qualification confidence=structural cites=[]-->A node qualifies when a hypermarket, a warehouse club, and a home-improvement superstore have each independently committed capital within 1.0 to 3.0 km of one another.<!--/claim--> Each operator runs its own site-selection process; convergence is independent corroboration, not a single forecast.
+<!--claim id=node-qualification confidence=structural cites=[]-->A node qualifies when a hypermarket, a warehouse club, and a home-improvement superstore have each independently committed capital within 1.0 to 3.0 km of one another.<!--/claim--> Each operator runs its own site-selection process; convergence is independent corroboration, not a single forecast. The qualification logic, [[topic-co-location-cluster-formation|cluster formation]], and the [[topic-co-location-anchors|anchor]] adjacency requirement are the three structural inputs to the index.
 
-For a capital allocator the index is a defensive filter: it prioritises the sites where several parties have independently validated the trade area. This article covers the Named-Anchor Model, the three operator tiers, and the five quality tiers.
+For a capital allocator the index is a defensive filter: it prioritises the sites where several parties have independently validated the trade area. This article covers the Named-Anchor Model, the three operator tiers, and the five quality tiers; sibling articles describe the [[topic-od-catchment-methodology|O-D catchment methodology]], the [[topic-trade-area-data-sources|trade-area data sources]], and the [[topic-catchment-ranking-methodology-v3|catchment ranking methodology]].
 
 ## The Named-Anchor Model
 
@@ -56,7 +56,7 @@ Civic and institutional infrastructure that provides a non-cyclical, stable demo
 
 ## Quality tiers and site validation
 
-<!--claim id=twelve-rank-matrix confidence=structural cites=[]-->Sites are evaluated on a 12-rank matrix that maps to five quality tiers, separating commodity retail nodes from the rare locations where critical commercial elements converge.<!--/claim-->
+<!--claim id=twelve-rank-matrix confidence=structural cites=[]-->Sites are evaluated on a 12-rank matrix that maps to five quality tiers, separating commodity retail nodes from the rare locations where critical commercial elements converge.<!--/claim--> The map-facing labels — Regional, District, Local, Fringe — follow the ICSC retail property hierarchy described in [[topic-co-location-tier-nomenclature|tier nomenclature]].
 
 | Tier | Description | Commercial validation |
 |------|-------------|-----------------------|

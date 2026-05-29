@@ -20,7 +20,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The co-location tier system assigns each cluster to one of four tiers — Regional, District, Local, or Fringe — using binary predicate gates rather than a composite score. A cluster must pass every gate in a tier's gate set to qualify for that tier; partial scores do not accumulate. This methodology describes the V3 implementation introduced in Sprint 17 (May 2026).
+The [[topic-co-location-methodology|co-location]] tier system assigns each cluster to one of four tiers — Regional, District, Local, or Fringe (labelled per the [[topic-co-location-tier-nomenclature|tier nomenclature]]) — using binary predicate gates rather than a composite score. A cluster must pass every gate in a tier's gate set to qualify for that tier; partial scores do not accumulate. This methodology describes the V3 implementation introduced in Sprint 17 (May 2026). It complements the [[topic-co-location-ranking-system|deterministic ranking system]] and draws its trade-area inputs from the [[topic-od-catchment-methodology|O-D catchment methodology]] and the [[topic-trade-area-data-sources|trade-area data sources]].
 
 ## Why Predicate Gates Replace Composite Scores
 
@@ -30,12 +30,12 @@ Binary gates make the qualification criteria explicit and independently verifiab
 
 ## Population Catchment Ranks
 
-Catchment population is computed using a crow-flies H3 grid at resolution 7 (cell width approximately 2.1 km). Two zones are defined for each cluster:
+Catchment population is computed using a crow-flies H3 grid at resolution 7 (cell width approximately 2.1 km), per the [[topic-od-catchment-methodology|O-D catchment methodology]]. Two zones are defined for each cluster:
 
 - **Primary zone**: all H3 cells within 35 km of the cluster anchor
 - **Secondary zone**: all H3 cells between 35 km and 150 km of the cluster anchor
 
-Population totals draw from WorldPop 2026 100 m rasters aggregated to H3 resolution 7. Clusters are ranked within their ISO country on each of eight axes: primary population, secondary population, primary grocery spend, secondary grocery spend, primary hardware spend, secondary hardware spend, primary wholesale spend, and secondary wholesale spend.
+Population totals draw from WorldPop 2026 100 m rasters aggregated to H3 resolution 7 (see [[topic-trade-area-data-sources|trade-area data sources]]). Clusters are ranked within their ISO country on each of eight axes: primary population, secondary population, primary grocery spend, secondary grocery spend, primary hardware spend, secondary hardware spend, primary wholesale spend, and secondary wholesale spend.
 
 The rank is expressed as a fraction: rank 1 in a country of 500 clusters yields 0.002; rank 50 yields 0.100. Lower values indicate higher relative reach within the country. A cluster with a primary-population rank of 0.10 is in the top 10% of its country by primary trade-area population.
 

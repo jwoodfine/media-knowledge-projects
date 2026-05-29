@@ -19,13 +19,13 @@ cites:
   - osc-sn-51-721
 ---
 
-Every retail location on the co-location map carries a brand family classification — a categorical label that determines how the location is displayed and, for some families, whether it contributes to cluster scoring. The taxonomy was designed around the specific anchor types used in the co-location methodology while remaining extensible to the full range of operators ingested as supporting data.
+Every retail location on the [[topic-co-location-methodology|co-location]] map carries a brand family classification — a categorical label that determines how the location is displayed and, for some families, whether it contributes to cluster scoring. The taxonomy was designed around the specific [[topic-co-location-anchors|anchor]] types used by the [[topic-co-location-ranking-system|deterministic ranking system]] while remaining extensible to the full range of operators ingested as supporting data.
 
 ## The Six Primary Families
 
 ### Hypermarket
 
-Large-format general merchandise and grocery retailers operating facilities of 80,000 square feet or more. Includes Walmart Supercenter, Target, Carrefour Hypermarket, IKEA, and equivalents across North American and European markets. Hypermarket stores are the primary anchor type in the co-location methodology — cluster formation requires one Hypermarket anchor. Displayed with a navy badge.
+Large-format general merchandise and grocery retailers operating facilities of 80,000 square feet or more. Includes Walmart Supercenter, Target, Carrefour Hypermarket, IKEA, and equivalents across [[topic-tier-index-north-america|North American]] and [[topic-tier-index-europe|European]] markets. Hypermarket stores are the primary anchor type in the co-location methodology — cluster formation requires one Hypermarket anchor. Displayed with a navy badge.
 
 ### Hardware
 

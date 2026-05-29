@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The Regional Market Matrix rejects subjective economic forecasting — markets enter only when population density, institutional real estate vehicle availability, and anchor density meet structural thresholds measurable today. This framework defines which of Woodfine Management Corp.'s 8 target markets the co-location intelligence platform currently evaluates.
+The Regional Market Matrix rejects subjective economic forecasting — markets enter only when population density, institutional real estate vehicle availability, and [[topic-co-location-anchors|anchor]] density meet structural thresholds measurable today. This framework defines which of Woodfine Management Corp.'s 8 target markets the [[topic-co-location-intelligence-overview|co-location intelligence platform]] currently evaluates; scoring within each market follows the [[topic-co-location-methodology|co-location methodology]] and the [[topic-co-location-ranking-system|ranking system]].
 
 ## Selection criteria
 
@@ -28,7 +28,7 @@ Markets enter the matrix when they satisfy a set of structural requirements:
 
 **Institutional real estate vehicle equivalence.** The matrix targets markets where real estate investment structures equivalent to North American REITs exist — structures that enable institutional capital to hold real estate directly. In Mexico, this means FIBRAs (Fideicomisos de Infraestructura y Bienes Raíces). In Spain, SOCIMIs (Sociedades Anónimas Cotizadas de Inversión Inmobiliaria). These vehicle equivalents indicate that institutional capital has already made a structural commitment to a given market's real estate investment infrastructure.
 
-**Anchor density validation.** The market must contain a qualifying density of primary and secondary co-location anchors. A market without sufficient anchor presence at national-retailer scale cannot produce qualifying nodes under the co-location methodology.
+**Anchor density validation.** The market must contain a qualifying density of primary and secondary co-location anchors, classified per the [[topic-retail-brand-family-taxonomy|retail brand family taxonomy]]. A market without sufficient anchor presence at national-retailer scale cannot produce qualifying nodes under the co-location methodology.
 
 ## What the matrix excludes
 

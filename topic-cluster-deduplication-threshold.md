@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The co-location index pipeline produces one cluster per anchor store — every qualifying hypermarket, hardware retailer, and warehouse club generates a candidate cluster centred on that store's coordinates. When two anchors occupy the same commercial zone, the result is two overlapping clusters representing the same trade area. The deduplication step resolves that redundancy.
+The [[topic-co-location-methodology|co-location index]] pipeline produces one cluster per [[topic-co-location-anchors|anchor]] store — every qualifying hypermarket, hardware retailer, and warehouse club generates a candidate cluster centred on that store's coordinates, per the [[topic-co-location-cluster-formation|cluster formation]] rules. When two anchors occupy the same commercial zone, the result is two overlapping clusters representing the same trade area. The deduplication step resolves that redundancy. Trade-area inputs to the [[topic-co-location-ranking-system|ranking system]] are aggregated after deduplication runs.
 
 ## The Same-Parking-Lot Problem
 

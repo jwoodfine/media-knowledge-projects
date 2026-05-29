@@ -20,13 +20,13 @@ cites:
   - osc-sn-51-721
 ---
 
-Woodfine Management Corp.'s co-location intelligence platform ranks 2,738 commercial nodes across 8 retail markets by anchor convergence — the independent co-location of hypermarkets, warehouse clubs, and home improvement superstores at the same trade area. Each node is validated not by analyst forecasts, but by the independent capital commitments of the retailers who located there.
+Woodfine Management Corp.'s co-location intelligence platform ranks 2,738 commercial nodes across 8 retail markets by anchor convergence — the independent co-location of hypermarkets, warehouse clubs, and home improvement superstores at the same trade area. Each node is validated not by analyst forecasts, but by the independent capital commitments of the retailers who located there. Convergence is measured per the [[topic-co-location-methodology|co-location methodology]] and scored by the [[topic-co-location-ranking-system|deterministic ranking system]]; the population and spend inputs are documented in [[topic-trade-area-data-sources|trade-area data sources]] and the geographic policy in the [[topic-regional-market-matrix|regional market matrix]].
 
 The platform is operated at [gis.woodfinegroup.com](https://gis.woodfinegroup.com), built and maintained by PointSav Digital Systems.
 
 ## Strategic Objective
 
-Large-format retailers do not locate arbitrarily. Supercenter operators, warehouse clubs, and home improvement superstores each independently apply capital-intensive site selection criteria — traffic counts, household income density, road-network accessibility, and competitive positioning. When two or three such operators converge on the same node within a given corridor, that convergence signals a validated commercial location: one where multiple independent parties have independently committed capital to serve the same trade area.
+Large-format retailers do not locate arbitrarily. Supercenter operators, warehouse clubs, and home improvement superstores each independently apply capital-intensive site selection criteria — traffic counts, household income density, road-network accessibility, and competitive positioning. When two or three such operators converge on the same node within a given corridor, that convergence signals a validated commercial location: one where multiple independent parties have independently committed capital to serve the same trade area. The qualifying [[topic-co-location-anchors|anchor]] adjacency requirement is binary, not a matter of degree.
 
 The co-location intelligence system identifies and ranks those nodes using a deterministic named-anchor combination matrix. The output is a ranked index of sites, expressed as five quality tiers, which can be filtered by region, country, and secondary radius.
 
@@ -57,7 +57,7 @@ The platform integrates three primary data sources to ensure high-fidelity spati
 
 ## Site Index and Quality Tiers
 
-The current dataset identifies **2,738 ranked co-location sites** globally: 2,488 in North America and 250 in Europe. Sites are ranked using a deterministic matrix that evaluates the proximity and category of secondary anchors relative to a primary hypermarket anchor.
+The current dataset identifies **2,738 ranked co-location sites** globally: 2,488 in [[topic-tier-index-north-america|North America]] and 250 in [[topic-tier-index-europe|Europe]]. Sites are ranked using a deterministic matrix that evaluates the proximity and category of secondary anchors relative to a primary hypermarket anchor.
 
 | Tier | Description | NA count | EU count |
 |------|-------------|----------|----------|

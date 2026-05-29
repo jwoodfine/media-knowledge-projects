@@ -20,7 +20,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The co-location map labels each cluster with a human-readable regional name — a North American Metropolitan Area, a European NUTS-3 region, a Mexican municipio, a Canadian Census Subdivision. The name is not a single field on the source data; it is the output of a layered offline reverse-geocoding pipeline. This article documents the data sources, the lookup order, and the post-processing that produces the names visible on the platform.
+The [[topic-co-location-methodology|co-location]] map labels each cluster with a human-readable regional name — a North American Metropolitan Area, a European NUTS-3 region, a Mexican municipio, a Canadian Census Subdivision. The name is not a single field on the source data; it is the output of a layered offline reverse-geocoding pipeline. This article documents the data sources, the lookup order, and the post-processing that produces the names visible on the platform; the cluster itself is produced by the [[topic-co-location-ranking-system|deterministic ranking system]] after [[topic-cluster-deduplication-threshold|deduplication]].
 
 ## The Five Boundary Layers
 

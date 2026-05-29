@@ -18,11 +18,11 @@ cites:
   - osc-sn-51-721
 ---
 
-The Woodfine co-location intelligence map added substantive coverage in Norway, Sweden, and the United Kingdom on May 6, 2026, through the promotion of three hardware chains to the Alpha tier and the first ingest of Norwegian Obs Bygg location data.
+The Woodfine [[topic-co-location-intelligence-overview|co-location intelligence map]] added substantive coverage in Norway, Sweden, and the United Kingdom on May 6, 2026, through the promotion of three hardware chains to the Alpha tier and the first ingest of Norwegian Obs Bygg location data. The qualification logic is the [[topic-co-location-methodology|co-location methodology]] operationalised by the [[topic-co-location-ranking-system|deterministic ranking system]]; chain-to-family mappings are documented in the [[topic-retail-brand-family-taxonomy|retail brand family taxonomy]].
 
 ## What Changed
 
-The platform's tier system classifies hardware and warehouse retailers into two groups: Alpha chains, which alone are sufficient to qualify a co-location as a T2 Hub, and Generic chains, which produce only the lowest qualifying tier. Three chains previously held at the Generic level were promoted to Alpha following confirmation of sufficient data coverage.
+The platform's tier system classifies hardware and warehouse retailers into two groups: Alpha chains, which alone are sufficient to qualify a co-location as a T2 Hub, and Generic chains, which produce only the lowest qualifying tier. Three chains previously held at the Generic level were promoted to Alpha following confirmation of sufficient data coverage. (Map-facing labels follow the ICSC hierarchy described in [[topic-co-location-tier-nomenclature|tier nomenclature]].)
 
 **Bauhaus Sverige** (Sweden) — 40 locations. Bauhaus is the dominant large-format home improvement chain in Sweden. Its national footprint overlaps directly with IKEA's retail corridor presence. Promotion to Alpha immediately activated T2 status at IKEA-adjacent nodes across Stockholm, Gothenburg, Uppsala, and Malmö.
 

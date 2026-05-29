@@ -19,11 +19,11 @@ cites:
   - osc-sn-51-721
 ---
 
-The co-location index distinguishes between retail chains that participate in the cluster scoring algorithm — anchors, hardware, warehouse clubs — and chains that appear on the map as supporting context but do not affect cluster grades. The latter category is the Food family. This article documents the United Kingdom and European Union food-retail coverage as of the May 2026 expansion.
+The [[topic-co-location-methodology|co-location index]] distinguishes between retail chains that participate in the cluster scoring algorithm — [[topic-co-location-anchors|anchors]], hardware, warehouse clubs — and chains that appear on the map as supporting context but do not affect cluster grades. The latter category is the Food family within the [[topic-retail-brand-family-taxonomy|retail brand family taxonomy]]. This article documents the United Kingdom and European Union food-retail coverage as of the May 2026 expansion.
 
 ## Why Food Is Data-Only
 
-The co-location methodology measures the convergence of large-format anchor stores: hypermarkets, hardware retailers, warehouse clubs. Adding a grocery chain to the scoring algorithm would dilute the signal — most urban areas have many grocery operators, so a "co-location" of one anchor and one grocer would provide limited insight into commercial density. Keeping the Food family data-layer-only preserves the index as a measure of large-format anchor convergence while still showing field operators the broader retail context around an anchor.
+The [[topic-co-location-methodology|co-location methodology]] measures the convergence of large-format anchor stores: hypermarkets, hardware retailers, warehouse clubs. Adding a grocery chain to the [[topic-co-location-ranking-system|scoring algorithm]] would dilute the signal — most urban areas have many grocery operators, so a "co-location" of one anchor and one grocer would provide limited insight into commercial density. Keeping the Food family data-layer-only preserves the index as a measure of large-format anchor convergence while still showing field operators the broader retail context around an anchor.
 
 A Tesco store appears on the map as a green dot. It does not contribute to any cluster grade. It does appear in the inspector panel of the surrounding cluster as part of the All Locations layer.
 

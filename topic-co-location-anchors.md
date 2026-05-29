@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-A commercial node qualifies for Woodfine Management Corp.'s site selection only when a large-format national retailer is present within the defined proximity threshold — the anchor adjacency requirement is binary, not a matter of degree. A site without a qualifying anchor does not proceed, regardless of other commercial characteristics.
+A commercial node qualifies for Woodfine Management Corp.'s site selection only when a large-format national retailer is present within the defined proximity threshold — the anchor adjacency requirement is binary, not a matter of degree. A site without a qualifying anchor does not proceed, regardless of other commercial characteristics. The adjacency requirement is one of the structural inputs to the [[topic-co-location-methodology|co-location methodology]] and the [[topic-co-location-ranking-system|deterministic ranking system]]; the full chain-to-family mapping is documented in the [[topic-retail-brand-family-taxonomy|retail brand family taxonomy]].
 
 ## Why anchors matter
 
@@ -34,11 +34,11 @@ Anchors are classified by tier based on co-location methodology scoring:
 - **Secondary anchor:** National retailers that commonly co-locate with primary anchors (e.g., home improvement superstores, wholesale food retailers).
 - **Tertiary infrastructure:** Civic and institutional facilities (hospitals, universities, transit hubs) that strengthen the node's defensive qualities.
 
-A qualifying site must achieve a minimum combination of primary and secondary anchor presence within the proximity threshold defined by the co-location methodology.
+A qualifying site must achieve a minimum combination of primary and secondary anchor presence within the proximity threshold defined by the [[topic-co-location-methodology|co-location methodology]].
 
 ## Credit quality
 
-National anchor retailers carry institutional-grade credit profiles. Their lease obligations are supported by national balance sheets, not by individual store P&L. This credit quality translates directly to the surrounding professional office development: professional office tenants seeking adjacency to high-volume retail benefit from the same validated trade area.
+National anchor retailers carry institutional-grade credit profiles. Their lease obligations are supported by national balance sheets, not by individual store P&L. This credit quality translates directly to the surrounding professional office development that conforms to the [[topic-asset-architecture-standard|Asset Architecture Standard]]: professional office tenants seeking adjacency to high-volume retail benefit from the same validated trade area.
 
 ## See also
 

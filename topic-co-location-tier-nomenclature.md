@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The co-location index assigns each cluster to one of four tiers based on the categorical composition of its anchor and secondary stores and on the cluster's position within its national population catchment. The tier labels visible on the map and in the inspector panel — **Regional**, **District**, **Local**, **Fringe** — follow the International Council of Shopping Centres (ICSC) retail property hierarchy, which is used by property developers, planners, and retail analysts across North America and Europe.
+The [[topic-co-location-methodology|co-location index]] assigns each cluster to one of four tiers based on the categorical composition of its [[topic-co-location-anchors|anchor]] and secondary stores and on the cluster's position within its national population catchment. The tier labels visible on the map and in the inspector panel — **Regional**, **District**, **Local**, **Fringe** — follow the International Council of Shopping Centres (ICSC) retail property hierarchy, which is used by property developers, planners, and retail analysts across [[topic-tier-index-north-america|North America]] and [[topic-tier-index-europe|Europe]]. The qualifying gates are defined in the [[topic-catchment-ranking-methodology-v3|V3 catchment ranking methodology]] and the underlying scoring logic in the [[topic-co-location-ranking-system|co-location ranking system]].
 
 ## What Each Tier Means
 
@@ -31,7 +31,7 @@ The co-location index assigns each cluster to one of four tiers based on the cat
 
 ## Composition Chips
 
-Each cluster carries a composition descriptor displayed below the tier badge in the inspector. The descriptor names the anchor classes present, separated by "+": for example, "Hypermarket + Hardware + Warehouse" or "Lifestyle + Hypermarket". The four anchor classes are Hypermarket (general-merchandise stores: Walmart, Target, Mercadona, Tesco, Sainsbury's), Lifestyle (large-format home and furnishings: IKEA), Hardware (home improvement: Home Depot, Lowe's, Leroy Merlin), and Warehouse (membership warehouse clubs: Costco, Sam's Club, Makro).
+Each cluster carries a composition descriptor displayed below the tier badge in the inspector. The descriptor names the anchor classes present, separated by "+": for example, "Hypermarket + Hardware + Warehouse" or "Lifestyle + Hypermarket". The four anchor classes are Hypermarket (general-merchandise stores: Walmart, Target, Mercadona, Tesco, Sainsbury's), Lifestyle (large-format home and furnishings: IKEA), Hardware (home improvement: Home Depot, Lowe's, Leroy Merlin), and Warehouse (membership warehouse clubs: Costco, Sam's Club, Makro). The full chain-to-family mapping is documented in the [[topic-retail-brand-family-taxonomy|retail brand family taxonomy]].
 
 ## Naming History
 
