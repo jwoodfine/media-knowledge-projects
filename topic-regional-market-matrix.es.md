@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-La Matriz de Mercado Regional rechaza las previsiones económicas subjetivas — los mercados ingresan únicamente cuando la densidad de población, la disponibilidad de un vehículo de inversión inmobiliaria institucional y la densidad de anclas cumplen umbrales estructurales medibles hoy. Este marco define cuáles de los 8 mercados objetivo de Woodfine Management Corp. evalúa actualmente la plataforma de inteligencia de co-ubicación.
+La Matriz de Mercado Regional rechaza las previsiones económicas subjetivas — los mercados ingresan únicamente cuando la densidad de población, la disponibilidad de un vehículo de inversión inmobiliaria institucional y la densidad de [[topic-co-location-anchors|anclas]] cumplen umbrales estructurales medibles hoy. Este marco define cuáles de los 8 mercados objetivo de Woodfine Management Corp. evalúa actualmente la [[topic-co-location-intelligence-overview|plataforma de inteligencia de co-ubicación]]; la puntuación dentro de cada mercado sigue la [[topic-co-location-methodology|metodología de co-ubicación]] y el [[topic-co-location-ranking-system|sistema de clasificación]].
 
 ## Criterios de selección
 
@@ -28,7 +28,7 @@ Los mercados entran en la matriz cuando satisfacen un conjunto de requisitos est
 
 **Equivalencia de vehículo inmobiliario institucional.** La matriz apunta a mercados donde existen estructuras de inversión inmobiliaria equivalentes a los REITs norteamericanos. En México, esto significa FIBRAs (Fideicomisos de Infraestructura y Bienes Raíces). En España, SOCIMIs (Sociedades Anónimas Cotizadas de Inversión Inmobiliaria). Estos equivalentes de vehículos indican que el capital institucional ya ha hecho un compromiso estructural con la infraestructura de inversión inmobiliaria de un mercado dado.
 
-**Validación de densidad de anclajes.** El mercado debe contener una densidad calificada de anclajes de co-ubicación primarios y secundarios.
+**Validación de densidad de anclajes.** El mercado debe contener una densidad calificada de anclajes de co-ubicación primarios y secundarios, clasificados según la [[topic-retail-brand-family-taxonomy|taxonomía de familias de marcas minoristas]].
 
 ## Lo que la matriz excluye
 

@@ -20,7 +20,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El sistema de niveles de co-localización asigna cada clúster a uno de cuatro niveles — Regional, Distrital, Local o Marginal — mediante compuertas de predicado binarias en lugar de una puntuación compuesta. Un clúster debe superar todas las compuertas del conjunto correspondiente a un nivel para calificar para ese nivel; los resultados parciales no se acumulan. Esta metodología describe la implementación V3 introducida en el Sprint 17 (mayo de 2026).
+El sistema de niveles de [[topic-co-location-methodology|co-localización]] asigna cada clúster a uno de cuatro niveles — Regional, Distrital, Local o Marginal (etiquetados según la [[topic-co-location-tier-nomenclature|nomenclatura de niveles]]) — mediante compuertas de predicado binarias en lugar de una puntuación compuesta. Un clúster debe superar todas las compuertas del conjunto correspondiente a un nivel para calificar para ese nivel; los resultados parciales no se acumulan. Esta metodología describe la implementación V3 introducida en el Sprint 17 (mayo de 2026). Complementa el [[topic-co-location-ranking-system|sistema de clasificación determinista]] y toma sus insumos de área comercial de la [[topic-od-catchment-methodology|metodología de captación O-D]] y de las [[topic-trade-area-data-sources|fuentes de datos de áreas comerciales]].
 
 ## Por qué las compuertas de predicado reemplazan las puntuaciones compuestas
 
@@ -30,12 +30,12 @@ Las compuertas binarias hacen que los criterios de calificación sean explícito
 
 ## Rangos de captación de población
 
-La captación de población se calcula mediante una cuadrícula H3 en línea recta a resolución 7 (ancho de celda aproximado de 2,1 km). Se definen dos zonas para cada clúster:
+La captación de población se calcula mediante una cuadrícula H3 en línea recta a resolución 7 (ancho de celda aproximado de 2,1 km), según la [[topic-od-catchment-methodology|metodología de captación O-D]]. Se definen dos zonas para cada clúster:
 
 - **Zona primaria**: todas las celdas H3 dentro de 35 km del ancla del clúster
 - **Zona secundaria**: todas las celdas H3 entre 35 km y 150 km del ancla del clúster
 
-Los totales de población provienen de los rásteres WorldPop 2026 a 100 m, agregados a la resolución 7 de H3. Los clústeres se clasifican dentro de su país ISO en ocho ejes: población primaria, población secundaria, gasto primario en víveres, gasto secundario en víveres, gasto primario en ferretería, gasto secundario en ferretería, gasto primario en mayoreo y gasto secundario en mayoreo.
+Los totales de población provienen de los rásteres WorldPop 2026 a 100 m, agregados a la resolución 7 de H3 (véase [[topic-trade-area-data-sources|fuentes de datos de áreas comerciales]]). Los clústeres se clasifican dentro de su país ISO en ocho ejes: población primaria, población secundaria, gasto primario en víveres, gasto secundario en víveres, gasto primario en ferretería, gasto secundario en ferretería, gasto primario en mayoreo y gasto secundario en mayoreo.
 
 El rango se expresa como fracción: el rango 1 en un país con 500 clústeres produce un valor de 0,002; el rango 50, de 0,100. Los valores más bajos indican mayor alcance relativo dentro del país.
 

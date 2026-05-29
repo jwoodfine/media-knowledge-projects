@@ -19,13 +19,13 @@ cites:
   - osc-sn-51-721
 ---
 
-Cada ubicación minorista en el mapa de co-localización lleva una clasificación de familia de marca — una etiqueta categórica que determina cómo se muestra la ubicación y, para algunas familias, si contribuye a la puntuación del clúster. La taxonomía fue diseñada en torno a los tipos de ancla específicos utilizados en la metodología de co-localización, siendo extensible a la gama completa de operadores ingestados como datos de soporte.
+Cada ubicación minorista en el mapa de [[topic-co-location-methodology|co-localización]] lleva una clasificación de familia de marca — una etiqueta categórica que determina cómo se muestra la ubicación y, para algunas familias, si contribuye a la puntuación del clúster. La taxonomía fue diseñada en torno a los tipos de [[topic-co-location-anchors|ancla]] específicos utilizados por el [[topic-co-location-ranking-system|sistema de clasificación determinista]], siendo extensible a la gama completa de operadores ingestados como datos de soporte.
 
 ## Las seis familias primarias
 
 ### Hipermercado
 
-Minoristas de gran formato de mercancía general y víveres que operan instalaciones de 80.000 pies cuadrados o más. Incluye Walmart Supercenter, Target, Carrefour Hypermarket, IKEA y equivalentes en los mercados de América del Norte y Europa. Las tiendas de tipo Hipermercado son el tipo de ancla principal en la metodología de co-localización — la formación de clústeres requiere un ancla Hipermercado. Se muestra con una insignia azul marino.
+Minoristas de gran formato de mercancía general y víveres que operan instalaciones de 80.000 pies cuadrados o más. Incluye Walmart Supercenter, Target, Carrefour Hypermarket, IKEA y equivalentes en los mercados de [[topic-tier-index-north-america|América del Norte]] y [[topic-tier-index-europe|Europa]]. Las tiendas de tipo Hipermercado son el tipo de ancla principal en la metodología de co-localización — la formación de clústeres requiere un ancla Hipermercado. Se muestra con una insignia azul marino.
 
 ### Ferretería
 

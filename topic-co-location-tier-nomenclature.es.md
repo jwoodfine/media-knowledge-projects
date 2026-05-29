@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El índice de co-localización asigna cada clúster a uno de cuatro niveles en función de la composición categórica de sus anclas y tiendas secundarias, y de la posición del clúster dentro de la captación nacional de población. Las etiquetas visibles en el mapa y en el panel inspector — **Regional**, **Distrital**, **Local**, **Marginal** — siguen la jerarquía de propiedades del Consejo Internacional de Centros Comerciales (ICSC), utilizada por promotores inmobiliarios, planificadores y analistas de retail en América del Norte y Europa.
+El [[topic-co-location-methodology|índice de co-localización]] asigna cada clúster a uno de cuatro niveles en función de la composición categórica de sus [[topic-co-location-anchors|anclas]] y tiendas secundarias, y de la posición del clúster dentro de la captación nacional de población. Las etiquetas visibles en el mapa y en el panel inspector — **Regional**, **Distrital**, **Local**, **Marginal** — siguen la jerarquía de propiedades del Consejo Internacional de Centros Comerciales (ICSC), utilizada por promotores inmobiliarios, planificadores y analistas de retail en [[topic-tier-index-north-america|América del Norte]] y [[topic-tier-index-europe|Europa]]. Las compuertas de calificación se definen en la [[topic-catchment-ranking-methodology-v3|metodología V3 de clasificación de captación]] y la lógica de puntuación subyacente en el [[topic-co-location-ranking-system|sistema de clasificación de co-ubicación]].
 
 ## Qué significa cada nivel
 
@@ -31,7 +31,7 @@ El índice de co-localización asigna cada clúster a uno de cuatro niveles en f
 
 ## Descriptores de composición
 
-Cada clúster lleva un descriptor de composición que se muestra debajo de la insignia de nivel en el inspector. El descriptor nombra las clases de ancla presentes, separadas por "+": por ejemplo, "Hipermercado + Ferretería + Almacén" o "Estilo de Vida + Hipermercado". Las cuatro clases de ancla son: Hipermercado (tiendas de mercancías generales: Walmart, Target, Mercadona, Tesco, Sainsbury's), Estilo de Vida (hogar y decoración a gran escala: IKEA), Ferretería (mejoras para el hogar: Home Depot, Lowe's, Leroy Merlin) y Almacén (clubes de almacén por membresía: Costco, Sam's Club, Makro).
+Cada clúster lleva un descriptor de composición que se muestra debajo de la insignia de nivel en el inspector. El descriptor nombra las clases de ancla presentes, separadas por "+": por ejemplo, "Hipermercado + Ferretería + Almacén" o "Estilo de Vida + Hipermercado". Las cuatro clases de ancla son: Hipermercado (tiendas de mercancías generales: Walmart, Target, Mercadona, Tesco, Sainsbury's), Estilo de Vida (hogar y decoración a gran escala: IKEA), Ferretería (mejoras para el hogar: Home Depot, Lowe's, Leroy Merlin) y Almacén (clubes de almacén por membresía: Costco, Sam's Club, Makro). El mapeo completo de cadenas a familias se documenta en la [[topic-retail-brand-family-taxonomy|taxonomía de familias de marcas minoristas]].
 
 ## Historia de la nomenclatura
 

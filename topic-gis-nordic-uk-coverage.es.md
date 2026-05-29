@@ -19,11 +19,11 @@ cites:
   - osc-sn-51-721
 ---
 
-El mapa de inteligencia de co-ubicación de Woodfine incorporó cobertura sustancial en Noruega, Suecia y el Reino Unido el 6 de mayo de 2026, mediante la promoción de tres cadenas de mejoras del hogar al nivel Alfa y la primera ingesta de datos de ubicación de Obs Bygg en Noruega.
+El [[topic-co-location-intelligence-overview|mapa de inteligencia de co-ubicación]] de Woodfine incorporó cobertura sustancial en Noruega, Suecia y el Reino Unido el 6 de mayo de 2026, mediante la promoción de tres cadenas de mejoras del hogar al nivel Alfa y la primera ingesta de datos de ubicación de Obs Bygg en Noruega. La lógica de calificación es la [[topic-co-location-methodology|metodología de co-ubicación]] operacionalizada por el [[topic-co-location-ranking-system|sistema de clasificación determinista]]; los mapeos de cadenas a familias se documentan en la [[topic-retail-brand-family-taxonomy|taxonomía de familias de marcas minoristas]].
 
 ## Qué Cambió
 
-El sistema de niveles de la plataforma clasifica a los minoristas de mejoras del hogar y almacenes en dos grupos: cadenas Alfa, que por sí solas califican una co-ubicación como T2 Hub, y cadenas Genéricas, que solo producen el nivel de calificación más bajo. Tres cadenas mantenidas en el nivel Genérico fueron promovidas al nivel Alfa tras confirmar una cobertura de datos suficiente.
+El sistema de niveles de la plataforma clasifica a los minoristas de mejoras del hogar y almacenes en dos grupos: cadenas Alfa, que por sí solas califican una co-ubicación como T2 Hub, y cadenas Genéricas, que solo producen el nivel de calificación más bajo. Tres cadenas mantenidas en el nivel Genérico fueron promovidas al nivel Alfa tras confirmar una cobertura de datos suficiente. (Las etiquetas orientadas al mapa siguen la jerarquía ICSC descrita en [[topic-co-location-tier-nomenclature|nomenclatura de niveles]].)
 
 **Bauhaus Sverige** (Suecia) — 40 ubicaciones. Bauhaus es la cadena dominante de grandes superficies de mejoras del hogar en Suecia. Su presencia nacional se superpone directamente con los corredores minoristas de IKEA. La promoción al nivel Alfa activó de inmediato el estado T2 en los nodos adyacentes a IKEA en Estocolmo, Gotemburgo, Uppsala y Malmö.
 

@@ -15,7 +15,7 @@ short_description: "Las áreas de influencia para cada cluster de co-ubicación 
 paired_with: topic-od-catchment-methodology.md
 ---
 
-La plataforma de co-ubicación de Woodfine define las áreas de influencia para cada cluster usando un modelo de Origen-Destino (O-D) basado en anillos de distancia en línea recta sobre una rejilla espacial hexagonal. Cada cluster recibe dos zonas de captación que determinan qué datos de población y gasto se le atribuyen.
+La plataforma de [[topic-co-location-methodology|co-ubicación]] de Woodfine define las áreas de influencia para cada cluster usando un modelo de Origen-Destino (O-D) basado en anillos de distancia en línea recta sobre una rejilla espacial hexagonal. Cada cluster recibe dos zonas de captación que determinan qué datos de población y gasto se le atribuyen. Los insumos de área comercial al [[topic-co-location-ranking-system|sistema de clasificación determinista]] y a la [[topic-catchment-ranking-methodology-v3|metodología V3 de clasificación de captación]] provienen de este modelo; las capas de población y gasto se documentan en [[topic-trade-area-data-sources|fuentes de datos de áreas comerciales]].
 
 ## Marco espacial
 
@@ -45,7 +45,7 @@ La plataforma distingue dos perspectivas sobre la población de captación.
 
 ## Una celda, múltiples clusters
 
-Una sola celda H3 puede pertenecer al área de captación de múltiples clusters de co-ubicación. Esto es intencional: las áreas de influencia no son territorios exclusivos. Un hogar a menos de 35 km de dos clusters competidores contribuye a la población de captación primaria de ambos.
+Una sola celda H3 puede pertenecer al área de captación de múltiples clusters de co-ubicación. Esto es intencional: las áreas de influencia no son territorios exclusivos. Un hogar a menos de 35 km de dos clusters competidores contribuye a la población de captación primaria de ambos; el manejo de límites de clúster en el mismo estacionamiento se documenta en [[topic-cluster-deduplication-threshold|umbral de deduplicación de clústeres]].
 
 ## Aplicación
 

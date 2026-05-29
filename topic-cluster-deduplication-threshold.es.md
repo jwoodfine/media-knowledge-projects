@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El proceso de deduplicación del índice de co-localización elimina los clústeres superpuestos que representan la misma zona comercial. Cuando dos anclas ocupan la misma zona comercial, el resultado son dos clústeres superpuestos que representan la misma área de captación. El paso de deduplicación resuelve esa redundancia.
+El proceso de deduplicación del [[topic-co-location-methodology|índice de co-localización]] elimina los clústeres superpuestos que representan la misma zona comercial. Cuando dos [[topic-co-location-anchors|anclas]] ocupan la misma zona comercial, el resultado son dos clústeres superpuestos que representan la misma área de captación. El paso de deduplicación resuelve esa redundancia. Los insumos de área comercial al [[topic-co-location-ranking-system|sistema de clasificación]] se agregan después de la ejecución de la deduplicación.
 
 ## El problema del estacionamiento compartido
 

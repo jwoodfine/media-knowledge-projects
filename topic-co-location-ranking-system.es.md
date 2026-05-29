@@ -18,13 +18,13 @@ cites:
   - osc-sn-51-721
 ---
 
-El sistema de clasificación de co-ubicación de Woodfine evalúa los sitios minoristas mediante una **matriz de combinación de anclas nominadas**. Este algoritmo determinista califica cada ubicación de hipermercado basándose en la convergencia de categorías secundarias y terciarias (comerciales y cívicas) dentro de radios de captación definidos.
+La [[topic-co-location-methodology|metodología de co-ubicación]] de Woodfine se operacionaliza como una **matriz de combinación de anclas nominadas**. Este algoritmo determinista califica cada ubicación de hipermercado [[topic-co-location-anchors|ancla]] basándose en la convergencia de categorías secundarias y terciarias (comerciales y cívicas) dentro de radios de captación definidos.
 
-El sistema genera un índice de 12 rangos agrupados en cinco niveles de calidad (Tiers), visualizados en la plataforma GIS mediante una escala de colores que va desde el ámbar intenso (★★★★★ Tier 5, el más alto) hasta el azul pálido (★ Tier 1, el más bajo).
+El sistema genera un índice de 12 rangos agrupados en cinco niveles de calidad (Tiers), visualizados en la plataforma GIS mediante una escala de colores que va desde el ámbar intenso (★★★★★ Tier 5, el más alto) hasta el azul pálido (★ Tier 1, el más bajo). Las etiquetas orientadas al mapa — Regional, Distrital, Local, Marginal — siguen la jerarquía ICSC descrita en [[topic-co-location-tier-nomenclature|nomenclatura de niveles]], y las compuertas de calificación se detallan en la [[topic-catchment-ranking-methodology-v3|metodología V3 de clasificación de captación]].
 
 ## El Modelo de Anclas Nominadas
 
-Cada sitio en el índice está anclado por un único operador de hipermercado o mercancía general de gran formato (como Walmart o IKEA). El sistema clasifica a los operadores secundarios en cuatro categorías deterministas:
+Cada sitio en el índice está anclado por un único operador de hipermercado o mercancía general de gran formato (como Walmart o IKEA). El mapeo completo de cadenas a familias se documenta en la [[topic-retail-brand-family-taxonomy|taxonomía de familias de marcas minoristas]]. El sistema clasifica a los operadores secundarios en cuatro categorías deterministas:
 
 1.  **Hardware (Secundario-1):** Tiendas de mejoras para el hogar (Home Depot, Leroy Merlin).
 2.  **Warehouse Club (Secundario-2):** Clubes de precios (Costco, Sam's Club, Makro).

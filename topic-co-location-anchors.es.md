@@ -18,7 +18,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Un nodo comercial califica para el proceso de selección de sitios de Woodfine Management Corp. únicamente cuando un minorista nacional de gran formato está presente dentro del umbral de proximidad definido — el requisito de adyacencia al ancla es binario, no una cuestión de grado. Un sitio sin un ancla calificada no avanza, independientemente de otras características comerciales.
+Un nodo comercial califica para el proceso de selección de sitios de Woodfine Management Corp. únicamente cuando un minorista nacional de gran formato está presente dentro del umbral de proximidad definido — el requisito de adyacencia al ancla es binario, no una cuestión de grado. Un sitio sin un ancla calificada no avanza, independientemente de otras características comerciales. El requisito de adyacencia es uno de los insumos estructurales de la [[topic-co-location-methodology|metodología de co-ubicación]] y del [[topic-co-location-ranking-system|sistema de clasificación determinista]]; el mapeo completo de cadenas a familias se documenta en la [[topic-retail-brand-family-taxonomy|taxonomía de familias de marcas minoristas]].
 
 ## Por qué importan los anclajes
 
@@ -32,11 +32,11 @@ Los anclajes se clasifican por nivel según la puntuación de la metodología de
 - **Anclaje secundario:** Minoristas nacionales que comúnmente se co-ubican con anclajes primarios (p. ej., grandes tiendas de mejoras para el hogar, minoristas mayoristas de alimentos).
 - **Infraestructura terciaria:** Instalaciones cívicas e institucionales (hospitales, universidades, centros de tránsito) que refuerzan las cualidades defensivas del nodo.
 
-Un sitio calificado debe lograr una combinación mínima de presencia de anclajes primarios y secundarios dentro del umbral de proximidad definido por la metodología de co-ubicación.
+Un sitio calificado debe lograr una combinación mínima de presencia de anclajes primarios y secundarios dentro del umbral de proximidad definido por la [[topic-co-location-methodology|metodología de co-ubicación]].
 
 ## Calidad crediticia
 
-Los minoristas ancla nacionales tienen perfiles crediticios de grado institucional. Sus obligaciones de arrendamiento están respaldadas por balances nacionales, no por el resultado de una tienda individual. Esta calidad crediticia se traduce directamente al desarrollo de oficinas profesionales circundante.
+Los minoristas ancla nacionales tienen perfiles crediticios de grado institucional. Sus obligaciones de arrendamiento están respaldadas por balances nacionales, no por el resultado de una tienda individual. Esta calidad crediticia se traduce directamente al desarrollo de oficinas profesionales circundante conforme a la [[topic-asset-architecture-standard|Norma de Arquitectura del Activo]].
 
 ## Véase también
 

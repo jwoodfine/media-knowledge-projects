@@ -15,7 +15,7 @@ short_description: "Las estimaciones de población de WorldPop 2026 y los proxie
 paired_with: topic-trade-area-data-sources.md
 ---
 
-Las estimaciones de población y de gasto minorista son las dos capas de entrada que impulsan las estadísticas de áreas de influencia para cada cluster de co-ubicación. Ambas se derivan de fuentes de datos públicas y se aplican al nivel de la rejilla hexagonal H3 de resolución 7.
+Las estimaciones de población y de gasto minorista son las dos capas de entrada que impulsan las estadísticas de áreas de influencia para cada cluster de [[topic-co-location-methodology|co-ubicación]]. Ambas se derivan de fuentes de datos públicas y se aplican al nivel de la rejilla hexagonal H3 de resolución 7, según la [[topic-od-catchment-methodology|metodología de captación O-D]]. Juntas suministran los ejes de población y gasto utilizados por el [[topic-co-location-ranking-system|sistema de clasificación determinista]] y por la [[topic-catchment-ranking-methodology-v3|metodología V3 de clasificación de captación]].
 
 ## Datos de población
 

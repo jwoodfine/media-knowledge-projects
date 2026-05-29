@@ -20,7 +20,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El mapa de co-localización etiqueta cada clúster con un nombre regional legible por humanos — un Área Metropolitana de América del Norte, una región NUTS-3 europea, un municipio mexicano, una Subdivisión Censal canadiense. El nombre no es un campo único en los datos de origen; es el resultado de un proceso de geocodificación inversa por capas. Este artículo documenta las fuentes de datos, el orden de consulta y el post-procesamiento que produce los nombres visibles en la plataforma.
+El mapa de [[topic-co-location-methodology|co-localización]] etiqueta cada clúster con un nombre regional legible por humanos — un Área Metropolitana de América del Norte, una región NUTS-3 europea, un municipio mexicano, una Subdivisión Censal canadiense. El nombre no es un campo único en los datos de origen; es el resultado de un proceso de geocodificación inversa por capas. Este artículo documenta las fuentes de datos, el orden de consulta y el post-procesamiento que produce los nombres visibles en la plataforma; el clúster en sí se produce mediante el [[topic-co-location-ranking-system|sistema de clasificación determinista]] tras la [[topic-cluster-deduplication-threshold|deduplicación]].
 
 ## Las cinco capas de límites
 
