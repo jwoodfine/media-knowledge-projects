@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Nordic and UK Coverage Expansion"
 slug: topic-gis-nordic-uk-coverage
+aliases:
+  - topic-gis-nordic-uk-coverage
 category: governance
 type: topic
 quality: complete

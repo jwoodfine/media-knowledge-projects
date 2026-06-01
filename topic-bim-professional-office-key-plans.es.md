@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Oficina Profesional — línea base de planos clave"
 slug: topic-bim-professional-office-key-plans
+aliases:
+  - topic-bim-professional-office-key-plans
 short_description: "La categoría supraordinada Oficina Profesional cubriendo cinco subtipos — Business, Medical, Laboratory, Academic y Civic — con las dimensiones de zona del diseño inicial de línea de base que precedieron la especialización de subtipo."
 category: bim
 type: topic

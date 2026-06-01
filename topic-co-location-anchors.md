@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Co-location Anchors"
 slug: topic-co-location-anchors
+aliases:
+  - topic-co-location-anchors
 category: governance
 type: reference
 quality: complete

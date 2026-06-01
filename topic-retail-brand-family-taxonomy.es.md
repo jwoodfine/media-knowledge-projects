@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Taxonomía de Familias de Marcas Minoristas"
 slug: topic-retail-brand-family-taxonomy.es
+aliases:
+  - topic-retail-brand-family-taxonomy.es
 category: governance
 type: topic
 quality: complete

@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Índice de Co-ubicación: México"
 slug: topic-co-location-index-mexico
+aliases:
+  - topic-co-location-index-mexico
 category: governance
 type: topic
 quality: complete

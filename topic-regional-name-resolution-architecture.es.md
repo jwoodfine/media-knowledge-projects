@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Arquitectura de Resolución de Nombres Regionales"
 slug: topic-regional-name-resolution-architecture.es
+aliases:
+  - topic-regional-name-resolution-architecture.es
 category: governance
 type: topic
 quality: complete

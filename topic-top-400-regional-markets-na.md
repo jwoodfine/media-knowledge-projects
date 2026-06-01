@@ -1,6 +1,8 @@
 ---
 schema: foundry-doc-v1
 slug: topic-top-400-regional-markets-na
+aliases:
+  - topic-top-400-regional-markets-na
 title: "Top 400 Regional Markets — North America"
 language: en
 language_protocol: PROSE-TOPIC

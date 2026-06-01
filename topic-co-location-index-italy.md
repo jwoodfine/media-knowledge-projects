@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Co-location Index: Italy"
 slug: topic-co-location-index-italy
+aliases:
+  - topic-co-location-index-italy
 category: governance
 type: topic
 quality: complete

@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Integración del Libro Contable del Sitio"
 slug: topic-site-ledger-integration
+aliases:
+  - topic-site-ledger-integration
 category: governance
 type: reference
 quality: complete

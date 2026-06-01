@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Umbral de Deduplicación de Clústeres"
 slug: topic-cluster-deduplication-threshold.es
+aliases:
+  - topic-cluster-deduplication-threshold.es
 category: governance
 type: topic
 quality: complete

@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Estándar de Arquitectura de Activos"
 slug: topic-asset-architecture-standard
+aliases:
+  - topic-asset-architecture-standard
 category: governance
 type: reference
 quality: complete

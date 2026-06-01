@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Índice de Co-ubicación: España"
 slug: topic-co-location-index-spain
+aliases:
+  - topic-co-location-index-spain
 category: governance
 type: topic
 quality: complete

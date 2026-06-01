@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Zone depths per use type — sources, values, rationale"
 slug: topic-bim-zone-depths-per-use-type
+aliases:
+  - topic-bim-zone-depths-per-use-type
 short_description: "Canonical Zone 1 Habitat, Zone 2 Magazine, and Zone 3 Corridor per-side depths for seven Professional Office use types from Private Office to Business, with derived building widths and source citations to V12 sketches and methodology documents."
 category: bim
 type: topic

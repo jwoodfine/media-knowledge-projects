@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Zoning Acquisition Rules"
 slug: topic-zoning-acquisition-rules
+aliases:
+  - topic-zoning-acquisition-rules
 category: governance
 type: reference
 quality: complete

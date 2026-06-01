@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Metodología de Clasificación de Captación por Predicados Puros (V3)"
 slug: topic-catchment-ranking-methodology-v3.es
+aliases:
+  - topic-catchment-ranking-methodology-v3.es
 category: governance
 type: topic
 quality: complete

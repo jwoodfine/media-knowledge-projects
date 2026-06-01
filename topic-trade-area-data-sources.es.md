@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Fuentes de datos de áreas de influencia — población y gasto"
 slug: topic-trade-area-data-sources
+aliases:
+  - topic-trade-area-data-sources
 category: governance
 type: topic
 quality: complete

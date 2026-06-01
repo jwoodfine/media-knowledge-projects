@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Business — key plans"
 slug: topic-bim-business-key-plans
+aliases:
+  - topic-bim-business-key-plans
 short_description: "Business Office key plan specifications within the Professional Office classification, distinguished by the widest Zone 2 Magazine depth of any sub-type at 9.26 m, driven by open storage walls, server rooms, and team collaboration zones, in three sizes from 311 to 669 m²."
 category: bim
 type: topic

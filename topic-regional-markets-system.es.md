@@ -1,6 +1,8 @@
 ---
 schema: foundry-doc-v1
 slug: topic-regional-markets-system.es
+aliases:
+  - topic-regional-markets-system.es
 title: "Sistema de Inteligencia de Mercados Regionales"
 language: es
 language_protocol: TRANSLATE-ES

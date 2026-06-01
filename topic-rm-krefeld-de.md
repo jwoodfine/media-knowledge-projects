@@ -1,6 +1,8 @@
 ---
 schema: foundry-doc-v1
 slug: topic-rm-krefeld-de
+aliases:
+  - topic-rm-krefeld-de
 title: "Krefeld — Regional Market"
 language: en
 language_protocol: PROSE-TOPIC

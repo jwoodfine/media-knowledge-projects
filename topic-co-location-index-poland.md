@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Co-location Index: Poland"
 slug: topic-co-location-index-poland
+aliases:
+  - topic-co-location-index-poland
 category: governance
 type: topic
 quality: complete

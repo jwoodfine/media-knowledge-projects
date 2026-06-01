@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Pure-Predicate Catchment Ranking Methodology (V3)"
 slug: topic-catchment-ranking-methodology-v3
+aliases:
+  - topic-catchment-ranking-methodology-v3
 category: governance
 type: topic
 quality: complete

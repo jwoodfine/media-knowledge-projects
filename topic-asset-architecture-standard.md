@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Asset Architecture Standard"
 slug: topic-asset-architecture-standard
+aliases:
+  - topic-asset-architecture-standard
 category: governance
 type: reference
 quality: complete

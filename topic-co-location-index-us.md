@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Co-location Index: United States"
 slug: topic-co-location-index-us
+aliases:
+  - topic-co-location-index-us
 category: governance
 type: topic
 quality: partial

@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Co-location Tier Index: North America"
 slug: topic-tier-index-north-america
+aliases:
+  - topic-tier-index-north-america
 category: governance
 type: topic
 quality: complete

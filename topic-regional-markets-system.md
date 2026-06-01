@@ -1,6 +1,8 @@
 ---
 schema: foundry-doc-v1
 slug: topic-regional-markets-system
+aliases:
+  - topic-regional-markets-system
 title: "Regional Markets Intelligence System"
 language: en
 language_protocol: PROSE-TOPIC

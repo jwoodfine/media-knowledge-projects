@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Cobertura de Retail Alimentario en el Reino Unido y Europa"
 slug: topic-uk-eu-food-retail-coverage.es
+aliases:
+  - topic-uk-eu-food-retail-coverage.es
 category: governance
 type: topic
 quality: complete

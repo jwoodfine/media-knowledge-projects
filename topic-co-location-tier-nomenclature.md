@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Co-location Tier Nomenclature"
 slug: topic-co-location-tier-nomenclature
+aliases:
+  - topic-co-location-tier-nomenclature
 category: governance
 type: topic
 quality: complete

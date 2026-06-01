@@ -1,6 +1,8 @@
 ---
 schema: foundry-doc-v1
 slug: topic-top-400-regional-markets-na.es
+aliases:
+  - topic-top-400-regional-markets-na.es
 title: "Top 400 Mercados Regionales — América del Norte"
 language: es
 language_protocol: TRANSLATE-ES

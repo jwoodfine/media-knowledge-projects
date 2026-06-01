@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "UK and European Food Retail Coverage"
 slug: topic-uk-eu-food-retail-coverage
+aliases:
+  - topic-uk-eu-food-retail-coverage
 category: governance
 type: topic
 quality: complete

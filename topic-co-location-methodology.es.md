@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Metodología de co-ubicación minorista"
 slug: topic-co-location-methodology
+aliases:
+  - topic-co-location-methodology
 category: governance
 type: topic
 quality: complete

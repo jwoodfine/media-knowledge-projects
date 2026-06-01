@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Trade area data sources — population and spend"
 slug: topic-trade-area-data-sources
+aliases:
+  - topic-trade-area-data-sources
 category: governance
 type: topic
 quality: complete

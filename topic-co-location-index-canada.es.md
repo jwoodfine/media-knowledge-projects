@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Índice de Co-ubicación: Canadá"
 slug: topic-co-location-index-canada
+aliases:
+  - topic-co-location-index-canada
 category: governance
 type: topic
 quality: complete

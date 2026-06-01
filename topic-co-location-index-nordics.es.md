@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Índice de Co-ubicación: Países Nórdicos"
 slug: topic-co-location-index-nordics
+aliases:
+  - topic-co-location-index-nordics
 category: governance
 type: topic
 quality: complete

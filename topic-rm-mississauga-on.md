@@ -1,6 +1,8 @@
 ---
 schema: foundry-doc-v1
 slug: topic-rm-mississauga-on
+aliases:
+  - topic-rm-mississauga-on
 title: "Mississauga, Ontario — Regional Market"
 language: en
 language_protocol: PROSE-TOPIC

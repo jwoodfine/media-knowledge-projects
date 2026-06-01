@@ -1,6 +1,8 @@
 ---
 schema: foundry-doc-v1
 slug: topic-rm-krefeld-de.es
+aliases:
+  - topic-rm-krefeld-de.es
 title: "Krefeld — Mercado Regional"
 language: es
 language_protocol: TRANSLATE-ES

@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Eficiencias del plan de arrendamiento — baldosas aperiódicas frente a cuadrículas modulares"
 slug: topic-bim-leasing-plan-efficiencies
+aliases:
+  - topic-bim-leasing-plan-efficiencies
 short_description: "Caso cuantitativo para el sistema de tiles aperiódico: anchos irregulares de Private Office producen 1,78 veces más configuraciones arrendables distintas que una cuadrícula modular uniforme al 95 por ciento del área, con 78 por ciento del conteo de puertas y conexiones de servicio."
 category: bim
 type: topic

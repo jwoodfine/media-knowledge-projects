@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "The backwards method — sizing buildings from furniture"
 slug: topic-bim-building-width-method
+aliases:
+  - topic-bim-building-width-method
 short_description: "The Building Width Calculator inverts conventional office planning by deriving building width from actual furniture dimensions — desk, exam table, lab bench, courtroom bench — rather than fitting tenants into a predetermined structural grid."
 category: bim
 type: topic

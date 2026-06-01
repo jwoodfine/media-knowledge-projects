@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Retail Brand Family Taxonomy"
 slug: topic-retail-brand-family-taxonomy
+aliases:
+  - topic-retail-brand-family-taxonomy
 category: governance
 type: topic
 quality: complete

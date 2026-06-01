@@ -1,6 +1,8 @@
 ---
 schema: foundry-doc-v1
 slug: topic-top-400-regional-markets-eu.es
+aliases:
+  - topic-top-400-regional-markets-eu.es
 title: "Top 400 Mercados Regionales — Europa"
 language: es
 language_protocol: TRANSLATE-ES

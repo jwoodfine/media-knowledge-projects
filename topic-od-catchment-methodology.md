@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "O-D catchment methodology — primary and secondary trade areas"
 slug: topic-od-catchment-methodology
+aliases:
+  - topic-od-catchment-methodology
 category: governance
 type: topic
 quality: complete

@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Expansión de Cobertura en los Países Nórdicos y el Reino Unido"
 slug: topic-gis-nordic-uk-coverage
+aliases:
+  - topic-gis-nordic-uk-coverage
 category: governance
 type: topic
 quality: complete

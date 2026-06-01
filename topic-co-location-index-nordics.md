@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Co-location Index: Nordics"
 slug: topic-co-location-index-nordics
+aliases:
+  - topic-co-location-index-nordics
 category: governance
 type: topic
 quality: complete

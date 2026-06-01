@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Regional Name Resolution Architecture"
 slug: topic-regional-name-resolution-architecture
+aliases:
+  - topic-regional-name-resolution-architecture
 category: governance
 type: topic
 quality: complete

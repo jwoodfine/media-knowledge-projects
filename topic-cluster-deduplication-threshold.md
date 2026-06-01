@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Cluster Deduplication Threshold"
 slug: topic-cluster-deduplication-threshold
+aliases:
+  - topic-cluster-deduplication-threshold
 category: governance
 type: topic
 quality: complete

@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Sistema de baldosas — pequeña, mediana, grande y especial"
 slug: topic-bim-tile-system
+aliases:
+  - topic-bim-tile-system
 short_description: "Los Tiles son las unidades de zona climática HVAC componibles del floor plate: tres familias regulares en 2.700 SF, 5.400 SF y 8.100 SF más Tiles Especiales que manejan building cores y áreas complementarias, ensamblándose para llenar Net Leasable Area sin resto."
 category: bim
 type: topic

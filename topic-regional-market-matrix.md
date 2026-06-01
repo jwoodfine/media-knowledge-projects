@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Regional Market Matrix"
 slug: topic-regional-market-matrix
+aliases:
+  - topic-regional-market-matrix
 category: governance
 type: reference
 quality: complete

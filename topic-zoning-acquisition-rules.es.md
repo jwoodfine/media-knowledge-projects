@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Reglas de Adquisición de Zonificación"
 slug: topic-zoning-acquisition-rules
+aliases:
+  - topic-zoning-acquisition-rules
 category: governance
 type: reference
 quality: complete

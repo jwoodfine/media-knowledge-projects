@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Nomenclatura de Niveles de Co-localización"
 slug: topic-co-location-tier-nomenclature.es
+aliases:
+  - topic-co-location-tier-nomenclature.es
 category: governance
 type: topic
 quality: complete

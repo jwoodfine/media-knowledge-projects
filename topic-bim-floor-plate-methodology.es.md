@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Metodología de la planta — plantas clave y baldosas"
 slug: topic-bim-floor-plate-methodology
+aliases:
+  - topic-bim-floor-plate-methodology
 short_description: "Un sistema de planificación de espacios geométricamente autosimilar y aperiódico que dimensiona floor plates a partir del inventario de mobiliario real mediante Key Plans, Tiles y ensamblajes de Building Core — todas las dimensiones rastreables a SKUs de mobiliario real, cada zona climática coincidiendo exactamente con un Tile."
 category: bim
 type: topic

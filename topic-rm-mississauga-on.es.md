@@ -1,6 +1,8 @@
 ---
 schema: foundry-doc-v1
 slug: topic-rm-mississauga-on.es
+aliases:
+  - topic-rm-mississauga-on.es
 title: "Mississauga, Ontario — Mercado Regional"
 language: es
 language_protocol: TRANSLATE-ES
