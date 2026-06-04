@@ -33,4 +33,4 @@ information in this wiki. However, this is a reference resource, not a legal doc
 Geographic data, cluster counts, and ranking scores are derived from third-party
 open datasets (OpenStreetMap, Wikidata, WorldPop, Kontur Population) and are subject
 to the accuracy limitations of those sources. For authoritative source data, consult
-the original data providers and the [[DATA-MANIFEST|Data Manifest]].
+the original data providers and the Data Manifest.

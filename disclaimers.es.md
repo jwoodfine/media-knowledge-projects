@@ -37,4 +37,4 @@ no de un documento jurídico. Los datos geográficos, los recuentos de clústere
 puntuaciones de clasificación se derivan de conjuntos de datos abiertos de terceros
 (OpenStreetMap, Wikidata, WorldPop, Kontur Population) y están sujetos a las limitaciones
 de precisión de dichas fuentes. Para los datos de origen autorizados, consulte los
-proveedores de datos originales y el [[DATA-MANIFEST|Manifiesto de Datos]].
+proveedores de datos originales y el Manifiesto de Datos.

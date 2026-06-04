@@ -12,7 +12,7 @@ paired_with: contact.md
 ---
 
 Para consultas relacionadas con esta wiki o con la investigación y metodología de Woodfine Management
-Corp. — incluidas preguntas sobre la [[topic-catchment-ranking-methodology|metodología de clasificación de área de captación]],
+Corp. — incluidas preguntas sobre la [[topic-catchment-ranking-methodology-v3|metodología de clasificación de área de captación]],
 el [[topic-od-catchment-methodology|modelo O-D de captación]], o la cobertura de datos — contacte a
 Woodfine Management Corp. a través de los canales institucionales oficiales.
 

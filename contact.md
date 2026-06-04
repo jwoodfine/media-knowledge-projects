@@ -10,7 +10,7 @@ editor: pointsav-engineering
 ---
 
 For enquiries related to this wiki or to Woodfine Management Corp. research and methodology —
-including questions about the [[topic-catchment-ranking-methodology|catchment ranking methodology]],
+including questions about the [[topic-catchment-ranking-methodology-v3|catchment ranking methodology]],
 [[topic-od-catchment-methodology|O-D catchment model]], or data coverage — contact Woodfine
 Management Corp. through official institutional channels.
 
