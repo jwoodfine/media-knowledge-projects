@@ -6,8 +6,8 @@
 heading: "Reference geometry"
 items:
   - text: "102 Tier 5 sites in North America — 3.7% of anchor locations, below the 10% calibration threshold that would trigger secondary-radius tightening."
-    link_slug: tier-index-north-america
+    link_slug: topic-tier-index-north-america
   - text: "European Tier 5 count: 0. The absence reflects data maturity gaps in tertiary healthcare and higher-education infrastructure, not market weakness."
-    link_slug: tier-index-europe
+    link_slug: topic-tier-index-europe
   - text: "7,594 co-location clusters validated from 229,054 retail locations across 8 markets and 13 countries."
-    link_slug: co-location-intelligence-overview
+    link_slug: topic-co-location-intelligence-overview
