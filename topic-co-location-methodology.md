@@ -83,6 +83,12 @@ The methodology applies consistently across global markets by mapping regional o
 - [[topic-co-location-intelligence-overview]]
 - [[topic-co-location-anchors]]
 
+## References
+
+- [Retail park](https://en.wikipedia.org/wiki/Retail_park) — Wikipedia, accessed 2026-06-14
+- [Big-box store](https://en.wikipedia.org/wiki/Big-box_store) — Wikipedia, accessed 2026-06-14
+- [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN) — Wikipedia, accessed 2026-06-14
+
 ---
 
 *Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*

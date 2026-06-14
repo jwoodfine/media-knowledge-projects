@@ -72,3 +72,7 @@ The catchment polygons displayed on the map are generated from the same 35 km / 
 - [[topic-catchment-ranking-methodology-v3]]
 - [[topic-trade-area-data-sources]]
 - [[topic-co-location-methodology]]
+
+## References
+
+- [Catchment area](https://en.wikipedia.org/wiki/Catchment_area_(human_geography)) — Wikipedia, accessed 2026-06-14

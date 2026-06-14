@@ -87,6 +87,11 @@ The platform is updated when new chain data is ingested or when the ranking matr
 *   [[topic-co-location-ranking-system]]
 *   [[topic-tier-index-north-america]]
 
+## References
+
+- [Retail park](https://en.wikipedia.org/wiki/Retail_park) — Wikipedia, accessed 2026-06-14
+- [Big-box store](https://en.wikipedia.org/wiki/Big-box_store) — Wikipedia, accessed 2026-06-14
+
 ---
 
 *Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
