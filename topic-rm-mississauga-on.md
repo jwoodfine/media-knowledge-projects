@@ -79,3 +79,11 @@ Southern Ontario's Dfa climate is characterised by hot, humid summers and cold w
 | rm_type | suburban-regional (24.9 km from Toronto metro centroid) |
 
 The composite score of 18.0 places Mississauga fourth among the 400 ranked North American Regional Markets under the corrected methodology. The score reflects the dense T1 pairing, the supporting T2 and T3 layer, and the civic infrastructure multiplier. The suburban-regional classification — applied to markets located 15 to 80 km from a major metropolitan centroid — is a filter that determines which markets enter the Regional Market list at all; it is not itself a numeric input to the score.
+
+## See Also
+
+- [[topic-regional-markets-system|Regional Markets Intelligence System]]
+- [[topic-regional-market-matrix|Regional Market Matrix]]
+- [[topic-top-400-regional-markets-na|Top 400 Regional Markets — North America]]
+- [[topic-co-location-methodology|Co-location Methodology]]
+- [[topic-co-location-ranking-system|Co-location Ranking System]]

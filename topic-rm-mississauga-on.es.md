@@ -77,3 +77,11 @@ El clima Dfa del sur de Ontario se caracteriza por veranos calurosos y húmedos,
 | Tipo de mercado regional | Suburbano-regional (24,9 km del centroide metropolitano de Toronto) |
 
 La puntuación compuesta de 18,0 sitúa a Mississauga en el cuarto lugar entre los 400 Mercados Regionales de América del Norte clasificados bajo la metodología corregida.
+
+## Véase también
+
+- [[topic-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[topic-regional-market-matrix|Matriz de Mercado Regional]]
+- [[topic-top-400-regional-markets-na|Top 400 Mercados Regionales — América del Norte]]
+- [[topic-co-location-methodology|Metodología de Co-ubicación]]
+- [[topic-co-location-ranking-system|Sistema de Clasificación de Co-ubicación]]

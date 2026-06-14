@@ -71,3 +71,11 @@ Dado que hay presentes anclas tanto médicas como académicas, el multiplicador 
 | **Puntuación compuesta** | **25,5** |
 
 Plano ocupa el primer lugar entre los 400 Mercados Regionales de América del Norte porque tres clústeres de Nivel 1 es el recuento más alto observado en la categoría suburbano-regional en el conjunto de datos corregido, y la densidad de anclas cívicas otorga al mercado el multiplicador cívico máximo.
+
+## Véase también
+
+- [[topic-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[topic-regional-market-matrix|Matriz de Mercado Regional]]
+- [[topic-top-400-regional-markets-na|Top 400 Mercados Regionales — América del Norte]]
+- [[topic-co-location-methodology|Metodología de Co-ubicación]]
+- [[topic-co-location-ranking-system|Sistema de Clasificación de Co-ubicación]]

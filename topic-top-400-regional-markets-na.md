@@ -470,3 +470,9 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 Co-location data is drawn from OpenStreetMap (ODbL licence) filtered by Wikidata chain identifiers, supplemented by civic-anchor records from the Overture Maps Foundation Places dataset (CDLA Permissive 2.0). Cluster boundaries are computed by a two-pass DBSCAN algorithm. Metropolitan reference centroids are drawn from 120 major North American metropolitan areas.
 
 The suburban-regional classification (15–80 km from the nearest major metro centroid) is a filter applied before scoring, not a score component. Every market in this list is already in the suburban band; no distance bonus or penalty is applied within the list. This design reflects the research intent: the list surfaces the suburban ring as a distinct analysis tier, not a continuum from metro core to rural periphery.
+
+## See Also
+
+- [[topic-regional-markets-system|Regional Markets Intelligence System]]
+- [[topic-regional-market-matrix|Regional Market Matrix]]
+- [[topic-tier-index-north-america|Tier Index — North America]]

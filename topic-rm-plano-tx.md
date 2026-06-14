@@ -75,3 +75,11 @@ ASHRAE Climate Zone 3A is a warm-humid designation common to north Texas, the lo
 | **Composite score** | **25.5** |
 
 Plano ranks first among the 400 North American Regional Markets because three Tier 1 clusters is the highest count observed in the suburban-regional category in the corrected dataset, and the civic-anchor density qualifies the market for the maximum civic multiplier. The composite score does not include a metro-distance multiplier: the suburban-regional classification (15–80 kilometres from a major metro centroid) is applied as a filter rather than as a score component, so all 400 markets in the index sit within the same proximity band and compete on tier composition, civic anchors, and confidence alone.
+
+## See Also
+
+- [[topic-regional-markets-system|Regional Markets Intelligence System]]
+- [[topic-regional-market-matrix|Regional Market Matrix]]
+- [[topic-top-400-regional-markets-na|Top 400 Regional Markets — North America]]
+- [[topic-co-location-methodology|Co-location Methodology]]
+- [[topic-co-location-ranking-system|Co-location Ranking System]]

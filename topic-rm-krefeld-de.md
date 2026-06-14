@@ -80,3 +80,11 @@ Cfb is the dominant climate regime across the Rhine-Ruhr region: mild summers, c
 | Regional Market type | suburban-regional | 19.4 km from Düsseldorf metro centroid |
 
 A composite score of 12.0 is representative of the upper European suburban-regional tier. The European dataset exhibits lower maximum scores than the North American dataset because European municipalities are geographically smaller units, so even economically significant centres tend to span fewer Tier 1 compositions than their suburban North American counterparts. The composite score formula does not apply a metro-distance multiplier; suburban-regional classification is recorded as a categorical descriptor rather than a scoring penalty.
+
+## See Also
+
+- [[topic-regional-markets-system|Regional Markets Intelligence System]]
+- [[topic-regional-market-matrix|Regional Market Matrix]]
+- [[topic-top-400-regional-markets-eu|Top 400 Regional Markets — Europe]]
+- [[topic-co-location-methodology|Co-location Methodology]]
+- [[topic-co-location-ranking-system|Co-location Ranking System]]

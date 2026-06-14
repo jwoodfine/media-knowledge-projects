@@ -116,3 +116,9 @@ Para la metodología completa, véase [Sistema de Inteligencia de Mercados Regio
 ---
 
 *Datos de referencia actualizados al 30 de mayo de 2026. Fuentes: Colaboradores de OpenStreetMap (ODbL); Overture Maps Foundation (CDLA Permissive 2.0); GISCO LAU 2021 de Eurostat.*
+
+## Véase también
+
+- [[topic-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[topic-regional-market-matrix|Matriz de Mercado Regional]]
+- [[topic-tier-index-europe|Índice de Niveles de Co-ubicación: Europa]]

@@ -140,3 +140,10 @@ El modelo de captación asigna a cada clúster un área de influencia primaria y
 ---
 
 *Datos de referencia actualizados al 30 de mayo de 2026. Fuentes: Colaboradores de OpenStreetMap (ODbL); Overture Maps Foundation (CDLA Permissive 2.0); Kontur Population 2023 (CC BY 4.0); WorldPop 2026 (CC BY 4.0); Beck et al. 2018 Köppen-Geiger (CC BY 4.0); WWF Ecorregiones 2017 (CC BY 4.0); US LODES (dominio público); MITMA España (datos abiertos).*
+
+## Véase también
+
+- [[topic-regional-market-matrix|Matriz de Mercado Regional]]
+- [[topic-co-location-methodology|Metodología de Co-ubicación]]
+- [[topic-top-400-regional-markets-na|Top 400 Mercados Regionales — América del Norte]]
+- [[topic-top-400-regional-markets-eu|Top 400 Mercados Regionales — Europa]]

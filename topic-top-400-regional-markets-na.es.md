@@ -474,3 +474,9 @@ Para la metodología completa, véase [Sistema de Inteligencia de Mercados Regio
 ---
 
 *Datos de referencia actualizados al 30 de mayo de 2026. Fuentes: Colaboradores de OpenStreetMap (ODbL); Overture Maps Foundation (CDLA Permissive 2.0); TIGER 2023; Statistics Canada 2021.*
+
+## Véase también
+
+- [[topic-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[topic-regional-market-matrix|Matriz de Mercado Regional]]
+- [[topic-tier-index-north-america|Índice de Niveles — América del Norte]]
