@@ -7,6 +7,7 @@ aliases:
 short_description: "Profundidades canónicas de Zone 1 Habitat, Zone 2 Magazine y Zone 3 Corridor por lado para siete tipos de uso de Oficina Profesional de Private Office a Business, con anchos de edificio derivados y citas de fuente a bocetos V12 y documentos de metodología."
 category: bim
 type: topic
+content_type: topic
 quality: complete
 status: pre-build
 audience: operator

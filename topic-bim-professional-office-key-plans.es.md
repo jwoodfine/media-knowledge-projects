@@ -7,6 +7,7 @@ aliases:
 short_description: "La categoría supraordinada Oficina Profesional cubriendo cinco subtipos — Business, Medical, Laboratory, Academic y Civic — con las dimensiones de zona del diseño inicial de línea de base que precedieron la especialización de subtipo."
 category: bim
 type: topic
+content_type: topic
 quality: complete
 status: pre-build
 audience: operator

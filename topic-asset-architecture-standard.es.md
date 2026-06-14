@@ -6,6 +6,7 @@ aliases:
   - topic-asset-architecture-standard
 category: governance
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine

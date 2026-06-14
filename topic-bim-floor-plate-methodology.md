@@ -7,6 +7,7 @@ aliases:
 short_description: "A geometric self-similar aperiodic space-planning system sizing floor plates from actual furniture inventory through Key Plans, Tiles, and Building Core assemblies — all dimensions traceable to real furniture SKUs, every climate zone matching exactly one Tile."
 category: bim
 type: topic
+content_type: topic
 quality: complete
 status: pre-build
 audience: operator

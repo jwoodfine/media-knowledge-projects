@@ -6,6 +6,7 @@ aliases:
   - topic-catchment-ranking-methodology-v3
 category: governance
 type: topic
+content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine

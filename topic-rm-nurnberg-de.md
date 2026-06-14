@@ -8,6 +8,7 @@ language: en
 language_protocol: PROSE-TOPIC
 category: governance
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine

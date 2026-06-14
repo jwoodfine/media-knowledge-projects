@@ -7,6 +7,7 @@ aliases:
 short_description: "The Building Width Calculator inverts conventional office planning by deriving building width from actual furniture dimensions — desk, exam table, lab bench, courtroom bench — rather than fitting tenants into a predetermined structural grid."
 category: bim
 type: topic
+content_type: topic
 quality: complete
 status: pre-build
 audience: operator

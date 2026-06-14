@@ -7,6 +7,7 @@ aliases:
 short_description: "Especificaciones de key plan de oficina comercial dentro de la clasificación Oficina Profesional, distinguidas por la profundidad más amplia de Zone 2 Magazine de cualquier subtipo en 9,26 m, impulsada por paredes de almacenamiento abierto, salas de servidores y zonas de colaboración en equipo, en tres tamaños de 311 a 669 m²."
 category: bim
 type: topic
+content_type: topic
 quality: complete
 status: pre-build
 audience: operator

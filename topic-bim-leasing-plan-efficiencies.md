@@ -7,6 +7,7 @@ aliases:
 short_description: "Quantitative case for the aperiodic tile system: irregular Private Office widths produce 1.78 times more distinct leasable configurations than a uniform modular grid at 95 percent of the area, with 78 percent of the door and service hookup count."
 category: bim
 type: topic
+content_type: topic
 quality: complete
 status: pre-build
 audience: operator

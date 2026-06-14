@@ -6,6 +6,7 @@ aliases:
   - topic-retail-brand-family-taxonomy.es
 category: governance
 type: topic
+content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine

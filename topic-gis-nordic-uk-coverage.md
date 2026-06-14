@@ -6,6 +6,7 @@ aliases:
   - topic-gis-nordic-uk-coverage
 category: governance
 type: topic
+content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine

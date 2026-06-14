@@ -7,6 +7,7 @@ aliases:
 short_description: "Master directory of 72 key plans across nine Development Classes, pairing Development Class with Typology and Eco Region to produce the file-name slugs referenced across downstream BIM artefacts, DTCG tokens, IFC entity classifications, and regulation overlays."
 category: bim
 type: topic
+content_type: topic
 quality: complete
 status: pre-build
 audience: operator

@@ -6,6 +6,7 @@ aliases:
   - topic-co-location-cluster-formation
 category: governance
 type: topic
+content_type: topic
 quality: stub
 status: active
 audience: customer-woodfine

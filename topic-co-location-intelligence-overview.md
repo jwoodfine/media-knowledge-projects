@@ -6,6 +6,7 @@ aliases:
   - topic-co-location-intelligence-overview
 category: governance
 type: topic
+content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine

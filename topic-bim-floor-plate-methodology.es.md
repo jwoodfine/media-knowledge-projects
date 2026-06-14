@@ -7,6 +7,7 @@ aliases:
 short_description: "Un sistema de planificación de espacios geométricamente autosimilar y aperiódico que dimensiona floor plates a partir del inventario de mobiliario real mediante Key Plans, Tiles y ensamblajes de Building Core — todas las dimensiones rastreables a SKUs de mobiliario real, cada zona climática coincidiendo exactamente con un Tile."
 category: bim
 type: topic
+content_type: topic
 quality: complete
 status: pre-build
 audience: operator

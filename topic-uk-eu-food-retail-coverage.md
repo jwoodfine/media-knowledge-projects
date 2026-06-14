@@ -6,6 +6,7 @@ aliases:
   - topic-uk-eu-food-retail-coverage
 category: governance
 type: topic
+content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine

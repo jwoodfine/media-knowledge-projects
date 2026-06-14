@@ -8,6 +8,7 @@ language: es
 language_protocol: TRANSLATE-ES
 category: governance
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine

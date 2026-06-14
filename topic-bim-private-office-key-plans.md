@@ -7,6 +7,7 @@ aliases:
 short_description: "Private Office key plan specifications — three suite sizes (30, 43, and 64 m²) opening directly onto the shared building corridor without an internal bilateral corridor, sized for individual professional tenants rather than firms."
 category: bim
 type: topic
+content_type: topic
 quality: complete
 status: pre-build
 audience: operator

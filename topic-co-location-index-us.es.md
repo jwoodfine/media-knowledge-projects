@@ -6,6 +6,7 @@ aliases:
   - topic-co-location-index-us
 category: governance
 type: topic
+content_type: topic
 quality: partial
 status: active
 audience: customer-woodfine

@@ -4,6 +4,7 @@ title: "Arquetipos de Co-localización en Inteligencia de Ubicación"
 slug: topic-location-intelligence-archetypes
 category: governance
 type: topic
+content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine

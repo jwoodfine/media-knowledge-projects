@@ -4,6 +4,7 @@ title: "Location Intelligence Co-location Archetypes"
 slug: topic-location-intelligence-archetypes
 category: governance
 type: topic
+content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine

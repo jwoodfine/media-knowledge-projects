@@ -7,6 +7,7 @@ aliases:
 short_description: "Canonical Zone 1 Habitat, Zone 2 Magazine, and Zone 3 Corridor per-side depths for seven Professional Office use types from Private Office to Business, with derived building widths and source citations to V12 sketches and methodology documents."
 category: bim
 type: topic
+content_type: topic
 quality: complete
 status: pre-build
 audience: operator

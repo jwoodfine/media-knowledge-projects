@@ -7,6 +7,7 @@ aliases:
 short_description: "The Professional Office superordinate category covering five sub-types — Business, Medical, Laboratory, Academic, and Civic — with the Initial Design baseline zone dimensions that preceded sub-type specialisation."
 category: bim
 type: topic
+content_type: topic
 quality: complete
 status: pre-build
 audience: operator

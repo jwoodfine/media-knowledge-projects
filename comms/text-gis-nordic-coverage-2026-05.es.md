@@ -5,6 +5,7 @@ slug: text-gis-nordic-coverage-2026-05.es
 short_description: "Comunicación con cliente interno anunciando expansión de cobertura GIS a Noruega (66 clusters T2 Hub), adiciones materiales en Suecia a través de Bauhaus Sverige y 24 clusters UK confirmados — llevando el conjunto de datos de Europa a 479 clusters de coubicación puntuados en radio de 3 km."
 category: comms
 type: release-text
+content_type: topic
 status: active
 language: es
 audience: customer-woodfine

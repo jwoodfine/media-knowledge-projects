@@ -7,6 +7,7 @@ aliases:
 short_description: "Especificaciones de key plan de oficina médica dentro de la clasificación Oficina Profesional, distinguidas por la profundidad más amplia de Zone 1 Habitat en 7,28 m para acomodar el espacio libre de mesa de examen y circulación dual de paciente-clínico, en tres tamaños de 223 a 486 m²."
 category: bim
 type: topic
+content_type: topic
 quality: complete
 status: pre-build
 audience: operator

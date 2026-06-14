@@ -7,6 +7,7 @@ aliases:
 short_description: "Medical Office key plan specifications within the Professional Office classification, distinguished by the widest Zone 1 Habitat depth at 7.28 m to accommodate exam-table clearance and dual patient-clinician circulation, in three sizes from 223 to 486 m²."
 category: bim
 type: topic
+content_type: topic
 quality: complete
 status: pre-build
 audience: operator

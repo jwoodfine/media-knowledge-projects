@@ -7,6 +7,7 @@ aliases:
 short_description: "El Calculador de Ancho de Edificio invierte la planificación de oficinas convencional derivando el ancho del edificio de dimensiones de mobiliario real — escritorio, mesa de examen, banco de laboratorio, banco de sala de justicia — en lugar de ajustar inquilinos a una cuadrícula estructural predeterminada."
 category: bim
 type: topic
+content_type: topic
 quality: complete
 status: pre-build
 audience: operator

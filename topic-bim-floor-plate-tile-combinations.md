@@ -7,6 +7,7 @@ aliases:
 short_description: "The named sample Tile compositions from the V12 Methodology — four configurations documenting the trade-offs each makes across tenant mix, climate-zone autonomy, leasing gap positions, and demising tolerance."
 category: bim
 type: topic
+content_type: topic
 quality: complete
 status: pre-build
 audience: operator

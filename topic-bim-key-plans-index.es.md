@@ -7,6 +7,7 @@ aliases:
 short_description: "Directorio maestro de 72 key plans en nueve Development Classes, pareando Development Class con Typology y Eco Region para producir los slugs de nombre de archivo referenciados en artefactos BIM posteriores, tokens DTCG, clasificaciones de entidad IFC y superposiciones reglamentarias."
 category: bim
 type: topic
+content_type: topic
 quality: complete
 status: pre-build
 audience: operator

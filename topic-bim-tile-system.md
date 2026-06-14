@@ -7,6 +7,7 @@ aliases:
 short_description: "Tiles are the composable HVAC-climate-zone units of the floor plate: three regular families at 2,700 SF, 5,400 SF, and 8,100 SF plus Special Tiles that handle building cores and ancillary areas, assembling to fill Net Leasable Area without remainder."
 category: bim
 type: topic
+content_type: topic
 quality: complete
 status: pre-build
 audience: operator
