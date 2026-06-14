@@ -13,7 +13,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 5 en Europa — suburbio de Düsseldorf, 19,4 km; puntuación compuesta 12,0."
-paired_with: topic-rm-krefeld-de
+paired_with: topic-rm-krefeld-de.md
 last_edited: 2026-05-30
 editor: editorial
 ---

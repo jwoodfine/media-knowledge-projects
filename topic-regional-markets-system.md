@@ -13,7 +13,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Reference article for the co-location analysis system that identifies and ranks suburban retail markets in North America and Europe."
-paired_with: topic-regional-markets-system.es
+paired_with: topic-regional-markets-system.es.md
 last_edited: 2026-05-30
 editor: editorial
 ---

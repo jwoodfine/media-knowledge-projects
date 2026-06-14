@@ -13,7 +13,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 4 en América del Norte — suburbio de Toronto, 24,9 km; puntuación compuesta 18,0."
-paired_with: topic-rm-mississauga-on
+paired_with: topic-rm-mississauga-on.md
 last_edited: 2026-05-30
 editor: editorial
 ---

@@ -13,7 +13,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Artículo de referencia sobre el sistema de análisis de co-localización que identifica y clasifica mercados minoristas suburbanos en América del Norte y Europa."
-paired_with: topic-regional-markets-system
+paired_with: topic-regional-markets-system.md
 last_edited: 2026-05-30
 editor: editorial
 ---

@@ -10,11 +10,11 @@ quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
+language_protocol: TRANSLATE-ES
 last_edited: 2026-05-06
 editor: pointsav-engineering
 short_description: "Minoristas nacionales de gran formato cuya presencia verificada dentro de umbrales de proximidad definidos es el criterio binario de calificación para la inclusión de nodos comerciales."
- topic-co-location-anchors.md
+paired_with: topic-co-location-anchors.md
 cites:
   - ni-51-102
   - osc-sn-51-721

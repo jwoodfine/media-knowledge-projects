@@ -11,7 +11,7 @@ status: active
 lang: es
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
+language_protocol: TRANSLATE-ES
 last_edited: 2026-05-06
 editor: pointsav-engineering
 short_description: "Cómo Noruega, Suecia y el Reino Unido ingresaron al conjunto de datos de inteligencia de co-ubicación mediante tres promociones de cadenas al nivel Alfa en mayo de 2026."

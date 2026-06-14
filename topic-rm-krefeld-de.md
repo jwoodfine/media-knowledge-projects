@@ -13,7 +13,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 5 European Regional Market — suburb of Düsseldorf, 19.4 km; composite score 12.0."
-paired_with: topic-rm-krefeld-de.es
+paired_with: topic-rm-krefeld-de.es.md
 last_edited: 2026-05-30
 editor: editorial
 ---

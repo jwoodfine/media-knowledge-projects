@@ -11,7 +11,7 @@ quality: complete
 status: pre-build
 audience: operator
 bcsc_class: vendor-internal
-language_protocol: PROSE-TOPIC
+language_protocol: TRANSLATE-ES
 last_edited: 2026-05-25
 editor: pointsav-engineering
 paired_with: topic-bim-floor-plate-methodology.md

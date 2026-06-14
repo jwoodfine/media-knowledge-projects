@@ -13,7 +13,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Ranked list of the 400 highest-scoring European Regional Markets under the corrected suburban-regional methodology. Rank 1: Chemnitz (suburb of Dresden, 64 km, score 18.0)."
-paired_with: topic-top-400-regional-markets-eu.es
+paired_with: topic-top-400-regional-markets-eu.es.md
 last_edited: 2026-05-30
 editor: editorial
 ---

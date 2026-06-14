@@ -13,7 +13,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 1 European Regional Market — 5 clusters (4 Tier 1); composite score 51.0; 149.5 km from Munich."
-paired_with: topic-rm-nurnberg-de.es
+paired_with: topic-rm-nurnberg-de.es.md
 last_edited: 2026-06-11
 editor: editorial
 ---

@@ -10,11 +10,11 @@ quality: partial
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
+language_protocol: TRANSLATE-ES
 last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Índice clasificado de los principales nodos de co-ubicación en Estados Unidos, evaluado por la metodología de ancla nombrada en ubicaciones ancla Walmart Supercentre."
- topic-co-location-index-us.md
+paired_with: topic-co-location-index-us.md
 cites:
   - ni-51-102
   - osc-sn-51-721

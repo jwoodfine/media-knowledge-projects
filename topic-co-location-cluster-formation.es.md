@@ -10,7 +10,7 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
+language_protocol: TRANSLATE-ES
 last_edited: 2026-06-04
 editor: pointsav-engineering
 paired_with: topic-co-location-cluster-formation.md

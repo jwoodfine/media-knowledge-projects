@@ -10,11 +10,11 @@ quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
+language_protocol: TRANSLATE-ES
 last_edited: 2026-05-06
 editor: pointsav-engineering
 short_description: "Marco de selección geográfica que define qué mercados cubre la plataforma de inteligencia de co-ubicación, con criterios de selección estructurales y verificables."
- topic-regional-market-matrix.md
+paired_with: topic-regional-market-matrix.md
 cites:
   - ni-51-102
   - osc-sn-51-721

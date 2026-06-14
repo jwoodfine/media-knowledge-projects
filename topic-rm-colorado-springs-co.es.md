@@ -13,7 +13,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional norteamericano de rango 14 — 7 clústeres (2 de Nivel 1); puntuación compuesta 48,75; 95,6 km de Denver."
-paired_with: topic-rm-colorado-springs-co
+paired_with: topic-rm-colorado-springs-co.md
 last_edited: 2026-06-11
 editor: editorial
 ---

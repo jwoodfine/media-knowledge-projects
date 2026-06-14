@@ -13,7 +13,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 14 North American Regional Market — 7 clusters (2 Tier 1); composite score 48.75; 95.6 km from Denver."
-paired_with: topic-rm-colorado-springs-co.es
+paired_with: topic-rm-colorado-springs-co.es.md
 last_edited: 2026-06-11
 editor: editorial
 ---

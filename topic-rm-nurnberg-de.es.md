@@ -13,7 +13,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional europeo de rango 1 — 5 clústeres (4 de Nivel 1); puntuación compuesta 51,0; 149,5 km de Múnich."
-paired_with: topic-rm-nurnberg-de
+paired_with: topic-rm-nurnberg-de.md
 last_edited: 2026-06-11
 editor: editorial
 ---

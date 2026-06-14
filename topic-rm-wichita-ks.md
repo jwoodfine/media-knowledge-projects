@@ -13,7 +13,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 16 North American Regional Market — 4 Tier 1 clusters; composite score 48.0; 249.7 km from Oklahoma City."
-paired_with: topic-rm-wichita-ks.es
+paired_with: topic-rm-wichita-ks.es.md
 last_edited: 2026-06-11
 editor: editorial
 ---

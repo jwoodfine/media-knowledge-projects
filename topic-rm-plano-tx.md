@@ -13,7 +13,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 1 North American Regional Market — suburb of Dallas, 28.1 km; composite score 25.5."
-paired_with: topic-rm-plano-tx.es
+paired_with: topic-rm-plano-tx.es.md
 last_edited: 2026-05-30
 editor: editorial
 ---

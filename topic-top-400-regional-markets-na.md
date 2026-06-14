@@ -13,7 +13,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Ranked list of the 400 highest-scoring North American suburban Regional Markets. Rank 1: Plano, TX (suburb of Dallas, score 25.5)."
-paired_with: topic-top-400-regional-markets-na.es
+paired_with: topic-top-400-regional-markets-na.es.md
 last_edited: 2026-05-30
 editor: editorial
 ---

@@ -13,7 +13,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Lista clasificada de los 400 Mercados Regionales de mayor puntuación en América del Norte bajo la metodología suburbano-regional corregida. Posición 1: Plano, TX (suburbio de Dallas, 28,1 km, puntuación 25,5)."
-paired_with: topic-top-400-regional-markets-na
+paired_with: topic-top-400-regional-markets-na.md
 last_edited: 2026-05-30
 editor: editorial
 ---

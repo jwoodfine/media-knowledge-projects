@@ -13,7 +13,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 4 North American Regional Market — suburb of Toronto, 24.9 km; composite score 18.0."
-paired_with: topic-rm-mississauga-on.es
+paired_with: topic-rm-mississauga-on.es.md
 last_edited: 2026-05-30
 editor: editorial
 ---

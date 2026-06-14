@@ -13,7 +13,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional norteamericano de rango 16 — 4 clústeres de Nivel 1; puntuación compuesta 48,0; 249,7 km de Oklahoma City."
-paired_with: topic-rm-wichita-ks
+paired_with: topic-rm-wichita-ks.md
 last_edited: 2026-06-11
 editor: editorial
 ---

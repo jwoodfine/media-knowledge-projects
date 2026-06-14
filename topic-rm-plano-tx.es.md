@@ -13,7 +13,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 1 en América del Norte — suburbio de Dallas, 28,1 km; puntuación compuesta 25,5."
-paired_with: topic-rm-plano-tx
+paired_with: topic-rm-plano-tx.md
 last_edited: 2026-05-30
 editor: editorial
 ---
