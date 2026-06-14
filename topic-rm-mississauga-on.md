@@ -19,8 +19,6 @@ last_edited: 2026-05-30
 editor: editorial
 ---
 
-# Mississauga, Ontario — Regional Market
-
 Mississauga ranks fourth among the 400 North American Regional Markets, with a composite score of 18.0. The market sits 24.9 km west of downtown Toronto and is classified as suburban-regional: a substantial commercial fabric in its own right, but geographically and economically tethered to the Greater Toronto Area. Five co-location clusters anchor the profile — two Tier 1, one Tier 2, and two Tier 3 — supported by civic infrastructure that includes two Trillium Health Partners hospital campuses and the University of Toronto Mississauga. Mississauga is Canada's sixth-largest city by population and, at the time of its incorporation, was the most populous municipality in the country without city status.
 
 ## Overview
@@ -87,3 +85,9 @@ The composite score of 18.0 places Mississauga fourth among the 400 ranked North
 - [[topic-top-400-regional-markets-na|Top 400 Regional Markets — North America]]
 - [[topic-co-location-methodology|Co-location Methodology]]
 - [[topic-co-location-ranking-system|Co-location Ranking System]]
+
+## References
+
+- [Mississauga](https://en.wikipedia.org/wiki/Mississauga) — Wikipedia, accessed 2026-05-30
+
+*Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

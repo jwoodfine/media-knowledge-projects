@@ -19,8 +19,6 @@ last_edited: 2026-05-30
 editor: editorial
 ---
 
-# Plano, Texas — Regional Market
-
 Plano, Texas ranks first among the 400 North American Regional Markets in the composite co-location index, with a score of 25.5 derived from six retail-and-civic clusters distributed across the city. A suburban-regional market situated 28.1 kilometres north of the Dallas metropolitan centroid, Plano carries three Tier 1 clusters, two Tier 2 clusters, and one Tier 3 cluster — a composition matched by no other suburban market in the corrected dataset. Each of the three Tier 1 clusters combines hypermarket, hardware, and price-club anchors, and five of the six clusters co-locate one or more civic institutions, predominantly hospital campuses operated by Texas Health Presbyterian, Baylor Scott & White, Medical City, and Methodist, alongside academic anchors from the University of Texas at Dallas and Dallas Baptist University.
 
 ## Overview
@@ -83,3 +81,9 @@ Plano ranks first among the 400 North American Regional Markets because three Ti
 - [[topic-top-400-regional-markets-na|Top 400 Regional Markets — North America]]
 - [[topic-co-location-methodology|Co-location Methodology]]
 - [[topic-co-location-ranking-system|Co-location Ranking System]]
+
+## References
+
+- [Plano, Texas](https://en.wikipedia.org/wiki/Plano,_Texas) — Wikipedia, accessed 2026-05-30
+
+*Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
