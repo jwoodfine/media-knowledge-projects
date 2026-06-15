@@ -60,8 +60,22 @@ Los multiplicadores se expresan en moneda local. Las comparaciones de gasto entr
 
 Para cada cluster de co-ubicación, las zonas de captación primaria y secundaria se definen mediante anillos de distancia en línea recta (véase: Metodología de captación O-D). La población y el gasto de todas las celdas H3 dentro de cada zona se suman para producir las estadísticas del área de influencia del cluster. Estos valores agregados son la base de la clasificación competitiva entre clusters.
 
+## Datos de puntos de interés
+
+Las ubicaciones de los anclajes minoristas y operadores secundarios que forman los centroides de los clusters de co-ubicación provienen de **colaboradores de OpenStreetMap** bajo la [Licencia de Base de Datos Abierta (ODbL)](https://opendatacommons.org/licenses/odbl/). Los datos de puntos de interés son distintos de las capas de población y gasto descritas anteriormente; proporcionan los puntos geográficos de referencia desde los cuales se miden las zonas de captación.
+
 ## Véase también
 
 - [[topic-od-catchment-methodology]]
 - [[topic-catchment-ranking-methodology-v3]]
 - [[topic-co-location-methodology]]
+
+## Referencias
+
+- [Área comercial](https://en.wikipedia.org/wiki/Trade_area) — Wikipedia, acceso 2026-06-14
+- [WorldPop: Proyecto Global de Denominadores de Población de Alta Resolución](https://www.worldpop.org/) — WorldPop, Universidad de Southampton, acceso 2026-06-14
+- [H3: Índice espacial hexagonal jerárquico de Uber](https://h3geo.org/) — H3 Geo, acceso 2026-06-14
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
+*Datos de OpenStreetMap © colaboradores de OpenStreetMap, bajo licencia ODbL.*

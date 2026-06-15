@@ -63,3 +63,14 @@ La pertenencia a la zona de captación es la base para:
 - [[topic-catchment-ranking-methodology-v3]]
 - [[topic-trade-area-data-sources]]
 - [[topic-co-location-methodology]]
+
+## Referencias
+
+- [Área de captación](https://en.wikipedia.org/wiki/Catchment_area_(human_geography)) — Wikipedia, acceso 2026-06-14
+- [Área comercial](https://en.wikipedia.org/wiki/Trade_area) — Wikipedia, acceso 2026-06-14
+- [H3: Índice espacial hexagonal jerárquico de Uber](https://h3geo.org/) — H3 Geo, acceso 2026-06-14
+- [WorldPop: Proyecto Global de Denominadores de Población de Alta Resolución](https://www.worldpop.org/) — WorldPop, Universidad de Southampton, acceso 2026-06-14
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
+*Los centroides de los clusters a partir de los cuales se calculan las distancias de captación se derivan de registros de puntos de interés de OpenStreetMap. Datos de OpenStreetMap © colaboradores de OpenStreetMap, bajo licencia ODbL.*

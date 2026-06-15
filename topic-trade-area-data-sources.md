@@ -78,6 +78,16 @@ For each co-location cluster, primary and secondary catchment zones are defined 
 
 The retail anchor and secondary operator locations that form co-location cluster centroids are sourced from **OpenStreetMap contributors** under the [Open Database Licence (ODbL)](https://opendatacommons.org/licenses/odbl/). Point-of-interest data is distinct from the population and spend layers described above; it provides the geographic seed points from which catchment zones are measured. The full data-attribution statement covering all pipeline layers appears in [[topic-regional-markets-system]]. [osm-odbl]
 
+## References
+
+- [Trade area](https://en.wikipedia.org/wiki/Trade_area) — Wikipedia, accessed 2026-06-14
+- [WorldPop Global High Resolution Population Denominators Project](https://www.worldpop.org/) — WorldPop, University of Southampton, accessed 2026-06-14
+- [H3: Uber's Hexagonal Hierarchical Spatial Index](https://h3geo.org/) — H3 Geo, accessed 2026-06-14
+
+*Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
+*OpenStreetMap data © OpenStreetMap contributors, licensed under ODbL.*
+
 ## See also
 
 - [[topic-od-catchment-methodology]]
