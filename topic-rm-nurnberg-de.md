@@ -21,7 +21,7 @@ editor: editorial
 
 # Nuremberg, Germany — Regional Market
 
-Nuremberg (German: *Nürnberg*) is a city of approximately 546,000 residents in Bavaria, Germany, and ranks first among the 400 highest-scoring European Regional Markets in the composite co-location index. The market contains five commercial co-location clusters — four at Tier 1 — distributed across the city's outer commercial ring and adjacent industrial corridors. Situated 149.5 kilometres north of Munich, Nuremberg maintains an independent commercial identity anchored by its university sector (Friedrich-Alexander-Universität Erlangen-Nürnberg, Technische Hochschule Nürnberg Georg Simon Ohm, and several further institutions) and by multiple hospital campuses, all adjacent to or within major retail co-location zones.
+Nuremberg (German: *Nürnberg*) is a city of approximately 546,000 residents in Bavaria, Germany. Situated 149.5 kilometres north of Munich, it maintains an independent commercial identity anchored by its university sector (Friedrich-Alexander-Universität Erlangen-Nürnberg, Technische Hochschule Nürnberg Georg Simon Ohm, and several further institutions) and by multiple hospital campuses, all adjacent to or within major retail co-location zones. The city ranks first among the 400 highest-scoring European Regional Markets in the composite co-location index, with five commercial co-location clusters — four at Tier 1 — distributed across its outer commercial ring and adjacent industrial corridors.
 
 ## Overview
 
@@ -100,6 +100,10 @@ Note: ASHRAE 169-2013 climate zones apply to the United States only and are not 
 | **Composite score** | **51.0** |
 
 The maximum distance multiplier reflects the absence of a larger metropolitan centre within the threshold radius. Were Nuremberg situated closer to Munich, the index would treat it as part of a Munich-anchored extended catchment rather than as an independent Regional Market.
+
+## The bottom line
+
+Nuremberg is the highest-scoring European Regional Market in the composite co-location index, driven by four Tier 1 retail-park clusters that pair hypermarket anchors with major hardware and consumer-electronics chains along the city's outer ring. A dense civic overlay of municipal hospital campuses and seven higher-education institutions sustains weekday and weekend catchment beyond residential population alone. With Munich 149.5 kilometres away — beyond the threshold radius — the market reaches the system's maximum distance multiplier, yielding a composite score of 51.0 and confirming Nuremberg's standing as an independent commercial centre rather than a satellite catchment.
 
 ## Wikipedia References
 

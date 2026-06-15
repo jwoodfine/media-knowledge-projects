@@ -56,3 +56,7 @@ The B&Q promotion resolves the most significant prior data gap in the UK dataset
 - [[topic-co-location-ranking-system]] — how T2 Hub and T3 designations are assigned
 - [[topic-co-location-methodology]] — the linear-geometry scoring model underlying all rankings
 - [[topic-tier-index-europe]] — the full European tier index
+
+---
+
+*reviewed by editorial · last editorial review 2026-06-14*

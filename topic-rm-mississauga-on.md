@@ -19,7 +19,7 @@ last_edited: 2026-05-30
 editor: editorial
 ---
 
-Mississauga ranks fourth among the 400 North American Regional Markets, with a composite score of 18.0. The market sits 24.9 km west of downtown Toronto and is classified as suburban-regional: a substantial commercial fabric in its own right, but geographically and economically tethered to the Greater Toronto Area. Five co-location clusters anchor the profile — two Tier 1, one Tier 2, and two Tier 3 — supported by civic infrastructure that includes two Trillium Health Partners hospital campuses and the University of Toronto Mississauga. Mississauga is Canada's sixth-largest city by population and, at the time of its incorporation, was the most populous municipality in the country without city status.
+**Mississauga** is a city on the northwestern shore of Lake Ontario, 24.9 km west of downtown Toronto, and the second-largest municipality in the Greater Toronto Area. Classified as a suburban-regional market, it carries a substantial commercial fabric of its own while remaining geographically and economically tethered to Toronto. Five co-location clusters anchor its profile — two Tier 1, one Tier 2, and two Tier 3 — supported by civic infrastructure that includes two Trillium Health Partners hospital campuses and the University of Toronto Mississauga. These attributes place Mississauga fourth among the 400 North American Regional Markets, with a composite score of 18.0.
 
 ## Overview
 
@@ -85,6 +85,10 @@ The composite score of 18.0 places Mississauga fourth among the 400 ranked North
 - [[topic-top-400-regional-markets-na|Top 400 Regional Markets — North America]]
 - [[topic-co-location-methodology|Co-location Methodology]]
 - [[topic-co-location-ranking-system|Co-location Ranking System]]
+
+## The bottom line
+
+Mississauga's fourth-place ranking reflects a mature suburban retail geography in which the major North American big-box operators have established multiple stores within the municipal boundary, paired with an unusually strong civic anchor set of two Trillium Health Partners hospitals and a full University of Toronto research campus. The co-occurrence of those medical and academic institutions with retail clusters triggers the 1.5× civic multiplier that lifts the composite score to 18.0. For a market sitting 24.9 km from downtown Toronto, this combination signals both household-goods density and institutional reinforcement of commercial activity — the defining traits of a high-value suburban-regional market.
 
 ## References
 

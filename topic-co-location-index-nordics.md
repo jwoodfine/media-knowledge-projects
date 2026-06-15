@@ -27,11 +27,11 @@ The Nordics Co-location Index ranks commercial nodes across Northern Europe usin
 
 IKEA maintains approximately 55 stores across the Nordic region: Sweden (~20), Denmark (~8), Norway (~8), Finland (~7), and Iceland (~1). Secondary anchors vary by country: Bauhaus DIY operates in Sweden, Denmark, Norway, and Finland; Biltema and Jula cover Sweden and Norway; Stark operates in Denmark. The Nordic healthcare and university systems concentrate infrastructure in capital cities and major university towns — Stockholm, Gothenburg, Malmö, Copenhagen, Aarhus, Oslo, Bergen, Helsinki, and Tampere each have major hospital systems and research universities within the same urban catchment areas as IKEA stores.
 
-## Nordic Market Characteristics
+## Nordic market characteristics
 
 The Nordic region's smaller geographic spread means fewer distinct co-location nodes compared to larger markets, but each validated node benefits from the density of institutional infrastructure typical of Nordic urban planning. Nordic cities tend to site large-format retail, civic hospitals, and university campuses within the same suburban zone. The full ranked index covers 30+ evaluated anchor locations across the five countries.
 
-## Tier 4+ (★★★★+) — Premier Nordic Hubs
+## Tier 4+ (★★★★+) — Premier Nordic hubs
 
 A Tier 4+ designation indicates a node where primary anchor presence is supported by at least one secondary operator and essential civic infrastructure within the required catchment radii. These sites represent the strongest validated commercial environments the Nordic dataset currently identifies.
 
@@ -40,7 +40,7 @@ A Tier 4+ designation indicates a node where primary anchor presence is supporte
 ## Provenance
 - **Verification:** Anchor network data sourced from OpenStreetMap records as of May 2026.
 
-## See Also
+## See also
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]

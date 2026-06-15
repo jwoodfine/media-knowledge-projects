@@ -27,11 +27,11 @@ The Poland Co-location Index ranks commercial nodes across the Polish market usi
 
 IKEA operates approximately 12 stores in Poland, with locations in Warsaw (two stores), Kraków, Wrocław, Gdańsk, Poznań, Łódź, Katowice, Lublin, Bydgoszcz, Białystok, and Szczecin. Secondary anchors are densely distributed: Leroy Merlin (~60 locations), Makro (~40 Metro Cash & Carry locations), Castorama (~80 locations), and OBI (~50 locations). Poland's 24 major public universities and voivodeship capital hospitals provide tertiary infrastructure in the same cities as IKEA operations.
 
-## Central European Convergence Density
+## Central European convergence density
 
 Poland's retail expansion through the 2010s and 2020s produced high-density co-location convergence, particularly in mid-sized cities (population 200,000–600,000) where a single commercial zone accommodates multiple large-format anchors. Cities such as Wrocław, Poznań, Gdańsk, and Kraków combine IKEA presence with secondary anchor density and strong tertiary civic infrastructure, producing reliable Tier 4+ conditions. The full ranked index covers 15+ evaluated anchor locations.
 
-## Tier 4+ (★★★★+) — High-Validation Commercial Nodes
+## Tier 4+ (★★★★+) — High-validation commercial nodes
 
 A Tier 4+ rating in Poland indicates a node where primary anchor presence is supported by secondary operators and essential civic infrastructure within the required catchment radii. The convergence of operators across categories confirms the site's commercial standing.
 
@@ -40,7 +40,7 @@ A Tier 4+ rating in Poland indicates a node where primary anchor presence is sup
 ## Provenance
 - **Verification:** Anchor network data sourced from OpenStreetMap records as of May 2026.
 
-## See Also
+## See also
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]

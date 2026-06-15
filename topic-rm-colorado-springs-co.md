@@ -21,7 +21,7 @@ editor: editorial
 
 # Colorado Springs, Colorado — Regional Market
 
-Colorado Springs is a city of approximately 479,000 residents in El Paso County, Colorado, and ranks 14th among the 400 highest-scoring North American Regional Markets. The market contains 7 co-location clusters including 2 Tier 1, 4 Tier 2, and 1 Tier 3 formations, distributed across the city's eastern and northeastern commercial corridors. Located 95.6 kilometres south of Denver, Colorado Springs operates as an autonomous regional economy anchored by military installations, higher education, and a substantial healthcare sector, all of which are present within its co-location clusters.
+Colorado Springs is a city of approximately 479,000 residents in El Paso County, Colorado, anchored by a concentration of military installations, higher education, and a substantial healthcare sector that together generate sustained, in-place consumer demand. Located 95.6 kilometres south of Denver, it operates as an autonomous regional economy rather than a satellite of the larger metro. Its co-location footprint — 7 clusters, including 2 Tier 1, 4 Tier 2, and 1 Tier 3 formation distributed across the city's eastern and northeastern commercial corridors — ranks it 14th among the 400 highest-scoring North American Regional Markets.
 
 ## Overview
 
@@ -78,6 +78,10 @@ The seven Colorado Springs clusters share ASHRAE Climate Zone 5B (Cool-Dry) and 
 | Distance multiplier | 1.91× |
 | Confidence | 1.0× |
 | **Composite score** | **48.75** |
+
+## The bottom line
+
+Colorado Springs ranks 14th among North American Regional Markets because three independent demand pillars — military, higher education, and healthcare — converge on the same eastern commercial belt that holds its seven co-location clusters. Its 95.6 km distance from Denver leaves it far enough to function as an autonomous demand area while still sharing Front Range infrastructure, and dense civic anchorage within the clusters lifts the composite score to 48.75. For a site selector, this is a self-sustaining secondary market whose consumer demand does not depend on spillover from a larger metro.
 
 ## Wikipedia References
 

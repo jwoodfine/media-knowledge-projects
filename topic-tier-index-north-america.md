@@ -23,13 +23,13 @@ cites:
 
 The North American Location Intelligence index evaluates the structural convergence of major retail operators across the United States, Canada, and Mexico. Utilizing the [[topic-co-location-methodology]] and operationalised by the [[topic-co-location-ranking-system|deterministic ranking system]], the index identifies the highest-value commercial nodes based on the verified proximity of Primary Target [[topic-co-location-anchors|anchors]] to secondary and tertiary supporting anchors. Map-facing tier labels follow the ICSC hierarchy described in [[topic-co-location-tier-nomenclature|tier nomenclature]].
 
-## Market Scarcity and Quality Validation
+## Market scarcity and quality validation
 
 Achieving a **★★★★★ Tier 5** designation requires the verified convergence of four independent, capital-intensive site selection processes (Primary + Two Secondaries + Two Tertiaries) within the requisite catchment radii. Due to these stringent criteria, Tier 5 sites represent a small fraction of the total North American retail landscape. 
 
 These sites are the apex of commercial validation: the trade area's strength independently confirmed by multiple capital-intensive operators across all required anchor categories.
 
-## Regional Distribution
+## Regional distribution
 
 The following table summarizes the distribution of high-tier nodes across North American markets as of the latest processing cycle. For exhaustive, rank-ordered lists of evaluated sites, refer to the country-specific indices.
 
@@ -41,7 +41,7 @@ The following table summarizes the distribution of high-tier nodes across North 
 
 *Site counts are dynamic and reflect the current state of the Geographic Information System (GIS) data processing platform as of 2 May 2026. The dataset includes 2,488 ranked sites across North America.*
 
-## Operational Application
+## Operational application
 
 The North American index serves as the primary defensive screen for large-format capital deployment. By prioritizing nodes with high tier rankings, investors benefit from the pre-validated capital commitments of the world's most sophisticated retail operators.
 

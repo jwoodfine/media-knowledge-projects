@@ -27,11 +27,11 @@ The Spain Co-location Index ranks commercial nodes across the Iberian Peninsula 
 
 IKEA operates approximately 19 stores in Spain, with the largest concentrations in the Madrid area (three to four stores), Barcelona area (two to three stores), and regional capitals including Valencia, Bilbao, Seville, Zaragoza, Valladolid, and the Canary Islands. Secondary anchors: Leroy Merlin (~90 Spanish locations) and Makro (~35 Metro Cash & Carry locations). Spain's 50 public universities and its dense public hospital network concentrate in the same metropolitan areas as IKEA operations.
 
-## Iberian Convergence Characteristics
+## Iberian convergence characteristics
 
 Spain's IKEA network has a strong co-location pattern with Leroy Merlin: in the majority of Spanish IKEA markets, a Leroy Merlin store is present within the required secondary catchment radius. This structural overlap creates a reliable Tier 4 baseline across most Spanish IKEA locations. Tertiary validation — hospital and university presence — is consistent in regional capital cities. The full ranked index for Spain is available at gis.woodfinegroup.com.
 
-## Tier 4+ (★★★★+) — High-Validation Nodes
+## Tier 4+ (★★★★+) — High-validation nodes
 
 A Tier 4+ designation in Spain indicates a node where primary and secondary anchors are joined by tertiary civic infrastructure within the required catchment radii. The convergence of operators across categories confirms the site's commercial standing.
 
@@ -40,7 +40,7 @@ A Tier 4+ designation in Spain indicates a node where primary and secondary anch
 ## Provenance
 - **Verification:** Anchor network data sourced from OpenStreetMap records as of May 2026.
 
-## See Also
+## See also
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]

@@ -27,11 +27,11 @@ The Italy Co-location Index ranks commercial nodes across the Italian peninsula 
 
 IKEA operates approximately 22 stores in Italy. The largest concentrations are around Milan (Corsico, Carugate, Cinisello Balsamo), Rome (Porta di Roma), Turin (Collegno), Florence (Sesto Fiorentino), Genoa, Bologna, and Naples. Secondary anchors present in overlapping metropolitan markets: Leroy Merlin (~40 Italian locations) and Makro (~50 Metro Cash & Carry locations). Italy's 67 state universities and major hospital systems (Gemelli, Niguarda, Policlinico di Milano, Careggi, the Policlinico systems in Turin and Florence) provide tertiary infrastructure in the same metropolitan zones.
 
-## Typical Convergence Pattern
+## Typical convergence pattern
 
 Italian Tier 4+ nodes are concentrated in suburban commercial zones outside the five major metropolitan areas. The typical validated node pairs an IKEA store with a Leroy Merlin or Makro within 3 km, adjacent to a regional hospital and university campus within 5 km. The clustering reflects Italy's commercial development pattern: large-format retail has concentrated on ring-road corridors around population centres, co-located with civic infrastructure that preceded the retail development.
 
-## Tier 4+ (★★★★+) — Institutional Grade Nodes
+## Tier 4+ (★★★★+) — Institutional grade nodes
 
 A Tier 4+ rating indicates a node where primary anchor presence is supported by secondary operators and essential civic infrastructure within the required catchment radii. These represent the most validated commercial environments the Italy dataset currently identifies.
 
@@ -40,7 +40,7 @@ A Tier 4+ rating indicates a node where primary anchor presence is supported by 
 ## Provenance
 - **Verification:** Anchor network data sourced from OpenStreetMap records as of May 2026.
 
-## See Also
+## See also
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]

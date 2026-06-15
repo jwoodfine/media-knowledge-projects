@@ -27,11 +27,11 @@ The Mexico Co-location Index ranks commercial nodes across the Mexican market us
 
 Mexico is one of Walmart's most significant international markets. Walmart de México operates multiple formats; Walmart Supercentre — the co-location Primary Target — is present in major metropolitan markets including Mexico City (multiple locations), Guadalajara, Monterrey, Puebla, Querétaro, León, and Tijuana. Home Depot México operates approximately 140 stores; Costco México operates approximately 40 locations. Mexico's National System of Public Hospitals provides tertiary infrastructure in state capitals, alongside university campuses affiliated with UNAM, Tec de Monterrey, and regional public universities.
 
-## Tier 5 Convergence Profile
+## Tier 5 convergence profile
 
 A Tier 5 site in Mexico requires independent capital commitments from operators in all three matrix categories: Walmart Supercentre (Primary), Home Depot and Costco (Secondary), and a regional hospital plus university campus within the tertiary catchment radius. The large Walmart Supercentre footprint and the co-location pattern of Costco and Home Depot in Mexican metropolitan markets make Tier 5 achievable in mid-sized cities where civic infrastructure also concentrates. The full ranked index covers 300+ evaluated anchor locations.
 
-## Tier 5 (★★★★★) — Institutional Convergence
+## Tier 5 (★★★★★) — Institutional convergence
 
 A Tier 5 site in Mexico is the matrix's highest validation: Primary Target (Walmart Supercentre), secondary anchors (Home Depot, Costco), and essential tertiary civic infrastructure all present within the required catchment radii. Independent capital commitments from operators in all three categories confirm the trade area's commercial strength.
 
@@ -40,7 +40,7 @@ A Tier 5 site in Mexico is the matrix's highest validation: Primary Target (Walm
 ## Provenance
 - **Verification:** Anchor network data sourced from OpenStreetMap records as of May 2026.
 
-## See Also
+## See also
 *   [[topic-tier-index-north-america]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]

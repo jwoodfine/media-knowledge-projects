@@ -19,7 +19,7 @@ last_edited: 2026-05-30
 editor: editorial
 ---
 
-Krefeld ranks 5th among the 400 European Regional Markets identified by the co-location methodology. The market is suburban-regional in character, situated 19.4 km northwest of Düsseldorf within the Rhine-Ruhr polycentric metropolitan area. Two Tier 1 co-locations anchor the retail geography, each combining hypermarket, hardware, and consumer-electronics formats. Civic infrastructure is substantial: the Helios hospital network operates two campuses in the city alongside the independent Catholic Krankenhaus Maria-Hilf, and Hochschule Niederrhein — a University of Applied Sciences — maintains two Krefeld campuses with approximately 11,000 students enrolled. Krefeld is an independent city (*kreisfreie Stadt*) in the state of North Rhine-Westphalia.
+Krefeld is an independent city (*kreisfreie Stadt*) in the state of North Rhine-Westphalia, situated 19.4 km northwest of Düsseldorf within the Rhine-Ruhr polycentric metropolitan area. The market is suburban-regional in character, with two Tier 1 co-locations anchoring its retail geography, each combining hypermarket, hardware, and consumer-electronics formats. Civic infrastructure is substantial: the Helios hospital network operates two campuses in the city alongside the independent Catholic Krankenhaus Maria-Hilf, and Hochschule Niederrhein — a University of Applied Sciences — maintains two Krefeld campuses with approximately 11,000 students enrolled. On the co-location methodology, Krefeld ranks 5th among the 400 European Regional Markets.
 
 ## Overview
 
@@ -86,6 +86,10 @@ A composite score of 12.0 is representative of the upper European suburban-regio
 - [[topic-top-400-regional-markets-eu|Top 400 Regional Markets — Europe]]
 - [[topic-co-location-methodology|Co-location Methodology]]
 - [[topic-co-location-ranking-system|Co-location Ranking System]]
+
+## The bottom line
+
+Krefeld is a suburban-regional market 19.4 km from Düsseldorf, ranking 5th among the 400 European Regional Markets with a composite score of 12.0. Its strength comes from two Tier 1 co-locations that each combine hypermarket, hardware, and consumer-electronics formats, paired with a civic anchor base — three hospitals and a University of Applied Sciences — that is unusually dense for a city of roughly 230,000 and earns the 1.5× civic multiplier. For site and building planning, the Atlantic-Oceanic (Cfb) climate implies moderate heating demand and minimal mechanical cooling relative to continental zones further east.
 
 ## References
 

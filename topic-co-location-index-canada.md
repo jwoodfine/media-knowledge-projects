@@ -25,7 +25,7 @@ This index identifies and ranks high-value commercial nodes within the Canadian 
 
 Sites are evaluated based on the proximity of Secondary [[topic-co-location-anchors|anchors]] (Costco, Home Depot) and Tertiary institutional infrastructure (Healthcare, Higher Education) to the Primary Target anchor (Walmart Supercentre).
 
-## Tier 5 (★★★★★) — Full Co-location Sites
+## Tier 5 (★★★★★) — Full co-location sites
 
 The following municipalities host nodes that have achieved full commercial convergence, with all primary, secondary, and tertiary anchors present within the required catchment radii.
 
@@ -49,7 +49,7 @@ The following municipalities host nodes that have achieved full commercial conve
 ## Provenance
 - **Verification:** Municipal rankings and anchor coverage verified against GIS platform build results as of 2 May 2026.
 
-## See Also
+## See also
 *   [[topic-tier-index-north-america]]
 *   [[topic-co-location-methodology]]
 *   [[topic-co-location-ranking-system]]
