@@ -20,6 +20,7 @@ cites:
   - ni-51-102
   - osc-sn-51-721
   - planetizen-retail-clusters
+  - osm-odbl
 ---
 
 Retail development capital is usually committed on comparables and analyst sentiment. Whether independent demand actually converges at a site — the reason it should succeed — is assumed rather than measured.
@@ -83,11 +84,17 @@ The methodology applies consistently across global markets by mapping regional o
 - [[topic-co-location-intelligence-overview]]
 - [[topic-co-location-anchors]]
 
+## Data sources
+
+Anchor and secondary operator locations are sourced from **OpenStreetMap contributors** under the [Open Database Licence (ODbL)](https://opendatacommons.org/licenses/odbl/). Records are filtered by canonical Wikidata brand identifiers to ensure consistent chain-family matching across borders. The full chain-to-family mapping is documented in [[topic-retail-brand-family-taxonomy]]. [osm-odbl]
+
 ## References
 
 - [Retail park](https://en.wikipedia.org/wiki/Retail_park) — Wikipedia, accessed 2026-06-14
 - [Big-box store](https://en.wikipedia.org/wiki/Big-box_store) — Wikipedia, accessed 2026-06-14
 - [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN) — Wikipedia, accessed 2026-06-14
+
+*OpenStreetMap data © OpenStreetMap contributors, licensed under ODbL.*
 
 ---
 

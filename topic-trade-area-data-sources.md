@@ -16,6 +16,8 @@ last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Population estimates from WorldPop 2026 and annual per-capita spend proxies from national household surveys underpin the trade area statistics for each co-location cluster."
 paired_with: topic-trade-area-data-sources.es.md
+cites:
+  - osm-odbl
 ---
 
 Population estimates and retail spend estimates are the two input layers that drive trade area statistics for each [[topic-co-location-methodology|co-location]] cluster. Both are derived from publicly available data sources and applied at the H3 resolution-7 hexagonal grid level, per the [[topic-od-catchment-methodology|O-D catchment methodology]]. Together they supply the population and spend axes used by the [[topic-co-location-ranking-system|deterministic ranking system]] and the [[topic-catchment-ranking-methodology-v3|V3 catchment ranking methodology]].
@@ -72,8 +74,14 @@ Spend values are computed at the H3 resolution-7 level by multiplying each cell'
 
 For each co-location cluster, primary and secondary catchment zones are defined by crow-flies distance rings (see: O-D Catchment Methodology). Population and spend for all H3 cells within each zone are summed to produce the cluster's trade area statistics. These aggregated values are the basis for cross-cluster competitive ranking.
 
-## See Also
+## Point-of-interest data
+
+The retail anchor and secondary operator locations that form co-location cluster centroids are sourced from **OpenStreetMap contributors** under the [Open Database Licence (ODbL)](https://opendatacommons.org/licenses/odbl/). Point-of-interest data is distinct from the population and spend layers described above; it provides the geographic seed points from which catchment zones are measured. The full data-attribution statement covering all pipeline layers appears in [[topic-regional-markets-system]]. [osm-odbl]
+
+## See also
 
 - [[topic-od-catchment-methodology]]
 - [[topic-catchment-ranking-methodology-v3]]
 - [[topic-co-location-methodology]]
+
+*OpenStreetMap data © OpenStreetMap contributors, licensed under ODbL.*

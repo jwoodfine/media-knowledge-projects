@@ -67,7 +67,7 @@ Catchment zone membership is the basis for:
 
 The catchment polygons displayed on the map are generated from the same 35 km / 150 km crow-flies radii, visualised in two distinct colours to distinguish primary from secondary zones.
 
-## See Also
+## See also
 
 - [[topic-catchment-ranking-methodology-v3]]
 - [[topic-trade-area-data-sources]]
@@ -76,3 +76,5 @@ The catchment polygons displayed on the map are generated from the same 35 km / 
 ## References
 
 - [Catchment area](https://en.wikipedia.org/wiki/Catchment_area_(human_geography)) — Wikipedia, accessed 2026-06-14
+
+*Cluster centroids from which catchment distances are measured are derived from OpenStreetMap POI records. OpenStreetMap data © OpenStreetMap contributors, licensed under ODbL.*
