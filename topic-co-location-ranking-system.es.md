@@ -38,6 +38,12 @@ Cada sitio en el índice está anclado por un único operador de hipermercado o 
 
 La combinación de categorías presentes determina el rango del sitio. El Tier 5 (★★★★★) representa la convergencia absoluta de las cuatro categorías con el ancla principal. Este nivel de validación indica que cuatro procesos independientes de selección de sitios han coincidido en el mismo nodo geográfico.
 
+## Niveles de Calidad y Distribución
+
+Los doce rangos se agrupan en cinco niveles para ofrecer una visión de alto nivel de la calidad del mercado.
+
+**Nota sobre la escala de niveles.** La escala de cinco niveles de este artículo (Nivel 1 = más bajo, Nivel 5 = más alto) describe el índice de puntuación visualizado en el mapa. Los sitios individuales de co-ubicación dentro de un Mercado Regional se describen por separado mediante una clasificación de tres niveles de clústeres (T1, T2, T3), en la que T1 designa el clúster con el mayor número de categorías de tipo ancla presentes — el tipo de clúster de mayor composición en un mercado determinado. Estas dos escalas de clasificación comparten vocabulario pero son distintas: el nivel del mapa mide la densidad comercial en todo el índice; el nivel del clúster clasifica la composición de anclas dentro de un único mercado.
+
 ## Calibración y Escasez
 
 Para mantener la relevancia del índice, el sistema aplica una **regla de calibración** automática: si los sitios de nivel superior exceden el 10% del total de anclas, el radio de proximidad se ajusta para mantener la escasez y la calidad del índice. Actualmente, los sitios Tier 5 representan el 3.7% del total, cumpliendo con los estándares de selectividad de la plataforma.
