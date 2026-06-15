@@ -248,3 +248,12 @@ independientes. Se aplica la misma atenuación del 10 % de las burbujas.
 Ambas capas persisten en las transiciones de vista: el estado de atenuación
 se mantiene al cambiar entre la Vista Minorista y el panel de detalle de
 mercado BentoBox.
+
+## Véase también
+
+- [[topic-co-location-methodology|Metodología de co-ubicación]] — la puntuación de composición de anclas que impulsa la asignación de niveles PRO
+- [[topic-co-location-ranking-system|Sistema de clasificación de co-ubicación]] — el índice de densidad comercial de cinco niveles que clasifica los clústeres PRO
+- [[topic-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] — el ranking de 400 mercados construido sobre datos de clústeres PRO
+- [[topic-top-400-regional-markets-na|Top 400 Mercados Regionales — Norteamérica]] — lista clasificada de mercados PRO suburbano-regionales en NA
+- [[topic-top-400-regional-markets-eu|Top 400 Mercados Regionales — Europa]] — lista clasificada de mercados PRO suburbano-regionales en EU
+- [[topic-od-catchment-methodology|Metodología de Área de Influencia O-D]] — cómo se miden las zonas de influencia alrededor de cada centroide de clúster
