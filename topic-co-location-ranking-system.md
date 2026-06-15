@@ -12,7 +12,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-06-15
 editor: pointsav-engineering
 short_description: "Deterministic 12-rank scoring algorithm evaluating retail co-location sites by named-anchor convergence across defined catchment radii."
 paired_with: topic-co-location-ranking-system.es.md
@@ -23,7 +23,7 @@ cites:
 
 The Woodfine [[topic-co-location-methodology|co-location methodology]] is operationalised as a **named-anchor combination matrix** — a deterministic algorithm that scores each hypermarket [[topic-co-location-anchors|anchor]] location based on the convergence of secondary and tertiary retail and civic categories within defined catchment radii.
 
-The system produces a 12-rank index mapped to five quality tiers, visualised on the Geographic Information System (GIS) platform at [gis.woodfinegroup.com](https://gis.woodfinegroup.com) using a warm-to-cool colour scale: deep amber (★★★★★ Tier 5, highest) through pale blue (★ Tier 1, lowest). The map-facing labels — Regional, District, Local, Fringe — follow the ICSC hierarchy described in [[topic-co-location-tier-nomenclature|tier nomenclature]], and qualification gates are detailed in the [[topic-catchment-ranking-methodology-v3|V3 catchment ranking methodology]]. This approach provides an objective, capital-validated framework for assessing commercial site defensibility.
+The system produces a 12-rank index mapped to five quality tiers, visualised on the Geographic Information System (GIS) platform at [gis.woodfinegroup.com](https://gis.woodfinegroup.com) using a warm-to-cool colour scale: deep amber (★★★★★ Rank 1, highest) through pale blue (★ Rank 5, lowest). The map-facing labels — Regional, District, Local, Fringe — follow the ICSC hierarchy described in [[topic-co-location-tier-nomenclature|tier nomenclature]], and qualification gates are detailed in the [[topic-catchment-ranking-methodology-v3|V3 catchment ranking methodology]]. This approach provides an objective, capital-validated framework for assessing commercial site defensibility.
 
 ## The named-anchor model
 
@@ -63,27 +63,27 @@ The combination of present categories determines the site rank. There are twelve
 
 ## Quality tiers and distribution
 
-The twelve ranks are grouped into five tiers to provide a high-level view of market quality.
+The twelve ranks are grouped into five quality ranks to provide a high-level view of market quality.
 
-**Tier scale note.** This article's five-tier scale (Tier 1 = lowest, Tier 5 = highest) describes the scoring index rendered on the map. Individual co-location sites within a Regional Market are separately described using a three-tier cluster classification (T1, T2, T3) in which T1 denotes the cluster with the most anchor-type categories present — the highest-composition cluster type in a given market. These two classification scales share vocabulary but are distinct: the map tier measures commercial density across the full index; the cluster tier ranks anchor composition within a single market.
+**Quality rank note.** This article's five-rank scale (Rank 1 = highest, Rank 5 = lowest) describes the quality index rendered on the map. Individual co-location sites within a Regional Market are separately described using a three-tier spatial cluster classification (T1, T2, T3) in which T1 denotes the cluster with the most anchor-type categories present — the highest-composition cluster type in a given market. The five-rank quality scale and the T1/T2/T3 spatial cluster tiers are distinct: the quality rank measures commercial density across the full index; the spatial tier ranks anchor composition within a single market. For the T1/T2/T3 tier vocabulary, see [Co-location Tier Nomenclature](https://documentation.pointsav.com/reference/colocation-tier-nomenclature).
 
-### ★★★★★ Tier 5 — Full co-location
+### ★★★★★ Rank 1 — Full co-location
 *Rank 1 only. All four categories present.*
 The highest designation. The anchor operates within 3 km of both a hardware superstore and a warehouse club, and within 5 km of both a healthcare facility and a university. This indicates that all four independent capital-selection processes have converged on the same node. As of 2 May 2026: **102 sites** (North America).
 
-### ★★★★ Tier 4 — Strong co-location
+### ★★★★ Rank 2 — Strong co-location
 *Ranks 2–3. Three categories present.*
 The anchor is paired with both a hardware superstore and a warehouse club, plus one of the two tertiary categories. The commercial co-location is structurally complete; one institutional dimension is absent. As of 2 May 2026: **268 sites** (NA: 259, EU: 9).
 
-### ★★★ Tier 3 — Partial co-location
+### ★★★ Rank 3 — Partial co-location
 *Ranks 4–7. Two categories present.*
 The commercial baseline for the index. Includes the Rank 4 combination (anchor + hardware + warehouse) as well as single-secondary combinations supported by tertiary institutional presence. As of 2 May 2026: **1,571 sites** (NA: 1,396, EU: 175).
 
-### ★★ Tier 2 — Limited co-location
+### ★★ Rank 4 — Limited co-location
 *Ranks 8–10. One category present.*
 The anchor has one major co-located secondary or tertiary support. Site quality in this tier is highly market-dependent. As of 2 May 2026: **356 sites** (NA: 333, EU: 23).
 
-### ★ Tier 1 — Anchor only
+### ★ Rank 5 — Anchor only
 *Ranks 11–12. Tertiary-only or Warehouse-only.*
 The hypermarket anchor is present, but the primary commercial co-location secondaries (hardware and/or warehouse club) are mostly absent. These sites represent the floor of the index. As of 2 May 2026: **441 sites** (NA: 398, EU: 43).
 
@@ -112,6 +112,10 @@ Integration of the aviation facility dataset (29,020 records) into tertiary scor
 
 - [Big-box store](https://en.wikipedia.org/wiki/Big-box_store) — Wikipedia, accessed 2026-06-14
 - [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN) — Wikipedia, accessed 2026-06-14
+
+## Data Sources
+
+Map and location data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) / [ODbL](https://opendatacommons.org/licenses/odbl/).
 
 ---
 

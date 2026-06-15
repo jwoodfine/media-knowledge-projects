@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-14
+last_edited: 2026-06-15
 editor: pointsav-engineering
 short_description: "Three co-location archetypes — Retail Centres (PRO), Urban Fringe (VWH), and Commuter (PKS) — identifying distinct commercial clustering patterns across 17 countries in North America and Europe."
 paired_with: topic-location-intelligence-archetypes.es.md
@@ -234,8 +234,12 @@ when switching between the Retail View and the BentoBox market detail panel.
 ## See also
 
 - [[topic-co-location-methodology|Co-location Methodology]] — the anchor-composition scoring that drives PRO tier assignment
-- [[topic-co-location-ranking-system|Co-location Ranking System]] — the five-tier commercial density index that ranks PRO clusters
+- [[topic-co-location-ranking-system|Co-location Ranking System]] — the five-rank commercial density index that ranks PRO clusters
 - [[topic-regional-markets-system|Regional Markets Intelligence System]] — the 400-market ranking built on PRO cluster data
 - [[topic-top-400-regional-markets-na|Top 400 Regional Markets — North America]] — ranked list of suburban-regional PRO markets in NA
 - [[topic-top-400-regional-markets-eu|Top 400 Regional Markets — Europe]] — ranked list of suburban-regional PRO markets in EU
 - [[topic-od-catchment-methodology|O-D Catchment Methodology]] — how catchment zones are measured around each cluster centroid
+
+## Data Sources
+
+Map and location data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) / [ODbL](https://opendatacommons.org/licenses/odbl/).
