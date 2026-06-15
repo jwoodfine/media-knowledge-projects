@@ -14,6 +14,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-05-25
 editor: pointsav-engineering
+es_status: stub
 short_description: "Análisis geográfico sistemático que identifica y clasifica sitios minoristas donde las categorías de gran formato convergen dentro de radios de captación definidos."
 paired_with: topic-co-location-intelligence-overview.md
 cites:

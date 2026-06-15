@@ -16,6 +16,7 @@ language_protocol: TRANSLATE-ES
 language: es
 last_edited: 2026-05-17
 editor: pointsav-engineering
+es_status: stub
 paired_with: topic-bim-professional-office-key-plans.md
 ---
 

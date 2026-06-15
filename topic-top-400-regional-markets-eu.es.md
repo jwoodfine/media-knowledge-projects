@@ -17,6 +17,7 @@ short_description: "Lista clasificada de los 400 Mercados Regionales de mayor pu
 paired_with: topic-top-400-regional-markets-eu.md
 last_edited: 2026-05-30
 editor: editorial
+es_status: stub
 ---
 
 # Top 400 Mercados Regionales — Europa
