@@ -100,6 +100,10 @@ donde d es la distancia haversine entre centroides de clúster y r = 3,0 km.
 | Radio del anillo cívico | — | 5 km |
 | Radio del disco IoU | — | 3 km |
 
+## Referencias
+
+*Los datos de ubicación de hospitales, universidades y minoristas usados para derivar los radios de captación de clústeres provienen de colaboradores de OpenStreetMap y están licenciados bajo la Licencia de Base de Datos Abierta (ODbL). Datos de OpenStreetMap © colaboradores de OpenStreetMap.*
+
 ## Véase también
 
 - [[topic-co-location-tier-nomenclature]]

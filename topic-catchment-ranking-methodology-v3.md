@@ -108,6 +108,10 @@ Hospital and university tier assignments are produced from OpenStreetMap data. H
 
 Thresholds are intentionally coarse. The P10/P25/P50 values distinguish nationally significant clusters from local nodes. Refinement is planned for a future update as additional catchment data becomes available.
 
+## References
+
+*Hospital, university, and retailer location data used to derive cluster catchments is sourced from OpenStreetMap contributors and licensed under the Open Database Licence (ODbL). OpenStreetMap data © OpenStreetMap contributors.*
+
 ## See Also
 
 - [[topic-co-location-tier-nomenclature]]
