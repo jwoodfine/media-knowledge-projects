@@ -499,4 +499,5 @@ For full methodology, see [Regional Markets Intelligence System](topic-regional-
 
 - [[topic-regional-markets-system|Regional Markets Intelligence System]]
 - [[topic-regional-market-matrix|Regional Market Matrix]]
+- [[topic-co-location-methodology|Co-location Methodology]]
 - [[topic-tier-index-europe|Tier Index — Europe]]

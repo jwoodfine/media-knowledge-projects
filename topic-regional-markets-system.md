@@ -194,5 +194,7 @@ Work planned or intended for the next iterations of the system.
 
 - [[topic-regional-market-matrix|Regional Market Matrix]]
 - [[topic-co-location-methodology|Co-location Methodology]]
+- [[topic-co-location-intelligence-overview|Co-location Intelligence Overview]]
+- [[topic-od-catchment-methodology|O-D Catchment Methodology]]
 - [[topic-top-400-regional-markets-na|Top 400 Regional Markets — North America]]
 - [[topic-top-400-regional-markets-eu|Top 400 Regional Markets — Europe]]

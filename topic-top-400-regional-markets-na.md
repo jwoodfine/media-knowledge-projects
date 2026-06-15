@@ -475,4 +475,5 @@ The suburban-regional classification (15–80 km from the nearest major metro ce
 
 - [[topic-regional-markets-system|Regional Markets Intelligence System]]
 - [[topic-regional-market-matrix|Regional Market Matrix]]
+- [[topic-co-location-methodology|Co-location Methodology]]
 - [[topic-tier-index-north-america|Tier Index — North America]]
