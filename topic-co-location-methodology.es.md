@@ -24,15 +24,15 @@ cites:
 
 El capital de desarrollo minorista suele comprometerse sobre comparables y estimaciones de analistas. Si la demanda independiente realmente converge en un sitio — la razón por la que debería tener éxito — se supone en lugar de medirse.
 
-La metodología de co-ubicación de Woodfine la mide. <!--claim id=convergence-ranking confidence=structural cites=[]-->Clasifica los sitios de desarrollo por la convergencia objetiva de operadores minoristas independientes con capital intensivo, no por estimaciones de mercado ni pronósticos de analistas.<!--/claim--> El marco se operacionaliza mediante el [[topic-co-location-ranking-system|sistema de clasificación determinista]] y se expone a los usuarios de la plataforma a través del [[topic-co-location-intelligence-overview|resumen de inteligencia de co-ubicación]].
+La metodología de co-ubicación de Woodfine la mide. Clasifica los sitios de desarrollo por la convergencia objetiva de operadores minoristas independientes con capital intensivo, no por estimaciones de mercado ni pronósticos de analistas. El marco se operacionaliza mediante el [[topic-co-location-ranking-system|sistema de clasificación determinista]] y se expone a los usuarios de la plataforma a través del [[topic-co-location-intelligence-overview|resumen de inteligencia de co-ubicación]].
 
-<!--claim id=node-qualification confidence=structural cites=[]-->Un nodo califica cuando un hipermercado, un club de almacén y una tienda de mejoras del hogar han comprometido capital independientemente dentro de 1,0 a 3,0 km entre sí.<!--/claim--> Cada operador ejecuta su propio proceso de selección de sitio; la convergencia es corroboración independiente, no un pronóstico único. La lógica de calificación, la formación de clústeres y el requisito de adyacencia de [[topic-co-location-anchors|anclas]] son los tres insumos estructurales del índice.
+Un nodo califica cuando un hipermercado, un club de almacén y una tienda de mejoras del hogar han comprometido capital independientemente dentro de 1,0 a 3,0 km entre sí. Cada operador ejecuta su propio proceso de selección de sitio; la convergencia es corroboración independiente, no un pronóstico único. La lógica de calificación, la formación de clústeres y el requisito de adyacencia de [[topic-co-location-anchors|anclas]] son los tres insumos estructurales del índice.
 
 Para un asignador de capital el índice es un filtro defensivo: prioriza los sitios donde varias partes han validado de forma independiente el área de comercio. Este artículo cubre el Modelo de Anclas Nominadas, los tres niveles de operadores y los cinco niveles de calidad; los artículos relacionados describen la [[topic-od-catchment-methodology|metodología de captación O-D]], las [[topic-trade-area-data-sources|fuentes de datos de áreas comerciales]] y la [[topic-catchment-ranking-methodology-v3|metodología de clasificación de captación]].
 
 ## El Modelo de Anclas Nominadas
 
-<!--claim id=named-anchor confidence=established cites=[planetizen-retail-clusters]-->Los grandes minoristas aplican criterios de selección de sitio rigurosos y basados en datos antes de comprometer capital en un mercado. Cuando varios operadores independientes convergen en el mismo nodo geográfico, esa convergencia señala un corredor comercial validado — una ubicación donde múltiples partes han confirmado de forma independiente la fortaleza del área de comercio.<!--/claim-->
+Los grandes minoristas aplican criterios de selección de sitio rigurosos y basados en datos antes de comprometer capital en un mercado. Cuando varios operadores independientes convergen en el mismo nodo geográfico, esa convergencia señala un corredor comercial validado — una ubicación donde múltiples partes han confirmado de forma independiente la fortaleza del área de comercio.
 
 La metodología ordena a estos operadores en tres niveles, por función comercial y contribución de tráfico peatonal.
 
@@ -42,7 +42,7 @@ La metodología ordena a estos operadores en tres niveles, por función comercia
 
 ## Validación de sitios y niveles de calidad
 
-<!--claim id=twelve-rank-matrix confidence=structural cites=[]-->Los sitios se evalúan en una matriz de 12 rangos que se asigna a cinco niveles de calidad, separando los nodos minoristas comunes de las ubicaciones excepcionales donde convergen los elementos comerciales críticos.<!--/claim--> Las etiquetas orientadas al mapa — Regional, Distrital, Local, Marginal — siguen la jerarquía de propiedad minorista del ICSC descrita en [[topic-co-location-tier-nomenclature|nomenclatura de niveles]].
+Los sitios se evalúan en una matriz de 12 rangos que se asigna a cinco niveles de calidad, separando los nodos minoristas comunes de las ubicaciones excepcionales donde convergen los elementos comerciales críticos. Las etiquetas orientadas al mapa — Regional, Distrital, Local, Marginal — siguen la jerarquía de propiedad minorista del ICSC descrita en [[topic-co-location-tier-nomenclature|nomenclatura de niveles]].
 
 | Nivel | Descripción | Validación comercial |
 |------|-------------|----------------------|
@@ -56,7 +56,7 @@ Véase [[topic-co-location-ranking-system]] para la especificación completa de 
 
 ## Estrategia y aplicación
 
-<!--claim id=defensive-filter confidence=structural cites=[]-->El índice de co-ubicación actúa como un filtro defensivo para el despliegue de capital. Al centrarse en los nodos de Nivel 4 y Nivel 5, un inversor prioriza los sitios con el mayor nivel de validación de capital independiente y las anclas demográficas multiformato más fuertes.<!--/claim-->
+El índice de co-ubicación actúa como un filtro defensivo para el despliegue de capital. Al centrarse en los nodos de Nivel 4 y Nivel 5, un inversor prioriza los sitios con el mayor nivel de validación de capital independiente y las anclas demográficas multiformato más fuertes.
 
 La metodología se aplica de forma consistente en los mercados globales asignando operadores regionales a estos roles canónicos. Una expansión planificada integra datos de logística y transporte para añadir una cuarta dimensión a la matriz; esa expansión es prospectiva y se enmarca según `[ni-51-102]` y `[osc-sn-51-721]`.
 
