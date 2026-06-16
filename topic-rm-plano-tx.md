@@ -15,11 +15,11 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 1 North American Regional Market — suburb of Dallas, 28.1 km; composite score 25.5."
 paired_with: topic-rm-plano-tx.es.md
-last_edited: 2026-05-30
+last_edited: 2026-06-16
 editor: editorial
 ---
 
-Plano, Texas is a suburban-regional market in the Dallas–Fort Worth metroplex, situated 28.1 kilometres north of the Dallas metropolitan centroid. It carries three Tier 1 clusters, two Tier 2 clusters, and one Tier 3 cluster — a composition matched by no other suburban market in the corrected dataset. Each of the three Tier 1 clusters combines hypermarket, hardware, and price-club anchors, and five of the six clusters co-locate one or more civic institutions, predominantly hospital campuses operated by Texas Health Presbyterian, Baylor Scott & White, Medical City, and Methodist, alongside academic anchors from the University of Texas at Dallas and Dallas Baptist University. This combination places Plano first among the 400 North American Regional Markets in the composite co-location index, with a score of 25.5 derived from six retail-and-civic clusters distributed across the city.
+Plano, a Dallas suburb of 285,000 people 28 kilometres north of the metro core, is the most defensively validated retail market in North America under the co-location methodology. Six retail-and-civic clusters — three of them combining hypermarket, hardware, and price-club anchors beside hospital campuses — independently corroborate a trade area that no other suburban market in the dataset matches. Corporate relocations by Toyota, JPMorgan Chase, and Capital One drove the population from 17,872 in 1970 to 285,494 in 2020; the composite co-location score of 25.5, rank 1 of 400 North American Regional Markets, reflects that depth.
 
 ## Overview
 

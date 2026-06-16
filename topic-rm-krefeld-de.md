@@ -15,11 +15,11 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 5 European Regional Market — suburb of Düsseldorf, 19.4 km; composite score 12.0."
 paired_with: topic-rm-krefeld-de.es.md
-last_edited: 2026-05-30
+last_edited: 2026-06-16
 editor: editorial
 ---
 
-Krefeld is an independent city (*kreisfreie Stadt*) in the state of North Rhine-Westphalia, situated 19.4 km northwest of Düsseldorf within the Rhine-Ruhr polycentric metropolitan area. The market is suburban-regional in character, with two Tier 1 co-locations anchoring its retail geography, each combining hypermarket, hardware, and consumer-electronics formats. Civic infrastructure is substantial: the Helios hospital network operates two campuses in the city alongside the independent Catholic Krankenhaus Maria-Hilf, and Hochschule Niederrhein — a University of Applied Sciences — maintains two Krefeld campuses with approximately 11,000 students enrolled. On the co-location methodology, Krefeld ranks 5th among the 400 European Regional Markets.
+Krefeld is an independent city (*kreisfreie Stadt*) in North Rhine-Westphalia, 19.4 km northwest of Düsseldorf within the Rhine-Ruhr polycentric metropolitan area of over ten million people. Founded on a silk-and-textile tradition dating to the eighteenth century, the city retains a diversified industrial base — Nirosta steel, Canon, Hitachi, Evonik — alongside substantial civic infrastructure: two Helios hospital campuses, Krankenhaus Maria-Hilf, and Hochschule Niederrhein with roughly 11,000 students enrolled. Two Tier 1 co-location clusters, each combining hypermarket, hardware, and consumer-electronics anchors, place Krefeld 5th among the 400 European Regional Markets, with a composite co-location score of 12.0.
 
 ## Overview
 

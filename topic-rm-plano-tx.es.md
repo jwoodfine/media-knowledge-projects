@@ -15,13 +15,11 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 1 en América del Norte — suburbio de Dallas, 28,1 km; puntuación compuesta 25,5."
 paired_with: topic-rm-plano-tx.md
-last_edited: 2026-05-30
+last_edited: 2026-06-16
 editor: editorial
 ---
 
-# Plano, Texas — Mercado Regional
-
-Plano, Texas ocupa el primer lugar entre los 400 Mercados Regionales de América del Norte en el índice compuesto de co-localización, con una puntuación de 25,5 derivada de seis clústeres minoristas y cívicos distribuidos por toda la ciudad. Mercado suburbano-regional situado a 28,1 kilómetros al norte del centroide metropolitano de Dallas, Plano cuenta con tres clústeres de Nivel 1, dos de Nivel 2 y uno de Nivel 3 — una composición que ningún otro mercado suburbano iguala en el conjunto de datos corregido. Cada uno de los tres clústeres de Nivel 1 combina anclas de hipermercado, ferretería y club de precio, y cinco de los seis clústeres co-localizan una o más instituciones cívicas, principalmente campus hospitalarios de Texas Health Presbyterian, Baylor Scott & White, Medical City y Methodist, junto con anclas académicas de la Universidad de Texas en Dallas y Dallas Baptist University.
+Plano, suburbio de Dallas con 285.000 habitantes a 28 kilómetros al norte del núcleo metropolitano, es el mercado minorista con mayor validación defensiva de América del Norte según la metodología de co-localización. Seis clústeres de comercio minorista y equipamientos cívicos — tres de ellos combinando hipermercado, ferretería y club de precio junto a campus hospitalarios — corroboran de forma independiente una zona de atracción que ningún otro mercado suburbano del conjunto de datos iguala. Los traslados corporativos de Toyota, JPMorgan Chase y Capital One impulsaron la población de 17.872 habitantes en 1970 a 285.494 en 2020; la puntuación compuesta de 25,5, número 1 entre los 400 Mercados Regionales de América del Norte, refleja esa profundidad.
 
 ## Descripción general
 

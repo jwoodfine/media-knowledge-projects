@@ -15,11 +15,11 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 4 North American Regional Market — suburb of Toronto, 24.9 km; composite score 18.0."
 paired_with: topic-rm-mississauga-on.es.md
-last_edited: 2026-05-30
+last_edited: 2026-06-16
 editor: editorial
 ---
 
-**Mississauga** is a city on the northwestern shore of Lake Ontario, 24.9 km west of downtown Toronto, and the second-largest municipality in the Greater Toronto Area. Classified as a suburban-regional market, it carries a substantial commercial fabric of its own while remaining geographically and economically tethered to Toronto. Five co-location clusters anchor its profile — two Tier 1, one Tier 2, and two Tier 3 — supported by civic infrastructure that includes two Trillium Health Partners hospital campuses and the University of Toronto Mississauga. These attributes place Mississauga fourth among the 400 North American Regional Markets, with a composite score of 18.0.
+Mississauga, on the northwestern shore of Lake Ontario 25 km west of downtown Toronto, is the commercial centre of the western Greater Toronto Area and Canada's seventh-most populous municipality. More than sixty Fortune 500 companies maintain regional offices or Canadian headquarters in the city — among them TD Bank, Royal Bank of Canada, and Oracle — and Toronto Pearson International Airport, Canada's busiest, sits within its northern boundary. Two Trillium Health Partners hospital campuses and the University of Toronto Mississauga anchor its civic infrastructure alongside five co-location clusters, two of them Tier 1. Mississauga ranks fourth among the 400 North American Regional Markets, with a composite co-location score of 18.0.
 
 ## Overview
 

@@ -15,13 +15,11 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 4 en América del Norte — suburbio de Toronto, 24,9 km; puntuación compuesta 18,0."
 paired_with: topic-rm-mississauga-on.md
-last_edited: 2026-05-30
+last_edited: 2026-06-16
 editor: editorial
 ---
 
-# Mississauga, Ontario — Mercado Regional
-
-Mississauga ocupa el cuarto lugar entre los 400 Mercados Regionales de América del Norte, con una puntuación compuesta de 18,0. El mercado se sitúa a 24,9 km al oeste del centro de Toronto y se clasifica como suburbano-regional: una trama comercial de peso propio, pero geográfica y económicamente vinculada al Área Metropolitana de Toronto (GTA). Cinco clústeres de co-localización definen el perfil — dos de Nivel 1, uno de Nivel 2 y dos de Nivel 3 — respaldados por infraestructura cívica que incluye dos campus hospitalarios de Trillium Health Partners y la Universidad de Toronto en Mississauga. Mississauga es la sexta ciudad más poblada de Canadá.
+Mississauga, en la orilla noroccidental del lago Ontario a 25 km al oeste del centro de Toronto, es el centro comercial del área metropolitana de Toronto occidental y el séptimo municipio más poblado de Canadá. Más de sesenta empresas del Fortune 500 mantienen oficinas regionales o sedes canadienses en la ciudad — entre ellas TD Bank, Royal Bank of Canada y Oracle — y el Aeropuerto Internacional Toronto Pearson, el más transitado de Canadá, se ubica dentro del límite norte de la ciudad. Dos campus hospitalarios de Trillium Health Partners y la Universidad de Toronto en Mississauga anclan su infraestructura cívica junto a cinco clústeres de co-localización, dos de ellos de Nivel 1. Mississauga ocupa el cuarto lugar entre los 400 Mercados Regionales de América del Norte, con una puntuación compuesta de 18,0.
 
 ## Descripción general
 
