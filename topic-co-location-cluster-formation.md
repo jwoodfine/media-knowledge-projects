@@ -12,7 +12,8 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-04
+short_description: "The pipeline step that converts each qualifying anchor store into a candidate co-location cluster; overlapping candidates from a single trade area are resolved by deduplication before ranking inputs are aggregated."
+last_edited: 2026-06-17
 editor: pointsav-engineering
 paired_with: topic-co-location-cluster-formation.es.md
 ---

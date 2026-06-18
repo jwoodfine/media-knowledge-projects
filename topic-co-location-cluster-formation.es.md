@@ -12,7 +12,8 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-04
+short_description: "Paso del flujo que convierte cada tienda ancla calificada en una agrupación candidata de co-ubicación; las candidatas superpuestas en una misma área de comercio se resuelven mediante deduplicación antes de agregar los datos para el ranking."
+last_edited: 2026-06-17
 editor: pointsav-engineering
 paired_with: topic-co-location-cluster-formation.md
 ---
