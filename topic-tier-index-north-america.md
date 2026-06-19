@@ -12,8 +12,8 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
-editor: pointsav-engineering
+last_edited: 2026-06-19
+editor: editorial
 short_description: "Aggregated tier-ranked index of commercial convergence nodes across the United States, Canada, and Mexico, summarizing quality tier distribution by market."
 paired_with: topic-tier-index-north-america.es.md
 cites:
@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The North American Location Intelligence index evaluates the structural convergence of major retail operators across the United States, Canada, and Mexico. Utilizing the [[topic-co-location-methodology]] and operationalised by the [[topic-co-location-ranking-system|deterministic ranking system]], the index identifies the highest-value commercial nodes based on the verified proximity of Primary Target [[topic-co-location-anchors|anchors]] to secondary and tertiary supporting anchors. Map-facing tier labels follow the ICSC hierarchy described in [[topic-co-location-tier-nomenclature|tier nomenclature]].
+The United States hosts 85 Tier 5 commercial convergence sites across 3,500 evaluated primary anchors; Canada produces 12 Tier 5 sites from 400 evaluated anchors. The North American index evaluates the structural convergence of major retail operators across the United States, Canada, and Mexico. Using the [[topic-co-location-methodology]] and operationalised by the [[topic-co-location-ranking-system|deterministic ranking system]], the index identifies the highest-value commercial nodes based on the verified proximity of Primary Target [[topic-co-location-anchors|anchors]] to secondary and tertiary supporting anchors. Map-facing tier labels follow the ICSC hierarchy described in [[topic-co-location-tier-nomenclature|tier nomenclature]].
 
 ## Market scarcity and quality validation
 

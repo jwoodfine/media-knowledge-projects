@@ -12,8 +12,8 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
-editor: pointsav-engineering
+last_edited: 2026-06-19
+editor: editorial
 short_description: "Aggregated tier-ranked index of commercial convergence nodes across European markets, summarizing quality tier distribution with IKEA as the primary anchor."
 paired_with: topic-tier-index-europe.es.md
 cites:
@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The European Co-location Tier Index ranks commercial nodes across Spain, Italy, Poland, and the Nordic region by the independent convergence of large-format retail and civic infrastructure. Each node is scored by the proximity of IKEA (Primary Target) to secondary hardware and warehouse operators (Leroy Merlin, Makro) and tertiary civic [[topic-co-location-anchors|anchors]] (healthcare, higher education) within defined catchment radii, following the [[topic-co-location-methodology]] and operationalised by the [[topic-co-location-ranking-system|deterministic ranking system]]. Map-facing tier labels follow the ICSC hierarchy described in [[topic-co-location-tier-nomenclature|tier nomenclature]].
+Spain leads the evaluated European markets with three Tier 4+ commercial convergence nodes across 20 evaluated primary anchors; the Nordic region contributes two Tier 4+ sites. The European Co-location Tier Index ranks commercial nodes across Spain, Italy, Poland, and the Nordic region by the independent convergence of large-format retail and civic infrastructure. Each node is scored by the proximity of IKEA (Primary Target) to secondary hardware and warehouse operators (Leroy Merlin, Makro) and tertiary civic [[topic-co-location-anchors|anchors]] (healthcare, higher education) within defined catchment radii, following the [[topic-co-location-methodology]] and operationalised by the [[topic-co-location-ranking-system|deterministic ranking system]]. Map-facing tier labels follow the ICSC hierarchy described in [[topic-co-location-tier-nomenclature|tier nomenclature]].
 
 ## Market scarcity and institutional validation
 
