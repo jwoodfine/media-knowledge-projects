@@ -50,8 +50,18 @@ El cruce de un límite de Baldosa implica pérdida de control de la zona climát
 
 La metodología sustituye la métrica tradicional de eficiencia (área arrendable neta / área bruta construible) por la Eficiencia Continua: la proporción del piso arrendado activamente y representada por un Plano Clave que coincide con el inventario de mobiliario real del inquilino. El catálogo está dimensionado para garantizar que la plena utilización siempre sea recuperable a partir de una combinación publicada.
 
+## Distinciones de clase PC frente a SU
+
+| Clase | Planta tipo | Nº de plantas | Preferencia de familia de teselas |
+|---|---|---|---|
+| Centros Profesionales | 19.000–23.000 SF | 3–5 plantas | Pequeña + Mediana (alto recuento de zonas climáticas) |
+| Oficina Suburbana | 17.000–21.000 SF | 6–9 plantas | Pequeña en planta baja; Grande para Corporativa en plantas superiores |
+
+Los edificios de Oficina Suburbana son más altos y esbeltos; sus selecciones de teselas tienden a mantener los sub-tipos de Oficina Privada en todos los niveles. La variación reside en las Teselas Especiales y el Ancho del Edificio, no en los Planos Clave en sí mismos.
+
 ## Ver también
 
 - [[topic-bim-floor-plate-methodology]]
 - [[topic-bim-floor-plate-tile-combinations]]
 - [[topic-bim-private-office-key-plans]]
+- [[topic-bim-zone-depths-per-use-type]]

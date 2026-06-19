@@ -57,8 +57,13 @@ En los tres bocetos Médicos aparece el mismo requisito: Recepción debe mantene
 
 La profundidad de 4,9 m está determinada por la mesa de la sala de personal más la circulación. Reducir la mesa de personal es la palanca para reducir el ancho del edificio, siempre que la mesa sea un producto Steelcase real, accesible y asequible.
 
+## AART frente a cappelletti sestito
+
+Un diseño de Tesela Médica anterior de la firma AART Architects (marzo de 2024) fue reemplazado por los bocetos de cappelletti sestito por cuatro razones declaradas: el diseño anterior no estaba centrado en las personas, utilizaba dimensionado modular en lugar de dimensionado basado en necesidades, empleaba referencias de mobiliario no verificadas y proporcionaba una circulación inadecuada para la accesibilidad. La recepción en el diseño anterior carecía de luz natural.
+
 ## Ver también
 
 - [[topic-bim-key-plans-index]]
 - [[topic-bim-professional-office-key-plans]]
 - [[topic-bim-zone-depths-per-use-type]]
+- [[topic-bim-building-width-method]]

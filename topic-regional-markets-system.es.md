@@ -128,6 +128,31 @@ Las capas de datos AEC (arquitectura, ingeniería y construcción) añaden conte
 | Aceleración pico del suelo sísmica | USGS (EE. UU.) y EFEHR (Europa) | Reprocesado previsto para el 1 de junio de 2026 |
 | Riesgo de inundación | FEMA (EE. UU.) y JRC de la UE | Construcción prevista para el 31 de mayo de 2026 |
 
+## Esquema de datos POI
+
+La plataforma opera con dos clases de registros dentro de su capa de datos de localización: registros de negocios de servicios (cadenas minoristas) y registros de lugares de servicios (anclas cívicas).
+
+**Registros de negocios de servicios.** Cada registro representa una única ubicación de cadena minorista e identificada por un `chain_id` que enlaza con un archivo de configuración de cadena y por un campo `brand_wikidata` que contiene el QID de Wikidata de la marca. El QID de Wikidata es el identificador canónico de cadena entre fuentes porque opera a nivel de marca y no de nombre; dos establecimientos con diferentes denominaciones en distintos idiomas pero con el mismo QID pertenecen a la misma cadena.
+
+**Registros de lugares de servicios.** Anclas cívicas — hospitales, universidades, aeropuertos — incorporadas desde Overture Maps usando `taxonomy.primary` como filtro de categoría.
+
+**Campos comunes compartidos.**
+
+| Campo | Tipo | Notas |
+|---|---|---|
+| `location_name` | cadena | Nombre de presentación con fallback de categoría |
+| `brand_wikidata` | cadena o nulo | QID de Wikidata; nulo para lugares cívicos sin identidad de marca |
+| `street_address` | cadena o nulo | Dirección en formato libre |
+| `city` | cadena o nulo | Localidad |
+| `region` | cadena o nulo | Provincia, estado o región NUTS-3 |
+| `iso_country_code` | cadena | Código de país ISO 3166-1 alfa-2 |
+| `latitude`, `longitude` | flotante | WGS 84, 7 decimales |
+| `naics_code` | cadena | Clasificación NAICS |
+| `source` | cadena | `osm` u `overture` |
+| `confidence` | flotante | OSM fijo en 0,85; Overture según el conjunto de datos |
+
+**Deduplicación espacial.** Los registros dentro de un radio de 100 metros por cadena se dedupliccan, conservando el registro con los campos de dirección más completos. Un segundo paso a 25 metros entre diferentes valores de `chain_id` que comparten el mismo QID `brand_wikidata` identifica tiendas de subformatos o co-marcados.
+
 ## Modelo de Captación
 
 El modelo de captación asigna a cada clúster un área de influencia primaria y secundaria definida por el radio en línea recta desde el centroide del clúster.
@@ -140,6 +165,18 @@ El modelo de captación asigna a cada clúster un área de influencia primaria y
 ---
 
 *Datos de referencia actualizados al 30 de mayo de 2026. Fuentes: Colaboradores de OpenStreetMap (ODbL); Overture Maps Foundation (CDLA Permissive 2.0); Kontur Population 2023 (CC BY 4.0); WorldPop 2026 (CC BY 4.0); Beck et al. 2018 Köppen-Geiger (CC BY 4.0); WWF Ecorregiones 2017 (CC BY 4.0); US LODES (dominio público); MITMA España (datos abiertos).*
+
+## Trabajo en preparación
+
+Trabajo planificado o previsto para las próximas iteraciones del sistema.
+
+**Finalización de la capa climática y de riesgos.** La capa de aceleración pico del suelo sísmica y la capa de riesgo de inundación están previstas para su construcción en mayo–junio de 2026. Una vez entregadas, cada Mercado Regional contará con un registro de envolvente completo que cubrirá zona climática, ecorregión, categoría de diseño sísmico y designación de zona de inundación.
+
+**Regresión OLS sobre span_km.** Una regresión por mínimos cuadrados ordinarios a nivel de clúster de `span_km` frente a la densidad de población de captación, el gasto modelado y la actividad derivada de la movilidad está en preparación. Se contemplan efectos fijos por país y un término de interacción entre núcleo urbano y área peri-urbana.
+
+**Artículos por mercado.** Artículos wiki dedicados a cada uno de los 400 Mercados Regionales de la lista Top-400 están previstos. Los artículos tienen como objetivo combinar los campos de datos aquí descritos con narrativa de resolución local basada en fuentes públicas.
+
+**Normalización de divisas para el gasto transfronterizo.** Un paso de normalización de divisas sobre la capa de gasto modelado está previsto, lo que permitirá la clasificación de captación en múltiples monedas y la comparación directa del gasto en alimentación, ferretería y venta mayorista entre países.
 
 ## Véase también
 
