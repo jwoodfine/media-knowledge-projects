@@ -39,7 +39,7 @@ When two anchors fall within the threshold distance, the retained cluster is the
 
 ## Pipeline effect
 
-After applying the 0.15 km threshold, a representative pipeline run produced 6,422 retained clusters from 7,594 candidates — 1,172 same-zone duplicates removed. The reduction is concentrated in dense commercial corridors where multiple anchor formats co-locate in close proximity. Tier distribution and national rankings are assigned after deduplication runs, so the published counts reflect deduplicated zones only.
+After applying the 0.15 km threshold, a representative pipeline run produced 6,422 retained clusters from 7,594 candidates — 1,172 same-zone duplicates removed. The reduction is concentrated in dense commercial corridors where multiple anchor formats co-locate in close proximity. Tier distribution and national rankings are assigned after deduplication runs, so the published counts reflect deduplicated zones only. (These figures are from a methodology example run; current production counts are in [[topic-regional-markets-system|Regional Markets Intelligence System]].)
 
 ## See also
 

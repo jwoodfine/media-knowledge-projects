@@ -2,7 +2,7 @@
 schema: foundry-doc-v1
 title: "Woodfine Capital Projects — Co-location Intelligence Platform"
 slug: index
-short_description: "Woodfine Management Corp.'s retail co-location intelligence platform — spatial methodologies, ranking algorithms, and regional deployment indices across 8 retail markets spanning 13 countries, with 7,594 scored clusters from 229,054 locations analyzed."
+short_description: "Woodfine Management Corp.'s retail co-location intelligence platform — spatial methodologies, ranking algorithms, and regional deployment indices across 8 retail markets spanning 13 countries, with 6,493 scored clusters from 229,054 locations analyzed as of May 2026."
 category: root
 status: active
 bcsc_class: current-fact
@@ -20,7 +20,7 @@ editor: pointsav-engineering
 Woodfine Management Corp. operates a [[topic-co-location-methodology|retail co-location intelligence platform]]
 that identifies, ranks, and validates commercial real estate nodes across
 8 retail markets spanning 13 countries. As of May 2026, the platform has scored
-7,594 co-location clusters from 229,054 retail locations analyzed, organized
+6,493 co-location clusters from 229,054 retail locations analyzed, organized
 around [[topic-co-location-anchors|co-location anchors]] that seed each cluster.
 The platform is live at gis.woodfinegroup.com and is built and maintained by PointSav Digital
 Systems. This encyclopedia is the methodology reference for the firm's spatial
