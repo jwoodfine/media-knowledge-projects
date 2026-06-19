@@ -3,6 +3,9 @@
 # Woodfine — Wiki de Proyectos Inmobiliarios
 ### *Arquitectura Física y Estrategia de Despliegue Regional*
 
+[![Estado: Activo](https://img.shields.io/badge/Estado-Activo-22863a.svg?style=flat-square)](#)
+[![Audiencia: Institucional](https://img.shields.io/badge/Audiencia-Institucional-0075ca.svg?style=flat-square)](#)
+
 <br/>
 
 **[→ woodfinegroup.com](https://woodfinegroup.com)** &nbsp;·&nbsp; **[→ Despliegue de Flota](https://github.com/woodfine/woodfine-fleet-deployment)** &nbsp;·&nbsp; **[→ Wiki de Gobernanza Corporativa](https://github.com/woodfine/media-knowledge-corporate)**
@@ -21,19 +24,23 @@ Donde la wiki de gobernanza corporativa documenta la estructura financiera de lo
 
 ## Estrategia de Mercados Regionales
 
-La tesis de desarrollo de Woodfine se basa en una brecha estructural en el mercado: los mercados regionales con poblaciones entre 50,000 y 300,000 habitantes tienen una demanda estable y creciente de espacio de oficinas profesional — médico, académico, cívico y empresarial — pero están sistemáticamente desatendidos por la construcción de grado institucional.
+La tesis de desarrollo de Woodfine se basa en una brecha estructural en el mercado: los mercados regionales con poblaciones entre 50,000 y 300,000 habitantes tienen una demanda estable y creciente de espacio de oficinas profesional — médico, académico, cívico y empresarial — pero están sistemáticamente desatendidos por la construcción de grado institucional. Los grandes promotores se concentran en los centros metropolitanos. Los mercados regionales reciben edificios comerciales construidos con estándares más bajos, con estacionamiento insuficiente y sin las certificaciones medioambientales que los inquilinos corporativos exigen cada vez más.
+
+Woodfine aborda estos mercados con un producto específico y repetible.
 
 `topic-REGIONAL-MARKET-MATRIX.md` — La metodología de selección de los 400 Mercados Regionales Principales. Criterios de selección de mercados, umbrales de población, análisis de ingresos disponibles y la base de evidencia para la estabilidad de los mercados regionales.
 
-`topic-CO-LOCATION-ANCHORS.md` — El Plan de Coubicación. Woodfine exige que los sitios de desarrollo estén ubicados directamente adyacentes a los principales minoristas nacionales — Walmart, Costco, Home Depot, equivalentes de IKEA según el mercado. Estos minoristas realizan una rigurosa investigación demográfica antes de seleccionar sus sitios. La coubicación transfiere el beneficio de esa investigación a la selección de sitios de Woodfine sin costo adicional.
+`topic-CO-LOCATION-ANCHORS.md` — El Plan de Coubicación. Woodfine exige que los sitios de desarrollo estén ubicados directamente adyacentes a los principales minoristas nacionales — Walmart, Costco, Home Depot, equivalentes de IKEA según el mercado. Estos minoristas realizan una rigurosa investigación demográfica antes de seleccionar sus sitios. La coubicación transfiere el beneficio de esa investigación a la selección de sitios de Woodfine sin costo adicional. El efecto Halo del Comercio Institucional: posicionar espacio de oficinas profesional adyacente al comercio minorista activo valida la solidez económica regional del sitio.
 
 ---
 
 ## Estándares de Construcción
 
-Woodfine construye un tipo de edificio, repetidamente, en todos los mercados. Las placas de piso fijas eliminan la deuda de diseño personalizado. La misma cuadrícula estructural, las mismas relaciones de estacionamiento, el mismo diseño de servicios del edificio, entregados en cada desarrollo.
+Woodfine construye un tipo de edificio, repetidamente, en todos los mercados. Las placas de piso fijas eliminan la deuda de diseño personalizado. La misma cuadrícula estructural, las mismas relaciones de estacionamiento, el mismo diseño de servicios del edificio, entregados en cada desarrollo. La fijación de precios nacional — comprando materiales y sistemas en volumen en todo el programa — reduce los costos de construcción sin reducir la calidad del edificio.
 
-`topic-ASSET-ARCHITECTURE-STANDARD.md` — Placas de Piso Fijas y la Geometría de la Sostenibilidad. Cómo la geometría estandarizada del edificio reduce el gasto operativo en aproximadamente un 30% en comparación con edificios de diseño personalizado de tamaño similar. Certificación dual de edificios: LEED/BREEAM para rendimiento ambiental y WELL para bienestar centrado en el ser humano.
+`topic-ASSET-ARCHITECTURE-STANDARD.md` — Placas de Piso Fijas y la Geometría de la Sostenibilidad. Cómo la geometría estandarizada del edificio reduce el gasto operativo en aproximadamente un 30% en comparación con edificios de diseño personalizado de tamaño similar. El diseño de Núcleo Desplazado Retranqueado y sus ventajas en seguridad y eficiencia operativa. Certificación de doble mandato: LEED/BREEAM para rendimiento ambiental y WELL para bienestar centrado en el ser humano.
+
+`topic-CO-LOCATION-ANCHORS.md` — Clases de Desarrollo: Centros Profesionales Woodfine (oficina de 3–5 plantas), Oficina Suburbana Woodfine (oficina de 6–15 plantas), Industrial Tecnológico Woodfine (25% comercio, 75% logística), Comercio Selecto Woodfine (banca y servicios comerciales), Almacenes Verticales Woodfine (franjas interurbanas), Estructuras de Estacionamiento Woodfine (centros de tránsito).
 
 `topic-ZONING-ACQUISITION-RULES.md` — Requisitos de Zonificación de Control Directo, procesos de aprobación en las cuatro jurisdicciones objetivo y la metodología del proceso de adquisición de sitios.
 
@@ -41,12 +48,28 @@ Woodfine construye un tipo de edificio, repetidamente, en todos los mercados. La
 
 ## Integración Sitio-Archivo
 
-Cada sitio de desarrollo de Woodfine está vinculado a un PropertyArchive de PointSav desde el primer permiso. Los planos BIM, los datos de sensores IoT, los registros de permisos y el historial de mantenimiento se acumulan en el archivo de forma continua.
+Cada sitio de desarrollo de Woodfine está vinculado a un PropertyArchive de PointSav desde el primer permiso. Los planos BIM, los datos de sensores IoT, los registros de permisos y el historial de mantenimiento se acumulan en el archivo de forma continua. Cuando el activo se transfiere, el historial físico y operativo completo se transfiere con él.
 
 `topic-SITE-LEDGER-INTEGRATION.md` — Cómo los registros del sitio de desarrollo se conectan al sistema PropertyArchive. El estándar de captura de datos desde el primer permiso, la integración BIM con la arquitectura ToteboxOS y el proceso de datos de sensores IoT.
+
+`topic-ZONING-ACQUISITION-RULES.md` — Requisitos de Zonificación de Control Directo, procesos de aprobación en las cuatro jurisdicciones objetivo y la metodología del proceso de adquisición de sitios.
+
+---
+
+## Contacto
+
+Para consultas institucionales: **[woodfinegroup.com](https://woodfinegroup.com)**
+
+*Este repositorio está destinado a revisión educativa y auditoría institucional. Todos los derechos sobre la propiedad intelectual subyacente y los marcos de desarrollo están reservados por Woodfine Capital Projects Inc. Consulte el archivo `LICENSE` para conocer los términos completos.*
 
 ---
 
 *© 2026 Woodfine Management Corp. Todos los derechos reservados.*
 
 *→ English version: [README.md](./README.md)*
+
+---
+
+*Copyright © 2026 Woodfine Capital Projects Inc. Consulte [LICENSE](LICENSE) para conocer los términos.*
+
+*Woodfine Capital Projects™, Woodfine Management Corp™, PointSav Digital Systems™, Totebox Orchestration™ y Totebox Archive™ son marcas comerciales de Woodfine Capital Projects Inc., utilizadas en Canadá, Estados Unidos, América Latina y Europa. Todas las demás marcas comerciales son propiedad de sus respectivos propietarios.*

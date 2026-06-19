@@ -23,13 +23,13 @@ La Oficina Médica es uno de los cinco sub-tipos de [[topic-bim-professional-off
 
 ## Los tres tamaños
 
-| Tamaño | Sillones dentales | Código | Área (m²) | Área (SF) |
-|---|---:|---|---:|---:|
-| Pequeña | 2 | M3 | 223 | 2.401,5 |
-| Mediana | 4 | M1 | 331 | 3.567,7 |
-| Grande | 6 | M2 | 486 | 5.231,4 |
+| Tamaño | Sillones dentales | Código | Área (m²) | Área (SF) | Frente de fachada |
+|---|---:|---|---:|---:|---|
+| Pequeña | 2 | M3 | 223 | 2.401,5 | 718" (18,24 m) |
+| Mediana | 4 | M1 | 331 | 3.567,7 | 1.066-5/8" (27,10 m) |
+| Grande | 6 | M2 | 486 | 5.231,4 | 1.564" (39,73 m) |
 
-Los códigos FFE se numeran por orden de autoría histórica, no por tamaño. Para documentos externos se prefieren las etiquetas de tamaño (Pequeña / Mediana / Grande).
+Los códigos FFE se numeran por orden de autoría histórica, no por tamaño: M1 fue el primer boceto dental dibujado, luego M2 (Grande) y M3 (Pequeña). Para documentos externos se prefieren las etiquetas de tamaño (Pequeña / Mediana / Grande).
 
 ## Vocabulario de zonas
 
@@ -45,9 +45,24 @@ Ancho de edificio calculado = 2 × (7,2 + 4,9) + 2,9 = **27,1 m** (88'-11").
 
 Cada boceto Médico utiliza el sillón dental KaVo uniQa como SKU de referencia. El envolvente del sillón es 2.451 mm × 2.898 mm; cada sala de exploración mide aproximadamente 7.280 mm × 4.877 mm. El SKU es una dependencia rastreada: cualquier cambio de línea dental repercute en las dimensiones de la sala.
 
-## Composición de las suites
+## M3 (Pequeña) — 2 sillones dentales
 
-M3 (Pequeña) incluye dos salas de exploración, una oficina médica, área de recepción con ventana de línea de visión, sala de espera (6 pacientes) y equipamiento de esterilización. M1 (Mediana) añade dos salas más y reorganiza la Zona 2. M2 (Grande) añade dos sillas adicionales, una segunda oficina médica y un equipamiento completo de Zona 2, con los aseos agrupados en un único bloque.
+Componentes de la suite: una consulta médica, dos salas de exploración, una oficina administrativa con ventana de recepción, una sala de espera (6 pacientes), una sala de almacenamiento, un laboratorio y una sala de personal.
+
+Lista de equipamiento: sala de máquinas, mesa de trabajo con 2–3 asientos y piletas, autoclave (esterilización), sala de imagen, archivo, almacenamiento.
+
+Notas clave de diseño de los bocetos de cappelletti sestito architetti (BORRADOR 250512):
+- La recepción requiere línea de visión directa a la puerta de entrada.
+- Los asientos de la sala de espera se posicionan fuera de la Zona 1 para que la fachada quede reservada para el Hábitat clínico.
+- Se requiere una segunda puerta de salida de emergencia.
+
+## M1 (Mediana) — 4 sillones dentales
+
+M1 amplía M3 con dos salas de exploración adicionales y una Zona 2 reorganizada para mayor rendimiento clínico. Revisiones clave: la sala de archivos se desplaza adyacente a la recepción; el acceso del personal al aseo incorpora un vestíbulo con pileta; la capacidad de la sala de espera aumenta.
+
+## M2 (Grande) — 6 sillones dentales
+
+M2 amplía M1 con dos salas de exploración adicionales, dos consultas médicas y una Zona 2 completa: sala de máquinas/electricidad, mesa de trabajo con 2–3 asientos y pileta, archivo, sala de imagen y autoclave, sala de personal, atrio. Revisión clave: los aseos se agrupan como un único bloque (H+M o universal) en lugar de distribuirse por la suite.
 
 ## Requisito de línea de visión en recepción
 
@@ -55,7 +70,9 @@ En los tres bocetos Médicos aparece el mismo requisito: Recepción debe mantene
 
 ## Optimización de la profundidad de la Zona 2
 
-La profundidad de 4,9 m está determinada por la mesa de la sala de personal más la circulación. Reducir la mesa de personal es la palanca para reducir el ancho del edificio, siempre que la mesa sea un producto Steelcase real, accesible y asequible.
+La profundidad de 4,9 m está determinada por la mesa de la sala de personal más la circulación. Reducir la mesa de personal es la palanca para reducir el ancho del edificio — pero la mesa debe seguir siendo una pieza Steelcase real, ampliamente disponible y asequible para preservar la metodología basada en mobiliario. Cambiar las dimensiones requiere utilizar mobiliario que pueda obtenerse y verificarse de forma independiente.
+
+Se ha identificado una tarifa de alquiler diferencial para Hábitat frente a Revista como convención de arrendamiento prevista: las tarifas aplicadas a la Zona 2 no tienen por qué coincidir con las aplicadas a la Zona 1.
 
 ## AART frente a cappelletti sestito
 

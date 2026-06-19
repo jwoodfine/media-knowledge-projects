@@ -23,9 +23,9 @@ Plano, suburbio de Dallas con 285.000 habitantes a 28 kilómetros al norte del n
 
 ## Descripción general
 
-Según Wikipedia (consultado el 30 de mayo de 2026), Plano tenía una población de 285.494 habitantes en el censo de 2020, lo que la convierte en la novena ciudad más poblada de Texas y la 73.ª de Estados Unidos. La ciudad cubre aproximadamente 72 millas cuadradas, la mayor parte en el condado de Collin. Plano se encuentra aproximadamente a 17 millas (28 kilómetros) al noreste del centro de Dallas y es uno de los principales suburbios del área metropolitana de Dallas-Fort Worth.
+Según Wikipedia (consultado el 30 de mayo de 2026), Plano tenía una población de 285.494 habitantes en el censo de 2020, lo que la convierte en la novena ciudad más poblada de Texas y la 73.ª de Estados Unidos. La ciudad cubre aproximadamente 72 millas cuadradas, la mayor parte en el condado de Collin, con una pequeña porción occidental que se extiende hacia el condado de Denton. Plano se encuentra aproximadamente a 17 millas (28 kilómetros) al noreste del centro de Dallas y es uno de los principales suburbios del área metropolitana de Dallas-Fort Worth. El nombre de la ciudad deriva de la palabra española para "superficie plana", en referencia al terreno de pradera local.
 
-El perfil económico de Plano es distinto al de un suburbio residencial convencional. La ciudad alberga las sedes de Frito-Lay, JCPenney, Pizza Hut y Toyota Motor North America, esta última trasladada desde California en 2014. Los principales empleadores de 2025 incluyen JPMorgan Chase (11.261 empleados), Capital One Finance (5.649) y Toyota Motor North America (4.938), lo que refleja una concentración de servicios financieros y operaciones de back-office corporativas junto con las sedes históricas de marcas de consumo.
+El perfil económico de Plano es distinto al de un suburbio residencial convencional. La ciudad alberga las sedes de Frito-Lay, JCPenney, Pizza Hut y Toyota Motor North America, esta última trasladada desde California en 2014. Los principales empleadores de 2025 incluyen JPMorgan Chase (11.261 empleados), Capital One Finance (5.649) y Toyota Motor North America (4.938), lo que refleja una concentración de servicios financieros y operaciones de back-office corporativas junto con las sedes históricas de marcas de consumo. La trayectoria de crecimiento de la ciudad ha sido rápida: la población pasó de 17.872 habitantes en 1970 a 128.713 en 1990 y a 285.494 en 2020, impulsada por traslados corporativos e inversión en infraestructura asociada. El censo de 2020 registró una población diversificada, con un 46,3% de blancos no hispanos, un 24,08% de asiáticos, un 16,04% de hispanos o latinos y un 8,77% de negros o afroamericanos.
 
 ## Perfil de Co-localización
 
@@ -42,11 +42,15 @@ Los seis clústeres de Plano abarcan toda la gama de composición de anclas obse
 | Plano E | T2 | Hipermercado + Ferretería | Whole Foods Market, The Home Depot, Methodist Campus for Continuing Care, University of Texas at Dallas, Methodist Richardson Medical Center |
 | Plano F | T3 | Hipermercado + Artículos deportivos | Whole Foods Market, REI, Eating Recovery Center Dallas/Plano, Texas Health Presbyterian Hospital Plano, Dallas Baptist University (DBU North) |
 
+La distribución geográfica de estos clústeres a lo largo de Plano produce una cobertura amplia de la zona de atracción en la ciudad y en porciones adyacentes de los condados de Collin y Denton. Dos de los tres clústeres de Nivel 1 se anclan en Walmart combinado con Costco y un club de precio secundario (Sam's Club), lo que indica áreas de captación superpuestas pero distintas en lugar de canibalización directa. El tercer clúster de Nivel 1 es el único de los seis sin una institución cívica co-localizada, lo que sugiere un nodo impulsado exclusivamente por el comercio minorista. Los dos clústeres de Nivel 2 amplían la cobertura con combinaciones de hipermercado y ferretería, uno anclado en Walmart y otro en Whole Foods Market, este último abarcando el corredor académico y médico asociado con la University of Texas at Dallas. El clúster de Nivel 3 — Whole Foods Market con REI — proporciona cobertura minorista especializada adyacente a un hospital y un campus universitario.
+
 ## Infraestructura Cívica
 
 El conjunto de anclas cívicas de Plano es inusualmente denso para un Mercado Regional suburbano. Las anclas médicas comprenden Texas Health Presbyterian Hospital Plano, Baylor Scott & White The Heart Hospital — Plano, Baylor Scott & White Medical Center — Plano, Medical City Plano, Methodist Richardson Medical Center y Methodist Campus for Continuing Care. Están representados cuatro sistemas hospitalarios: Texas Health Presbyterian, Baylor Scott & White, HCA Medical City y Methodist.
 
-Las anclas académicas comprenden la University of Texas at Dallas, el Texas A&M AgriLife Research and Extension Center at Dallas y Dallas Baptist University (DBU North).
+Las anclas médicas comprenden Texas Health Presbyterian Hospital Plano, Baylor Scott & White The Heart Hospital — Plano, Baylor Scott & White Medical Center — Plano, Medical City Plano, Methodist Richardson Medical Center y Methodist Campus for Continuing Care. Están representados cuatro sistemas hospitalarios — Texas Health Presbyterian, Baylor Scott & White, HCA Medical City y Methodist — y cada uno aparece en al menos un clúster. El Baylor Scott & White The Heart Hospital y el Medical Center asociado se co-localizan dentro de los clústeres de Nivel 1 A y B, lo que indica un área de campus que atrae a múltiples nodos minoristas adyacentes.
+
+Las anclas académicas comprenden la University of Texas at Dallas, el Texas A&M AgriLife Research and Extension Center at Dallas y Dallas Baptist University (DBU North). La University of Texas at Dallas aparece en dos clústeres (Nivel 1 B y Nivel 2 E), y Dallas Baptist University aparece en dos clústeres (Nivel 1 A y Nivel 3 F).
 
 Dado que hay presentes anclas tanto médicas como académicas, el multiplicador cívico aplicado a la puntuación compuesta es 1,5, el valor máximo del modelo de puntuación.
 
@@ -58,6 +62,8 @@ Dado que hay presentes anclas tanto médicas como académicas, el multiplicador 
 | Köppen-Geiger | Cfa (Subtropical húmedo) |
 | Ecorregión WWF | Praderas de tierras negras de Texas |
 | Bioma WWF | Praderas, sabanas y matorrales templados |
+
+La Zona Climática ASHRAE 3A es una designación cálido-húmeda común en el norte de Texas. Para la planificación energética de edificios comerciales, 3A implica perfiles de carga dominados por la refrigeración con cargas latentes (humedad) significativas durante gran parte del año, requerimientos de calefacción invernal moderados y prescripciones de envolvente y HVAC según ASHRAE 90.1 que priorizan la refrigeración eficiente y la deshumidificación.
 
 ## Puntuación Compuesta
 
