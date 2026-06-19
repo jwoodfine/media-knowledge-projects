@@ -84,3 +84,13 @@ Una puntuación compuesta de 12,0 es representativa del nivel suburbano-regional
 - [[topic-top-400-regional-markets-eu|Top 400 Mercados Regionales — Europa]]
 - [[topic-co-location-methodology|Metodología de Co-ubicación]]
 - [[topic-co-location-ranking-system|Sistema de Clasificación de Co-ubicación]]
+
+## La conclusión
+
+Krefeld es un mercado suburbano-regional a 19,4 km de Düsseldorf, con el puesto 5 entre los 400 Mercados Regionales europeos y una puntuación compuesta de 12,0. Su fortaleza procede de dos co-ubicaciones de Nivel 1 que combinan cada una hipermercado, ferretería y electrónica de consumo, junto con una base de anclas cívicas — tres hospitales y una Escuela de Ciencias Aplicadas — inusualmente densa para una ciudad de aproximadamente 230.000 habitantes, que obtiene el multiplicador cívico de 1,5×. Para la planificación de sitios y edificios, el clima oceánico atlántico (Cfb) implica una demanda moderada de calefacción y una refrigeración mecánica mínima en comparación con las zonas continentales más al este.
+
+## Referencias
+
+- [Krefeld](https://en.wikipedia.org/wiki/Krefeld) — Wikipedia, consultado 2026-05-30
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
