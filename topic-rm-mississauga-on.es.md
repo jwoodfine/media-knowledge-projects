@@ -83,3 +83,13 @@ La puntuación compuesta de 18,0 sitúa a Mississauga en el cuarto lugar entre l
 - [[topic-top-400-regional-markets-na|Top 400 Mercados Regionales — América del Norte]]
 - [[topic-co-location-methodology|Metodología de Co-ubicación]]
 - [[topic-co-location-ranking-system|Sistema de Clasificación de Co-ubicación]]
+
+## La conclusión
+
+El cuarto puesto de Mississauga refleja una geografía minorista suburbana madura en la que los principales operadores de gran formato norteamericanos han establecido múltiples establecimientos dentro de los límites municipales, combinados con un conjunto de anclas cívicas excepcionalmente sólido: dos hospitales de Trillium Health Partners y un campus completo de investigación de la Universidad de Toronto. La concurrencia de esas instituciones médicas y académicas con clústeres minoristas activa el multiplicador cívico de 1,5× que eleva la puntuación compuesta hasta 18,0. Para un mercado situado a 24,9 km del centro de Toronto, esta combinación señala tanto densidad de bienes del hogar como refuerzo institucional de la actividad comercial — los rasgos definitorios de un mercado suburbano-regional de alto valor.
+
+## Referencias
+
+- [Mississauga](https://en.wikipedia.org/wiki/Mississauga) — Wikipedia, consultado 2026-05-30
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
