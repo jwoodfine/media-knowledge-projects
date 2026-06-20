@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Woodfine Management Corp. verifies zoning approval and establishes an active development timeline before completing any land acquisition — speculative land banking is prohibited by the acquisition model, not just by policy. Every parcel has a verified path to development under applicable municipal regulations before the purchase contract is executed. The rule is applied alongside the [[topic-co-location-anchors|anchor]] adjacency requirement and the [[topic-asset-architecture-standard|Asset Architecture Standard]]; the development timeline is recorded by [[topic-site-ledger-integration|site ledger integration]].
+MCorp verifies zoning approval and establishes an active development timeline before completing any land acquisition — speculative land banking is prohibited by the acquisition model, not just by policy. Every parcel has a verified path to development under applicable municipal regulations before the purchase contract is executed. The rule is applied alongside the [[topic-co-location-anchors|anchor]] adjacency requirement and the [[topic-asset-architecture-standard|Asset Architecture Standard]]; the development timeline is recorded by [[topic-site-ledger-integration|site ledger integration]].
 
 ## Pre-acquisition zoning verification
 

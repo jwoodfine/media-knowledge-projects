@@ -15,7 +15,7 @@ paired_with: disclaimers.md
 
 Nada de lo que figura en esta wiki constituye asesoramiento de inversión, una solicitud de
 compra o venta de valores, ni una oferta de participación en ningún producto de inversión.
-Los artículos describen la metodología de investigación geográfica de Woodfine Management Corp.,
+Los artículos describen la metodología de investigación geográfica de MCorp,
 el análisis de co-localización y los conjuntos de datos de mercados regionales como material de
 referencia para audiencias institucionales y de investigación. Los datos y clasificaciones
 presentados son resultados de investigación y no constituyen valoraciones, tasaciones ni

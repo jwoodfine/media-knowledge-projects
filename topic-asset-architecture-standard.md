@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Every Woodfine Management Corp. development must satisfy a structural specification before land acquisition proceeds — concrete and steel construction, pre-dimensioned floor plates, no site-specific exceptions. The standard eliminates post-acquisition design negotiation and the budget variance that follows from it. It is applied alongside the [[topic-zoning-acquisition-rules|zoning acquisition rules]] and the [[topic-co-location-anchors|anchor adjacency requirement]], and compliance is recorded over time via [[topic-site-ledger-integration|site ledger integration]].
+Every MCorp development must satisfy a structural specification before land acquisition proceeds — concrete and steel construction, pre-dimensioned floor plates, no site-specific exceptions. The standard eliminates post-acquisition design negotiation and the budget variance that follows from it. It is applied alongside the [[topic-zoning-acquisition-rules|zoning acquisition rules]] and the [[topic-co-location-anchors|anchor adjacency requirement]], and compliance is recorded over time via [[topic-site-ledger-integration|site ledger integration]].
 
 ## Structural configuration
 

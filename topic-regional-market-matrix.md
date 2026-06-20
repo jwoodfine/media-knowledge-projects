@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The Regional Market Matrix rejects subjective economic forecasting — markets enter only when population density, institutional real estate vehicle availability, and [[topic-co-location-anchors|anchor]] density meet structural thresholds measurable today. This framework defines which of Woodfine Management Corp.'s 8 target markets the [[topic-co-location-intelligence-overview|co-location intelligence platform]] currently evaluates; scoring within each market follows the [[topic-co-location-methodology|co-location methodology]] and the [[topic-co-location-ranking-system|ranking system]].
+The Regional Market Matrix rejects subjective economic forecasting — markets enter only when population density, institutional real estate vehicle availability, and [[topic-co-location-anchors|anchor]] density meet structural thresholds measurable today. This framework defines which of MCorp's 8 target markets the [[topic-co-location-intelligence-overview|co-location intelligence platform]] currently evaluates; scoring within each market follows the [[topic-co-location-methodology|co-location methodology]] and the [[topic-co-location-ranking-system|ranking system]].
 
 ## Selection criteria
 

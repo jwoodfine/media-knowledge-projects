@@ -13,7 +13,7 @@ editor: pointsav-engineering
 
 Nothing in this wiki constitutes investment advice, a solicitation to buy or sell any
 security, or an offer to participate in any investment product. Articles describe
-Woodfine Management Corp.'s geographic research methodology, co-location analysis, and
+MCorp's geographic research methodology, co-location analysis, and
 regional market datasets as reference material for institutional and research audiences.
 The data and rankings presented are research outputs and do not constitute valuations,
 appraisals, or recommendations regarding specific properties or markets.

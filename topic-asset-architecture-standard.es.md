@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Cada desarrollo de Woodfine Management Corp. debe satisfacer una especificación estructural antes de que proceda la adquisición del terreno — construcción de hormigón y acero, placas de piso pre-dimensionadas, sin excepciones por sitio. El estándar elimina la negociación de diseño posterior a la adquisición y la variación presupuestaria que resulta de ella. Se aplica junto con las [[topic-zoning-acquisition-rules|reglas de adquisición por zonificación]] y el requisito de adyacencia de [[topic-co-location-anchors|anclas]], y su cumplimiento se registra en el tiempo mediante la [[topic-site-ledger-integration|integración del registro del sitio]].
+Cada desarrollo de MCorp debe satisfacer una especificación estructural antes de que proceda la adquisición del terreno — construcción de hormigón y acero, placas de piso pre-dimensionadas, sin excepciones por sitio. El estándar elimina la negociación de diseño posterior a la adquisición y la variación presupuestaria que resulta de ella. Se aplica junto con las [[topic-zoning-acquisition-rules|reglas de adquisición por zonificación]] y el requisito de adyacencia de [[topic-co-location-anchors|anclas]], y su cumplimiento se registra en el tiempo mediante la [[topic-site-ledger-integration|integración del registro del sitio]].
 
 ## Configuración estructural
 

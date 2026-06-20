@@ -16,7 +16,7 @@
 
 ## About This Repository
 
-This is the physical development library for Woodfine Management Corp. It documents the building standards, site selection methodology, regional market strategy, and sustainability architecture that govern all Woodfine development programmes.
+This is the physical development library for MCorp. It documents the building standards, site selection methodology, regional market strategy, and sustainability architecture that govern all Woodfine development programmes.
 
 Where the corporate governance wiki documents the financial structure of the investment vehicles, this repository documents the physical assets those vehicles hold. The two libraries are designed to be read together by an investor conducting due diligence.
 
@@ -62,7 +62,7 @@ For institutional inquiries: **[woodfinegroup.com](https://woodfinegroup.com)**
 
 ---
 
-*© 2026 Woodfine Management Corp. All rights reserved.*
+*© 2026 Woodfine Capital Projects Inc. All rights reserved.*
 
 *→ Versión en español: [README.es.md](./README.es.md)*
 
@@ -71,4 +71,4 @@ For institutional inquiries: **[woodfinegroup.com](https://woodfinegroup.com)**
 
 *Copyright © 2026 Woodfine Capital Projects Inc. See [LICENSE](LICENSE) for terms.*
 
-*Woodfine Capital Projects™, Woodfine Management Corp™, PointSav Digital Systems™, Totebox Orchestration™, and Totebox Archive™ are trademarks of Woodfine Capital Projects Inc., used in Canada, the United States, Latin America, and Europe. All other trademarks are the property of their respective owners.*
+*Woodfine Capital Projects™, MCorp™, PointSav Digital Systems™, Totebox Orchestration™, Totebox Archive™, and Capability Geometry™ are trademarks of Woodfine Capital Projects Inc., used in Canada, the United States, Latin America, and Europe. All other trademarks are the property of their respective owners.*

@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Un nodo comercial califica para el proceso de selección de sitios de Woodfine Management Corp. únicamente cuando un minorista nacional de gran formato está presente dentro del umbral de proximidad definido — el requisito de adyacencia al ancla es binario, no una cuestión de grado. Un sitio sin un ancla calificada no avanza, independientemente de otras características comerciales. El requisito de adyacencia es uno de los insumos estructurales de la [[topic-co-location-methodology|metodología de co-ubicación]] y del [[topic-co-location-ranking-system|sistema de clasificación determinista]]; el mapeo completo de cadenas a familias se documenta en la [[topic-retail-brand-family-taxonomy|taxonomía de familias de marcas minoristas]].
+Un nodo comercial califica para el proceso de selección de sitios de MCorp únicamente cuando un minorista nacional de gran formato está presente dentro del umbral de proximidad definido — el requisito de adyacencia al ancla es binario, no una cuestión de grado. Un sitio sin un ancla calificada no avanza, independientemente de otras características comerciales. El requisito de adyacencia es uno de los insumos estructurales de la [[topic-co-location-methodology|metodología de co-ubicación]] y del [[topic-co-location-ranking-system|sistema de clasificación determinista]]; el mapeo completo de cadenas a familias se documenta en la [[topic-retail-brand-family-taxonomy|taxonomía de familias de marcas minoristas]].
 
 ## Por qué importan los anclajes
 

@@ -10,6 +10,6 @@ paired_with: about.md
 language: es
 ---
 
-Esta wiki cubre la investigación de inteligencia de co-localización de Woodfine Management Corp., la metodología de mercados regionales y el análisis geoespacial relacionado. Las decisiones editoriales son tomadas por el equipo de Woodfine Management Corp. conforme a los estándares institucionales descritos en este artículo.
+Esta wiki cubre la investigación de inteligencia de co-localización de MCorp, la metodología de mercados regionales y el análisis geoespacial relacionado. Las decisiones editoriales son tomadas por el equipo de MCorp conforme a los estándares institucionales descritos en este artículo.
 
-El contenido se produce bajo la supervisión editorial de Woodfine Management Corp. y está destinado a lectores institucionales. Las correcciones pueden enviarse a través de la página de contacto.
+El contenido se produce bajo la supervisión editorial de MCorp y está destinado a lectores institucionales. Las correcciones pueden enviarse a través de la página de contacto.

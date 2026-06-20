@@ -16,7 +16,7 @@
 
 ## Sobre Este Repositorio
 
-Esta es la biblioteca de desarrollo físico de Woodfine Management Corp. Documenta los estándares de construcción, la metodología de selección de sitios, la estrategia de mercados regionales y la arquitectura de sostenibilidad que rigen todos los programas de desarrollo de Woodfine.
+Esta es la biblioteca de desarrollo físico de MCorp. Documenta los estándares de construcción, la metodología de selección de sitios, la estrategia de mercados regionales y la arquitectura de sostenibilidad que rigen todos los programas de desarrollo de Woodfine.
 
 Donde la wiki de gobernanza corporativa documenta la estructura financiera de los vehículos de inversión, este repositorio documenta los activos físicos que dichos vehículos poseen. Las dos bibliotecas están diseñadas para ser leídas juntas por un inversor que realiza diligencia debida.
 
@@ -64,7 +64,7 @@ Para consultas institucionales: **[woodfinegroup.com](https://woodfinegroup.com)
 
 ---
 
-*© 2026 Woodfine Management Corp. Todos los derechos reservados.*
+*© 2026 Woodfine Capital Projects Inc. Todos los derechos reservados.*
 
 *→ English version: [README.md](./README.md)*
 
@@ -72,4 +72,4 @@ Para consultas institucionales: **[woodfinegroup.com](https://woodfinegroup.com)
 
 *Copyright © 2026 Woodfine Capital Projects Inc. Consulte [LICENSE](LICENSE) para conocer los términos.*
 
-*Woodfine Capital Projects™, Woodfine Management Corp™, PointSav Digital Systems™, Totebox Orchestration™ y Totebox Archive™ son marcas comerciales de Woodfine Capital Projects Inc., utilizadas en Canadá, Estados Unidos, América Latina y Europa. Todas las demás marcas comerciales son propiedad de sus respectivos propietarios.*
+*Woodfine Capital Projects™, MCorp™, PointSav Digital Systems™, Totebox Orchestration™, Totebox Archive™ y Capability Geometry™ son marcas comerciales de Woodfine Capital Projects Inc., utilizadas en Canadá, Estados Unidos, América Latina y Europa. Todas las demás marcas comerciales son propiedad de sus respectivos propietarios.*

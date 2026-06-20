@@ -3,10 +3,11 @@
 The following are trademarks of **Woodfine Capital Projects Inc.**, used in Canada, the United States, Latin America, and Europe:
 
 *   **Woodfine Capital Projects™**
-*   **Woodfine Management Corp™**
+*   **MCorp™**
 *   **PointSav Digital Systems™**
 *   **Totebox Orchestration™**
 *   **Totebox Archive™**
+*   **Capability Geometry™**
 
 All other trademarks are the property of their respective owners.
 

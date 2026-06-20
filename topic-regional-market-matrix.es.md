@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-La Matriz de Mercado Regional rechaza las previsiones económicas subjetivas — los mercados ingresan únicamente cuando la densidad de población, la disponibilidad de un vehículo de inversión inmobiliaria institucional y la densidad de [[topic-co-location-anchors|anclas]] cumplen umbrales estructurales medibles hoy. Este marco define cuáles de los 8 mercados objetivo de Woodfine Management Corp. evalúa actualmente la [[topic-co-location-intelligence-overview|plataforma de inteligencia de co-ubicación]]; la puntuación dentro de cada mercado sigue la [[topic-co-location-methodology|metodología de co-ubicación]] y el [[topic-co-location-ranking-system|sistema de clasificación]].
+La Matriz de Mercado Regional rechaza las previsiones económicas subjetivas — los mercados ingresan únicamente cuando la densidad de población, la disponibilidad de un vehículo de inversión inmobiliaria institucional y la densidad de [[topic-co-location-anchors|anclas]] cumplen umbrales estructurales medibles hoy. Este marco define cuáles de los 8 mercados objetivo de MCorp evalúa actualmente la [[topic-co-location-intelligence-overview|plataforma de inteligencia de co-ubicación]]; la puntuación dentro de cada mercado sigue la [[topic-co-location-methodology|metodología de co-ubicación]] y el [[topic-co-location-ranking-system|sistema de clasificación]].
 
 ## Criterios de selección
 

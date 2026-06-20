@@ -23,7 +23,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Woodfine Management Corp.'s co-location intelligence platform ranks 2,738 commercial nodes across 8 retail markets by anchor convergence — the independent co-location of hypermarkets, warehouse clubs, and home improvement superstores at the same trade area. Each node is validated not by analyst forecasts, but by the independent capital commitments of the retailers who located there. Convergence is measured per the [[topic-co-location-methodology|co-location methodology]] and scored by the [[topic-co-location-ranking-system|deterministic ranking system]]; the population and spend inputs are documented in [[topic-trade-area-data-sources|trade-area data sources]] and the geographic policy in the [[topic-regional-market-matrix|regional market matrix]].
+MCorp's co-location intelligence platform ranks 2,738 commercial nodes across 8 retail markets by anchor convergence — the independent co-location of hypermarkets, warehouse clubs, and home improvement superstores at the same trade area. Each node is validated not by analyst forecasts, but by the independent capital commitments of the retailers who located there. Convergence is measured per the [[topic-co-location-methodology|co-location methodology]] and scored by the [[topic-co-location-ranking-system|deterministic ranking system]]; the population and spend inputs are documented in [[topic-trade-area-data-sources|trade-area data sources]] and the geographic policy in the [[topic-regional-market-matrix|regional market matrix]].
 
 The platform is operated at [gis.woodfinegroup.com](https://gis.woodfinegroup.com), built and maintained by PointSav Digital Systems.
 
