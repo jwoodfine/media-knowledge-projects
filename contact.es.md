@@ -1,5 +1,6 @@
 ---
 schema: foundry-doc-v1
+content_type: page
 title: "Contacto"
 slug: contact
 category: governance

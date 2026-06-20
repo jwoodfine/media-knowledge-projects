@@ -1,5 +1,6 @@
 ---
 schema: foundry-doc-v1
+content_type: page
 title: "About"
 slug: about
 category: governance

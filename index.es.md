@@ -1,5 +1,6 @@
 ---
 schema: foundry-doc-v1
+content_type: page
 title: "Woodfine Capital Projects — Plataforma de Inteligencia de Co-ubicación"
 slug: index
 short_description: "Plataforma de inteligencia de coubicación minorista de MCorp — metodologías espaciales, algoritmos de clasificación, e índices de despliegue regional en 8 mercados minoristas abarcando 13 países, con 7.594 clusters puntuados a partir de 229.054 ubicaciones analizadas."
