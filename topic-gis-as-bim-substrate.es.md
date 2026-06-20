@@ -81,5 +81,5 @@ La distancia al hospital más cercano y a la universidad más cercana se calcula
 ## Véase también
 
 - [[co-location-methodology]]
-- [[regional-name-resolution]]
-- [[city-code-as-composable-geometry]]
+- [[topic-regional-name-resolution-architecture]]
+- [[topic-city-code-as-composable-geometry]]

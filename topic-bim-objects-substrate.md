@@ -14,7 +14,7 @@ cites: [ifc-4-3, uniclass-2015, bsdd-v1, ids-1-0, dtcg-w3c]
 paired_with: topic-bim-objects-substrate.es.md
 ---
 
-The [[building-design-system-bim|Building Design System]] [[bim-objects-what-they-are|BIM Object]] library anchors every object to a node in the IFC 4.3 entity hierarchy, classified by Uniclass 2015, and published as a dereferenceable bSDD URI. This article describes how the [[bim-objects-three-layers|three-layer reference system]] works, what the eight BIM Object primitive categories encode, and how a BIM operator reads and applies them when authoring an IFC file.
+The [[topic-building-design-system-bim|Building Design System]] [[topic-bim-objects-what-they-are|BIM Object]] library anchors every object to a node in the IFC 4.3 entity hierarchy, classified by Uniclass 2015, and published as a dereferenceable bSDD URI. This article describes how the [[topic-bim-objects-three-layers|three-layer reference system]] works, what the eight BIM Object primitive categories encode, and how a BIM operator reads and applies them when authoring an IFC file.
 
 ## Three Layers of Reference
 
@@ -22,7 +22,7 @@ The [[building-design-system-bim|Building Design System]] [[bim-objects-what-the
 
 IFC 4.3 was published as ISO 16739-1:2024 in April 2024. The standard defines a hierarchy of named entity classes — `IfcSite`, `IfcBuilding`, `IfcBuildingStorey`, `IfcSpace`, `IfcWall`, `IfcSlab`, `IfcDoor`, and hundreds more — each with typed Property Sets (Psets) specifying what attributes a compliant implementation must support.
 
-Every [[building-design-system-bim|Building Design System]] BIM Object maps to a specific IFC entity class or Pset. The spatial BIM Object `bim.spatial.storey` anchors to `IfcBuildingStorey`; the performance BIM Object `bim.performance.door-fire-exit` anchors to `Pset_DoorCommon.IsFireExit`. When a BIM Object value changes, a validator can trace the change back to the IFC Pset that the BIM Object represents.
+Every [[topic-building-design-system-bim|Building Design System]] BIM Object maps to a specific IFC entity class or Pset. The spatial BIM Object `bim.spatial.storey` anchors to `IfcBuildingStorey`; the performance BIM Object `bim.performance.door-fire-exit` anchors to `Pset_DoorCommon.IsFireExit`. When a BIM Object value changes, a validator can trace the change back to the IFC Pset that the BIM Object represents.
 
 ### Layer 2 — Uniclass 2015 classification floor
 
@@ -36,7 +36,7 @@ buildingSMART's Data Dictionary (bSDD) publishes machine-readable JSON-LD defini
 
 ## Eight BIM Object Primitive Categories
 
-The [[building-design-system-bim|Building Design System]] groups BIM Objects into eight categories, each mapped to a distinct layer of the IFC entity model.
+The [[topic-building-design-system-bim|Building Design System]] groups BIM Objects into eight categories, each mapped to a distinct layer of the IFC entity model.
 
 ### 1. Spatial (`bim.spatial.*`)
 
@@ -96,7 +96,7 @@ A BIM authoring tool or validator reads the DTCG files at startup and constructs
 
 ## Relationship to the IFC File
 
-The DTCG BIM Object library does not modify IFC files directly. It is an authoring-time reference — the source of truth for what values to write into an IFC Pset when a model element is created or modified. A BIM operator who follows the [[building-design-system-bim|Building Design System]] writes the IFC file with the BIM Object values; IDS 1.0 contracts then validate that the IFC file conforms to the published thresholds.
+The DTCG BIM Object library does not modify IFC files directly. It is an authoring-time reference — the source of truth for what values to write into an IFC Pset when a model element is created or modified. A BIM operator who follows the [[topic-building-design-system-bim|Building Design System]] writes the IFC file with the BIM Object values; IDS 1.0 contracts then validate that the IFC file conforms to the published thresholds.
 
 The BIM Object-to-IFC pipeline is therefore:
 
@@ -108,11 +108,11 @@ IFC Pset_SpaceOccupancy attribute in IfcSpace
 IDS 1.0 rule: IfcSpace.MaxWorkstationToWindow ≤ 6000 mm
 ```
 
-This separation — author with BIM Objects, validate with IDS — is the substrate that makes [[city-code-as-composable-geometry]] possible at the next layer.
+This separation — author with BIM Objects, validate with IDS — is the substrate that makes [[topic-city-code-as-composable-geometry]] possible at the next layer.
 
 ## See also
 
-- [[bim-objects-what-they-are]] — the pre-constraining thesis and how BIM Objects differ from IFC property sets
-- [[bim-objects-three-layers]] — the Specification, Regulation, and Climate Zone layers and their composition rule
-- [[building-design-system-bim]] — the broader Building Design System for the built environment
-- [[flat-file-bim-leapfrog]] — the flat-file architecture that underpins the BIM Object vault
+- [[topic-bim-objects-what-they-are]] — the pre-constraining thesis and how BIM Objects differ from IFC property sets
+- [[topic-bim-objects-three-layers]] — the Specification, Regulation, and Climate Zone layers and their composition rule
+- [[topic-building-design-system-bim]] — the broader Building Design System for the built environment
+- [[topic-flat-file-bim-leapfrog]] — the flat-file architecture that underpins the BIM Object vault

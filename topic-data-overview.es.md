@@ -16,6 +16,6 @@ paired_with: topic-data-overview.md
 
 La plataforma PointSav produce y sirve datos geoespaciales en dos formas principales: un conjunto de datos de clústeres de inteligencia de ubicación que cubre patrones de co-ubicación comercial en múltiples países, y una taxonomía de puntos de interés que subyace al algoritmo de clústeres.
 
-Para la descripción completa en inglés, consulte [[data-overview|Data Overview — Location Intelligence and GIS Data Layers]].
+Para la descripción completa en inglés, consulte [[topic-data-overview|Data Overview — Location Intelligence and GIS Data Layers]].
 
 *Este artículo es un resumen provisional. El contenido completo está previsto para una sesión futura.*

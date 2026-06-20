@@ -14,7 +14,7 @@ cites: [ifc-4-3, iso-19650, ids-1-0]
 paired_with: topic-asset-anchored-bim-vault.md
 ---
 
-El registro digital autorizado de un edificio es un directorio de archivos de texto simple y binarios estandarizados que viven en el almacenamiento del propietario, viajan con la escritura de propiedad cuando cambia la titularidad y permanecen legibles sin una licencia de software propietario mientras se mantengan los estándares abiertos subyacentes. Este artículo describe el diseño de la bóveda, la capa de versiones que proporciona trazabilidad de grado git, y la calificación [[open-bim-regulatory-acceptance|ISO 19650]] que hace de un [[flat-file-bim-leapfrog|repositorio git de archivos planos]] un Entorno de Datos Común conforme.
+El registro digital autorizado de un edificio es un directorio de archivos de texto simple y binarios estandarizados que viven en el almacenamiento del propietario, viajan con la escritura de propiedad cuando cambia la titularidad y permanecen legibles sin una licencia de software propietario mientras se mantengan los estándares abiertos subyacentes. Este artículo describe el diseño de la bóveda, la capa de versiones que proporciona trazabilidad de grado git, y la calificación [[open-bim-regulatory-acceptance|ISO 19650]] que hace de un [[topic-flat-file-bim-leapfrog|repositorio git de archivos planos]] un Entorno de Datos Común conforme.
 
 ## El Diseño de la Bóveda
 

@@ -14,7 +14,7 @@ paired_with: topic-flat-file-bim-leapfrog.es.md
 ---
 
 
-[[pointsav-overview|PointSav]]'s [[building-design-system-bim|Building Design System]] is built on five architectural constraints that, individually, are mild inconveniences for any single feature comparison and, together, define a product category that hyperscalers cannot occupy without cannibalising their own revenue model. The constraints are flat-file storage, open standards, Rust + Tauri, offline-first, and Apache 2.0-licensed. The open BIM standards stack matured between 2023 and 2025 into the infrastructure that makes this strategy viable; the property-manager market gap is documented in peer-reviewed literature; and the open toolchain is commercial-grade today.
+[[pointsav-overview|PointSav]]'s [[topic-building-design-system-bim|Building Design System]] is built on five architectural constraints that, individually, are mild inconveniences for any single feature comparison and, together, define a product category that hyperscalers cannot occupy without cannibalising their own revenue model. The constraints are flat-file storage, open standards, Rust + Tauri, offline-first, and Apache 2.0-licensed. The open BIM standards stack matured between 2023 and 2025 into the infrastructure that makes this strategy viable; the property-manager market gap is documented in peer-reviewed literature; and the open toolchain is commercial-grade today.
 
 This document explains what flat-file BIM is, what it is not, and why five specific capabilities follow from the architecture rather than needing to be added on top.
 
@@ -46,7 +46,7 @@ The `.ifc` file is the authoritative spatial and semantic state of the building.
 
 ### 1. Asset-anchored BIM
 
-The [[asset-anchored-bim-vault|digital twin is signed with the land title]] and travels with the property deed when ownership changes hands. Multi-tenant SaaS cannot offer this without breaking the tenancy model — a new owner would need to be onboarded to the vendor's tenant, the model migrated, permissions reconstructed, the subscription repriced. A flat-file twin is owned like the building itself: forever, transferrably, without vendor permission.
+The [[topic-asset-anchored-bim-vault|digital twin is signed with the land title]] and travels with the property deed when ownership changes hands. Multi-tenant SaaS cannot offer this without breaking the tenancy model — a new owner would need to be onboarded to the vendor's tenant, the model migrated, permissions reconstructed, the subscription repriced. A flat-file twin is owned like the building itself: forever, transferrably, without vendor permission.
 
 A major cloud BIM platform's subscription licence makes the risk explicit: a term lapse requires the owner to enter into a new subscription agreement for continued access to project data. The digital twin rents; it does not sell.
 

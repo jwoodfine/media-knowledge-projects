@@ -14,7 +14,7 @@ cites: [ifc-4-3, uniclass-2015, bsdd-v1, ids-1-0, dtcg-w3c, ashrae-90-1, nbc-202
 paired_with: topic-bim-objects-three-layers.es.md
 ---
 
-A [[bim-objects-what-they-are|BIM Object]] has three layers: Specification, Regulation, and Climate Zone. All three are embedded data in the object. None of the three layers is a runtime user-selectable option — a designer does not "switch" between climate zones any more than they switch building codes. The three layers are displayed simultaneously as static reference tables, each showing all registered overlays for the BIM Object's element type. This structure reflects a physical reality: a built element has a fixed type (Specification), exists in a fixed jurisdiction (Regulation), and performs in a fixed climate (Climate Zone). All three are facts about the element's physical context, not user preferences.
+A [[topic-bim-objects-what-they-are|BIM Object]] has three layers: Specification, Regulation, and Climate Zone. All three are embedded data in the object. None of the three layers is a runtime user-selectable option — a designer does not "switch" between climate zones any more than they switch building codes. The three layers are displayed simultaneously as static reference tables, each showing all registered overlays for the BIM Object's element type. This structure reflects a physical reality: a built element has a fixed type (Specification), exists in a fixed jurisdiction (Regulation), and performs in a fixed climate (Climate Zone). All three are facts about the element's physical context, not user preferences.
 
 ## Why Three Layers
 
@@ -147,7 +147,7 @@ When a new BIM Object is authored, the authoring interface follows a four-zone m
 
 **Zone 4 — Publishing.** Validation summary, preview of BIM Object JSON output, approval workflow, commit message field, publish action (git commit to object vault).
 
-The CMS authoring model is the intended interface for `app-console-bim` (planned, v0.1.x). At v0.0.1, [[bim-objects-what-they-are|BIM Objects]] are authored directly as DTCG JSON files and committed via git.
+The CMS authoring model is the intended interface for `app-console-bim` (planned, v0.1.x). At v0.0.1, [[topic-bim-objects-what-they-are|BIM Objects]] are authored directly as DTCG JSON files and committed via git.
 
 ## How This Differs from IFC Property Sets
 
@@ -157,7 +157,7 @@ The BIM Object Regulation layer consumes the IFC Property Set structure but adds
 
 ## See also
 
-- [[bim-objects-what-they-are]] — what a BIM Object is and how it differs from IFC entity types, Revit families, and property sets
-- [[bim-objects-substrate]] — the eight BIM Object primitive categories and their DTCG delivery format
+- [[topic-bim-objects-what-they-are]] — what a BIM Object is and how it differs from IFC entity types, Revit families, and property sets
+- [[topic-bim-objects-substrate]] — the eight BIM Object primitive categories and their DTCG delivery format
 - [[open-bim-regulatory-acceptance]] — how jurisdictions are adopting open BIM standards
-- [[building-design-system-bim]] — the broader Building Design System for the built environment
+- [[topic-building-design-system-bim]] — the broader Building Design System for the built environment

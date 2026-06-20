@@ -14,7 +14,7 @@ cites: [ifc-4-3, iso-19650]
 paired_with: topic-property-manager-bim-gap.es.md
 ---
 
-Building Information Models are authored by architects and structural engineers, delivered to contractors for construction, and then handed to property managers at practical completion. At that handover, the model's usefulness to the people who operate the building for the next 30 years depends entirely on whether the property manager has access to a BIM viewer, knows how to use it, and can afford to maintain the authoring-tool licence that produced the file. See also [[asset-anchored-bim-vault|the asset-anchored BIM vault]] and [[building-design-system-bim|the Building Design System]].
+Building Information Models are authored by architects and structural engineers, delivered to contractors for construction, and then handed to property managers at practical completion. At that handover, the model's usefulness to the people who operate the building for the next 30 years depends entirely on whether the property manager has access to a BIM viewer, knows how to use it, and can afford to maintain the authoring-tool licence that produced the file. See also [[topic-asset-anchored-bim-vault|the asset-anchored BIM vault]] and [[topic-building-design-system-bim|the Building Design System]].
 
 In practice, most do not.
 
@@ -40,13 +40,13 @@ When the building is renovated — walls moved, systems upgraded — the CAFM da
 
 ## The Gap This Platform Is Intended to Fill
 
-The [[building-design-system-bim|Building Design System]]'s FM-specific [[aec-interface-conventions|interface components]] — `GuidSearch` and `AuditLog` — are designed for the facilities manager who needs read-only access to BIM model data without the cost or complexity of an authoring-tool licence.
+The [[topic-building-design-system-bim|Building Design System]]'s FM-specific [[topic-aec-interface-conventions|interface components]] — `GuidSearch` and `AuditLog` — are designed for the facilities manager who needs read-only access to BIM model data without the cost or complexity of an authoring-tool licence.
 
 `GuidSearch` is a search interface that takes an IFC GUID — the alphanumeric identifier stamped on every door, every wall, every HVAC component in a BIM model — and returns the element's Pset values, maintenance history, and open BCF issues. A facilities manager scanning a QR code attached to a piece of equipment, or reading a GUID from a work-order form, retrieves the building model data for that specific element without navigating a 3D viewport.
 
 `AuditLog` is a time-ordered log of all changes to the vault: IFC model updates, BCF topic resolutions, work-order completions, and sensor-reading anomalies. For a facilities manager whose regulatory obligation is to demonstrate that a fire door was inspected, tested, and found compliant, the AuditLog is the audit trail.
 
-Both components are intended to run on the [[asset-anchored-bim-vault]] — the same flat-file archive that the design and construction team used. There is no CAFM import, no schema translation, and no synchronisation gap. The FM operator reads the canonical model directly, at full Pset fidelity, through an interface designed for their workflow rather than for model creation.
+Both components are intended to run on the [[topic-asset-anchored-bim-vault]] — the same flat-file archive that the design and construction team used. There is no CAFM import, no schema translation, and no synchronisation gap. The FM operator reads the canonical model directly, at full Pset fidelity, through an interface designed for their workflow rather than for model creation.
 
 ## The Lease Register Convergence
 

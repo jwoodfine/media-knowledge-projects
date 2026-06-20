@@ -90,8 +90,8 @@ A BIM composition that joins on `cluster_id` sees growth but no deletion of exis
 ## See Also
 
 - [[co-location-methodology]]
-- [[regional-name-resolution]]
-- [[city-code-as-composable-geometry]]
+- [[topic-regional-name-resolution-architecture]]
+- [[topic-city-code-as-composable-geometry]]
 
 ## References
 
