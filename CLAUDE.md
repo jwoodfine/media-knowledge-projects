@@ -2,7 +2,7 @@
 
 # media-knowledge-projects — Repo Guide
 
-> **State:** active | **Last updated:** 2026-05-20
+> **State:** active | **Last updated:** 2026-06-26
 > **Role:** Totebox sub-clone under project-knowledge cluster
 > **Workspace AGENT.md takes precedence on conflict.**
 
@@ -20,9 +20,26 @@ Wiki content for the Woodfine Projects knowledge base
 - GIS data standards
 - Release communications (`comms/` subdirectory)
 
-This is a **flat content repo** — no project registry, no Cargo workspace.
-All content is `topic-*.md` files (English canonical) paired with
-`topic-*.es.md` (Spanish bilingual pair).
+No project registry, no Cargo workspace.
+
+**Category layout (2026-06-26).** Converted from flat layout to category
+directories as part of the jennifer-to-wiki backfill initiative (see
+BRIEF-jennifer-to-wiki-backfill.md in project-editorial). Six categories
+with bilingual MOC pages:
+
+| Category | Scope |
+|---|---|
+| `co-location/` | Anchor taxonomy, floor plates, BOMA, ADI, site scoring |
+| `architecture/` | Architectural styles in CRE evaluation context |
+| `markets/` | Bloomberg/WSJ office + retail research summaries |
+| `urban/` | Commuter patterns, gateway cities, demographic methodology |
+| `gis/` | GIS data sources, coverage, provenance (articles pending D4/project-jennifer review) |
+| `reference/` | Terminology, glossary from projects.csv |
+
+Existing flat `topic-*.md` articles remain at root until migrated via
+alias-based `git mv` (pending alias engine verification with Command).
+New articles authored as part of backfill go directly into categories.
+`comms/` subdirectory unchanged.
 
 ---
 
@@ -50,8 +67,8 @@ Self-contained content repo — stage directly to this repo; no `drafts-outbound
 - Frontmatter: `schema: foundry-doc-v1`, `language_protocol: PROSE-TOPIC` (EN),
   `TRANSLATE-ES` (ES), `bcsc_class: current-fact`
 - All articles: bilingual pair required (`paired_with:` field in both directions)
-- Category values: `governance` (most articles), per `naming-convention.md §10`
-- Slug: always matches filename without extension (e.g., `slug: topic-co-location-methodology`)
+- Category values: one of the 6 defined categories above (for new articles); legacy `governance` on existing flat articles until migrated
+- Slug: inside categories uses bare slug without `topic-` prefix (e.g., `slug: co-location-methodology`); existing flat articles keep `topic-*` slug until migrated
 
 ---
 
