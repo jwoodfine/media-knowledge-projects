@@ -1,10 +1,18 @@
 ---
+schema: foundry-doc-v1
 title: "Co-Location"
 slug: co-location
 category: co-location
+type: topic
+content_type: topic
+quality: complete
+short_description: "Anchor taxonomy, floor plate analysis, key plan geometry, site scoring methodology, and the spatial vocabulary for evaluating and comparing commercial buildings across markets."
+status: active
+bcsc_class: current-fact
+language_protocol: PROSE-TOPIC
 last_edited: 2026-06-26
 editor: pointsav-engineering
-status: stable
+paired_with: _index.es.md
 ---
 
 Co-location is the methodology for identifying and ranking commercial real estate sites

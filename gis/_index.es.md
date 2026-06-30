@@ -1,10 +1,17 @@
 ---
+schema: foundry-doc-v1
 title: "SIG"
 slug: gis
 category: gis
+type: topic
+content_type: topic
+quality: complete
+short_description: "Metodología de datos espaciales, procedencia de fuentes e inteligencia geográfica para la evaluación de sitios comerciales: OpenStreetMap, Overture Maps, conjuntos de datos de población y métodos de análisis geoespacial."
+status: active
+bcsc_class: current-fact
+language_protocol: TRANSLATE-ES
 last_edited: 2026-06-26
 editor: pointsav-engineering
-status: stable
 paired_with: gis/_index.md
 ---
 

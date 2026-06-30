@@ -1,10 +1,17 @@
 ---
+schema: foundry-doc-v1
 title: "Urbano"
 slug: urban
 category: urban
+type: topic
+content_type: topic
+quality: complete
+short_description: "Fuerzas demográficas, de movilidad y económicas que configuran la demanda inmobiliaria comercial a escala urbana y regional: patrones de commuters, dinámicas periurbanas, características de ciudades puerta y definición de áreas de captación."
+status: active
+bcsc_class: current-fact
+language_protocol: TRANSLATE-ES
 last_edited: 2026-06-26
 editor: pointsav-engineering
-status: stable
 paired_with: urban/_index.md
 ---
 

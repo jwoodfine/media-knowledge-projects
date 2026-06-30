@@ -1,10 +1,17 @@
 ---
+schema: foundry-doc-v1
 title: "Arquitectura"
 slug: architecture
 category: architecture
+type: topic
+content_type: topic
+quality: complete
+short_description: "Movimientos de diseño del entorno construido desde el clasicismo hasta la contemporaneidad: cómo el estilo arquitectónico, el período y la filosofía de diseño afectan la aptitud operativa y el valor de los edificios comerciales."
+status: active
+bcsc_class: current-fact
+language_protocol: TRANSLATE-ES
 last_edited: 2026-06-26
 editor: pointsav-engineering
-status: stable
 paired_with: architecture/_index.md
 ---
 

@@ -1,10 +1,18 @@
 ---
+schema: foundry-doc-v1
 title: "GIS"
 slug: gis
 category: gis
+type: topic
+content_type: topic
+quality: complete
+short_description: "Spatial data methodology, data source provenance, and geographic intelligence for commercial real estate site evaluation: OpenStreetMap, Overture Maps, population datasets, and geospatial analysis methods."
+status: active
+bcsc_class: current-fact
+language_protocol: PROSE-TOPIC
 last_edited: 2026-06-26
 editor: pointsav-engineering
-status: stable
+paired_with: _index.es.md
 ---
 
 GIS covers the spatial data methodology, data source provenance, and geographic

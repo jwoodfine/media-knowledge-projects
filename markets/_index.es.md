@@ -1,10 +1,17 @@
 ---
+schema: foundry-doc-v1
 title: "Mercados"
 slug: markets
 category: markets
+type: topic
+content_type: topic
+quality: complete
+short_description: "Análisis de sectores de bienes raíces comerciales y resúmenes de mercados geográficos que sintetizan investigación institucional sobre oferta y demanda de oficinas, expansión minorista y dinámica regional de propiedades."
+status: active
+bcsc_class: current-fact
+language_protocol: TRANSLATE-ES
 last_edited: 2026-06-26
 editor: pointsav-engineering
-status: stable
 paired_with: markets/_index.md
 ---
 

@@ -1,10 +1,17 @@
 ---
+schema: foundry-doc-v1
 title: "Co-localización"
 slug: co-location
 category: co-location
+type: topic
+content_type: topic
+quality: complete
+short_description: "Taxonomía de inquilinos ancla, análisis de plantas, geometría de planos clave, metodología de puntuación de sitios y vocabulario espacial para evaluar y comparar edificios comerciales en distintos mercados."
+status: active
+bcsc_class: current-fact
+language_protocol: TRANSLATE-ES
 last_edited: 2026-06-26
 editor: pointsav-engineering
-status: stable
 paired_with: co-location/_index.md
 ---
 

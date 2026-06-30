@@ -1,10 +1,18 @@
 ---
+schema: foundry-doc-v1
 title: "Architecture"
 slug: architecture
 category: architecture
+type: topic
+content_type: topic
+quality: complete
+short_description: "Built environment design movements from classical through contemporary: how architectural style, period, and design philosophy affect the operational suitability and long-term asset value of commercial buildings."
+status: active
+bcsc_class: current-fact
+language_protocol: PROSE-TOPIC
 last_edited: 2026-06-26
 editor: pointsav-engineering
-status: stable
+paired_with: _index.es.md
 ---
 
 Architecture in the context of real estate investment covers the built environment

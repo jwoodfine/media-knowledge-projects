@@ -1,10 +1,17 @@
 ---
+schema: foundry-doc-v1
 title: "Referencia"
 slug: reference
 category: reference
+type: topic
+content_type: topic
+quality: complete
+short_description: "Índice terminológico, glosario y definiciones estándar para bienes raíces comerciales, ciencias de la construcción, convenciones AEC y análisis geográfico según se utilizan en la base de conocimiento de proyectos."
+status: active
+bcsc_class: current-fact
+language_protocol: TRANSLATE-ES
 last_edited: 2026-06-26
 editor: pointsav-engineering
-status: stable
 paired_with: reference/_index.md
 ---
 
