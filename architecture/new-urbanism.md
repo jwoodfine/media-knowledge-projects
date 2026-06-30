@@ -8,7 +8,6 @@ content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine
-bcsk_class: current-fact
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-06-27
