@@ -66,7 +66,7 @@ both downtown Provo professional space and suburban professional park formats.
 
 The Provo–Orem market exhibits characteristics unusual among mid-sized US metros: a
 disproportionately young population (driven by large family size and student composition),
-an expanding professional income base, and robust consumer retail spending that exceeds
+an expanding professional income base, and consumer retail spending that materially exceeds
 what the demographic profile of a university city would typically imply. The rapid growth
 trajectory makes near-term professional centre demand projections more durable than slower-
 growth Midwestern comparables of similar current size.

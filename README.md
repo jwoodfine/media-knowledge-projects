@@ -18,7 +18,7 @@
 
 This is the physical development library for MCorp. It documents the building standards, site selection methodology, regional market strategy, and sustainability architecture that govern all Woodfine development programmes.
 
-Where the corporate governance wiki documents the financial structure of the investment vehicles, this repository documents the physical assets those vehicles hold. The two libraries are designed to be read together by an investor conducting due diligence.
+Where the corporate governance wiki documents the financial structure of the Direct-Hold Solutions, this repository documents the physical assets those enterprises hold. The two libraries are designed to be read together by an investor conducting due diligence.
 
 ---
 

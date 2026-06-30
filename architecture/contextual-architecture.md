@@ -45,7 +45,7 @@ Contextual buildings are evaluated by how well they continue the existing urban 
 
 Contextual design discipline is relevant to commercial real estate at two points: infill development in established nodes, and renovation or expansion of existing commercial buildings.
 
-Infill development in an established secondary-market commercial node is contextually successful when the new building fills a gap in the street wall, continues the material character of the block, maintains the setback line, and introduces a compatible use at grade. Contextually successful infill strengthens the node by completing its pedestrian continuity; contextually disruptive infill — a drive-through pad site, a box-format retailer set back from the street, a residential tower that removes commercial frontage — weakens the node even if the individual building performs financially.
+Infill development in an established secondary-market commercial node is contextually successful when the new building fills a gap in the street wall, continues the material character of the block, maintains the setback line, and introduces a compatible use at grade. Contextually successful infill strengthens the node by completing its pedestrian continuity; contextually incompatible infill — a drive-through pad site, a box-format retailer set back from the street, a residential tower that removes commercial frontage — weakens the node even if the individual building performs financially.
 
 Renovation of existing commercial buildings raises contextual questions at the façade and signage levels. Renovation schemes that strip original masonry or introduce cladding materials incompatible with the block character damage the contextual coherence of the node. Heritage designation in Canadian and European jurisdictions frequently captures this concern in regulatory terms, requiring that renovations maintain the dominant character of the existing streetscape.
 
@@ -65,7 +65,7 @@ Conversely, contextual disruption in an established node is not always a negativ
 
 Contextual requirements are frequently formalized through heritage conservation district designations and urban design guidelines in Canadian, British, and European municipalities. Within a heritage conservation district, new construction and renovation must meet contextual criteria established by the municipal heritage authority. Design review panels evaluate proposals against streetscape studies that document the existing contextual characteristics of the block.
 
-These regulatory frameworks create both risk and protection for commercial real estate in contextual zones. The risk is that renovation plans must satisfy regulatory criteria that may restrict material choices, massing alterations, or signage. The protection is that contextual regulation limits the degree to which an adjacent landowner can introduce disruptive development that would damage the node's coherence and the asset's long-term value.
+These regulatory frameworks create both risk and protection for commercial real estate in contextual zones. The risk is that renovation plans must satisfy regulatory criteria that may restrict material choices, massing alterations, or signage. The protection is that contextual regulation limits the degree to which an adjacent landowner can introduce incompatible development that would damage the node's coherence and the asset's long-term value.
 
 ---
 

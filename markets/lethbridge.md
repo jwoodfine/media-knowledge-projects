@@ -64,7 +64,7 @@ alternative retail destinations. Communities from Fort Macleod (to the north), C
 Waterton, and Raymond (to the south), Taber and Medicine Hat corridor communities (to the
 east), and Pincher Creek (to the west) depend on Lethbridge for larger-format retail,
 specialist medical services, and professional services. This extended catchment of
-approximately 200,000 makes Lethbridge commercial fundamentals robust for a city of 101,000.
+approximately 200,000 gives Lethbridge commercial fundamentals that exceed what a city of 101,000 would typically support.
 
 ## Key indicators
 

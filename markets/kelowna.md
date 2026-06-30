@@ -43,7 +43,7 @@ base with higher-income workers whose service consumption reinforces the income 
 Kelowna benefits from a substantial retirement and semi-retirement population whose asset
 management, estate planning, medical services, and lifestyle consumption demands anchor
 professional service tenancy. The combination of active retirees, technology workers, and
-healthcare professionals gives Kelowna an unusually robust multi-layer demand profile for a
+healthcare professionals gives Kelowna an unusually deep multi-layer demand profile for a
 market of its size.
 
 ## Commercial real estate characteristics

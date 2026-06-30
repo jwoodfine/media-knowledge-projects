@@ -67,7 +67,7 @@ Post Falls, Sandpoint) and Montana communities (Missoula is a comparable-size ma
 four hours distant) — gives its retail and professional service markets a demand base
 substantially larger than the MSA population. Medical referral patterns in particular
 concentrate specialist procedures in Spokane facilities from across the three-state region.
-This catchment scale provides commercial fundamentals more robust than the 591,000 MSA
+This catchment scale provides commercial fundamentals that exceed what the 591,000 MSA
 figure would indicate.
 
 ## Key indicators

@@ -25,7 +25,7 @@ editor: editorial
 
 ## Overview
 
-According to Wikipedia (accessed 2026-05-30), Wichita is the most populous city in the U.S. state of Kansas and the county seat of Sedgwick County. As of the 2020 census, the population of the city was 397,532, and the Wichita metropolitan area had a population of 647,610. The city is located in south-central Kansas along the Arkansas River, sited on the western edge of the tallgrass prairie region of the Great Plains.
+According to Wikipedia (accessed 2026-05-30), Wichita is the most populous city in the US state of Kansas and the county seat of Sedgwick County. As of the 2020 census, the population of the city was 397,532, and the Wichita metropolitan area had a population of 647,610. The city is located in south-central Kansas along the Arkansas River, sited on the western edge of the tallgrass prairie region of the Great Plains.
 
 Sedgwick County, of which Wichita is the seat, is the second-most populous county in Kansas, with a 2020 census population of 523,824. Per Wikipedia, the county was named after John Sedgwick, the highest-ranking Union general killed during the American Civil War. The county-city relationship places nearly three quarters of Sedgwick County's population within the Wichita city limits, making the metropolitan area unusually concentrated around a single central municipality.
 
@@ -42,7 +42,7 @@ Wichita contains **4 co-location clusters**, all Tier 1 (Hypermarket + Hardware 
 | East | T1 | Hypermarket + Hardware + Price Club | Walmart, Lowe's, Costco |
 | Northeast | T1 | Hypermarket + Hardware + Price Club | Walmart, Sam's Club, The Home Depot, Menards |
 
-The four Tier 1 clusters span the metropolitan footprint along two axes — a west-to-east line running between Kellogg Avenue and 21st Street, and a southwest-to-northeast diagonal connecting the West Maple corridor to the Greenwich Road area near Kansas Highway 96. This supply-side density of four independent hypermarket-hardware-warehouse-club co-locations exceeds the cluster count in many larger U.S. cities and reflects both the geographic breadth of Wichita's settled area and the trade-area pull from surrounding rural counties.
+The four Tier 1 clusters span the metropolitan footprint along two axes — a west-to-east line running between Kellogg Avenue and 21st Street, and a southwest-to-northeast diagonal connecting the West Maple corridor to the Greenwich Road area near Kansas Highway 96. This supply-side density of four independent hypermarket-hardware-warehouse-club co-locations exceeds the cluster count in many larger US cities and reflects both the geographic breadth of Wichita's settled area and the trade-area pull from surrounding rural counties.
 
 ## Civic Infrastructure
 
