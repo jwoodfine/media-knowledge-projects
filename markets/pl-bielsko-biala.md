@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: pl-bielsko-biala
-title: "Bielsko-Biała Regional Market"
+title: "Bielsko-Biała, Poland"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
