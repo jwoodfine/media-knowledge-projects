@@ -27,13 +27,18 @@ Planned Development Program covers where building is planned next: the intended,
 
 ## Country Programmes
 
-[[ca-programme|Canada]], [[us-programme|the United States]], [[es-programme|Spain]], and [[mx-programme|Mexico]] each carry an intended, country-by-country programme article. Every one is currently at the planned stage: development regions and a site register are to be defined and tracked as each country's programme matures.
+[[ca-programme|Canada]], [[us-programme|the United States]], [[es-programme|Spain]], [[mx-programme|Mexico]], [[pl-programme|Poland]], [[gb-programme|the United Kingdom]], and [[it-programme|Italy]] each carry an intended, single-country programme article. [[nordics-programme|the Nordics]] and [[new-europe-programme|New Europe]] each carry an intended regional programme article spanning several countries. Every one is currently at the planned stage: development regions and a site register are to be defined and tracked as each programme matures.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: country-programmes -->
 - [[ca-programme]] — The intended country-by-country rollout for Canada: development regions and a site register to be defined and tracked as the programme matures. Status: planned.
 - [[us-programme]] — The intended country-by-country rollout for the United States: development regions and a site register to be defined and tracked as the programme matures. Status: planned.
 - [[es-programme]] — The intended country-by-country rollout for Spain: development regions and a site register to be defined and tracked as the programme matures. Status: planned.
 - [[mx-programme]] — The intended country-by-country rollout for Mexico: development regions and a site register to be defined and tracked as the programme matures. Status: planned.
+- [[pl-programme]] — The intended country-by-country rollout for Poland: development regions and a site register to be defined and tracked as the programme matures. Status: planned.
+- [[gb-programme]] — The intended country-by-country rollout for the United Kingdom: development regions and a site register to be defined and tracked as the programme matures. Status: planned.
+- [[it-programme]] — The intended country-by-country rollout for Italy: development regions and a site register to be defined and tracked as the programme matures. Status: planned.
+- [[nordics-programme]] — The intended regional rollout for the Nordics (Sweden, Denmark, Finland, Norway): development regions and a site register to be defined and tracked as the programme matures. Status: planned.
+- [[new-europe-programme]] — The intended regional rollout for New Europe (Czechia, Hungary, Slovakia, Romania, Bulgaria, Croatia, Greece): development regions and a site register to be defined and tracked as the programme matures. Status: planned.
 <!-- END AUTO-GENERATED -->
 
 ## Development Regions and Site Register

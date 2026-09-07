@@ -27,13 +27,18 @@ Programa de Desarrollo Previsto abarca dónde se planea construir a continuació
 
 ## Programas por País
 
-[[ca-programme|Canadá]], [[us-programme|Estados Unidos]], [[es-programme|España]] y [[mx-programme|México]] tienen, cada uno, un artículo de programa previsto, país por país. Los cuatro están actualmente en etapa planeada: las regiones de desarrollo y un registro de sitios se definirán y seguirán a medida que madure el programa de cada país.
+[[ca-programme|Canadá]], [[us-programme|Estados Unidos]], [[es-programme|España]], [[mx-programme|México]], [[pl-programme|Polonia]], [[gb-programme|el Reino Unido]] e [[it-programme|Italia]] tienen, cada uno, un artículo de programa previsto para un solo país. [[nordics-programme|Los Países Nórdicos]] y [[new-europe-programme|Nueva Europa]] tienen, cada uno, un artículo de programa regional previsto que abarca varios países. Todos están actualmente en etapa planeada: las regiones de desarrollo y un registro de sitios se definirán y seguirán a medida que madure cada programa.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: country-programmes -->
 - [[ca-programme]] — El programa previsto de expansión país por país para Canadá: regiones de desarrollo y un registro de sitios por definir y dar seguimiento a medida que el programa avanza. Estado: planificado.
 - [[us-programme]] — El programa previsto de expansión país por país para Estados Unidos: regiones de desarrollo y un registro de sitios por definir y dar seguimiento a medida que el programa avanza. Estado: planificado.
 - [[es-programme]] — El programa previsto de expansión país por país para España: regiones de desarrollo y un registro de sitios por definir y dar seguimiento a medida que el programa avanza. Estado: planificado.
 - [[mx-programme]] — El programa previsto de expansión país por país para México: regiones de desarrollo y un registro de sitios por definir y dar seguimiento a medida que el programa avanza. Estado: planificado.
+- [[pl-programme]] — El programa previsto de expansión país por país para Polonia: regiones de desarrollo y un registro de sitios por definir y dar seguimiento a medida que el programa avanza. Estado: planificado.
+- [[gb-programme]] — El programa previsto de expansión país por país para el Reino Unido: regiones de desarrollo y un registro de sitios por definir y dar seguimiento a medida que el programa avanza. Estado: planificado.
+- [[it-programme]] — El programa previsto de expansión país por país para Italia: regiones de desarrollo y un registro de sitios por definir y dar seguimiento a medida que el programa avanza. Estado: planificado.
+- [[nordics-programme]] — El programa regional previsto para los Países Nórdicos (Suecia, Dinamarca, Finlandia, Noruega): regiones de desarrollo y un registro de sitios por definir y dar seguimiento a medida que el programa avanza. Estado: planificado.
+- [[new-europe-programme]] — El programa regional previsto para Nueva Europa (Chequia, Hungría, Eslovaquia, Rumanía, Bulgaria, Croacia, Grecia): regiones de desarrollo y un registro de sitios por definir y dar seguimiento a medida que el programa avanza. Estado: planificado.
 <!-- END AUTO-GENERATED -->
 
 ## Regiones de Desarrollo y Registro de Sitios
