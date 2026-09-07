@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: us-az-tempe
-title: "Mercado regional de Tempe"
+title: "Tempe, Estados Unidos"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets

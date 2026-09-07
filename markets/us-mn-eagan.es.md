@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: us-mn-eagan
-title: "Mercado regional de Eagan"
+title: "Eagan, Estados Unidos"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Colorado Springs Regional Market"
+title: "Colorado Springs, United States"
 slug: us-co-colorado-springs
 language: en
 language_protocol: PROSE-TOPIC

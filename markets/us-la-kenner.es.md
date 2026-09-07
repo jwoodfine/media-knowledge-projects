@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: us-la-kenner
-title: "Mercado regional de Kenner"
+title: "Kenner, Estados Unidos"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets

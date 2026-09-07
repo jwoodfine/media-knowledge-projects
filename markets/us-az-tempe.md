@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: us-az-tempe
-title: "Tempe Regional Market"
+title: "Tempe, United States"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets

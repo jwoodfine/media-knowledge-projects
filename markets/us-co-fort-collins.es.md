@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Fort Collins"
+title: "Fort Collins, Estados Unidos"
 slug: us-co-fort-collins
 language: es
 language_protocol: TRANSLATE-ES

@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 slug: us-tx-plano
 aliases:
   - topic-rm-plano-tx.es
-title: "Mercado regional de Plano"
+title: "Plano, Estados Unidos"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets

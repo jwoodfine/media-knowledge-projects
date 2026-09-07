@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Madison"
+title: "Madison, Estados Unidos"
 slug: us-wi-madison
 language: es
 language_protocol: TRANSLATE-ES

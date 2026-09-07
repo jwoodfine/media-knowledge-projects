@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Spokane"
+title: "Spokane, Estados Unidos"
 slug: us-wa-spokane
 language: es
 language_protocol: TRANSLATE-ES

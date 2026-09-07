@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Wichita"
+title: "Wichita, Estados Unidos"
 slug: us-ks-wichita
 language: es
 language_protocol: TRANSLATE-ES

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Fort Collins Regional Market"
+title: "Fort Collins, United States"
 slug: us-co-fort-collins
 language: en
 language_protocol: PROSE-TOPIC

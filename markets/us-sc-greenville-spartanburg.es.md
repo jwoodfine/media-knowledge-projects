@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Greenville–Spartanburg"
+title: "Greenville–Spartanburg, Estados Unidos"
 slug: us-sc-greenville-spartanburg
 language: es
 language_protocol: TRANSLATE-ES

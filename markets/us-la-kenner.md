@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: us-la-kenner
-title: "Kenner Regional Market"
+title: "Kenner, United States"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets

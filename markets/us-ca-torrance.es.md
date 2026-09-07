@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: us-ca-torrance
-title: "Mercado regional de Torrance"
+title: "Torrance, Estados Unidos"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets

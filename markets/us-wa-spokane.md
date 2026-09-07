@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Spokane Regional Market"
+title: "Spokane, United States"
 slug: us-wa-spokane
 language: en
 language_protocol: PROSE-TOPIC

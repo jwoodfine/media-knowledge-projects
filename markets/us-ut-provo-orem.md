@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Provo–Orem Regional Market"
+title: "Provo–Orem, United States"
 slug: us-ut-provo-orem
 language: en
 language_protocol: PROSE-TOPIC

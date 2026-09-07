@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: us-tx-frisco
-title: "Mercado regional de Frisco"
+title: "Frisco, Estados Unidos"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Wichita Regional Market"
+title: "Wichita, United States"
 slug: us-ks-wichita
 language: en
 language_protocol: PROSE-TOPIC

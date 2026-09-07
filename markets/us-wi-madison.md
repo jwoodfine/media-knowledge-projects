@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Madison Regional Market"
+title: "Madison, United States"
 slug: us-wi-madison
 language: en
 language_protocol: PROSE-TOPIC

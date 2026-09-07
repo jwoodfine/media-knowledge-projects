@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Colorado Springs"
+title: "Colorado Springs, Estados Unidos"
 slug: us-co-colorado-springs
 language: es
 language_protocol: TRANSLATE-ES

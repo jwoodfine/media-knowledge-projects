@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Provo–Orem"
+title: "Provo–Orem, Estados Unidos"
 slug: us-ut-provo-orem
 language: es
 language_protocol: TRANSLATE-ES

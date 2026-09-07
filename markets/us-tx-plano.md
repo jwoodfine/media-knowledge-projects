@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 slug: us-tx-plano
 aliases:
   - topic-rm-plano-tx
-title: "Plano Regional Market"
+title: "Plano, United States"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
