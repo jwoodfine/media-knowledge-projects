@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Zaragoza Regional Market"
+title: "Zaragoza, Spain"
 slug: es-ar-zaragoza-secondary
 language: en
 language_protocol: PROSE-TOPIC

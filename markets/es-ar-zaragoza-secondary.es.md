@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Zaragoza"
+title: "Zaragoza, España"
 slug: es-ar-zaragoza-secondary
 language: es
 language_protocol: TRANSLATE-ES

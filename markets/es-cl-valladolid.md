@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Valladolid Regional Market"
+title: "Valladolid, Spain"
 slug: es-cl-valladolid
 language: en
 language_protocol: PROSE-TOPIC

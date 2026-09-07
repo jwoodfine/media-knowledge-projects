@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Pamplona Regional Market"
+title: "Pamplona, Spain"
 slug: es-nc-pamplona
 language: en
 language_protocol: PROSE-TOPIC

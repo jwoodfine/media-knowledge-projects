@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Burgos Regional Market"
+title: "Burgos, Spain"
 slug: es-cl-burgos
 language: en
 language_protocol: PROSE-TOPIC

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Valladolid"
+title: "Valladolid, España"
 slug: es-cl-valladolid
 language: es
 language_protocol: TRANSLATE-ES

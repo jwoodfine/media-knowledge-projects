@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Vitoria-Gasteiz Regional Market"
+title: "Vitoria-Gasteiz, Spain"
 slug: es-pv-vitoria-gasteiz
 language: en
 language_protocol: PROSE-TOPIC

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Vitoria-Gasteiz"
+title: "Vitoria-Gasteiz, España"
 slug: es-pv-vitoria-gasteiz
 language: es
 language_protocol: TRANSLATE-ES

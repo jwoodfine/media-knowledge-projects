@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Burgos"
+title: "Burgos, España"
 slug: es-cl-burgos
 language: es
 language_protocol: TRANSLATE-ES

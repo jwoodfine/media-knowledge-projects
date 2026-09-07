@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Pamplona"
+title: "Pamplona, España"
 slug: es-nc-pamplona
 language: es
 language_protocol: TRANSLATE-ES
