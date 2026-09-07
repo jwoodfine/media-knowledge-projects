@@ -41,7 +41,7 @@ Los tres artículos de referencia detrás del conjunto de mercados cubiertos: el
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: coverage-methodology -->
 - [[about-regional-markets-system]] — Artículo de referencia sobre el sistema de análisis de co-localización que identifica mercados minoristas suburbanos en América del Norte y Europa.
-- [[regional-market-definition]] — Contenedores espaciales del mapa de inteligencia de ubicaciones — en qué difieren los asentamientos con co-localización de los Regional Markets; cobertura no es demanda.
+- [[regional-market-definition]] — Contenedores espaciales del mapa de inteligencia de ubicaciones — en qué difiere la cobertura de un Mercado Regional calificado, y por qué la cobertura por sí sola no es una afirmación de fortaleza de mercado.
 - [[co-location-tier-system]] — La clasificación de cuatro niveles — Regional, Distrital, Local, Marginal — asignada a cada clúster de co-ubicación en la plataforma, las compuertas predicativas que la determinan, y cómo se aplica el sistema en los mercados de América del Norte y Europa.
 <!-- END AUTO-GENERATED -->
 

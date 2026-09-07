@@ -41,7 +41,7 @@ The three reference articles behind the covered market set: the co-location anal
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: coverage-methodology -->
 - [[about-regional-markets-system]] — Reference article for the co-location analysis system that identifies suburban retail markets in North America and Europe.
-- [[regional-market-definition]] — Spatial containers on the location intelligence map — how settlements with co-location presence differ from Regional Markets, and why coverage is not market strength.
+- [[regional-market-definition]] — Spatial containers on the location intelligence map — how coverage differs from a qualified Regional Market, and why coverage alone is not a market-strength claim.
 - [[co-location-tier-system]] — The four-tier classification — Regional, District, Local, Fringe — assigned to every co-location cluster on the platform, the predicate gates that determine it, and how the system applies across North American and European markets.
 <!-- END AUTO-GENERATED -->
 
