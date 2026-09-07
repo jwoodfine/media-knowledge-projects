@@ -58,7 +58,7 @@ are targets and may change.
 
 **Supply and Capital Conditions** covers two of the company's own
 deliberate market policies: the regional capital gap the Direct-Hold
-Solutions are designed to address, and the under-building discipline
+Solutions are designed to address, and the supply-discipline policy
 that preserves pricing power.
 
 **Demand and Demographics** covers the city-scale forces behind demand:

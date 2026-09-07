@@ -49,4 +49,4 @@ In the context of Woodfine Buildings, the parking ratio standard ensures that Of
 ## See also
 
 - [[woodfine-development-vocabulary|Glossary of Woodfine Development Vocabulary]] — "Buying Program" and "National Pricing" entries
-- [[under-building-supply-discipline]] — the related supply-side discipline governing how much leasable area is built per site
+- [[supply-discipline]] — the related discipline governing how much leasable area is built per site

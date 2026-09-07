@@ -618,3 +618,5 @@ redirects:
     to: /wiki/atlas-italy
   - from: /atlas-co-location-index-poland
     to: /wiki/atlas-poland
+  - from: /under-building-supply-discipline
+    to: /wiki/supply-discipline

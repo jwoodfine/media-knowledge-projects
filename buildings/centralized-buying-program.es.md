@@ -49,4 +49,4 @@ En el contexto de los Woodfine Buildings, el estándar de proporción de estacio
 ## Véase también
 
 - [[woodfine-development-vocabulary|Glosario del Vocabulario de Desarrollo de Woodfine]] — entradas "Programa de Compras" y "Precios Nacionales"
-- [[under-building-supply-discipline]] — la disciplina relacionada del lado de la oferta que rige cuánta superficie arrendable se construye por sitio
+- [[supply-discipline]] — la disciplina relacionada que rige cuánta superficie arrendable se construye por sitio

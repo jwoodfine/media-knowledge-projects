@@ -21,11 +21,11 @@ Esta categoría no cubre la economía general del mercado inmobiliario comercial
 
 ## Las Políticas Estructurales de Woodfine
 
-[[regional-market-capital-gap|La Brecha de Capital de Mercado Regional]] documenta un déficit estructural en el financiamiento de construcción y de salida en los Mercados Regionales, pese a ingresos comparables a los metropolitanos — la brecha que las Soluciones de Tenencia Directa de Woodfine están diseñadas para abordar. [[under-building-supply-discipline|Construir por Debajo de la Demanda y la Disciplina de Oferta]] es la política deliberada de Woodfine de desarrollar menos área arrendable que la demanda identificada en el Mercado Regional, produciendo ocupación total, listas de espera documentadas y poder de fijación de precios preservado.
+[[regional-market-capital-gap|La Brecha de Capital de Mercado Regional]] documenta un déficit estructural en el financiamiento de construcción y de salida en los Mercados Regionales, pese a ingresos comparables a los metropolitanos — la brecha que las Soluciones de Tenencia Directa de Woodfine están diseñadas para abordar. [[supply-discipline|Disciplina de Oferta y Ocupación Plena]] es la política deliberada de Woodfine de dimensionar cada edificio según la demanda identificada en el Mercado Regional en lugar del área máxima permitida, produciendo ocupación total, listas de espera documentadas y poder de fijación de precios preservado.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: woodfines-structural-policies -->
 - [[regional-market-capital-gap]] — Déficit estructural de financiamiento de construcción y salida en Mercados Regionales, pese a ingresos comparables a los Metro, que las Direct-Hold Solutions buscan resolver.
-- [[under-building-supply-discipline]] — Política deliberada de desarrollar menos superficie arrendable que la demanda identificada del Mercado Regional, generando ocupación plena, listas de espera y poder de precios.
+- [[supply-discipline]] — Política deliberada de dimensionar cada edificio según la demanda identificada del Mercado Regional, en lugar del área máxima permitida, generando ocupación plena, listas de espera y poder de precios.
 <!-- END AUTO-GENERATED -->
 
 ## Véase también

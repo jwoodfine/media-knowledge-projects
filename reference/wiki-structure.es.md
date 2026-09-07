@@ -65,7 +65,7 @@ cambiar.
 **Condiciones de oferta y capital** cubre dos políticas de
 mercado propias y deliberadas de la empresa: la brecha de capital
 regional que las Soluciones de Tenencia Directa están diseñadas para
-abordar, y la disciplina de construir por debajo de la demanda que
+abordar, y la política de disciplina de la oferta que
 preserva el poder de fijación de precios.
 
 **Demanda y demografía** trata las fuerzas a escala urbana que hay
