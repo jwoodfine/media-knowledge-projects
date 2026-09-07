@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Brescia"
+title: "Brescia, Italia"
 slug: it-brescia
 language: es
 language_protocol: TRANSLATE-ES

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Asti"
+title: "Asti, Italia"
 slug: it-asti
 language: es
 language_protocol: TRANSLATE-ES

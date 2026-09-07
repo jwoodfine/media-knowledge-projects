@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Novara"
+title: "Novara, Italia"
 slug: it-novara
 language: es
 language_protocol: TRANSLATE-ES

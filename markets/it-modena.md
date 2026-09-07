@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Modena Regional Market"
+title: "Modena, Italy"
 slug: it-modena
 language: en
 language_protocol: PROSE-TOPIC

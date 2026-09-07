@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Prato"
+title: "Prato, Italia"
 slug: it-prato
 language: es
 language_protocol: TRANSLATE-ES

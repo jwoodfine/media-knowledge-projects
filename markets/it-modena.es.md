@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Módena"
+title: "Modena, Italia"
 slug: it-modena
 language: es
 language_protocol: TRANSLATE-ES

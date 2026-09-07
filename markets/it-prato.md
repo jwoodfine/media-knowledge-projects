@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Prato Regional Market"
+title: "Prato, Italy"
 slug: it-prato
 language: en
 language_protocol: PROSE-TOPIC

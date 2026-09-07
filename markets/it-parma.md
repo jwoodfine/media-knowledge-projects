@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Parma Regional Market"
+title: "Parma, Italy"
 slug: it-parma
 language: en
 language_protocol: PROSE-TOPIC

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Novara Regional Market"
+title: "Novara, Italy"
 slug: it-novara
 language: en
 language_protocol: PROSE-TOPIC

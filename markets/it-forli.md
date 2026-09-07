@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Forlì Regional Market"
+title: "Forlì, Italy"
 slug: it-forli
 language: en
 language_protocol: PROSE-TOPIC

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Asti Regional Market"
+title: "Asti, Italy"
 slug: it-asti
 language: en
 language_protocol: PROSE-TOPIC

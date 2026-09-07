@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Rivalta di Torino"
+title: "Rivalta di Torino, Italia"
 slug: it-rivalta-di-torino
 language: es
 language_protocol: TRANSLATE-ES

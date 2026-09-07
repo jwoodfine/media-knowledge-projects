@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Rivalta di Torino Regional Market"
+title: "Rivalta di Torino, Italy"
 slug: it-rivalta-di-torino
 language: en
 language_protocol: PROSE-TOPIC

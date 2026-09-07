@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Brescia Regional Market"
+title: "Brescia, Italy"
 slug: it-brescia
 language: en
 language_protocol: PROSE-TOPIC

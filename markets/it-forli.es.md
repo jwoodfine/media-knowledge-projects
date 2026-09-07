@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Forlì"
+title: "Forlì, Italia"
 slug: it-forli
 language: es
 language_protocol: TRANSLATE-ES

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Parma"
+title: "Parma, Italia"
 slug: it-parma
 language: es
 language_protocol: TRANSLATE-ES
