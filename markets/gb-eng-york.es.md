@@ -31,7 +31,7 @@ metropolitana en línea recta de la propia plataforma es de 37,4 km. Entre los
 principales empleadores se encuentran el Ayuntamiento de York (más de 7.500 empleados),
 Aviva, Network Rail, Northern Trains, York Hospitals NHS Trust y la Universidad de York (cada
 uno con más de 2.000 empleados), junto con BT Group, Nestlé y NFU Mutual. El sector
-servicios domina el empleo local (88,7% según datos de 2000), y el turismo es un
+servicios domina el empleo local, y el turismo es un
 contribuyente importante — con un valor de más de 765 millones de libras para la ciudad y el
 sostén de 24.000 empleos en 2019. Entre los empleadores históricos se encontraban los
 ferrocarriles y la manufactura de confitería (Rowntree's, Terry's). La Universidad de York,

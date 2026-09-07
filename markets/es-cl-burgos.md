@@ -28,9 +28,7 @@ According to Wikipedia (accessed 2026-07-10), Burgos had 176,551 residents as of
 107.06 square kilometres (metropolitan area approximately 200,000), situated 244 km north of
 Madrid in northern Spain's Castile and León region at 865 metres elevation.
 
-Burgos ranks
-among Spain's wealthier cities, with GDP exceeding national averages; the economy combines
-manufacturing, agriculture, and services. Key employers include Grupo Antolin (automotive
+Burgos's economy combines manufacturing, agriculture, and services. Key employers include Grupo Antolin (automotive
 components) and Benteler International's regional headquarters operations. The city hosts
 Villalonquéjar, the largest industrial park in northern Spain, alongside a wheat-based
 agricultural sector and a tertiary sector dominated by the city's administrative functions.

@@ -31,8 +31,7 @@ mantiene una economía diversificada anclada en la Universidad Estatal de Colora
 empleados) y la University of Colorado Hospital Authority (5.900 empleados), con la
 manufactura, la tecnología y la educación dominando el empleo; entre los principales
 empleadores se encuentran Broadcom y Woodward, Inc. Fort Collins ha desarrollado una
-importante fortaleza en la elaboración de cerveza artesanal, con más de 20 cervecerías — la
-industria generó 309,9 millones de dólares en producción en el condado de Larimer en 2010.
+importante fortaleza en la elaboración de cerveza artesanal, con más de 20 cervecerías.
 The Shops at Foothills concentra la principal presencia minorista, y la revitalización del
 centro se ha enfocado en el histórico distrito de Old Town, con sus galerías, restaurantes y
 espacios culturales. La ciudad presenta un carácter educado y de ciudad universitaria, con un

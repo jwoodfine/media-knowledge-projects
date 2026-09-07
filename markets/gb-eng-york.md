@@ -32,7 +32,7 @@ is 37.4 km.
 Major employers include the City of York
 Council (7,500-plus employees), Aviva, Network Rail, Northern Trains, York Hospitals NHS
 Trust, and the University of York (each 2,000-plus staff), alongside BT Group, Nestlé, and
-NFU Mutual. The service sector dominates local employment (88.7 percent as of 2000 data), and
+NFU Mutual. The service sector dominates local employment, and
 tourism is a major contributor — worth over £765 million to the city and supporting 24,000
 jobs as of 2019. Historical employers included the railways and confectionery manufacturing
 (Rowntree's, Terry's). The University of York, opened in 1963, anchors a well-educated

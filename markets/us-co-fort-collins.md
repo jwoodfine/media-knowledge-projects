@@ -30,8 +30,7 @@ seat of Larimer County, roughly 60 miles north of Denver. The city maintains a d
 economy anchored by Colorado State University (8,850 employees) and the University of Colorado
 Hospital Authority (5,900 employees), with manufacturing, technology, and education
 dominating employment; key employers include Broadcom and Woodward, Inc. Fort Collins has
-developed significant strength in brewing, with over 20 breweries. The industry generated
-$309.9 million in output in Larimer County as of 2010. The Shops at Foothills anchor major
+developed significant strength in brewing, with over 20 breweries. The Shops at Foothills anchor major
 retail presence, and downtown revitalization has centred on the historic Old Town district's
 galleries, restaurants, and cultural venues. The city presents an educated, college-town
 character with a relatively young population profile shaped by CSU enrollment.
