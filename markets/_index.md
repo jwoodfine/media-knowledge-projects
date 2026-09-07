@@ -25,9 +25,19 @@ Regional Markets covers where we look. This category holds the covered market se
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
+## Where to start
+
+Eighty-two pages sit in this category, most of them individual market profiles. These five orient the whole set: what a Regional Market is, how markets are classified, and the two continental qualifying sets. The country pages below are the way into the profiles themselves.
+
+- [[about-regional-markets-system|Regional Markets Intelligence System]] — The reference article for the co-location analysis system behind the covered market set.
+- [[regional-market-definition|Regional Market definition]] — What qualifies a settlement as a Regional Market, and why coverage is not market strength.
+- [[co-location-tier-system|Co-location tier system]] — The four-tier classification assigned to every cluster, and how it applies across both continents.
+- [[atlas-top-400-north-america|The Top 400 — North America]] — 400 markets published from a 1,121-market qualifying pool across three countries.
+- [[atlas-top-400-europe|The Top 400 — Europe]] — 400 markets published from a 650-market qualifying pool across fifteen countries.
+
 ## Coverage Methodology
 
-[[about-regional-markets-system|Regional Markets Intelligence System]] is the reference article for the co-location analysis system, and [[regional-market-definition|Regional Market Definition]] sets out what qualifies a settlement as a Regional Market on the map. The [[co-location-tier-system|Co-location Tier System]] explains the four-tier classification and how it applies across North American and European markets.
+The three reference articles behind the covered market set: the co-location analysis system itself, what qualifies a settlement as a Regional Market on the map, and the four-tier classification applied across North American and European markets.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: coverage-methodology -->
 - [[about-regional-markets-system]] — Reference article for the co-location analysis system that identifies suburban retail markets in North America and Europe.
@@ -37,7 +47,7 @@ Regional Markets covers where we look. This category holds the covered market se
 
 ## The Top 400 Markets
 
-[[atlas-top-400-north-america|The Top 400 — North America]] and [[atlas-top-400-europe|the Top 400 — Europe]] are the two qualifying sets: four hundred markets per continent that meet the co-location anchor-composition gates. Europe draws its four hundred from a 650-market qualifying pool across fifteen countries; North America draws its four hundred from a pool of 1,121 across three. No rank or score is published for any market in either set. Both pages were rebuilt on 2026-09-06 against the confirmed 2026-08-07 dataset.
+The two qualifying sets: four hundred markets per continent that meet the co-location anchor-composition gates. Europe draws its four hundred from a 650-market qualifying pool across fifteen countries; North America draws its four hundred from a pool of 1,121 across three. No rank or score is published for any market in either set. Both pages were rebuilt on 2026-09-06 against the confirmed 2026-08-07 dataset.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-top-400-markets -->
 - [[atlas-top-400-north-america]] — The 400 North American Regional Markets published from a 1,121-market qualifying pool under the 2026-08-07 dataset — 298 United States, 56 Canadian, 46 Mexican. No rank or score is published.
@@ -95,48 +105,19 @@ read a region at a time as coverage grows.
 57 individual market profile pages exist today (EN+ES pairs), each with population and
 economic context sourced from Wikipedia.
 
-**The two lists below are under reconciliation and should not be read as current.** They were
-drawn up against 32 of the 57 profiles and have not been rebuilt since the confirmed 2026-08-07
-dataset was adopted: five entries listed as verified are no longer in that dataset, six listed as
-reference-only now are, and the Greek, Croatian, and Norwegian profiles added since appear in
-neither list. **The country tables are the authoritative view of what is published**; each
-profile page states its own position. The lists are kept here because the distinction they draw
-is a real editorial one, but the sorting is being redone.
+Each profile page states its own position: a published entry in the Top 400 set, a metropolitan
+reference point that other entries are measured against, or a market that did not qualify on
+anchor composition. No rank or score is published for any entry. **The country tables are the
+authoritative view of what is published.**
 
-**Verified TOP400 entries:** no rank or score is published for any entry; list order is alphabetical by profile slug, not ordinal.
+Two hand-maintained lists previously drew that published/reference-only distinction on this page.
+They covered 32 of the 57 profiles, were never rebuilt after the confirmed 2026-08-07 dataset was
+adopted — five entries listed as verified had left that dataset, six listed as reference-only had
+entered it, and the Greek, Croatian, and Norwegian profiles appeared in neither — and were removed
+on 2026-09-06 rather than left standing as a stale second view of the country tables. The
+distinction itself is real, and is carried by the country tables and by each profile page.
 
 [[us-sc-greenville-spartanburg|Spartanburg, SC]] is a known inconsistency in the source data: it appears in the North American Top 400 table while the profile page describes Spartanburg as a metropolitan reference point rather than a ranked entry. The question sits with the dataset, not this page.
-
-| Market | Continent |
-|---|---|
-| [[us-tx-plano|Plano, TX]] | North America |
-| [[ca-on-mississauga|Mississauga, ON]] | North America |
-| [[us-tx-frisco|Frisco, TX]] | North America |
-| [[us-sc-greenville-spartanburg|Spartanburg, SC]] | North America |
-| [[us-az-tempe|Tempe, AZ]] | North America |
-| [[us-ca-torrance|Torrance, CA]] | North America |
-| [[us-ut-provo-orem|Provo, UT]] | North America |
-| [[us-la-kenner|Kenner, LA]] | North America |
-| [[us-mn-eagan|Eagan, MN]] | North America |
-| [[se-jarfalla|Järfälla]] | Europe |
-| [[gb-eng-york|York]] | Europe |
-| [[gb-eng-warrington|Warrington]] | Europe |
-| [[gb-eng-cherwell|Cherwell]] | Europe |
-| [[gb-eng-northampton|Northampton]] | Europe |
-| [[pl-bielsko-biala|Bielsko-Biała]] | Europe |
-| [[gb-eng-chester|Cheshire West and Chester]] | Europe |
-
-**Reference-only profiles** — real places recorded as not currently part of the TOP400 set: either
-metropolitan reference points that other entries are measured against, or markets that did not
-qualify on anchor composition. Each profile page states its own position rather than presenting a
-market outside the set as if it were included.
-
-North America: [[ca-ab-lethbridge|Lethbridge]], [[ca-bc-kelowna|Kelowna]], [[ca-nb-moncton|Moncton]],
-[[ca-on-barrie-innisfil|Barrie–Innisfil]], [[ca-sk-regina|Regina]], [[us-co-colorado-springs|Colorado Springs]],
-[[us-co-fort-collins|Fort Collins]], [[us-ks-wichita|Wichita]], [[us-wa-spokane|Spokane]], [[us-wi-madison|Madison]].
-
-Europe: [[es-ar-zaragoza-secondary|Zaragoza]], [[es-cl-burgos|Burgos]], [[es-cl-valladolid|Valladolid]],
-[[es-nc-pamplona|Pamplona]], [[es-pv-vitoria-gasteiz|Vitoria-Gasteiz]], [[gb-sct-inverness|Inverness]].
 
 **Archived:** the seven German city profiles, Chambéry (France), and Breda (Netherlands), together
 with their three country index pages. Germany, France, and the Netherlands are outside the current

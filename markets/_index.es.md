@@ -25,9 +25,19 @@ Mercados Regionales abarca dónde miramos. Esta categoría reúne el conjunto de
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
+## Por dónde empezar
+
+Ochenta y dos páginas componen esta categoría, la mayoría perfiles de mercado individuales. Estas cinco orientan el conjunto: qué es un Mercado Regional, cómo se clasifican los mercados, y los dos conjuntos continentales calificados. Las páginas por país de más abajo son la vía de entrada a los perfiles.
+
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] — El artículo de referencia del sistema de análisis de co-localización detrás del conjunto de mercados cubiertos.
+- [[regional-market-definition|Definición de Mercado Regional]] — Qué califica a un asentamiento como Mercado Regional, y por qué cobertura no es fuerza de mercado.
+- [[co-location-tier-system|Sistema de niveles de co-ubicación]] — La clasificación de cuatro niveles asignada a cada clúster, y cómo se aplica en ambos continentes.
+- [[atlas-top-400-north-america|El Top 400 — Norteamérica]] — 400 mercados publicados a partir de un conjunto calificado de 1.121 en tres países.
+- [[atlas-top-400-europe|El Top 400 — Europa]] — 400 mercados publicados a partir de un conjunto calificado de 650 en quince países.
+
 ## Metodología de Cobertura
 
-[[about-regional-markets-system|El Sistema de Inteligencia de Mercados Regionales]] es el artículo de referencia del sistema de análisis de co-localización, y [[regional-market-definition|la Definición de Mercado Regional]] establece qué califica a un asentamiento como Mercado Regional en el mapa. El [[co-location-tier-system|Sistema de Niveles de Co-ubicación]] explica la clasificación de cuatro niveles y cómo se aplica en los mercados de América del Norte y Europa.
+Los tres artículos de referencia detrás del conjunto de mercados cubiertos: el sistema de análisis de co-localización, qué califica a un asentamiento como Mercado Regional en el mapa, y la clasificación de cuatro niveles aplicada en los mercados de América del Norte y Europa.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: coverage-methodology -->
 - [[about-regional-markets-system]] — Artículo de referencia sobre el sistema de análisis de co-localización que identifica mercados minoristas suburbanos en América del Norte y Europa.
@@ -37,7 +47,7 @@ Mercados Regionales abarca dónde miramos. Esta categoría reúne el conjunto de
 
 ## El Top 400 de Mercados
 
-[[atlas-top-400-north-america|El Top 400 — Norteamérica]] y [[atlas-top-400-europe|el Top 400 — Europa]] son los dos conjuntos calificados: cuatrocientos mercados por continente que cumplen las condiciones de composición de anclas de co-localización. Europa extrae sus cuatrocientos de un conjunto calificado de 650 en quince países; América del Norte extrae los suyos de un conjunto de 1.121 en tres. No se publica posición ni puntuación para ningún mercado en ninguno de los dos conjuntos. Ambas páginas se reconstruyeron el 2026-09-06 con el conjunto de datos confirmado 2026-08-07.
+Los dos conjuntos calificados: cuatrocientos mercados por continente que cumplen las condiciones de composición de anclas de co-localización. Europa extrae sus cuatrocientos de un conjunto calificado de 650 en quince países; América del Norte extrae los suyos de un conjunto de 1.121 en tres. No se publica posición ni puntuación para ningún mercado en ninguno de los dos conjuntos. Ambas páginas se reconstruyeron el 2026-09-06 con el conjunto de datos confirmado 2026-08-07.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-top-400-markets -->
 - [[atlas-top-400-north-america]] — Los 400 Mercados Regionales norteamericanos publicados a partir de un conjunto calificado de 1.121 bajo el conjunto de datos 2026-08-07 — 298 de Estados Unidos, 56 de Canadá, 46 de México. No se publica posición ni puntuación.
@@ -101,54 +111,23 @@ pueda leerse por regiones a medida que crece la cobertura.
 Existen hoy 57 páginas de perfil de mercado individual (pares EN+ES), cada una con contexto
 de población y economía procedente de Wikipedia.
 
-**Las dos listas de abajo están en proceso de conciliación y no deben leerse como vigentes.**
-Se elaboraron sobre 32 de los 57 perfiles y no se han rehecho desde que se adoptó el conjunto de
-datos confirmado 2026-08-07: cinco entradas listadas como verificadas ya no figuran en ese
-conjunto, seis listadas como solo-referencia sí figuran ahora, y los perfiles griegos, croatas y
-noruegos añadidos desde entonces no aparecen en ninguna de las dos. **Las tablas por país son la
-vista autorizada de lo que está publicado**; cada página de perfil declara su propia posición.
-Las listas se conservan porque la distinción que trazan es editorialmente real, pero su
-ordenación se está rehaciendo.
+Cada página de perfil declara su propia posición: entrada publicada del conjunto Top 400, punto de
+referencia metropolitano frente al que se miden otras entradas, o mercado que no calificó por
+composición de anclas. No se publica posición ni puntuación para ninguna entrada. **Las tablas por
+país son la vista autorizada de lo que está publicado.**
 
-**Entradas verificadas del TOP400:** no se publica posición ni puntuación para ninguna
-entrada; el orden de la lista es alfabético por slug de perfil, no ordinal.
+Dos listas mantenidas a mano trazaban antes esa distinción en esta página. Cubrían 32 de los 57
+perfiles, nunca se rehicieron tras adoptarse el conjunto de datos confirmado 2026-08-07 — cinco
+entradas listadas como verificadas ya habían salido de ese conjunto, seis listadas como
+solo-referencia ya habían entrado, y los perfiles griegos, croatas y noruegos no aparecían en
+ninguna de las dos — y se retiraron el 2026-09-06 en lugar de mantenerse como una segunda vista
+desactualizada de las tablas por país. La distinción en sí es real, y la sostienen las tablas por
+país y cada página de perfil.
 
 [[us-sc-greenville-spartanburg|Spartanburg, SC]] es una inconsistencia conocida de los datos de
 origen: aparece en la tabla del Top 400 de América del Norte mientras que la página de perfil
 describe Spartanburg como punto de referencia metropolitano y no como entrada calificada. La
 cuestión corresponde al conjunto de datos, no a esta página.
-
-| Mercado | Continente |
-|---|---|
-| [[us-tx-plano|Plano, TX]] | América del Norte |
-| [[ca-on-mississauga|Mississauga, ON]] | América del Norte |
-| [[us-tx-frisco|Frisco, TX]] | América del Norte |
-| [[us-sc-greenville-spartanburg|Spartanburg, SC]] | América del Norte |
-| [[us-az-tempe|Tempe, AZ]] | América del Norte |
-| [[us-ca-torrance|Torrance, CA]] | América del Norte |
-| [[us-ut-provo-orem|Provo, UT]] | América del Norte |
-| [[us-la-kenner|Kenner, LA]] | América del Norte |
-| [[us-mn-eagan|Eagan, MN]] | América del Norte |
-| [[se-jarfalla|Järfälla]] | Europa |
-| [[gb-eng-york|York]] | Europa |
-| [[gb-eng-warrington|Warrington]] | Europa |
-| [[gb-eng-cherwell|Cherwell]] | Europa |
-| [[gb-eng-northampton|Northampton]] | Europa |
-| [[pl-bielsko-biala|Bielsko-Biała]] | Europa |
-| [[gb-eng-chester|Cheshire West and Chester]] | Europa |
-
-**Perfiles de referencia únicamente** — lugares reales registrados como no pertenecientes
-actualmente al conjunto TOP400: o bien puntos de referencia metropolitanos frente a los que se
-miden otras entradas, o mercados que no calificaron por composición de anclas. Cada página de
-perfil declara su propia posición en lugar de presentar un mercado fuera del conjunto como si
-estuviera incluido.
-
-América del Norte: [[ca-ab-lethbridge|Lethbridge]], [[ca-bc-kelowna|Kelowna]], [[ca-nb-moncton|Moncton]],
-[[ca-on-barrie-innisfil|Barrie–Innisfil]], [[ca-sk-regina|Regina]], [[us-co-colorado-springs|Colorado Springs]],
-[[us-co-fort-collins|Fort Collins]], [[us-ks-wichita|Wichita]], [[us-wa-spokane|Spokane]], [[us-wi-madison|Madison]].
-
-Europa: [[es-ar-zaragoza-secondary|Zaragoza]], [[es-cl-burgos|Burgos]], [[es-cl-valladolid|Valladolid]],
-[[es-nc-pamplona|Pamplona]], [[es-pv-vitoria-gasteiz|Vitoria-Gasteiz]], [[gb-sct-inverness|Inverness]].
 
 **Archivados:** los siete perfiles de ciudades alemanas, Chambéry (Francia) y Breda (Países
 Bajos), junto con sus tres índices por país. Alemania, Francia y los Países Bajos quedan fuera de
