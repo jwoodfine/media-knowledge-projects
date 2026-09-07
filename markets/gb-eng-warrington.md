@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Warrington Regional Market"
+title: "Warrington, England"
 slug: gb-eng-warrington
 language: en
 language_protocol: PROSE-TOPIC

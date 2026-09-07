@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Northampton"
+title: "Northampton, Inglaterra"
 slug: gb-eng-northampton
 language: es
 language_protocol: TRANSLATE-ES

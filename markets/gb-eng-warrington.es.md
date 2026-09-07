@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Warrington"
+title: "Warrington, Inglaterra"
 slug: gb-eng-warrington
 language: es
 language_protocol: TRANSLATE-ES

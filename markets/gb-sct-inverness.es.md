@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Inverness"
+title: "Inverness, Escocia"
 slug: gb-sct-inverness
 language: es
 language_protocol: TRANSLATE-ES

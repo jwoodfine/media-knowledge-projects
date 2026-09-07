@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Chester Regional Market"
+title: "Chester, England"
 slug: gb-eng-chester
 language: en
 language_protocol: PROSE-TOPIC

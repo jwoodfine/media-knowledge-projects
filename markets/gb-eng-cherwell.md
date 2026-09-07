@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: gb-eng-cherwell
-title: "Cherwell Regional Market"
+title: "Cherwell, England"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets

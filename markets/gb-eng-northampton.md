@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Northampton Regional Market"
+title: "Northampton, England"
 slug: gb-eng-northampton
 language: en
 language_protocol: PROSE-TOPIC

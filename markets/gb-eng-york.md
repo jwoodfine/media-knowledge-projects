@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "York Regional Market"
+title: "York, England"
 slug: gb-eng-york
 language: en
 language_protocol: PROSE-TOPIC

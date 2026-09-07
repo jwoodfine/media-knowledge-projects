@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Inverness Regional Market"
+title: "Inverness, Scotland"
 slug: gb-sct-inverness
 language: en
 language_protocol: PROSE-TOPIC

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de York"
+title: "York, Inglaterra"
 slug: gb-eng-york
 language: es
 language_protocol: TRANSLATE-ES
