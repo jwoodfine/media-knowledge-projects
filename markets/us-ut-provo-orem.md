@@ -47,7 +47,7 @@ Provo does not currently appear in the [[atlas-top-400-north-america|Top 400 Reg
 Markets — North America]] list — neither Provo nor Orem carries an entry in the confirmed
 build. This article is titled "Provo–Orem" reflecting the two cities' combined
 regional-market character, but the cluster count below describes Provo alone. This is not a
-data defect: the market is not among those published under the confirmed 2026-08-07 dataset.
+data defect: the market is not among those published under the confirmed dataset.
 Provo has one Regional-tier co-location cluster. Cluster-level detail — the specific retail
 and civic anchors composing it — is pending the underlying GIS dataset and is not included in
 this stub. See [[co-location-methodology|Co-location Methodology]] for how markets qualify

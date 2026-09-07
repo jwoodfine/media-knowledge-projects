@@ -46,7 +46,7 @@ y comunidades crecientes de origen africano y asiático.
 
 Northampton no figura actualmente en la lista [[atlas-top-400-europe|Top 400 Mercados
 Regionales — Europa]]. Esto no es un defecto de datos: el mercado no está entre los
-publicados bajo el conjunto de datos confirmado de 2026-08-07. Northampton tiene dos
+publicados bajo el conjunto de datos confirmado. Northampton tiene dos
 clústeres de nivel Local. El detalle a nivel de clúster — las anclas minoristas y cívicas
 específicas que componen cada clúster — está pendiente del conjunto de datos SIG subyacente y
 no se incluye en este esbozo. Véase [[co-location-methodology|Metodología de Co-ubicación]]

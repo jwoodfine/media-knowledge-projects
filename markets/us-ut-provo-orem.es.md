@@ -49,7 +49,7 @@ Regionales — América del Norte]] — ni Provo ni Orem tienen entrada propia e
 datos confirmado. Este artículo se titula "Provo–Orem" reflejando el carácter de mercado
 regional combinado de ambas ciudades, pero el recuento de clústeres a continuación describe
 únicamente a Provo. Esto no es un defecto de datos: el mercado no está entre los publicados
-bajo el conjunto de datos confirmado de 2026-08-07. Provo tiene un clúster de nivel Regional.
+bajo el conjunto de datos confirmado. Provo tiene un clúster de nivel Regional.
 El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que lo componen —
 está pendiente del conjunto de datos SIG subyacente y no se incluye en este esbozo. Véase
 [[co-location-methodology|Metodología de Co-ubicación]] para conocer los criterios de

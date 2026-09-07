@@ -40,7 +40,7 @@ importante población coreano-estadounidense.
 
 Torrance no figura actualmente en la lista [[atlas-top-400-north-america|Top 400 Mercados
 Regionales — América del Norte]]. Esto no es un defecto de datos: el mercado no está entre
-los publicados bajo el conjunto de datos confirmado de 2026-08-07. Torrance tiene un único
+los publicados bajo el conjunto de datos confirmado. Torrance tiene un único
 clúster de co-localización de Nivel Regional.
 
 El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que componen el

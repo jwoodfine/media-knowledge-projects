@@ -39,9 +39,8 @@ city.
 
 ## Regional Market Standing
 
-Lethbridge is carried among Canada's published Regional Markets in the confirmed 2026-08-07
-dataset. Its listing in this wiki's Regional Markets index is being reconciled against that
-dataset and is not restated here. Distance from Calgary is recorded as descriptive context;
+Lethbridge is carried among Canada's published Regional Markets in the confirmed dataset.
+Distance from Calgary is recorded as descriptive context;
 [[about-regional-markets-system|the co-location qualification system]] selects on anchor
 composition, not on distance.
 

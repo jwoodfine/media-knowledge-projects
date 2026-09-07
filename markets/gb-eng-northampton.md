@@ -44,7 +44,7 @@ communities.
 
 Northampton does not currently appear in the [[atlas-top-400-europe|Top 400 Regional
 Markets — Europe]] list. This is not a data defect: the market is not among those published
-under the confirmed 2026-08-07 dataset. Northampton has two Local-tier co-location clusters.
+under the confirmed dataset. Northampton has two Local-tier co-location clusters.
 Cluster-level detail — the specific retail and civic anchors composing each cluster — is
 pending the underlying GIS dataset and is not included in this stub. See
 [[co-location-methodology|Co-location Methodology]] for how markets qualify for the

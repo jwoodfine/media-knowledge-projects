@@ -42,9 +42,7 @@ Colombia, Rumanía y Ecuador.
 ## Posición en el Mercado Regional
 
 Burgos figura entre los Mercados Regionales publicados de España en el conjunto de datos
-confirmado de 2026-08-07. Su inclusión en el índice de Mercados Regionales de esta wiki se está
-reconciliando con ese conjunto de datos y no se reproduce aquí. La distancia respecto a Madrid
-se registra como contexto descriptivo; [[about-regional-markets-system|el sistema de
+confirmado. La distancia respecto a Madrid se registra como contexto descriptivo; [[about-regional-markets-system|el sistema de
 calificación de co-ubicación]] selecciona por composición de anclas, no por distancia.
 
 ## Véase también

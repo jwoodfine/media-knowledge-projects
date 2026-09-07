@@ -41,7 +41,7 @@ known as "Little Honduras" reflects significant Hispanic business development.
 
 Kenner does not currently appear in the [[atlas-top-400-north-america|Top 400 Regional
 Markets — North America]] list. This is not a data defect: the market is not among those
-published under the confirmed 2026-08-07 dataset. Kenner has one District-tier and one
+published under the confirmed dataset. Kenner has one District-tier and one
 Local-tier co-location cluster. Cluster-level detail — the specific retail and civic anchors
 composing each cluster — is pending the underlying GIS dataset and is not included in this
 stub. See [[co-location-methodology|Co-location Methodology]] for how markets qualify for the

@@ -39,11 +39,8 @@ comunidades filipina, india y china.
 
 ## Posición en el Mercado Regional
 
-Regina no aparece en el índice [[atlas-top-400-north-america|Top 400 Mercados Regionales —
-América del Norte]] tal como está listado hoy en esta wiki, pero sí figura entre los Mercados
-Regionales publicados de Canadá en el conjunto de datos confirmado de 2026-08-07. Ese listado se
-está reconciliando con el conjunto de datos. Regina funciona como su propio centro comercial
-provincial; [[about-regional-markets-system|el sistema de calificación de co-ubicación]]
+Regina figura entre los Mercados Regionales publicados de Canadá en el conjunto de datos
+confirmado. Regina funciona como su propio centro comercial provincial; [[about-regional-markets-system|el sistema de calificación de co-ubicación]]
 selecciona por composición de anclas, no por distancia a un núcleo metropolitano.
 
 ## Véase también

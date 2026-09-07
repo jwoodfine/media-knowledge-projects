@@ -40,9 +40,7 @@ developed rapidly since 2000. Barrie annexed 2,293 hectares from Innisfil in 201
 ## Regional Market Standing
 
 Barrie–Innisfil is carried among Canada's published Regional Markets in the confirmed
-2026-08-07 dataset. Its listing in this wiki's Regional Markets index is being reconciled
-against that dataset and is not restated here. The roughly 90 km to Toronto is recorded as
-descriptive context; [[about-regional-markets-system|the co-location qualification system]]
+dataset. The roughly 90 km to Toronto is recorded as descriptive context; [[about-regional-markets-system|the co-location qualification system]]
 selects on anchor composition, not on distance.
 
 ## See Also

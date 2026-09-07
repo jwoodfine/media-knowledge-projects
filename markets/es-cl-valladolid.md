@@ -43,7 +43,7 @@ the municipality itself.
 
 Valladolid does not currently appear in the [[atlas-top-400-europe|Top 400 Regional Markets
 — Europe]] list. This is not a data defect; the market is not among those published under the
-confirmed 2026-08-07 dataset, which selects on anchor composition rather than on distance from
+confirmed dataset, which selects on anchor composition rather than on distance from
 a metro core. Its distance from Madrid is recorded as descriptive context only.
 
 ## See Also

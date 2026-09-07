@@ -38,7 +38,7 @@ of any U.S. city after Honolulu, alongside a significant Korean American populat
 
 Torrance does not currently appear in the [[atlas-top-400-north-america|Top 400 Regional
 Markets — North America]] list. This is not a data defect: the market is not among those
-published under the confirmed 2026-08-07 dataset. Torrance has a single Regional-tier
+published under the confirmed dataset. Torrance has a single Regional-tier
 co-location cluster.
 
 Cluster-level detail — the specific retail and civic anchors composing Torrance's single

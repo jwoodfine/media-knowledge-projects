@@ -42,9 +42,8 @@ Innisfil en 2010.
 ## Posición en el Mercado Regional
 
 Barrie–Innisfil figura entre los Mercados Regionales publicados de Canadá en el conjunto de
-datos confirmado de 2026-08-07. Su inclusión en el índice de Mercados Regionales de esta wiki se
-está reconciliando con ese conjunto de datos y no se reproduce aquí. Los aproximadamente 90 km
-hasta Toronto se registran como contexto descriptivo; [[about-regional-markets-system|el sistema
+datos confirmado. Los aproximadamente 90 km hasta Toronto se registran como contexto
+descriptivo; [[about-regional-markets-system|el sistema
 de calificación de co-ubicación]] selecciona por composición de anclas, no por distancia.
 
 ## Véase también

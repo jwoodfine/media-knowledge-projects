@@ -44,7 +44,7 @@ Cities Orthopedics Performance Center spans 277,000 square feet with practice fi
 
 Eagan does not currently appear in the [[atlas-top-400-north-america|Top 400 Regional
 Markets — North America]] list. This is not a data defect: the market is not among those
-published under the confirmed 2026-08-07 dataset. Eagan has one Regional-tier co-location
+published under the confirmed dataset. Eagan has one Regional-tier co-location
 cluster. Cluster-level detail — the specific retail and civic anchors composing it — is
 pending the underlying GIS dataset and is not included in this stub. See
 [[co-location-methodology|Co-location Methodology]] for how markets qualify for the published

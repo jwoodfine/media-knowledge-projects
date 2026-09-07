@@ -42,7 +42,7 @@ more than half of Aragon's total population.
 
 Zaragoza does not currently appear in the [[atlas-top-400-europe|Top 400 Regional Markets —
 Europe]] list. This is not a data defect; the market is not among those published under the
-confirmed 2026-08-07 dataset, which selects on anchor composition rather than on distance. The
+confirmed dataset, which selects on anchor composition rather than on distance. The
 city functions as its own regional capital rather than a suburb of a larger metro.
 
 ## See Also

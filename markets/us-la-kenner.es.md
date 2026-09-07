@@ -43,7 +43,7 @@ como "Little Honduras" refleja un importante desarrollo comercial hispano.
 
 Kenner no figura actualmente en la lista [[atlas-top-400-north-america|Top 400 Mercados
 Regionales — América del Norte]]. Esto no es un defecto de datos: el mercado no está entre
-los publicados bajo el conjunto de datos confirmado de 2026-08-07. Kenner tiene un clúster de
+los publicados bajo el conjunto de datos confirmado. Kenner tiene un clúster de
 nivel District y uno de nivel Local. El detalle a nivel de clúster — las anclas minoristas y
 cívicas específicas que componen cada clúster — está pendiente del conjunto de datos SIG
 subyacente y no se incluye en este esbozo. Véase [[co-location-methodology|Metodología de

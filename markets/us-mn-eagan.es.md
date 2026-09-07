@@ -45,7 +45,7 @@ espectadores.
 
 Eagan no figura actualmente en la lista [[atlas-top-400-north-america|Top 400 Mercados
 Regionales — América del Norte]]. Esto no es un defecto de datos: el mercado no está entre
-los publicados bajo el conjunto de datos confirmado de 2026-08-07. Eagan tiene un clúster de
+los publicados bajo el conjunto de datos confirmado. Eagan tiene un clúster de
 nivel Regional. El detalle a nivel de clúster — las anclas minoristas y cívicas específicas
 que lo componen — está pendiente del conjunto de datos SIG subyacente y no se incluye en este
 esbozo. Véase [[co-location-methodology|Metodología de Co-ubicación]] para conocer los

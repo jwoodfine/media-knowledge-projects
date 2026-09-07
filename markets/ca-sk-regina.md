@@ -38,10 +38,8 @@ led by Filipino, Indian, and Chinese communities.
 
 ## Regional Market Standing
 
-Regina does not currently appear in the [[atlas-top-400-north-america|Top 400 Regional
-Markets — North America]] index as currently listed on this wiki, but it is carried among
-Canada's published Regional Markets in the confirmed 2026-08-07 dataset. That listing is being
-reconciled against the dataset. Regina functions as its own provincial commercial centre;
+Regina is carried among Canada's published Regional Markets in the confirmed dataset.
+Regina functions as its own provincial commercial centre;
 [[about-regional-markets-system|the co-location qualification system]] selects on anchor
 composition, not on distance from a metro core.
 
