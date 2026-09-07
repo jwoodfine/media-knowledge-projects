@@ -7,7 +7,7 @@ index_group: site-scoring-and-trade-areas
 type: topic
 content_type: topic
 quality: complete
-short_description: "Sistema de niveles por compuertas de calificación que puntúa clústeres de co-ubicación minorista por composición de anclas, rango de captación y presencia cívica para clasificar sitios de desarrollo."
+short_description: "Sistema de niveles por compuertas de calificación que clasifica clústeres de co-ubicación minorista por composición de anclas, rango de captación y presencia cívica para identificar sitios de desarrollo."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-08-26
@@ -19,7 +19,7 @@ paired_with: geographic-co-location-methodology.md
 cites: []
 ---
 
-La **Metodología de Co-Ubicación Geográfica** es la disciplina de análisis espacial que Woodfine aplica para identificar y clasificar Sitios de Desarrollo potenciales en sus cuatro jurisdicciones calificadas: Canadá, Estados Unidos, España y México. La metodología puntúa los nodos minoristas según la proximidad y la combinación de minoristas ancla que operan en la geografía, produciendo un conjunto de datos clasificados de sitios en los que la inversión de desarrollo está validada por los compromisos comerciales demostrables de minoristas institucionales, en lugar de proyecciones demográficas especulativas.
+La **Metodología de Co-Ubicación Geográfica** es la disciplina de análisis espacial que Woodfine aplica para identificar y clasificar Sitios de Desarrollo potenciales en sus nueve jurisdicciones previstas: Canadá, Estados Unidos, España, México, Polonia, el Reino Unido, Italia, los Países Nórdicos y Nueva Europa. La metodología clasifica los nodos minoristas según la proximidad y la combinación de minoristas ancla que operan en la geografía, produciendo un conjunto de datos clasificados de sitios en los que la inversión de desarrollo está validada por los compromisos comerciales demostrables de minoristas institucionales, en lugar de proyecciones demográficas especulativas.
 
 La metodología asigna cada clúster a uno de cuatro niveles mediante compuertas de calificación, no mediante una puntuación acumulada. Un clúster obtiene un nivel solo cuando supera todas las compuertas requeridas para ese nivel — composición de anclas, rango de captación y presencia cívica en conjunto, no un solo factor por sí solo. Esta estructura de compuertas reemplazó una escala anterior basada en puntos el 16 de mayo de 2026; la escala retirada, y sus etiquetas numéricas, ya no describen ningún clúster actual.
 

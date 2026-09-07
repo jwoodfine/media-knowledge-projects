@@ -19,7 +19,7 @@ paired_with: geographic-co-location-methodology.es.md
 cites: []
 ---
 
-The **Geographic Co-Location Methodology** is the spatial analysis discipline Woodfine applies to identify and classify potential Development Sites across its four qualified jurisdictions: Canada, the United States, Spain, and Mexico. The methodology classifies retail nodes by the proximity and combination of anchor retailers operating in the geography, producing a classified dataset of sites in which development investment is validated by the demonstrable commercial commitments of institutional retailers rather than by speculative demographic projections.
+The **Geographic Co-Location Methodology** is the spatial analysis discipline Woodfine applies to identify and classify potential Development Sites across its nine planned jurisdictions: Canada, the United States, Spain, Mexico, Poland, the United Kingdom, Italy, the Nordics, and New Europe. The methodology classifies retail nodes by the proximity and combination of anchor retailers operating in the geography, producing a classified dataset of sites in which development investment is validated by the demonstrable commercial commitments of institutional retailers rather than by speculative demographic projections.
 
 The methodology assigns each cluster to one of four tiers by predicate gate, not by an accumulated score. A cluster earns a tier only when every gate required for that tier passes — anchor composition, catchment rank, and civic presence together, not any one factor alone. This gate structure replaced an earlier points-based scale on 2026-05-16; the retired scale, and its numeric labels, no longer describe any current cluster.
 
