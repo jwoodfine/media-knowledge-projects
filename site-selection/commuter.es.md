@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Viajero Habitual (PKS)"
+title: "Viajero Habitual"
 slug: commuter
 category: site-selection
 index_group: commuter-belts-and-the-urban-fringe
@@ -15,13 +15,13 @@ language: es
 last_edited: 2026-06-20
 editor: pointsav-engineering
 paired_with: site-selection/commuter.md
-short_description: "Los clústeres de Viajero Habitual (PKS) identifican sitios comerciales adyacentes al tránsito con aparcamiento significativo — cercanías, intercambiadores de tránsito, aparcamientos de disuasión y comercio de salida de autopista — uno de los tres arquetipos de co-localización de Inteligencia de Localización."
+short_description: "Los clústeres de Viajero Habitual identifican sitios comerciales adyacentes al tránsito con aparcamiento significativo — cercanías, intercambiadores de tránsito, aparcamientos de disuasión y comercio de salida de autopista — uno de los tres arquetipos de co-localización de Inteligencia de Localización."
 cites: []
 ---
 
-Los clústeres de **Viajero Habitual** (PKS) identifican sitios comerciales adyacentes al tránsito organizados en torno a un aparcamiento significativo. Son las estaciones de cercanías, los intercambiadores de tránsito regional, los aparcamientos de disuasión y los nodos comerciales de salida de autopista donde los residentes de un [[about-regional-markets-system|mercado regional]] conducen hasta un punto de tránsito, dejan el coche y viajan hacia un mercado metropolitano. La infraestructura de aparcamiento que hace posible este viaje a escala es la característica definitoria del arquetipo.
+Los clústeres de **Viajero Habitual** identifican sitios comerciales adyacentes al tránsito organizados en torno a un aparcamiento significativo. Son las estaciones de cercanías, los intercambiadores de tránsito regional, los aparcamientos de disuasión y los nodos comerciales de salida de autopista donde los residentes de un [[about-regional-markets-system|mercado regional]] conducen hasta un punto de tránsito, dejan el coche y viajan hacia un mercado metropolitano. La infraestructura de aparcamiento que hace posible este viaje a escala es la característica definitoria del arquetipo.
 
-Código de tres letras: **PKS**. Uno de los tres arquetipos de Inteligencia de Localización junto a los [[retail-centres|Centros Comerciales de Barrio (PRO)]] y a la [[urban-fringe|Periferia Urbana (VWH)]]. El Viajero Habitual es un arquetipo de superposición que identifica la estructura de mercado adyacente al tránsito que no captura la agrupación de Centros Comerciales de Barrio anclada en alimentación.
+Uno de los tres arquetipos de Inteligencia de Localización junto a los [[retail-centres|Centros Comerciales de Barrio]] y a la [[urban-fringe|Periferia Urbana]]. El Viajero Habitual es un arquetipo de superposición que identifica la estructura de mercado adyacente al tránsito que no captura la agrupación de Centros Comerciales de Barrio anclada en alimentación.
 
 ## Qué es un clúster de Viajero Habitual
 
@@ -78,7 +78,7 @@ El enriquecimiento comercial que distingue a un sitio maduro de Viajero Habitual
 
 ## Clasificación por niveles
 
-Los niveles PKS utilizan un **modelo de colapso por grupo de modos** que evita la doble contabilización de la infraestructura de tránsito en el mismo nodo físico. Una estación que ofrece servicio ferroviario interurbano y de cercanías en el mismo andén cuenta como un grupo de modo de tránsito (FERROCARRIL), no dos. Un verdadero intercambiador multimodal debe tener tipos modales distintos — ferrocarril más aeropuerto, por ejemplo — para contar como multimodal. Se reconocen cuatro grupos de modos: AÉREO, FERROVIARIO (interurbano y cercanías combinados), URBANO (metro y subterráneo) y BUS.
+Los niveles de Viajero Habitual utilizan un **modelo de colapso por grupo de modos** que evita la doble contabilización de la infraestructura de tránsito en el mismo nodo físico. Una estación que ofrece servicio ferroviario interurbano y de cercanías en el mismo andén cuenta como un grupo de modo de tránsito (FERROCARRIL), no dos. Un verdadero intercambiador multimodal debe tener tipos modales distintos — ferrocarril más aeropuerto, por ejemplo — para contar como multimodal. Se reconocen cuatro grupos de modos: AÉREO, FERROVIARIO (interurbano y cercanías combinados), URBANO (metro y subterráneo) y BUS.
 
 No todos los clústeres de tránsito califican como sitios de Viajero Habitual. Las paradas urbanas de acceso a pie sin infraestructura comercial de acceso en vehículo quedan excluidas por un criterio de calificación: un clúster califica cuando tiene un ancla de tránsito de acceso en vehículo, múltiples grupos modales distintos, o señales de enriquecimiento comerciales (alquiler de vehículos o aparcamiento de disuasión) que indican que los visitantes llegan en coche y lo dejan en el sitio.
 
@@ -92,7 +92,7 @@ Las etiquetas de nivel T1/T2/T3 utilizadas aquí son compartidas con los otros a
 
 ## Conjunto de datos de producción
 
-El sistema PKS es de grado de producción. Los registros de aparcamiento de disuasión (23.117 ubicaciones) sirven como el ancla geográfica primaria — puntos reales de transición coche-tránsito, distribuidos independientemente de la geometría de la red ferroviaria. Los modos de tránsito son señales de enriquecimiento; la presencia de alquiler de vehículos y hoteles define la madurez comercial.
+La clasificación de Viajero Habitual es de grado de producción. Los registros de aparcamiento de disuasión (23.117 ubicaciones) sirven como el ancla geográfica primaria — puntos reales de transición coche-tránsito, distribuidos independientemente de la geometría de la red ferroviaria. Los modos de tránsito son señales de enriquecimiento; la presencia de alquiler de vehículos y hoteles define la madurez comercial.
 
 **6.953 clústeres** en 17 países de visualización:
 
@@ -121,7 +121,7 @@ Datos de mapa y localización © [colaboradores de OpenStreetMap](https://www.op
 
 ## Véase también
 
-- [[location-intelligence-archetypes]] — la visión completa de los arquetipos de co-localización PRO/VWH/PKS
+- [[location-intelligence-archetypes]] — la visión completa de los arquetipos de co-localización
 
 ## Referencias
 

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Commuter (PKS)"
+title: "Commuter"
 slug: commuter
 category: site-selection
 index_group: commuter-belts-and-the-urban-fringe
@@ -15,13 +15,13 @@ language: en
 last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: site-selection/commuter.es.md
-short_description: "Commuter (PKS) clusters identify transit-adjacent commercial sites with significant parking — commuter rail, transit hubs, park-and-ride, and highway-exit commercial — one of three Location Intelligence co-location archetypes."
+short_description: "Commuter clusters identify transit-adjacent commercial sites with significant parking — commuter rail, transit hubs, park-and-ride, and highway-exit commercial — one of three Location Intelligence co-location archetypes."
 cites: []
 ---
 
-**Commuter** (PKS) clusters identify transit-adjacent commercial sites organised around significant parking. These are the commuter-rail stations, regional transit hubs, park-and-ride lots, and highway-exit commercial nodes where residents of a [[about-regional-markets-system|regional market]] drive to a transit point, leave their car, and travel onward to a metropolitan market. The parking infrastructure that makes this journey possible at scale is the defining feature of the archetype.
+**Commuter** clusters identify transit-adjacent commercial sites organised around significant parking. These are the commuter-rail stations, regional transit hubs, park-and-ride lots, and highway-exit commercial nodes where residents of a [[about-regional-markets-system|regional market]] drive to a transit point, leave their car, and travel onward to a metropolitan market. The parking infrastructure that makes this journey possible at scale is the defining feature of the archetype.
 
-Three-letter code: **PKS**. One of three Location Intelligence archetypes alongside [[retail-centres|Retail Centres (PRO)]] and [[urban-fringe|Urban Fringe (VWH)]]. Commuter is an overlay archetype that identifies transit-adjacent market structure not captured by grocery-anchored Retail Centre clustering.
+One of three Location Intelligence archetypes alongside [[retail-centres|Retail Centres]] and [[urban-fringe|Urban Fringe]]. Commuter is an overlay archetype that identifies transit-adjacent market structure not captured by grocery-anchored Retail Centre clustering.
 
 ## What a Commuter cluster is
 
@@ -78,7 +78,7 @@ The commercial enrichment that distinguishes a mature Commuter site is car renta
 
 ## Tier classification
 
-PKS tiers use a **mode-group collapse model** that avoids double-counting transit infrastructure at the same physical node. A station offering both intercity and commuter rail at the same platform counts as one transit mode group (RAIL), not two. A genuine multi-modal hub must have distinct modal types — rail plus airport, for example — to qualify as multimodal. Four transit mode groups are recognised: AIR, RAIL (intercity and commuter combined), URBAN (metro and subway), and BUS.
+Commuter tiers use a **mode-group collapse model** that avoids double-counting transit infrastructure at the same physical node. A station offering both intercity and commuter rail at the same platform counts as one transit mode group (RAIL), not two. A genuine multi-modal hub must have distinct modal types — rail plus airport, for example — to qualify as multimodal. Four transit mode groups are recognised: AIR, RAIL (intercity and commuter combined), URBAN (metro and subway), and BUS.
 
 Not all transit clusters qualify as Commuter sites. Walk-up urban stops without commercial drive-to infrastructure are excluded by a qualification gate: a cluster qualifies when it has a drive-to transit anchor, multiple distinct modal groups, or commercial enrichment evidence (car rental or park-and-ride) indicating that visitors arrive by car and leave it at the site.
 
@@ -121,7 +121,7 @@ Map and location data © [OpenStreetMap contributors](https://www.openstreetmap.
 
 ## See also
 
-- [[location-intelligence-archetypes]] — the full PRO/VWH/PKS co-location archetype overview
+- [[location-intelligence-archetypes]] — the full co-location archetype overview
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Retail centres (PRO)"
+title: "Retail Centres"
 slug: retail-centres
 category: site-selection
 index_group: anchors-and-tenants
@@ -15,13 +15,13 @@ language: en
 last_edited: 2026-09-04
 editor: pointsav-engineering
 paired_with: site-selection/retail-centres.es.md
-short_description: "Retail Centres (PRO) are neighbourhood commercial centres anchored by grocery, pharmacy, bank, and casual dining — one of three Location Intelligence co-location archetypes, and the base map product for the site-selection dataset."
+short_description: "Retail Centres are neighbourhood commercial centres anchored by grocery, pharmacy, bank, and casual dining — one of three Location Intelligence co-location archetypes, and the base map product for the site-selection dataset."
 cites: []
 ---
 
-**Retail Centres** (PRO) are neighbourhood commercial centres anchored by everyday-needs retail: a grocery hypermarket, a pharmacy, a bank branch, and casual dining. The archetype captures the grocery-anchored commercial gravity that organises local consumer activity — the cluster of stores residents visit weekly for routine shopping, banking, and meals.
+**Retail Centres** are neighbourhood commercial centres anchored by everyday-needs retail: a grocery hypermarket, a pharmacy, a bank branch, and casual dining. The archetype captures the grocery-anchored commercial gravity that organises local consumer activity — the cluster of stores residents visit weekly for routine shopping, banking, and meals.
 
-Three-letter code: **PRO**. One of three Location Intelligence archetypes alongside [[urban-fringe|Urban Fringe (VWH)]] and [[commuter|Commuter (PKS)]]. PRO is the base map product — the foundation of the [[site-selection-terminology|site-selection]] dataset on which the other two archetypes are overlaid.
+One of three Location Intelligence archetypes alongside [[urban-fringe|Urban Fringe]] and [[commuter|Commuter]]. Retail Centres is the base map product — the foundation of the [[site-selection-terminology|site-selection]] dataset on which the other two archetypes are overlaid.
 
 ## What a Retail Centre is
 
@@ -37,7 +37,7 @@ Consumer traffic at a Retail Centre is steady and broadly distributed across the
 
 ## Tier classification
 
-PRO clusters are graded at four scales — **T1 Regional**, **T2 District**, **T3 Local**, and **T4 Fringe**.
+Retail Centres clusters are graded at four scales — **T1 Regional**, **T2 District**, **T3 Local**, and **T4 Fringe**.
 
 A cluster's tier is assigned by predicate gate, not by an accumulated score. Every condition listed for a tier must pass, and a strong reading on one condition does not offset a failure on another. Four condition families apply in combination:
 
@@ -60,17 +60,17 @@ The full gate definitions are maintained in [[catchment-ranking-methodology|the 
 
 ## Coverage
 
-Retail Centres (PRO) form the foundation of the site-selection dataset, covering 17 display countries across North America and Europe. The three-letter archetype codes were ratified on 1 June 2026.
+Retail Centres form the foundation of the site-selection dataset, covering 17 display countries across North America and Europe.
 
 Cluster counts by tier are a moving figure. They change with each rebuild as anchor-chain coverage and the underlying retail footprint change, and tier boundaries are periodically re-tuned in response. Current counts are therefore not restated here.
 
-## Why PRO is the base map
+## Why Retail Centres is the base map
 
-Retail Centres anchor the entire Location Intelligence dataset because grocery-anchored co-location is the most stable and widely distributed commercial pattern. Almost every populated catchment has a grocery anchor; the centre that forms around it is a reliable proxy for residential commercial gravity. The Urban Fringe and Commuter archetypes are defined partly in relation to PRO clusters — Urban Fringe sites are identified by the *absence* of grocery anchors, and Commuter sites reference the nearest T1 or T2 Retail Centre as the [[about-regional-markets-system|regional market]] generating their parking demand.
+Retail Centres anchor the entire Location Intelligence dataset because grocery-anchored co-location is the most stable and widely distributed commercial pattern. Almost every populated catchment has a grocery anchor; the centre that forms around it is a reliable proxy for residential commercial gravity. The Urban Fringe and Commuter archetypes are defined partly in relation to Retail Centres clusters — Urban Fringe sites are identified by the *absence* of grocery anchors, and Commuter sites reference the nearest T1 or T2 Retail Centre as the [[about-regional-markets-system|regional market]] generating their parking demand.
 
 ## See also
 
-- [[location-intelligence-archetypes]] — the full PRO/VWH/PKS co-location archetype overview
+- [[location-intelligence-archetypes]] — the full co-location archetype overview
 - [[catchment-ranking-methodology]] — the tier gate definitions in full
 
 ## Data Sources

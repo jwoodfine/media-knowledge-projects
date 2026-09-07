@@ -57,9 +57,9 @@ This tier system replaced a points-based composite scale on 2026-05-16. The reti
 
 ## The three co-location archetypes
 
-The same point, population, and spend layers support three archetypes, each describing a different commercial clustering pattern. **PRO — Retail Centres** is the base map product and the foundation of the site-selection dataset: grocery-anchored co-locations, scored through the four-tier gate system described above. **VWH — Urban Fringe** identifies concentrations of hardware and industrial-supply retailers where no grocery hypermarket is present, typically near highway interchanges with adjacent industrial land use. **PKS — Commuter** identifies commercial concentrations at regional airports and intercity stations beyond the metro core, where the defining demand pattern is park-and-fly or park-and-train rather than retail footfall.
+The same point, population, and spend layers support three archetypes, each describing a different commercial clustering pattern. **Retail Centres** is the base map product and the foundation of the site-selection dataset: grocery-anchored co-locations, scored through the four-tier gate system described above. **Urban Fringe** identifies concentrations of hardware and industrial-supply retailers where no grocery hypermarket is present, typically near highway interchanges with adjacent industrial land use. **Commuter** identifies commercial concentrations at regional airports and intercity stations beyond the metro core, where the defining demand pattern is park-and-fly or park-and-train rather than retail footfall.
 
-The three-letter codes were ratified on 1 June 2026. VWH and PKS render as overlay layers alongside the PRO base view, so a reviewer sees adjacent market structures together with the core retail map. Each archetype's qualifying signals, disqualifiers, and production status are documented in the [[location-intelligence-archetypes|location intelligence archetypes]].
+Urban Fringe and Commuter render as overlay layers alongside the Retail Centres base view, so a reviewer sees adjacent market structures together with the core retail map. Each archetype's qualifying signals, disqualifiers, and production status are documented in the [[location-intelligence-archetypes|location intelligence archetypes]].
 
 ## Coverage and publication
 

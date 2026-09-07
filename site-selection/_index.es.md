@@ -51,7 +51,7 @@ Los nueve artículos detrás de «cerca de los Power Centres»: el marco de aná
 - [[institutional-retail-halo]] — Tesis económica según la cual la co-ubicación con Power Centres anclados en comestibles transfiere la estabilidad del comercio de necesidad a las oficinas adyacentes.
 - [[power-centre-land-availability]] — Tesis de abastecimiento de terreno de Woodfine: el exceso de estacionamiento que los propietarios de Power Centres reservan ante una futura demanda de Minoristas Nacionales suele estar subutilizado y disponible para su compra.
 - [[co-location-convergence-thesis]] — Tres tendencias convergen en un Power Centre — el diseño live/work/play de los centros comerciales, el terreno de estacionamiento subutilizado y la escasez de espacio arrendable profesional — y el arrendamiento en horario profesional de Woodfine está diseñado para capturar las tres.
-- [[location-intelligence-archetypes]] — Tres arquetipos de co-localización — Centros Comerciales (PRO), Franja Urbana (VWH) y Área de Acceso (PKS) — que identifican patrones de agrupación comercial diferenciados en 17 países de Norteamérica y Europa.
+- [[location-intelligence-archetypes]] — Tres arquetipos de co-localización — Centros Comerciales de Barrio, Periferia Urbana y Viajero Habitual — que identifican patrones de agrupación comercial diferenciados en 17 países de Norteamérica y Europa.
 <!-- END AUTO-GENERATED -->
 
 ## Anclas e Inquilinos
@@ -65,7 +65,7 @@ Aquello frente a lo cual se mide un sitio. Siete artículos definen los polos co
 - [[co-location-tier-nomenclature]] — Las cuatro etiquetas de nivel — Regional, Distrital, Local, Marginal — visibles en el mapa de co-localización toman su nombre de la jerarquía de propiedades comerciales del Consejo Internacional de Centros Comerciales (ICSC), aunque solo "Regional" es un término ICSC genuino; Distrital, Local y Marginal son nombres propios de la plataforma. Introducidas junto con el sistema actual de puntuación por compuertas predicativas en mayo de 2026.
 - [[national-tenants]] — Los ocupantes profesionales ancla — académicos, médicos y cívicos — cuya identidad institucional ancla la credibilidad del edificio y estabiliza la composición de inquilinos de combinación de usos.
 - [[retail-brand-family-taxonomy]] — Cada ubicación minorista en el mapa de co-localización lleva una clasificación de familia de marca que determina cómo se muestra la ubicación y, para algunas familias, si contribuye a la puntuación del clúster. La taxonomía fue diseñada en torno a los tipos de ancla utilizados en la metodología de co-localización, y es extensible a la gama completa de operadores ingestados.
-- [[retail-centres]] — Los Centros Comerciales de Barrio (PRO) son centros comerciales de proximidad anclados por supermercado, farmacia, banca y restauración informal — uno de los tres arquetipos de co-localización de Inteligencia de Localización y el producto cartográfico base del conjunto de datos de selección de sitios.
+- [[retail-centres]] — Los Centros Comerciales de Barrio son centros comerciales de proximidad anclados por supermercado, farmacia, banca y restauración informal — uno de los tres arquetipos de co-localización de Inteligencia de Localización y el producto cartográfico base del conjunto de datos de selección de sitios.
 <!-- END AUTO-GENERATED -->
 
 ## Cinturones de Cercanías y la Periferia Urbana
@@ -73,8 +73,8 @@ Aquello frente a lo cual se mide un sitio. Siete artículos definen los polos co
 Dos de los tres arquetipos de co-ubicación: sitios adyacentes al transporte con estacionamiento significativo, y actividad minorista de gran formato y distribución-industrial en la periferia metropolitana. El tercero, Centros Comerciales de Barrio, figura en Anclas e Inquilinos más arriba.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: commuter-belts-and-the-urban-fringe -->
-- [[commuter]] — Los clústeres de Viajero Habitual (PKS) identifican sitios comerciales adyacentes al tránsito con aparcamiento significativo — cercanías, intercambiadores de tránsito, aparcamientos de disuasión y comercio de salida de autopista — uno de los tres arquetipos de co-localización de Inteligencia de Localización.
-- [[urban-fringe]] — Los clústeres de Periferia Urbana (VWH) identifican el comercio minorista de gran formato y la actividad de distribución e industrial en la periferia urbana — grandes superficies, mejora del hogar y logística — uno de los tres arquetipos de co-localización de Inteligencia de Localización.
+- [[commuter]] — Los clústeres de Viajero Habitual identifican sitios comerciales adyacentes al tránsito con aparcamiento significativo — cercanías, intercambiadores de tránsito, aparcamientos de disuasión y comercio de salida de autopista — uno de los tres arquetipos de co-localización de Inteligencia de Localización.
+- [[urban-fringe]] — Los clústeres de Periferia Urbana identifican el comercio minorista de gran formato y la actividad de distribución e industrial en la periferia urbana — grandes superficies, mejora del hogar y logística — uno de los tres arquetipos de co-localización de Inteligencia de Localización.
 <!-- END AUTO-GENERATED -->
 
 ## Puntuación de Sitios y Áreas de Influencia

@@ -51,7 +51,7 @@ The nine articles behind "near Power Centres": the analysis framework, the site-
 - [[institutional-retail-halo]] — Economic thesis that co-location with grocery-anchored Power Centres transfers the cash-flow stability of necessity retail to adjacent Woodfine professional office space.
 - [[power-centre-land-availability]] — Woodfine's land-sourcing thesis: the excess parking Power Centre owners reserve against future National Retailer demand is frequently underutilized and available for purchase.
 - [[co-location-convergence-thesis]] — Three trends converge at a Power Centre — live/work/play shopping-centre design, underutilized parking land, and a shortage of professional leasable space — and Woodfine's professional-hours tenancy is built to capture each of them.
-- [[location-intelligence-archetypes]] — Three co-location archetypes — Retail Centres (PRO), Urban Fringe (VWH), and Commuter (PKS) — identifying distinct commercial clustering patterns across 17 countries in North America and Europe.
+- [[location-intelligence-archetypes]] — Three co-location archetypes — Retail Centres, Urban Fringe, and Commuter — identifying distinct commercial clustering patterns across 17 countries in North America and Europe.
 <!-- END AUTO-GENERATED -->
 
 ## Anchors and Tenants
@@ -65,7 +65,7 @@ What a site is measured against. Seven articles define the retail hubs, the qual
 - [[co-location-tier-nomenclature]] — The four tier labels — Regional, District, Local, Fringe — visible on the co-location map are named after the International Council of Shopping Centres retail property hierarchy, though only "Regional" is a genuine ICSC term; District, Local, and Fringe are the platform's own naming choices. Introduced together with the current predicate-gate scoring system in May 2026.
 - [[national-tenants]] — Revenue-driving professional occupiers — academic, medical, and civic — whose institutional identity anchors building credibility and stabilizes the mix-of-use tenant composition.
 - [[retail-brand-family-taxonomy]] — Every retail location on the co-location map carries a brand family classification that determines how the location is displayed and, for some families, whether it contributes to cluster scoring. The taxonomy was designed around the anchor types used in the co-location methodology while remaining extensible to the full range of ingested operators.
-- [[retail-centres]] — Retail Centres (PRO) are neighbourhood commercial centres anchored by grocery, pharmacy, bank, and casual dining — one of three Location Intelligence co-location archetypes, and the base map product for the site-selection dataset.
+- [[retail-centres]] — Retail Centres are neighbourhood commercial centres anchored by grocery, pharmacy, bank, and casual dining — one of three Location Intelligence co-location archetypes, and the base map product for the site-selection dataset.
 <!-- END AUTO-GENERATED -->
 
 ## Commuter Belts and the Urban Fringe
@@ -73,8 +73,8 @@ What a site is measured against. Seven articles define the retail hubs, the qual
 Two of the three co-location archetypes: transit-adjacent sites carrying significant parking, and large-format retail and distribution-industrial activity on the metropolitan periphery. The third, Retail Centres, sits under Anchors and Tenants above.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: commuter-belts-and-the-urban-fringe -->
-- [[commuter]] — Commuter (PKS) clusters identify transit-adjacent commercial sites with significant parking — commuter rail, transit hubs, park-and-ride, and highway-exit commercial — one of three Location Intelligence co-location archetypes.
-- [[urban-fringe]] — Urban Fringe (VWH) clusters identify large-format retail and distribution-industrial activity on the urban periphery — big-box hardware, home improvement, and logistics — one of three Location Intelligence co-location archetypes.
+- [[commuter]] — Commuter clusters identify transit-adjacent commercial sites with significant parking — commuter rail, transit hubs, park-and-ride, and highway-exit commercial — one of three Location Intelligence co-location archetypes.
+- [[urban-fringe]] — Urban Fringe clusters identify large-format retail and distribution-industrial activity on the urban periphery — big-box hardware, home improvement, and logistics — one of three Location Intelligence co-location archetypes.
 <!-- END AUTO-GENERATED -->
 
 ## Site Scoring and Trade Areas

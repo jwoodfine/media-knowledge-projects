@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Urban fringe (VWH)"
+title: "Urban Fringe"
 slug: urban-fringe
 category: site-selection
 index_group: commuter-belts-and-the-urban-fringe
@@ -15,13 +15,13 @@ language: en
 last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: site-selection/urban-fringe.es.md
-short_description: "Urban Fringe (VWH) clusters identify large-format retail and distribution-industrial activity on the urban periphery — big-box hardware, home improvement, and logistics — one of three Location Intelligence co-location archetypes."
+short_description: "Urban Fringe clusters identify large-format retail and distribution-industrial activity on the urban periphery — big-box hardware, home improvement, and logistics — one of three Location Intelligence co-location archetypes."
 cites: []
 ---
 
-**Urban Fringe** (VWH) clusters identify large-format retail and distribution-industrial activity on the urban periphery. These are the big-box hardware retailers, home-improvement warehouses, builders merchants, trade-supply distributors, and logistics operations that locate on the metropolitan edge — drawn there by lower land cost, highway access, and proximity to both the urban labour pool and the residential catchment they serve.
+**Urban Fringe** clusters identify large-format retail and distribution-industrial activity on the urban periphery. These are the big-box hardware retailers, home-improvement warehouses, builders merchants, trade-supply distributors, and logistics operations that locate on the metropolitan edge — drawn there by lower land cost, highway access, and proximity to both the urban labour pool and the residential catchment they serve.
 
-Three-letter code: **VWH**. One of three Location Intelligence archetypes alongside [[retail-centres|Retail Centres (PRO)]] and [[commuter|Commuter (PKS)]]. Urban Fringe is an overlay archetype that identifies the large-format and distribution market structure not captured by grocery-anchored Retail Centre clustering.
+One of three Location Intelligence archetypes alongside [[retail-centres|Retail Centres]] and [[commuter|Commuter]]. Urban Fringe is an overlay archetype that identifies the large-format and distribution market structure not captured by grocery-anchored Retail Centre clustering.
 
 ## What an Urban Fringe cluster is
 
@@ -65,11 +65,11 @@ The built form spans the one-storey big-box retail warehouse and the multi-store
 - Dense residential immediately adjacent (truck-traffic conflict, planning restrictions)
 - Flood plain (capital investment at risk; insurance prohibitive)
 - Heritage or environmentally protected area (height and access restrictions)
-- Located inside an existing [[retail-centres|Retail Centres (PRO)]] cluster (wrong land use; grocery-anchored consumer retail)
+- Located inside an existing [[retail-centres|Retail Centres]] cluster (wrong land use; grocery-anchored consumer retail)
 
 ## Tier classification
 
-VWH tiers use a **group-collapse model**: tier assignment is based on the number of distinct trade-supply category groups present in a cluster, not the total member count. A cluster with many hardware stores but no other trade categories does not qualify for T1; diversity across distinct trade categories is what matters.
+Urban Fringe tiers use a **group-collapse model**: tier assignment is based on the number of distinct trade-supply category groups present in a cluster, not the total member count. A cluster with many hardware stores but no other trade categories does not qualify for T1; diversity across distinct trade categories is what matters.
 
 **T1 Full Trade Hub:** At least two distinct trade-supply groups present — for example, hardware plus MRO industrial supply, or hardware plus tool rental. This indicates a genuine contractor and logistics ecosystem, not a single-category commercial strip.
 
@@ -115,7 +115,7 @@ Map and location data © [OpenStreetMap contributors](https://www.openstreetmap.
 
 ## See also
 
-- [[location-intelligence-archetypes]] — the full PRO/VWH/PKS co-location archetype overview
+- [[location-intelligence-archetypes]] — the full co-location archetype overview
 
 ## References
 

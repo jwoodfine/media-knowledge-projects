@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Periferia Urbana (VWH)"
+title: "Periferia Urbana"
 slug: urban-fringe
 category: site-selection
 index_group: commuter-belts-and-the-urban-fringe
@@ -15,13 +15,13 @@ language: es
 last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: site-selection/urban-fringe.md
-short_description: "Los clústeres de Periferia Urbana (VWH) identifican el comercio minorista de gran formato y la actividad de distribución e industrial en la periferia urbana — grandes superficies, mejora del hogar y logística — uno de los tres arquetipos de co-localización de Inteligencia de Localización."
+short_description: "Los clústeres de Periferia Urbana identifican el comercio minorista de gran formato y la actividad de distribución e industrial en la periferia urbana — grandes superficies, mejora del hogar y logística — uno de los tres arquetipos de co-localización de Inteligencia de Localización."
 cites: []
 ---
 
-Los clústeres de **Periferia Urbana** (VWH) identifican el comercio minorista de gran formato y la actividad de distribución e industrial en la periferia urbana. Son las grandes superficies de ferretería, los almacenes de mejora del hogar, los almacenistas de la construcción, los distribuidores de suministro para el sector y las operaciones logísticas que se ubican en el borde metropolitano — atraídos por el menor costo del suelo, el acceso a la autopista y la proximidad tanto a la mano de obra urbana como a la zona residencial que sirven.
+Los clústeres de **Periferia Urbana** identifican el comercio minorista de gran formato y la actividad de distribución e industrial en la periferia urbana. Son las grandes superficies de ferretería, los almacenes de mejora del hogar, los almacenistas de la construcción, los distribuidores de suministro para el sector y las operaciones logísticas que se ubican en el borde metropolitano — atraídos por el menor costo del suelo, el acceso a la autopista y la proximidad tanto a la mano de obra urbana como a la zona residencial que sirven.
 
-Código de tres letras: **VWH**. Uno de los tres arquetipos de Inteligencia de Localización junto a los [[retail-centres|Centros Comerciales de Barrio (PRO)]] y al [[commuter|Viajero Habitual (PKS)]]. La Periferia Urbana es un arquetipo de superposición que identifica la estructura de mercado de gran formato y distribución que no captura la agrupación de Centros Comerciales de Barrio anclada en alimentación.
+Uno de los tres arquetipos de Inteligencia de Localización junto a los [[retail-centres|Centros Comerciales de Barrio]] y al [[commuter|Viajero Habitual]]. La Periferia Urbana es un arquetipo de superposición que identifica la estructura de mercado de gran formato y distribución que no captura la agrupación de Centros Comerciales de Barrio anclada en alimentación.
 
 ## Qué es un clúster de Periferia Urbana
 
@@ -65,11 +65,11 @@ El tipo de edificio abarca el almacén minorista de gran superficie de una sola 
 - Residencial denso inmediatamente adyacente (conflicto de tráfico de camiones, restricciones de planeamiento)
 - Llanura de inundación (inversión de capital en riesgo; seguro prohibitivo)
 - Zona patrimonial o ambientalmente protegida (restricciones de altura y acceso)
-- Ubicado dentro de un clúster existente de [[retail-centres|Centros Comerciales de Barrio (PRO)]] (uso de suelo incorrecto; comercio de consumo anclado en alimentación)
+- Ubicado dentro de un clúster existente de [[retail-centres|Centros Comerciales de Barrio]] (uso de suelo incorrecto; comercio de consumo anclado en alimentación)
 
 ## Clasificación por niveles
 
-Los niveles VWH utilizan un **modelo de colapso por grupo**: la asignación de nivel se basa en el número de grupos de categorías de suministro para el sector distintos presentes en un clúster, no en el recuento total de miembros. Un clúster con muchas ferreterías pero sin otras categorías comerciales no califica para T1; la diversidad entre categorías de comercio distintas es lo que importa.
+Los niveles de Periferia Urbana utilizan un **modelo de colapso por grupo**: la asignación de nivel se basa en el número de grupos de categorías de suministro para el sector distintos presentes en un clúster, no en el recuento total de miembros. Un clúster con muchas ferreterías pero sin otras categorías comerciales no califica para T1; la diversidad entre categorías de comercio distintas es lo que importa.
 
 **T1 Centro de Comercio Completo:** Al menos dos grupos de suministro para el sector distintos presentes — por ejemplo, ferretería más distribución MRO industrial, o ferretería más alquiler de herramientas. Esto indica un ecosistema genuino de contratistas y logística.
 
@@ -81,7 +81,7 @@ Las etiquetas de nivel T1/T2/T3 utilizadas aquí son compartidas con los otros a
 
 ## Conjunto de datos de producción
 
-El sistema VWH es de grado de producción. Las ferreterías (10.338 ubicaciones en 45 cadenas) se perfilaron como anclas indicadoras; las reglas de nivel usan lógica de colapso por grupo validada al 73,4% de co-localización de ferretería en clústeres T1+T2 (frente a un umbral de aceptación del 55%).
+La clasificación de Periferia Urbana es de grado de producción. Las ferreterías (10.338 ubicaciones en 45 cadenas) se perfilaron como anclas indicadoras; las reglas de nivel usan lógica de colapso por grupo validada al 73,4% de co-localización de ferretería en clústeres T1+T2 (frente a un umbral de aceptación del 55%).
 
 **6.368 clústeres** identificados en la geografía de estudio de dieciocho países. Los
 mayores contribuyentes, por participación del total:
@@ -115,7 +115,7 @@ Datos de mapa y localización © [colaboradores de OpenStreetMap](https://www.op
 
 ## Véase también
 
-- [[location-intelligence-archetypes]] — la visión completa de los arquetipos de co-localización PRO/VWH/PKS
+- [[location-intelligence-archetypes]] — la visión completa de los arquetipos de co-localización
 
 ## Referencias
 

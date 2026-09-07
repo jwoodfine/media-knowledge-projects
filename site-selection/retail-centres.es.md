@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Centros Comerciales de Barrio (PRO)"
+title: "Centros Comerciales de Barrio"
 slug: retail-centres
 category: site-selection
 index_group: anchors-and-tenants
@@ -15,13 +15,13 @@ language: es
 last_edited: 2026-09-04
 editor: pointsav-engineering
 paired_with: site-selection/retail-centres.md
-short_description: "Los Centros Comerciales de Barrio (PRO) son centros comerciales de proximidad anclados por supermercado, farmacia, banca y restauración informal — uno de los tres arquetipos de co-localización de Inteligencia de Localización y el producto cartográfico base del conjunto de datos de selección de sitios."
+short_description: "Los Centros Comerciales de Barrio son centros comerciales de proximidad anclados por supermercado, farmacia, banca y restauración informal — uno de los tres arquetipos de co-localización de Inteligencia de Localización y el producto cartográfico base del conjunto de datos de selección de sitios."
 cites: []
 ---
 
-Los **Centros Comerciales de Barrio** (PRO) son centros comerciales de proximidad anclados por el comercio minorista de necesidades cotidianas: un hipermercado de alimentación, una farmacia, una sucursal bancaria y restauración informal. El arquetipo captura la gravedad comercial anclada en alimentación que organiza la actividad de consumo local — el grupo de tiendas que los residentes visitan semanalmente para sus compras rutinarias, banca y comidas.
+Los **Centros Comerciales de Barrio** son centros comerciales de proximidad anclados por el comercio minorista de necesidades cotidianas: un hipermercado de alimentación, una farmacia, una sucursal bancaria y restauración informal. El arquetipo captura la gravedad comercial anclada en alimentación que organiza la actividad de consumo local — el grupo de tiendas que los residentes visitan semanalmente para sus compras rutinarias, banca y comidas.
 
-Código de tres letras: **PRO**. Uno de los tres arquetipos de Inteligencia de Localización junto al [[urban-fringe|Periferia Urbana (VWH)]] y al [[commuter|Viajero Habitual (PKS)]]. PRO es el producto cartográfico base — la base del conjunto de datos de [[site-selection-terminology|selección de sitios]] sobre el cual se superponen los otros dos arquetipos.
+Uno de los tres arquetipos de Inteligencia de Localización junto al [[urban-fringe|Periferia Urbana]] y al [[commuter|Viajero Habitual]]. Centros Comerciales de Barrio es el producto cartográfico base — la base del conjunto de datos de [[site-selection-terminology|selección de sitios]] sobre el cual se superponen los otros dos arquetipos.
 
 ## Qué es un Centro Comercial de Barrio
 
@@ -37,7 +37,7 @@ El tráfico de consumidores en un Centro Comercial de Barrio es constante y se d
 
 ## Clasificación por niveles
 
-Los clústeres PRO se clasifican en cuatro escalas — **T1 Regional**, **T2 Distrital**, **T3 Local** y **T4 Marginal**.
+Los clústeres de Centros Comerciales de Barrio se clasifican en cuatro escalas — **T1 Regional**, **T2 Distrital**, **T3 Local** y **T4 Marginal**.
 
 El nivel de un clúster se asigna por compuerta predicativa, no por una puntuación acumulada. Todas las condiciones de un nivel deben cumplirse, y una lectura fuerte en una condición no compensa el incumplimiento de otra. Se aplican en conjunto cuatro familias de condiciones:
 
@@ -60,17 +60,17 @@ Las definiciones completas de las compuertas se mantienen en la [[catchment-rank
 
 ## Cobertura
 
-Los Centros Comerciales de Barrio (PRO) constituyen la capa fundamental del conjunto de datos de selección de sitios, cubriendo 17 países de visualización en Norteamérica y Europa. Los códigos de arquetipo de tres letras se ratificaron el 1 de junio de 2026.
+Los Centros Comerciales de Barrio constituyen la capa fundamental del conjunto de datos de selección de sitios, cubriendo 17 países de visualización en Norteamérica y Europa.
 
 Los recuentos de clústeres por nivel son una cifra móvil. Cambian con cada reconstrucción a medida que cambian la cobertura de cadenas ancla y la huella minorista subyacente, y los límites de nivel se reajustan periódicamente en consecuencia. Por ello no se reproducen aquí los recuentos actuales.
 
-## Por qué PRO es el mapa base
+## Por qué los Centros Comerciales de Barrio son el mapa base
 
-Los Centros Comerciales de Barrio anclan todo el conjunto de datos de Inteligencia de Localización porque la co-localización anclada en alimentación es el patrón comercial más estable y ampliamente distribuido. Casi toda zona de captación poblada tiene un ancla de alimentación; el centro que se forma a su alrededor es un indicador fiable de la gravedad comercial residencial. Los arquetipos Periferia Urbana y Viajero Habitual se definen en parte en relación con los clústeres PRO — los sitios de Periferia Urbana se identifican por la *ausencia* de anclas de alimentación, y los sitios de Viajero Habitual hacen referencia al Centro Comercial de Barrio T1 o T2 más cercano como el [[about-regional-markets-system|mercado regional]] que genera su demanda de aparcamiento.
+Los Centros Comerciales de Barrio anclan todo el conjunto de datos de Inteligencia de Localización porque la co-localización anclada en alimentación es el patrón comercial más estable y ampliamente distribuido. Casi toda zona de captación poblada tiene un ancla de alimentación; el centro que se forma a su alrededor es un indicador fiable de la gravedad comercial residencial. Los arquetipos Periferia Urbana y Viajero Habitual se definen en parte en relación con los clústeres de Centros Comerciales de Barrio — los sitios de Periferia Urbana se identifican por la *ausencia* de anclas de alimentación, y los sitios de Viajero Habitual hacen referencia al Centro Comercial de Barrio T1 o T2 más cercano como el [[about-regional-markets-system|mercado regional]] que genera su demanda de aparcamiento.
 
 ## Véase también
 
-- [[location-intelligence-archetypes]] — la visión completa de los arquetipos de co-localización PRO/VWH/PKS
+- [[location-intelligence-archetypes]] — la visión completa de los arquetipos de co-localización
 - [[catchment-ranking-methodology]] — las definiciones completas de las compuertas de nivel
 
 ## Fuentes de datos

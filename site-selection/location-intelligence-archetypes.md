@@ -13,38 +13,37 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-09-04
 editor: pointsav-engineering
-short_description: "Three co-location archetypes — Retail Centres (PRO), Urban Fringe (VWH), and Commuter (PKS) — identifying distinct commercial clustering patterns across 17 countries in North America and Europe."
+short_description: "Three co-location archetypes — Retail Centres, Urban Fringe, and Commuter — identifying distinct commercial clustering patterns across 17 countries in North America and Europe."
 paired_with: site-selection/location-intelligence-archetypes.es.md
 ---
 
 The Location Intelligence platform identifies retail and commercial gravity
-through three co-location archetypes: Retail Centres (PRO), Urban Fringe
-(VWH), and Commuter (PKS). Each archetype describes a distinct clustering
-pattern that reflects a different type of commercial activity and a different
+through three co-location archetypes: Retail Centres, Urban Fringe, and
+Commuter. Each archetype describes a distinct clustering pattern that
+reflects a different type of commercial activity and a different
 relationship to the surrounding urban geography.
-
-The three-letter codes were ratified on 1 June 2026.
 
 ## The three archetypes
 
-| Code | Name | Anchor type | Status |
-|------|------|-------------|--------|
-| **PRO** | Retail Centres | Predicate-gate composition test — grocery hypermarket plus hardware/warehouse/lifestyle anchor combinations | Live — Regional/District/Local/Fringe tier pipeline |
-| **VWH** | Urban Fringe | Hardware + trade-supply ecosystem (MRO, tool rental, builders merchant, auto parts) | Live — production co-location pipeline across three tiers |
-| **PKS** | Commuter | Regional transit anchor (airport, rail, bus) + park-and-ride + car rental/hotel enrichment | Live — production co-location pipeline across three tiers |
+| Name | Anchor type | Status |
+|------|-------------|--------|
+| Retail Centres | Predicate-gate composition test — grocery hypermarket plus hardware/warehouse/lifestyle anchor combinations | Live — Regional/District/Local/Fringe tier pipeline |
+| Urban Fringe | Hardware + trade-supply ecosystem (MRO, tool rental, builders merchant, auto parts) | Live — production co-location pipeline across three tiers |
+| Commuter | Regional transit anchor (airport, rail, bus) + park-and-ride + car rental/hotel enrichment | Live — production co-location pipeline across three tiers |
 
-PRO is the base map product — the foundation of the site-selection dataset.
-VWH and PKS are overlay archetypes that identify adjacent market structures
-not captured by grocery-anchored clustering.
+Retail Centres is the base map product — the foundation of the
+site-selection dataset. Urban Fringe and Commuter are overlay archetypes
+that identify adjacent market structures not captured by grocery-anchored
+clustering.
 
 ---
 
-## PRO — Retail Centres
+## Retail Centres
 
-PRO clusters represent grocery-anchored commercial co-locations, assigned to
-one of four tiers by a predicate-gate test — each tier requires every listed
-condition to pass, not an additive score against a threshold. The gate
-definitions are set out in full in the
+Retail Centres clusters represent grocery-anchored commercial co-locations,
+assigned to one of four tiers by a predicate-gate test — each tier requires
+every listed condition to pass, not an additive score against a threshold.
+The gate definitions are set out in full in the
 [[catchment-ranking-methodology|catchment ranking methodology]], which is
 the canonical statement of the tier logic; what follows summarises what
 distinguishes each tier.
@@ -87,24 +86,25 @@ footprint change.
 
 ---
 
-## VWH — Urban Fringe
+## Urban Fringe
 
-VWH clusters identify concentrations of hardware and industrial-supply
-retailers in the absence of grocery anchors. These sites occupy the urban
-fringe — a band of distance beyond the immediate metro core but short of
-standalone-market territory — and tend to cluster around highway interchanges
-in areas with adjacent industrial landuse.
+Urban Fringe clusters identify concentrations of hardware and
+industrial-supply retailers in the absence of grocery anchors. These sites
+occupy the urban fringe — a band of distance beyond the immediate metro core
+but short of standalone-market territory — and tend to cluster around
+highway interchanges in areas with adjacent industrial landuse.
 
 ### Definition
 
-A VWH candidate is a location where one or more hardware retailers are
-present, no grocery hypermarket is within the cluster span, and the site
+An Urban Fringe candidate is a location where one or more hardware retailers
+are present, no grocery hypermarket is within the cluster span, and the site
 sits within the Urban Fringe metro-distance band. The typical built form is a
 multi-storey warehouse or light-manufacturing building, distinct from the
 one-storey big-box format of the retail park.
 
-VWH locations serve trades contractors, light-manufacturing operators,
-and just-in-time logistics tenants — not general retail consumers.
+Urban Fringe locations serve trades contractors, light-manufacturing
+operators, and just-in-time logistics tenants — not general retail
+consumers.
 
 ### Co-location signals
 
@@ -125,7 +125,7 @@ and just-in-time logistics tenants — not general retail consumers.
 | Transit corridor nearby | Workforce access |
 
 **Disqualifying:** Dense residential immediately adjacent; flood plain;
-heritage conservation zone; location inside a PRO cluster.
+heritage conservation zone; location inside a Retail Centres cluster.
 
 ### Production status
 
@@ -140,33 +140,34 @@ across several other North American and European markets.
 Clusters are distributed across the three tiers in the expected shape: a
 small minority reach the Full Trade Hub tier, a larger share reach the
 Established tier, and the majority sit in the Emerging/Thin tier. That
-T3-heavy distribution is expected — a full trade hub combining MRO, tool
-rental, builders merchant, and auto parts is a legitimately rare
+lower-tier-heavy distribution is expected — a full trade hub combining MRO,
+tool rental, builders merchant, and auto parts is a legitimately rare
 combination.
 
-Some VWH clusters sit close enough to a grocery hypermarket to function as
-dual-use commercial parks — valid VWH co-locations that also include grocery
-retail.
+Some Urban Fringe clusters sit close enough to a grocery hypermarket to
+function as dual-use commercial parks — valid Urban Fringe co-locations
+that also include grocery retail.
 
 ---
 
-## PKS — Commuter
+## Commuter
 
-PKS clusters identify commercial concentrations near regional airports and
-intercity train stations that sit in a Commuter belt beyond the immediate
-metro core but short of standalone-market distance. The defining demand
-pattern is park-and-fly or park-and-train travel: residents of a Regional
-Market drive to a transit node, park, and travel to the Metro Market.
+Commuter clusters identify commercial concentrations near regional airports
+and intercity train stations that sit in a Commuter belt beyond the
+immediate metro core but short of standalone-market distance. The defining
+demand pattern is park-and-fly or park-and-train travel: residents of a
+Regional Market drive to a transit node, park, and travel to the Metro
+Market.
 
 ### Definition
 
-A PKS candidate is a regional transit node — airport or intercity train
+A Commuter candidate is a regional transit node — airport or intercity train
 station — within the Commuter metro-distance band. Nodes closer than that
 band are classified as suburban rather than regional; nodes beyond it are
 considered standalone markets with a separate metro relationship.
 
-The defining commercial signal at a PKS location is car rental. Auto parts,
-fuel stations, quick-service restaurants, and convenience stores are
+The defining commercial signal at a Commuter location is car rental. Auto
+parts, fuel stations, quick-service restaurants, and convenience stores are
 secondary signals.
 
 ### Co-location signals
@@ -177,7 +178,7 @@ secondary signals.
 |--------|-----------|
 | Regional transit anchor nearby | Airport or intercity station with direct metro service |
 | Metro isolation within the Commuter band | Defines the regional relationship |
-| PRO T1 or T2 cluster nearby | Same population generates parking demand |
+| Regional or District Retail Centres cluster nearby | Same population generates parking demand |
 | Sufficient regional population | Minimum demand for multi-storey parking |
 
 **Significant:**
@@ -212,10 +213,10 @@ in each market, reflected in the current dataset.
 
 ### Major hub filter
 
-Airports adjacent to a major PRO retail cluster are excluded as likely major
-commercial hubs. The largest international airports generate their own retail
-gravity and do not exhibit the park-and-transit pattern the archetype is
-built to find; the adjacency filter removes them.
+Airports adjacent to a major Retail Centres cluster are excluded as likely
+major commercial hubs. The largest international airports generate their
+own retail gravity and do not exhibit the park-and-transit pattern the
+archetype is built to find; the adjacency filter removes them.
 
 ### Planned enhancements
 
@@ -230,11 +231,12 @@ The following are planned, not current capability:
 
 ## Map integration
 
-VWH and PKS are available as overlay layers alongside the core Retail
-Centres (PRO) view, so a reviewer can see Urban Fringe and Commuter
-candidates together with the base retail-cluster map. PKS candidates are
-further distinguished as integrated — near a PRO Tier 1 or Tier 2 cluster —
-or standalone, consistent with the Commuter definition above.
+Urban Fringe and Commuter are available as overlay layers alongside the core
+Retail Centres view, so a reviewer can see Urban Fringe and Commuter
+candidates together with the base retail-cluster map. Commuter candidates
+are further distinguished as integrated — near a Regional or District Retail
+Centres cluster — or standalone, consistent with the Commuter definition
+above.
 
 ## Data Sources
 
@@ -242,11 +244,11 @@ Map and location data © [OpenStreetMap contributors](https://www.openstreetmap.
 
 ## See also
 
-- [[catchment-ranking-methodology|Catchment Ranking Methodology]] — the canonical statement of the PRO tier gates
-- [[co-location-methodology|Co-location Methodology]] — the anchor-composition test that drives PRO tier assignment
-- [[co-location-ranking-system|Co-location Ranking System]] — the five-rank commercial density index that ranks PRO clusters
+- [[catchment-ranking-methodology|Catchment Ranking Methodology]] — the canonical statement of the Retail Centres tier gates
+- [[co-location-methodology|Co-location Methodology]] — the anchor-composition test that drives Retail Centres tier assignment
+- [[co-location-ranking-system|Co-location Ranking System]] — how Retail Centres clusters are ordered within a country
 - [[retail-brand-family-taxonomy|Retail Brand-Family Taxonomy]] — the anchor classes referenced throughout
-- [[about-regional-markets-system|Regional Markets Intelligence System]] — the 400-market set built on PRO cluster data
-- [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] — qualifying set of suburban-regional PRO markets in NA
-- [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] — qualifying set of suburban-regional PRO markets in EU
+- [[about-regional-markets-system|Regional Markets Intelligence System]] — the 400-market set built on Retail Centres cluster data
+- [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] — qualifying set of suburban-regional Retail Centres markets in NA
+- [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] — qualifying set of suburban-regional Retail Centres markets in EU
 - [[od-catchment-methodology|Distance-Band Methodology]] — how demand zones are measured around each cluster centroid
