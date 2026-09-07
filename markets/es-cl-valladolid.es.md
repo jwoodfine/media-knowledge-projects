@@ -26,7 +26,8 @@ núcleo metropolitano importante.
 
 Según Wikipedia (consultado el 10 de julio de 2026), la ciudad propia de Valladolid tenía
 299.816 habitantes a fecha de 2024 en 197,47 kilómetros cuadrados — el municipio más poblado
-de su región —, situada en el centro-norte de España, a unos 235 km al norte de Madrid (un
+de su región —, situada en el centro-norte de España, a unos 235 km (en línea recta, no la
+medición de referencia metropolitana propia de la plataforma) al norte de Madrid (un
 trayecto de 56 minutos en tren de alta velocidad), en la confluencia de los ríos Pisuerga y
 Esgueva, a aproximadamente 735 metros de altitud. La ciudad es un importante centro económico
 de España; la manufactura domina, particularmente el sector automotriz a través de Renault

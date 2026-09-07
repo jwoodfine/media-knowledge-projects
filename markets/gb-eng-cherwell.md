@@ -26,7 +26,8 @@ toward London, Birmingham, and Oxford support the district's retail geography.
 
 According to Wikipedia (accessed 2026-07-10), Cherwell district had a population of 170,426
 in 2024 across 227.3 square miles (588.8 square kilometres). It sits roughly 15 to 20 miles
-north of Oxford in South East England. Banbury, where the district council is based, and
+(a general Wikipedia description) north of Oxford in South East England — consistent with the
+platform's own straight-line metropolitan-reference distance of 25.4 km. Banbury, where the district council is based, and
 Bicester are the primary towns; Kidlington is cited as a contender for the largest village in
 England. The northern half of the district features gently rolling hills toward the River
 Cherwell, while the southern area around Bicester is notably flatter, with the northwest

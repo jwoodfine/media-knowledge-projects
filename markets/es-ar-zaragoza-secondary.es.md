@@ -27,7 +27,8 @@ propio y no como satélite de ningún núcleo metropolitano concreto.
 
 Según Wikipedia (consultado el 10 de julio de 2026), Zaragoza tenía 691.037 habitantes
 municipales a fecha de 2024 en 973,78 kilómetros cuadrados, situada aproximadamente a 300
-kilómetros de Madrid, Barcelona, Valencia y Bilbao — ocupando el centro geográfico del
+kilómetros — distancia general en línea recta, no la medición de referencia metropolitana
+propia de la plataforma — de Madrid, Barcelona, Valencia y Bilbao — ocupando el centro geográfico del
 hexágono formado por estas ciudades españolas más Burdeos y Toulouse en Francia. Entre las
 industrias clave se encuentran la manufactura automotriz (una fábrica de Opel en
 funcionamiento desde 1982), electrodomésticos (Balay), material rodante ferroviario (CAF) y

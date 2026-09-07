@@ -65,7 +65,7 @@ The presence of both medical and academic anchors gives Mississauga civic-anchor
 
 Southern Ontario's Dfa climate is characterised by hot, humid summers and cold winters with persistent snow cover, mixed liquid-and-frozen precipitation across the shoulder seasons, and a four-season energy demand profile in which both heating loads in winter and cooling loads in summer are substantial. Annual temperature swings exceed forty degrees Celsius between seasonal extremes, and the building envelope, HVAC, and stormwater design considerations all reflect that range.
 
-Mississauga is a suburban market, 24.9 km from the Toronto metro centroid, with two Regional-tier clusters, one District-tier cluster, and two Local-tier clusters. Its distance from Toronto is recorded as descriptive context; coverage in the Regional Markets dataset is determined by anchor composition, not by proximity to a metropolitan centroid.
+Mississauga is a suburban market, 24.9 km (straight-line, not drive-time) from the Toronto metro centroid, with two Regional-tier clusters, one District-tier cluster, and two Local-tier clusters. Its distance from Toronto is recorded as descriptive context; coverage in the Regional Markets dataset is determined by anchor composition, not by proximity to a metropolitan centroid.
 
 ## The bottom line
 

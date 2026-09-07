@@ -65,7 +65,7 @@ La presencia de anclas tanto médicas como académicas otorga a Mississauga pres
 
 El clima Dfa del sur de Ontario se caracteriza por veranos calurosos y húmedos, inviernos fríos con nevadas persistentes y precipitaciones mixtas líquidas y sólidas en las estaciones intermedias, y un perfil de demanda energética de cuatro estaciones en el que tanto las cargas de calefacción en invierno como las de refrigeración en verano son sustanciales. Las oscilaciones térmicas anuales superan los cuarenta grados Celsius entre los extremos estacionales, y el diseño de la envolvente del edificio, el HVAC y las aguas pluviales reflejan ese rango.
 
-Mississauga es un mercado suburbano, a 24,9 km del centroide metropolitano de Toronto, con dos clústeres de Nivel Regional, uno de Nivel Distrito y dos de Nivel Local. Su distancia respecto a Toronto se registra como contexto descriptivo; la cobertura en el conjunto de datos de Mercados Regionales se determina por composición de anclas, no por proximidad a un centroide metropolitano.
+Mississauga es un mercado suburbano, a 24,9 km (en línea recta, no en tiempo de viaje) del centroide metropolitano de Toronto, con dos clústeres de Nivel Regional, uno de Nivel Distrito y dos de Nivel Local. Su distancia respecto a Toronto se registra como contexto descriptivo; la cobertura en el conjunto de datos de Mercados Regionales se determina por composición de anclas, no por proximidad a un centroide metropolitano.
 
 ## La conclusión
 

@@ -26,7 +26,8 @@ co-location clusters.
 
 According to Wikipedia (accessed 2026-07-10), the Northampton urban area had 249,093
 residents at the 2021 census (137,387 within the parish alone). The town sits roughly 40 to
-50 miles from Coventry, approximately 50 miles southeast of Birmingham. Historically a major
+50 miles from Coventry, approximately 50 miles southeast of Birmingham — general Wikipedia
+geographic distances, not a platform-measured metropolitan-reference figure. Historically a major
 footwear and leather manufacturing hub through the 19th and early 20th centuries, the shoe
 industry declined after World War I; the town was designated a London New Town in 1968 and
 now functions primarily as a commuter town. Wikipedia does not list contemporary major

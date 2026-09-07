@@ -26,7 +26,8 @@ own right rather than a satellite of any single metro core.
 ## Overview
 
 According to Wikipedia (accessed 2026-07-10), Zaragoza had 691,037 municipal residents as of
-2024 across 973.78 square kilometres. It sits roughly 300 kilometres from Madrid, Barcelona,
+2024 across 973.78 square kilometres. It sits roughly 300 kilometres — straight-line, general geographic distance, not the
+platform's own metropolitan-reference measurement — from Madrid, Barcelona,
 Valencia, and Bilbao, occupying the geographical centre of the hexagon formed by those
 Spanish cities plus Bordeaux and Toulouse in France. Key industries include automotive
 manufacturing (an Opel factory operating since 1982), household appliances (Balay), railway

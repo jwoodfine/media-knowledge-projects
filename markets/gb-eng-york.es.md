@@ -26,7 +26,8 @@ dual universitaria, de turismo patrimonial y del sector público los sostiene.
 
 Según Wikipedia (consultado el 10 de julio de 2026), York registró una población de 202.800
 habitantes en el censo de 2021 (198.051 en 2011), aproximadamente a 22 millas (35 km) al
-noreste de Leeds. Entre los
+noreste de Leeds — distancia geográfica general de Wikipedia. La distancia de referencia
+metropolitana en línea recta de la propia plataforma es de 37,4 km. Entre los
 principales empleadores se encuentran el Ayuntamiento de York (más de 7.500 empleados),
 Aviva, Network Rail, Northern Trains, York Hospitals NHS Trust y la Universidad de York (cada
 uno con más de 2.000 empleados), junto con BT Group, Nestlé y NFU Mutual. El sector

@@ -26,7 +26,8 @@ than a satellite of a major metro core.
 
 According to Wikipedia (accessed 2026-07-10), Valladolid's city proper had 299,816 residents
 as of 2024 across 197.47 square kilometres — the most populated municipality in its region —
-situated in north-central Spain roughly 235 km north of Madrid (a 56-minute journey by
+situated in north-central Spain roughly 235 km (straight-line, not the platform's own
+metropolitan-reference measurement) north of Madrid (a 56-minute journey by
 high-speed rail), at the confluence of the Pisuerga and Esgueva rivers at approximately 735
 metres elevation. The city is a major economic centre; manufacturing dominates, particularly
 the automotive sector through Renault España and Iveco, though the service industry

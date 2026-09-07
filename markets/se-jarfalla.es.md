@@ -28,7 +28,9 @@ intensificación suburbana.
 Según Wikipedia (consultado el 10 de julio de 2026), el municipio de Järfälla tenía 89.827
 habitantes a fecha de junio de 2025 en 63,02 kilómetros cuadrados, una densidad de 1.669
 personas por kilómetro cuadrado, aproximadamente a 20 kilómetros al norte de Estocolmo, en el
-condado de Estocolmo. Las conexiones de tren de cercanías llegan al centro de Estocolmo en
+condado de Estocolmo — descripción general de Wikipedia; la distancia de referencia
+metropolitana en línea recta de la propia plataforma es de 15,5 km. Las conexiones de tren de
+cercanías llegan al centro de Estocolmo en
 aproximadamente 20 minutos. El municipio se expandió sustancialmente en las décadas de 1930
 y 1940, desarrollándose como una comunidad de cercanías centrada en la sede administrativa de
 Jakobsberg; la población pasó de 49.261 habitantes en 1970 a casi 90.000 en 2025. A fecha de

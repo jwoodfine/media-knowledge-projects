@@ -27,7 +27,8 @@ clusters and a confirmed civic anchor.
 According to Wikipedia (accessed 2026-07-10), Bielsko-Biała had approximately 165,127
 residents as of December 2024, making it the 22nd-largest city in Poland; the wider
 metropolitan area encompasses around 335,000 people across 124.51 square kilometres. The
-city sits in southern Poland's Silesian Voivodeship, roughly 48 kilometres from Katowice.
+city sits in southern Poland's Silesian Voivodeship, roughly 48 kilometres (straight-line,
+consistent with the platform's own 47.5 km metropolitan-reference measurement) from Katowice.
 Historically a major textile-industry centre, Bielsko-Biała later developed automotive
 manufacturing — the FSM factory produced the Polski Fiat 126p through the 1970s and 1980s —
 before the textile sector largely disappeared following the post-1989 economic

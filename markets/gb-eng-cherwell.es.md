@@ -27,8 +27,9 @@ comercial del distrito.
 
 Según Wikipedia (consultado el 10 de julio de 2026), el distrito de Cherwell tenía una
 población de 170.426 habitantes en 2024 en 227,3 millas cuadradas (588,8 kilómetros
-cuadrados), aproximadamente entre 15 y 20 millas al norte de Oxford, en el sureste de
-Inglaterra. Banbury, sede del ayuntamiento del distrito, y Bicester son los principales
+cuadrados), aproximadamente entre 15 y 20 millas (una descripción general de Wikipedia) al
+norte de Oxford, en el sureste de Inglaterra — coherente con la distancia de referencia
+metropolitana en línea recta de la propia plataforma, de 25,4 km. Banbury, sede del ayuntamiento del distrito, y Bicester son los principales
 núcleos urbanos; Kidlington se cita como candidata a mayor aldea de Inglaterra. La mitad
 norte del distrito presenta colinas suavemente onduladas hacia el río Cherwell, mientras que
 el área sur en torno a Bicester es notablemente más llana, con el noroeste alcanzando el

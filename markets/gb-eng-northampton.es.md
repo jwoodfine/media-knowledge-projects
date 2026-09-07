@@ -27,7 +27,8 @@ clústeres de nivel Local.
 Según Wikipedia (consultado el 10 de julio de 2026), el área urbana de Northampton tenía
 249.093 habitantes en el censo de 2021 (137.387 solo en la parroquia). La ciudad se
 encuentra a entre 40 y 50 millas de Coventry, aproximadamente 50 millas al sureste de
-Birmingham. Históricamente un importante centro de manufactura de calzado y cuero durante
+Birmingham — distancias geográficas generales de Wikipedia, no una cifra de referencia
+metropolitana medida por la plataforma. Históricamente un importante centro de manufactura de calzado y cuero durante
 los siglos XIX y principios del XX, la industria del calzado declinó tras la Primera Guerra
 Mundial; la ciudad fue designada Nueva Ciudad de Londres en 1968 y hoy funciona
 principalmente como ciudad dormitorio. Wikipedia no enumera empleadores contemporáneos

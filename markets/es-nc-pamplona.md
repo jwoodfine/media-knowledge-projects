@@ -27,7 +27,8 @@ right rather than a satellite of a larger metro.
 According to Wikipedia (accessed 2026-07-10), Pamplona had 209,676 municipal residents as of
 2025 (metropolitan area 319,208) across 25.14 square kilometres. It is situated in Navarre at
 approximately 450 metres elevation — 92 km from San Sebastián, 117 km from Bilbao, and 407
-km from Madrid. The city has transitioned from a small administrative centre to a
+km from Madrid, all straight-line general geographic distances, not the platform's own
+metropolitan-reference measurement. The city has transitioned from a small administrative centre to a
 medium-sized industrial hub. The most important activity is the automobile industry, anchored
 by a Volkswagen plant (producing Polo, T-Cross, and Taigo models) and auxiliary automotive
 suppliers, alongside building materials, metalworking, food processing, and renewable-energy

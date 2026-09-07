@@ -26,7 +26,9 @@ and a metro extension due for completion in 2027 point to continued suburban int
 
 According to Wikipedia (accessed 2026-07-10), Järfälla municipality had 89,827 residents as
 of June 2025 across 63.02 square kilometres, a density of 1,669 people per square kilometre,
-roughly 20 kilometres north of Stockholm in Stockholm County. Commuter rail connections
+roughly 20 kilometres north of Stockholm in Stockholm County — Wikipedia's general
+description; the platform's own straight-line metropolitan-reference distance is 15.5 km.
+Commuter rail connections
 reach downtown Stockholm in approximately 20 minutes. The municipality expanded
 substantially in the 1930s and 1940s, developing into a suburban commuter community centred
 on the administrative seat of Jakobsberg; population grew from 49,261 in 1970 to nearly
