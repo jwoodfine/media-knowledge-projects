@@ -210,7 +210,7 @@ redirects:
     to: /wiki/co-location-tier-nomenclature
 
   - from: /topic-catchment-ranking-methodology-v3
-    to: /wiki/catchment-ranking-methodology-v3
+    to: /wiki/catchment-ranking-methodology
 
   - from: /topic-od-catchment-methodology
     to: /wiki/od-catchment-methodology
@@ -568,7 +568,7 @@ redirects:
   # Its two unique passages (cluster-count sensitivity, the planned strength score) were
   # merged into the canonical four-tier predicate-gate article and the source archived.
   - from: /co-location-tiering-scoring
-    to: /wiki/catchment-ranking-methodology-v3
+    to: /wiki/catchment-ranking-methodology
 
   # Archival, 2026-09-05: the markets category's "Superseded and Retired" shelf is retired.
   # The one superseded framework article, the three retired country indices (France, Germany,
@@ -620,3 +620,5 @@ redirects:
     to: /wiki/atlas-poland
   - from: /under-building-supply-discipline
     to: /wiki/supply-discipline
+  - from: /catchment-ranking-methodology-v3
+    to: /wiki/catchment-ranking-methodology

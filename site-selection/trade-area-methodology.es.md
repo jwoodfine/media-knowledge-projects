@@ -78,7 +78,7 @@ La pertenencia al área de atracción es la base para la agregación de poblaci�
 
 ## Véase también
 
-- [[catchment-ranking-methodology-v3]] — cómo se asignan los niveles a los clústeres y el puntaje de fortaleza planeado
+- [[catchment-ranking-methodology]] — cómo se asignan los niveles a los clústeres y el puntaje de fortaleza planeado
 - [[spend-population-provenance]] — la cadena de estimación para población y gasto dentro del área de atracción
 - el resumen a nivel de asentamiento construido sobre clústeres de co-ubicación
 - el proceso que ejecuta el análisis espacial

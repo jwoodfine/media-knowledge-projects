@@ -29,7 +29,7 @@ La metodología de co-ubicación de Woodfine la mide. Clasifica los sitios de de
 
 Un nodo califica cuando un hipermercado, un club de almacén y una tienda de mejoras del hogar han comprometido capital independientemente dentro de un radio de captación definido entre sí. Cada operador ejecuta su propio proceso de selección de sitio; la convergencia es corroboración independiente, no un pronóstico único. La lógica de calificación, la formación de clústeres y el requisito de adyacencia de [[co-location-anchors|anclas]] son los tres insumos estructurales del índice.
 
-Para un asignador de capital el índice es un filtro defensivo: prioriza los sitios donde varias partes han validado de forma independiente el área de comercio. Este artículo cubre la taxonomía de anclas y las compuertas predicativas del sistema de niveles; los artículos relacionados describen la [[od-catchment-methodology|metodología de bandas de distancia]], las [[trade-area-data-sources|fuentes de datos de áreas comerciales]] y la [[catchment-ranking-methodology-v3|metodología de clasificación de captación]].
+Para un asignador de capital el índice es un filtro defensivo: prioriza los sitios donde varias partes han validado de forma independiente el área de comercio. Este artículo cubre la taxonomía de anclas y las compuertas predicativas del sistema de niveles; los artículos relacionados describen la [[od-catchment-methodology|metodología de bandas de distancia]], las [[trade-area-data-sources|fuentes de datos de áreas comerciales]] y la [[catchment-ranking-methodology|metodología de clasificación de captación]].
 
 ## Taxonomía de anclas
 
@@ -48,7 +48,7 @@ Cada clúster recibe uno de cuatro niveles — **Regional**, **Distrital**, **Lo
 | **Local** | Un ancla de ferretería o almacén, población de captación en la mitad superior, y cualquier hospital dentro del anillo cívico. |
 | **Marginal** | Existe co-ubicación comercial, pero el alcance de captación, la composición o el respaldo cívico no alcanzan el nivel Local. |
 
-Las definiciones completas de las compuertas — composición, rango de captación, presencia cívica e independencia espacial — se detallan en la [[catchment-ranking-methodology-v3|metodología V3 de clasificación de captación]].
+Las definiciones completas de las compuertas — composición, rango de captación, presencia cívica e independencia espacial — se detallan en la [[catchment-ranking-methodology|metodología de clasificación de captación]].
 
 ## Estrategia y aplicación
 

@@ -17,7 +17,7 @@ short_description: "Cada clúster de co-ubicación recibe dos bandas de distanci
 paired_with: site-selection/od-catchment-methodology.md
 ---
 
-La plataforma de [[co-location-methodology|co-ubicación]] de Woodfine asigna a cada clúster dos zonas de demanda que determinan qué datos de población y gasto se le atribuyen: una zona primaria dentro de 35 km del clúster y una zona secundaria de 35 a 150 km. Ambas son bandas de distancia en línea recta, y se etiquetan como tales: una banda de distancia aproxima de dónde provienen los clientes; no es un área de captación medida, y la plataforma no la etiqueta como tal. La regla de etiquetado, y el paso previsto hacia orígenes observados y límites por tiempo de conducción, se establecen en [[trade-area-methodology]]. Las zonas alimentan el [[co-location-ranking-system|sistema de clasificación determinista]] y la [[catchment-ranking-methodology-v3|metodología V3 de clasificación de captación]]; las capas de población y gasto se documentan en [[trade-area-data-sources|fuentes de datos de áreas comerciales]].
+La plataforma de [[co-location-methodology|co-ubicación]] de Woodfine asigna a cada clúster dos zonas de demanda que determinan qué datos de población y gasto se le atribuyen: una zona primaria dentro de 35 km del clúster y una zona secundaria de 35 a 150 km. Ambas son bandas de distancia en línea recta, y se etiquetan como tales: una banda de distancia aproxima de dónde provienen los clientes; no es un área de captación medida, y la plataforma no la etiqueta como tal. La regla de etiquetado, y el paso previsto hacia orígenes observados y límites por tiempo de conducción, se establecen en [[trade-area-methodology]]. Las zonas alimentan el [[co-location-ranking-system|sistema de clasificación determinista]] y la [[catchment-ranking-methodology|metodología de clasificación de captación]]; las capas de población y gasto se documentan en [[trade-area-data-sources|fuentes de datos de áreas comerciales]].
 
 ## Definición de las zonas
 
@@ -51,13 +51,13 @@ La pertenencia a una zona es la base para:
 
 - Agregación de población (datos publicados de población por zona)
 - Agregación de gasto (gasto en alimentación, bricolaje y mayorista por zona)
-- Clasificación competitiva entre clústeres (véase [[catchment-ranking-methodology-v3]])
+- Clasificación competitiva entre clústeres (véase [[catchment-ranking-methodology]])
 
 Los polígonos de zona que aparecen en el mapa se generan a partir de los mismos radios de 35 km / 150 km en línea recta, visualizados en dos colores distintos para diferenciar la zona primaria de la secundaria.
 
 ## Véase también
 
-- [[catchment-ranking-methodology-v3]]
+- [[catchment-ranking-methodology]]
 - [[trade-area-data-sources]]
 - [[co-location-methodology]]
 

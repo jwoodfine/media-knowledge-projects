@@ -52,7 +52,7 @@ La plataforma integra tres fuentes de datos primarias para garantizar un anális
 
 ## Índice de sitios y clasificación por niveles
 
-Cada nodo puntuado se clasifica en uno de cuatro niveles — **Regional**, **Distrital**, **Local**, **Marginal** — cubiertos por el [[co-location-tier-system|sistema de niveles de co-ubicación]]. Un clúster obtiene su nivel al superar compuertas predicativas de composición de anclas, rango de captación nacional, infraestructura cívica e independencia espacial, descritas en su totalidad en la [[catchment-ranking-methodology-v3|metodología V3 de clasificación de captación]].
+Cada nodo puntuado se clasifica en uno de cuatro niveles — **Regional**, **Distrital**, **Local**, **Marginal** — cubiertos por el [[co-location-tier-system|sistema de niveles de co-ubicación]]. Un clúster obtiene su nivel al superar compuertas predicativas de composición de anclas, rango de captación nacional, infraestructura cívica e independencia espacial, descritas en su totalidad en la [[catchment-ranking-methodology|metodología de clasificación de captación]].
 
 Los recuentos de sitios actuales por nivel y país se publican en vivo en la plataforma SIG en lugar de repetirse aquí; una instantánea de wiki queda desactualizada entre ciclos de actualización de datos, mientras que la plataforma se actualiza en cada ejecución de procesamiento.
 

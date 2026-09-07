@@ -51,7 +51,7 @@ The platform integrates three primary data sources to ensure high-fidelity spati
 
 ## Site index and tier classification
 
-Every scored node is classified into one of four tiers — **Regional**, **District**, **Local**, **Fringe** — covered by the [[co-location-tier-system|co-location tier system]]. A cluster earns its tier by clearing predicate gates on anchor composition, national catchment rank, civic infrastructure, and spatial non-overlap, described in full in the [[catchment-ranking-methodology-v3|V3 catchment ranking methodology]].
+Every scored node is classified into one of four tiers — **Regional**, **District**, **Local**, **Fringe** — covered by the [[co-location-tier-system|co-location tier system]]. A cluster earns its tier by clearing predicate gates on anchor composition, national catchment rank, civic infrastructure, and spatial non-overlap, described in full in the [[catchment-ranking-methodology|catchment ranking methodology]].
 
 Current site counts by tier and country are published live on the GIS platform rather than restated here; a wiki snapshot goes stale between data-refresh cycles, while the platform updates on every processing run.
 

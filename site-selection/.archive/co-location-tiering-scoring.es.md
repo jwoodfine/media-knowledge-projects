@@ -9,8 +9,8 @@ content_type: topic
 quality: complete
 status: archived
 archived: 2026-09-05
-archived_reason: "Reconciled 2026-09-05: this article documented the points-based T1/T2/T3 compositional tier scale retired platform-wide on 2026-05-16, which describes no current cluster in the dataset. Its two passages with no equivalent elsewhere -- the cluster-count sensitivity finding and the planned per-cluster strength score -- were merged into catchment-ranking-methodology-v3, the canonical four-tier predicate-gate article; the remaining T1/T2/T3 material is superseded vocabulary and is retained here as historical record only."
-superseded_by: catchment-ranking-methodology-v3
+archived_reason: "Reconciled 2026-09-05: this article documented the points-based T1/T2/T3 compositional tier scale retired platform-wide on 2026-05-16, which describes no current cluster in the dataset. Its two passages with no equivalent elsewhere -- the cluster-count sensitivity finding and the planned per-cluster strength score -- were merged into catchment-ranking-methodology, the canonical four-tier predicate-gate article; the remaining T1/T2/T3 material is superseded vocabulary and is retained here as historical record only."
+superseded_by: catchment-ranking-methodology
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES

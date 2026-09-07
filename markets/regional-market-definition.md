@@ -37,7 +37,7 @@ Two failure modes follow from conflating coverage with market:
 
 **Single-anchor settlements dominate the population.** A town with one qualifying co-location is, under the current rule, the same object class as a metro holding many. The label "Regional Market" implies concentrated retail demand; the rule admits the single-anchor case. The headline count is therefore inflated by exactly the cases that carry the least decision value for site selection or investment.
 
-**The count reads as an artefact of the floor, not the geography.** A reviewer can move the count up or down simply by arguing the floor, which is the classic sign that the threshold — not the data — is doing the work. This is the same failure class as the clustering parameter sensitivity documented in [[catchment-ranking-methodology-v3|the V3 catchment ranking methodology]], where parameter sweeps move the North American cluster count across a wide range without any change to the underlying retailer data.
+**The count reads as an artefact of the floor, not the geography.** A reviewer can move the count up or down simply by arguing the floor, which is the classic sign that the threshold — not the data — is doing the work. This is the same failure class as the clustering parameter sensitivity documented in [[catchment-ranking-methodology|the catchment ranking methodology]], where parameter sweeps move the North American cluster count across a wide range without any change to the underlying retailer data.
 
 The geocoding-confidence field does not resolve this. It is geocoding precision — specifically the quality of the boundary assignment — not market quality. It must not be presented as a ranking or a quality signal.
 
@@ -99,6 +99,6 @@ Two honesty notes belong in the platform's documentation alongside this table:
 ## See also
 
 - [[about-regional-markets-system|Regional Markets Intelligence System]] — the full dataset, tier system, and qualification method this article's definitions build on
-- [[catchment-ranking-methodology-v3]] — how tiers and the planned strength score are computed for each co-location inside a Regional Market
+- [[catchment-ranking-methodology]] — how tiers and the planned strength score are computed for each co-location inside a Regional Market
 - [[trade-area-methodology]] — how the trade area for each co-location is defined
 - [[spend-population-provenance]] — the estimation chain for population and spend figures attributed to each co-location

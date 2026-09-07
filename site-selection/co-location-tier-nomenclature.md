@@ -20,7 +20,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The [[co-location-methodology|co-location index]] assigns each cluster to one of four tiers based on the categorical composition of its [[co-location-anchors|anchor]] and secondary stores and on the cluster's position within its national population catchment. The tier labels visible on the map — **Regional**, **District**, **Local**, **Fringe** — are named after the International Council of Shopping Centres (ICSC) retail property hierarchy, used by property developers, planners, and retail analysts across the [[co-location-tier-system|North American and European markets]] the platform covers. The qualifying gates are defined in the [[catchment-ranking-methodology-v3|V3 catchment ranking methodology]] and the underlying scoring logic in the [[co-location-ranking-system|co-location ranking system]].
+The [[co-location-methodology|co-location index]] assigns each cluster to one of four tiers based on the categorical composition of its [[co-location-anchors|anchor]] and secondary stores and on the cluster's position within its national population catchment. The tier labels visible on the map — **Regional**, **District**, **Local**, **Fringe** — are named after the International Council of Shopping Centres (ICSC) retail property hierarchy, used by property developers, planners, and retail analysts across the [[co-location-tier-system|North American and European markets]] the platform covers. The qualifying gates are defined in the [[catchment-ranking-methodology|catchment ranking methodology]] and the underlying scoring logic in the [[co-location-ranking-system|co-location ranking system]].
 
 ## What Each Tier Means
 
@@ -49,7 +49,7 @@ The Spanish-language equivalents are: Regional, Distrital, Local, Marginal.
 
 ## What Changed and What Did Not
 
-The second rename coincided with a change in how tiers are assigned. Previously, tiers were assigned by a composite score that combined a base score with count, diversity, civic-depth, and overlap-penalty terms. Under the current system, tiers are assigned by binary gates: composition, national catchment rank, civic classification, and spatial overlap limit, each tested on its own. The gate definitions are described in the [[catchment-ranking-methodology-v3|catchment ranking methodology]] document.
+The second rename coincided with a change in how tiers are assigned. Previously, tiers were assigned by a composite score that combined a base score with count, diversity, civic-depth, and overlap-penalty terms. Under the current system, tiers are assigned by binary gates: composition, national catchment rank, civic classification, and spatial overlap limit, each tested on its own. The gate definitions are described in the [[catchment-ranking-methodology|catchment ranking methodology]] document.
 
 So two things changed at once, and it is worth separating them. The tier *names* changed to the ICSC labels. The tier *assignment method* changed from a score threshold to a predicate gate. Both shipped together, which is why a cluster's tier may have moved at the same time as its label.
 
@@ -62,5 +62,5 @@ The badge colour encodes the hierarchy: dark navy for Regional, indigo for Distr
 ## See Also
 
 - [[co-location-methodology]]
-- [[catchment-ranking-methodology-v3]]
+- [[catchment-ranking-methodology]]
 - [[retail-brand-family-taxonomy]]

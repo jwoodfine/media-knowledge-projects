@@ -20,7 +20,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El [[co-location-methodology|índice de co-localización]] asigna cada clúster a uno de cuatro niveles en función de la composición categórica de sus [[co-location-anchors|anclas]] y tiendas secundarias, y de la posición del clúster dentro de la captación nacional de población. Las etiquetas visibles en el mapa — **Regional**, **Distrital**, **Local**, **Marginal** — toman su nombre de la jerarquía de propiedades del Consejo Internacional de Centros Comerciales (ICSC), utilizada por promotores inmobiliarios, planificadores y analistas de retail en los mercados de [[co-location-tier-system|América del Norte y Europa]] que cubre la plataforma. Las compuertas de calificación se definen en la [[catchment-ranking-methodology-v3|metodología V3 de clasificación de captación]] y la lógica de puntuación subyacente en el [[co-location-ranking-system|sistema de clasificación de co-ubicación]].
+El [[co-location-methodology|índice de co-localización]] asigna cada clúster a uno de cuatro niveles en función de la composición categórica de sus [[co-location-anchors|anclas]] y tiendas secundarias, y de la posición del clúster dentro de la captación nacional de población. Las etiquetas visibles en el mapa — **Regional**, **Distrital**, **Local**, **Marginal** — toman su nombre de la jerarquía de propiedades del Consejo Internacional de Centros Comerciales (ICSC), utilizada por promotores inmobiliarios, planificadores y analistas de retail en los mercados de [[co-location-tier-system|América del Norte y Europa]] que cubre la plataforma. Las compuertas de calificación se definen en la [[catchment-ranking-methodology|metodología de clasificación de captación]] y la lógica de puntuación subyacente en el [[co-location-ranking-system|sistema de clasificación de co-ubicación]].
 
 ## Qué significa cada nivel
 
@@ -47,7 +47,7 @@ Los nombres de la plataforma toman como referencia la jerarquía ICSC de centros
 
 ## Qué cambió y qué no
 
-El segundo renombramiento coincidió con un cambio en la forma de asignar los niveles. Antes, los niveles se asignaban mediante una puntuación compuesta que combinaba una puntuación base con términos de recuento, diversidad, profundidad cívica y penalización por solapamiento. Bajo el sistema actual los niveles se asignan mediante compuertas binarias: composición, clasificación nacional de captación, clasificación cívica y límite de solapamiento espacial, cada una comprobada por separado. Las definiciones de las compuertas se describen en el documento de [[catchment-ranking-methodology-v3|metodología de clasificación de captación]].
+El segundo renombramiento coincidió con un cambio en la forma de asignar los niveles. Antes, los niveles se asignaban mediante una puntuación compuesta que combinaba una puntuación base con términos de recuento, diversidad, profundidad cívica y penalización por solapamiento. Bajo el sistema actual los niveles se asignan mediante compuertas binarias: composición, clasificación nacional de captación, clasificación cívica y límite de solapamiento espacial, cada una comprobada por separado. Las definiciones de las compuertas se describen en el documento de [[catchment-ranking-methodology|metodología de clasificación de captación]].
 
 Cambiaron por tanto dos cosas a la vez, y conviene separarlas. Cambiaron los *nombres* de los niveles, que pasaron a las etiquetas ICSC. Cambió el *método de asignación*, que pasó de un umbral de puntuación a una compuerta predicativa. Ambos cambios se publicaron juntos, y por eso el nivel de un clúster pudo moverse al mismo tiempo que su etiqueta.
 
@@ -60,5 +60,5 @@ El color de la insignia codifica la jerarquía: azul marino oscuro para Regional
 ## Véase también
 
 - [[co-location-methodology]]
-- [[catchment-ranking-methodology-v3]]
+- [[catchment-ranking-methodology]]
 - [[retail-brand-family-taxonomy]]

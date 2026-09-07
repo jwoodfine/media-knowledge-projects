@@ -62,7 +62,7 @@ Current tier counts by country are published live on the GIS platform rather tha
 Expansion of the tertiary civic dataset — bringing university and hospital coverage in Mexico and Canada to the same maturity as the United States — is a planned target for future iterations. [ni-51-102] [osc-sn-51-721]
 
 ## Provenance
-- **Verification:** Tier definitions and predicate gates confirmed against the GIS platform's V3 scoring methodology.
+- **Verification:** Tier definitions and predicate gates confirmed against the GIS platform's current scoring methodology.
 - **Forward-looking disclosure:** Tertiary civic dataset expansion for Mexico and Canada is an intended outcome, labeled per [ni-51-102].
 
 ## See also

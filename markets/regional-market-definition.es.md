@@ -84,6 +84,6 @@ El Mercado Metro es un contenedor contextual más grueso: un área metropolitana
 ## Véase también
 
 - [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] — el conjunto de datos completo, el sistema de niveles y el método de calificación de los que parten las definiciones de este artículo
-- [[catchment-ranking-methodology-v3]] — cómo se calculan los niveles y el puntaje de fortaleza planeado para cada co-ubicación dentro de un Mercado Regional
+- [[catchment-ranking-methodology]] — cómo se calculan los niveles y el puntaje de fortaleza planeado para cada co-ubicación dentro de un Mercado Regional
 - [[trade-area-methodology]] — cómo se define el área de atracción para cada co-ubicación
 - [[spend-population-provenance]] — la cadena de estimación para las cifras de población y gasto

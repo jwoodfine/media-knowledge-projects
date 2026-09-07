@@ -163,5 +163,5 @@ All forward-looking items above are stated as planned or intended; they describe
 ## See also
 
 - [[trade-area-methodology]] — how the polygon over which population and spend are summed is defined
-- [[catchment-ranking-methodology-v3]] — how the spend figure feeds the planned strength score
+- [[catchment-ranking-methodology]] — how the spend figure feeds the planned strength score
 - [[trade-area-data-sources]] — the population and spend data sources and per-capita multiplier table

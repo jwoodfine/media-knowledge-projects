@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
-title: "Metodología de Clasificación de Captación por Predicados Puros (V3)"
-slug: catchment-ranking-methodology-v3
+title: "Metodología de clasificación de captación por composición"
+slug: catchment-ranking-methodology
 category: site-selection
 index_group: site-scoring-and-trade-areas
 type: topic
@@ -14,7 +14,7 @@ language_protocol: TRANSLATE-ES
 last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "El sistema vigente de compuertas predicativas que asigna cada clúster de co-ubicación a uno de cuatro niveles — Regional, Distrital, Local, Marginal — mediante composición de anclas, posición nacional de captación, infraestructura cívica e independencia espacial, introducido en mayo de 2026 para reemplazar un modelo anterior de puntuación compuesta."
-paired_with: site-selection/catchment-ranking-methodology-v3.md
+paired_with: site-selection/catchment-ranking-methodology.md
 cites:
   - osm-odbl
   - overture-maps-cdla-2-0

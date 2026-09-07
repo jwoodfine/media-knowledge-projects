@@ -47,7 +47,7 @@ Those figures are then converted into a rank within the cluster's own country, e
 
 Tier assignment applies four families of binary gate: **composition**, which anchor classes are present; **catchment rank**, the cluster's national percentile on population and spend; **civic**, whether a hospital of the required classification sits within the surrounding ring; and **non-overlap**, whether a stronger nearby cluster already dominates the same node. A cluster must clear every gate its tier requires. Partial results do not accumulate, and a strong showing on one gate does not compensate for a failure on another — which is the discipline predicate gates were introduced to enforce.
 
-The gate tables are not restated here. They are maintained in the [[catchment-ranking-methodology-v3|V3 catchment ranking methodology]], with the vocabulary defined in the [[gis-cluster-scoring-glossary|cluster scoring glossary]] and the development-facing reading in the [[geographic-co-location-methodology|geographic co-location methodology]].
+The gate tables are not restated here. They are maintained in the [[catchment-ranking-methodology|catchment ranking methodology]], with the vocabulary defined in the [[gis-cluster-scoring-glossary|cluster scoring glossary]] and the development-facing reading in the [[geographic-co-location-methodology|geographic co-location methodology]].
 
 ## The four tiers, and the vocabulary they replaced
 
@@ -78,7 +78,7 @@ Nor are the layers themselves stronger than their sources. The demand zones are 
 ## See also
 
 - [[geographic-co-location-methodology]]
-- [[catchment-ranking-methodology-v3]]
+- [[catchment-ranking-methodology]]
 - [[od-catchment-methodology]]
 - [[trade-area-data-sources]]
 - [[spend-population-provenance]]

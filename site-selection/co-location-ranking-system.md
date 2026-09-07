@@ -17,7 +17,7 @@ short_description: "The deterministic mechanics behind cluster ranking on the co
 paired_with: site-selection/co-location-ranking-system.es.md
 ---
 
-The Woodfine [[co-location-methodology|co-location methodology]] assigns each cluster's tier through binary predicate gates, not a composite score — no cluster earns a tier by accumulating points toward a threshold. This article covers the mechanics behind those gates: how a cluster's catchment position is measured against its national peers, how competing clusters are compared for overlap, and how clusters are ordered once ranked. The gate definitions themselves — which combination of tests each tier requires — are set out in the [[catchment-ranking-methodology-v3|V3 catchment ranking methodology]]; the tier labels are described in [[co-location-tier-nomenclature|tier nomenclature]].
+The Woodfine [[co-location-methodology|co-location methodology]] assigns each cluster's tier through binary predicate gates, not a composite score — no cluster earns a tier by accumulating points toward a threshold. This article covers the mechanics behind those gates: how a cluster's catchment position is measured against its national peers, how competing clusters are compared for overlap, and how clusters are ordered once ranked. The gate definitions themselves — which combination of tests each tier requires — are set out in the [[catchment-ranking-methodology|catchment ranking methodology]]; the tier labels are described in [[co-location-tier-nomenclature|tier nomenclature]].
 
 ## Country-relative ranking
 
@@ -29,7 +29,7 @@ These thresholds are intentionally coarse. The system is built to separate natio
 
 ## The overlap test
 
-A cluster is only credited for its tier when it is not dominated by a stronger neighbour nearby. Overlap between neighbouring clusters is measured by a geometric test over a fixed radius around each cluster: the closer two clusters sit, the higher the measured overlap, and clusters far enough apart are treated as spatially independent. A cluster that substantially overlaps a stronger cluster is held below the tier its composition and catchment would otherwise earn. Regional carries the strictest overlap limit of any tier, per the [[catchment-ranking-methodology-v3|gate definitions]]. The overlap measure and its radius are planned for publication at gis.woodfinegroup.com.
+A cluster is only credited for its tier when it is not dominated by a stronger neighbour nearby. Overlap between neighbouring clusters is measured by a geometric test over a fixed radius around each cluster: the closer two clusters sit, the higher the measured overlap, and clusters far enough apart are treated as spatially independent. A cluster that substantially overlaps a stronger cluster is held below the tier its composition and catchment would otherwise earn. Regional carries the strictest overlap limit of any tier, per the [[catchment-ranking-methodology|gate definitions]]. The overlap measure and its radius are planned for publication at gis.woodfinegroup.com.
 
 ## Ordering within a tier
 
@@ -43,7 +43,7 @@ Map and location data © [OpenStreetMap contributors](https://www.openstreetmap.
 
 - [[co-location-methodology]]
 - [[co-location-intelligence-overview]]
-- [[catchment-ranking-methodology-v3]]
+- [[catchment-ranking-methodology]]
 
 ## References
 

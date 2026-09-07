@@ -17,7 +17,7 @@ short_description: "Each co-location cluster is assigned two straight-line dista
 paired_with: site-selection/od-catchment-methodology.es.md
 ---
 
-The Woodfine [[co-location-methodology|co-location]] platform assigns each cluster two demand zones that determine which population and spend data is attributed to it: a primary zone within 35 km of the cluster, and a secondary zone from 35 km to 150 km. Both are straight-line distance bands, and they are labelled as such: a distance band approximates where customers come from; it is not a measured catchment, and the platform does not label it one. The labelling rule, and the planned move to observed origins and drive-time boundaries, are set out in [[trade-area-methodology]]. The zone inputs to the [[co-location-ranking-system|deterministic ranking system]] and the [[catchment-ranking-methodology-v3|V3 catchment ranking methodology]] flow from this model; population and spend layers are documented in [[trade-area-data-sources|trade-area data sources]].
+The Woodfine [[co-location-methodology|co-location]] platform assigns each cluster two demand zones that determine which population and spend data is attributed to it: a primary zone within 35 km of the cluster, and a secondary zone from 35 km to 150 km. Both are straight-line distance bands, and they are labelled as such: a distance band approximates where customers come from; it is not a measured catchment, and the platform does not label it one. The labelling rule, and the planned move to observed origins and drive-time boundaries, are set out in [[trade-area-methodology]]. The zone inputs to the [[co-location-ranking-system|deterministic ranking system]] and the [[catchment-ranking-methodology|catchment ranking methodology]] flow from this model; population and spend layers are documented in [[trade-area-data-sources|trade-area data sources]].
 
 ## Zone definitions
 
@@ -51,13 +51,13 @@ Zone membership is the basis for:
 
 - Population aggregation (published population data by zone)
 - Spend aggregation (grocery, hardware, wholesale spend by zone)
-- Cross-cluster competitive ranking (see [[catchment-ranking-methodology-v3]])
+- Cross-cluster competitive ranking (see [[catchment-ranking-methodology]])
 
 The zone polygons displayed on the map are generated from the same 35 km / 150 km straight-line radii, visualised in two distinct colours to distinguish primary from secondary zones.
 
 ## See also
 
-- [[catchment-ranking-methodology-v3]]
+- [[catchment-ranking-methodology]]
 - [[trade-area-data-sources]]
 - [[co-location-methodology]]
 

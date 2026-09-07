@@ -48,7 +48,7 @@ alimentación, asignadas a uno de cuatro niveles mediante una prueba de
 predicados: cada nivel exige que se cumplan todas las condiciones listadas,
 no una puntuación aditiva frente a un umbral. Las definiciones de las
 compuertas se exponen íntegramente en la
-[[catchment-ranking-methodology-v3|metodología de clasificación de captación]],
+[[catchment-ranking-methodology|metodología de clasificación de captación]],
 que es el enunciado canónico de la lógica de niveles; lo que sigue resume
 qué distingue a cada nivel.
 
@@ -260,7 +260,7 @@ conforme a la definición de Área de Acceso anterior.
 
 ## Véase también
 
-- [[catchment-ranking-methodology-v3|Metodología de clasificación de captación]] — el enunciado canónico de las compuertas de nivel PRO
+- [[catchment-ranking-methodology|Metodología de clasificación de captación]] — el enunciado canónico de las compuertas de nivel PRO
 - [[co-location-methodology|Metodología de co-ubicación]] — la prueba de composición de anclas que impulsa la asignación de niveles PRO
 - [[co-location-ranking-system|Sistema de clasificación de co-ubicación]] — el índice de densidad comercial de cinco rangos que clasifica los clústeres PRO
 - [[retail-brand-family-taxonomy|Taxonomía de familias de marcas minoristas]] — las clases de ancla referenciadas en todo el artículo

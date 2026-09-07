@@ -80,7 +80,7 @@ Trade-area membership is the basis for population aggregation (WorldPop 2026), s
 
 ## See also
 
-- [[catchment-ranking-methodology-v3]] — how clusters are assigned tiers and the planned strength score
+- [[catchment-ranking-methodology]] — how clusters are assigned tiers and the planned strength score
 - [[spend-population-provenance]] — the estimation chain for population and spend within the trade area
 - the settlement-level rollup built over co-location clusters
 - the process that runs the spatial analysis

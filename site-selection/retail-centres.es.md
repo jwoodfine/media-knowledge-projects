@@ -56,7 +56,7 @@ El nivel de un clúster se asigna por compuerta predicativa, no por una puntuaci
 
 La distancia del clúster sigue importando, pero como entrada de agrupamiento y no como prueba de calificación. Las ubicaciones minoristas de categoría ancla se agrupan en un mismo clúster candidato solo cuando caen dentro de una distancia definida entre sí, de modo que esa distancia determina qué cuenta como un único clúster antes de comprobar ninguna compuerta. Por sí sola no fija el nivel. Las convenciones de distancia son parámetros de la plataforma, reajustados entre reconstrucciones a medida que cambia la cobertura de cadenas ancla, y no se publican aquí.
 
-Las definiciones completas de las compuertas se mantienen en la [[catchment-ranking-methodology-v3|metodología de clasificación de captación]]; las propias etiquetas de nivel se definen en la [[co-location-tier-nomenclature|nomenclatura de niveles]]. Las etiquetas T1–T4 utilizadas aquí son compartidas con los otros arquetipos de Inteligencia de Localización.
+Las definiciones completas de las compuertas se mantienen en la [[catchment-ranking-methodology|metodología de clasificación de captación]]; las propias etiquetas de nivel se definen en la [[co-location-tier-nomenclature|nomenclatura de niveles]]. Las etiquetas T1–T4 utilizadas aquí son compartidas con los otros arquetipos de Inteligencia de Localización.
 
 ## Cobertura
 
@@ -71,7 +71,7 @@ Los Centros Comerciales de Barrio anclan todo el conjunto de datos de Inteligenc
 ## Véase también
 
 - [[location-intelligence-archetypes]] — la visión completa de los arquetipos de co-localización PRO/VWH/PKS
-- [[catchment-ranking-methodology-v3]] — las definiciones completas de las compuertas de nivel
+- [[catchment-ranking-methodology]] — las definiciones completas de las compuertas de nivel
 
 ## Fuentes de datos
 

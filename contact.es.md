@@ -13,7 +13,7 @@ paired_with: contact.md
 ---
 
 Para consultas relacionadas con esta wiki o con la investigación y metodología de Woodfine Management
-Corp. — incluidas preguntas sobre la [[catchment-ranking-methodology-v3|metodología de clasificación de área de captación]],
+Corp. — incluidas preguntas sobre la [[catchment-ranking-methodology|metodología de clasificación de área de captación]],
 el [[od-catchment-methodology|modelo de bandas de distancia]], o la cobertura de datos — contacte a
 MCorp a través de los canales institucionales oficiales.
 

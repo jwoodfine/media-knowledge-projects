@@ -35,7 +35,7 @@ Twenty-seven articles cover how a Development Site is found, scored, and cleared
 - [[power-centres|Power Centres]] — The retail hubs every candidate site is measured against.
 - [[co-location-anchors|Co-location anchors]] — The large-format retailers whose verified presence qualifies a node. This is the binary test the dataset turns on.
 - [[co-location-ranking-system|Ranking system]] — How clusters are ranked within a country, how overlaps are resolved, and how ties are broken.
-- [[catchment-ranking-methodology-v3|Catchment ranking methodology, V3]] — The current four tier gates: anchor composition, catchment rank, civic infrastructure, and spatial independence.
+- [[catchment-ranking-methodology|Catchment ranking methodology]] — The current four tier gates: anchor composition, catchment rank, civic infrastructure, and spatial independence.
 - [[zoning-acquisition-rules|Zoning acquisition standard]] — No parcel is bought without a verified entitlement position and an active development timeline.
 
 ## Strategy and Investment Thesis
@@ -85,7 +85,7 @@ How a qualifying anchor becomes a ranked cluster. Seven articles cover cluster f
 - [[co-location-cluster-formation]] — The pipeline step that converts each qualifying anchor store into a candidate co-location cluster; overlapping candidates from a single trade area are resolved by deduplication before ranking inputs are aggregated.
 - [[cluster-deduplication-threshold]] — The co-location index pipeline deduplicates overlapping clusters that represent the same commercial zone using a fixed, tightly-set proximity threshold, retaining the cluster with the higher secondary operator count.
 - [[co-location-ranking-system]] — The deterministic mechanics behind cluster ranking on the co-location platform — country-relative percentile ranking, the overlap test between neighbouring clusters, and the tiebreak order applied within a tier.
-- [[catchment-ranking-methodology-v3]] — The current predicate-gate system that assigns each co-location cluster to one of four tiers — Regional, District, Local, Fringe — using anchor composition, national catchment rank, civic infrastructure, and spatial independence, introduced May 2026 to replace an earlier composite-score model.
+- [[catchment-ranking-methodology]] — The current predicate-gate system that assigns each co-location cluster to one of four tiers — Regional, District, Local, Fringe — using anchor composition, national catchment rank, civic infrastructure, and spatial independence, introduced May 2026 to replace an earlier composite-score model.
 - [[geographic-co-location-methodology]] — Predicate-gate tier system scoring retail co-location clusters by anchor composition, catchment rank, and civic presence to rank development sites by anchor strength.
 - [[od-catchment-methodology]] — Each co-location cluster is assigned two straight-line distance bands — a primary zone within 35 km and a secondary zone from 35 km to 150 km — that determine the population and spend attributed to it.
 - [[trade-area-methodology]] — Honest labelling of demand geography — why straight-line distance bands are never called catchments, and the planned move to isochrones and observed origins.

@@ -30,7 +30,7 @@ Two vocabularies meet in this subject, and confusing them is the most common mis
 
 **Target roles** — primary, secondary, tertiary — describe what the platform looks for and why it looks for it. **Cluster tiers** — Regional, District, Local, and Fringe — describe what a cluster was found to be once every condition has been tested. A cluster in which all three target roles are present can still fall to the lowest tier if its catchment reach is inadequate.
 
-The tier labels and what they mean are set out in [[co-location-tier-nomenclature|tier nomenclature]]. The conditions a cluster must clear to earn each tier are set out in [[catchment-ranking-methodology-v3|the catchment ranking methodology]]. This article covers the inputs to those conditions, not the conditions themselves.
+The tier labels and what they mean are set out in [[co-location-tier-nomenclature|tier nomenclature]]. The conditions a cluster must clear to earn each tier are set out in [[catchment-ranking-methodology|the catchment ranking methodology]]. This article covers the inputs to those conditions, not the conditions themselves.
 
 ## Primary target — the hypermarket anchor
 
@@ -95,5 +95,5 @@ It is also not a demographic profile. The co-location output records the communi
 ## See also
 
 - [[geographic-co-location-methodology]]
-- [[catchment-ranking-methodology-v3]]
+- [[catchment-ranking-methodology]]
 - [[co-location-anchors]]

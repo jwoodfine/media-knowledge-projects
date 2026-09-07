@@ -18,7 +18,7 @@ short_description: "La mecánica determinista detrás de la clasificación de cl
 paired_with: site-selection/co-location-ranking-system.md
 ---
 
-La [[co-location-methodology|metodología de co-ubicación]] de Woodfine asigna el nivel de cada clúster mediante compuertas predicativas binarias, no mediante una puntuación compuesta — ningún clúster obtiene un nivel acumulando puntos hacia un umbral. Este artículo cubre la mecánica detrás de esas compuertas: cómo se mide la posición de captación de un clúster frente a sus pares nacionales, cómo se comparan los clústeres competidores por superposición, y cómo se ordenan los clústeres una vez clasificados. Las definiciones de las compuertas — qué combinación de pruebas requiere cada nivel — se detallan en la [[catchment-ranking-methodology-v3|metodología V3 de clasificación de captación]]; las etiquetas de nivel se describen en la [[co-location-tier-nomenclature|nomenclatura de niveles]].
+La [[co-location-methodology|metodología de co-ubicación]] de Woodfine asigna el nivel de cada clúster mediante compuertas predicativas binarias, no mediante una puntuación compuesta — ningún clúster obtiene un nivel acumulando puntos hacia un umbral. Este artículo cubre la mecánica detrás de esas compuertas: cómo se mide la posición de captación de un clúster frente a sus pares nacionales, cómo se comparan los clústeres competidores por superposición, y cómo se ordenan los clústeres una vez clasificados. Las definiciones de las compuertas — qué combinación de pruebas requiere cada nivel — se detallan en la [[catchment-ranking-methodology|metodología de clasificación de captación]]; las etiquetas de nivel se describen en la [[co-location-tier-nomenclature|nomenclatura de niveles]].
 
 ## Clasificación relativa al país
 
@@ -30,7 +30,7 @@ Estos umbrales son intencionalmente amplios. El sistema está diseñado para sep
 
 ## La prueba de superposición
 
-Un clúster solo se acredita para su nivel cuando no está dominado por un vecino más fuerte cercano. La superposición entre clústeres vecinos se mide mediante una prueba geométrica sobre un radio fijo alrededor de cada clúster: cuanto más cerca están dos clústeres, mayor es la superposición medida, y los clústeres suficientemente separados se consideran espacialmente independientes. Un clúster que se superpone sustancialmente con uno más fuerte se mantiene por debajo del nivel que su composición y captación alcanzarían por sí solas. Regional lleva el límite de superposición más estricto de todos los niveles, según las [[catchment-ranking-methodology-v3|definiciones de compuertas]]. La medida de superposición y su radio están previstos para publicarse en gis.woodfinegroup.com.
+Un clúster solo se acredita para su nivel cuando no está dominado por un vecino más fuerte cercano. La superposición entre clústeres vecinos se mide mediante una prueba geométrica sobre un radio fijo alrededor de cada clúster: cuanto más cerca están dos clústeres, mayor es la superposición medida, y los clústeres suficientemente separados se consideran espacialmente independientes. Un clúster que se superpone sustancialmente con uno más fuerte se mantiene por debajo del nivel que su composición y captación alcanzarían por sí solas. Regional lleva el límite de superposición más estricto de todos los niveles, según las [[catchment-ranking-methodology|definiciones de compuertas]]. La medida de superposición y su radio están previstos para publicarse en gis.woodfinegroup.com.
 
 ## Orden dentro de un nivel
 
@@ -44,7 +44,7 @@ Datos de mapa y localización © [colaboradores de OpenStreetMap](https://www.op
 
 - [[co-location-methodology]]
 - [[co-location-intelligence-overview]]
-- [[catchment-ranking-methodology-v3]]
+- [[catchment-ranking-methodology]]
 
 ## Referencias
 

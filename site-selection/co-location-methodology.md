@@ -28,7 +28,7 @@ The Woodfine co-location methodology measures it. It classifies development site
 
 A node qualifies when a hypermarket, a warehouse club, and a home-improvement superstore have each independently committed capital within a defined catchment radius of one another. Each operator runs its own site-selection process; convergence is independent corroboration, not a single forecast. The qualification logic, [[co-location-cluster-formation|cluster formation]], and the [[co-location-anchors|anchor]] adjacency requirement are the three structural inputs to the index.
 
-For a capital allocator the index is a defensive filter: it prioritises the sites where several parties have independently validated the trade area. This article covers the anchor taxonomy and the tier system's predicate gates; sibling articles describe the [[od-catchment-methodology|distance-band methodology]], the [[trade-area-data-sources|trade-area data sources]], and the [[catchment-ranking-methodology-v3|catchment ranking methodology]].
+For a capital allocator the index is a defensive filter: it prioritises the sites where several parties have independently validated the trade area. This article covers the anchor taxonomy and the tier system's predicate gates; sibling articles describe the [[od-catchment-methodology|distance-band methodology]], the [[trade-area-data-sources|trade-area data sources]], and the [[catchment-ranking-methodology|catchment ranking methodology]].
 
 ## Anchor taxonomy
 
@@ -47,7 +47,7 @@ Each cluster is assigned one of four tiers — **Regional**, **District**, **Loc
 | **Local** | A hardware or warehouse anchor, top-half catchment population, and any hospital within the civic ring. |
 | **Fringe** | Retail co-tenancy is present, but catchment reach, composition, or civic support falls short of Local. |
 
-The full gate definitions — composition, catchment rank, civic presence, and spatial non-overlap — are set out in the [[catchment-ranking-methodology-v3|V3 catchment ranking methodology]].
+The full gate definitions — composition, catchment rank, civic presence, and spatial non-overlap — are set out in the [[catchment-ranking-methodology|catchment ranking methodology]].
 
 ## Strategy and application
 

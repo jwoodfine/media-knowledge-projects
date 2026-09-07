@@ -62,7 +62,7 @@ Los recuentos de nivel actuales por país se publican en vivo en la plataforma G
 La ampliación del conjunto de datos cívicos terciarios — para llevar la cobertura de universidades y hospitales en México y Canadá a la misma madurez que en Estados Unidos — es un objetivo previsto para futuras iteraciones. [ni-51-102] [osc-sn-51-721]
 
 ## Procedencia
-- **Verificación:** Las definiciones de nivel y las compuertas predicativas se confirmaron contra la metodología de puntuación V3 de la plataforma GIS.
+- **Verificación:** Las definiciones de nivel y las compuertas predicativas se confirmaron contra la metodología de puntuación actual de la plataforma GIS.
 - **Divulgación prospectiva:** La ampliación del conjunto de datos cívicos terciarios para México y Canadá es un resultado previsto, etiquetado conforme a [ni-51-102].
 
 ## Ver también

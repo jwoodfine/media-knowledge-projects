@@ -30,7 +30,7 @@ En este tema se cruzan dos vocabularios, y confundirlos es el error de lectura m
 
 Los **papeles de objetivo** — primario, secundario, terciario — describen qué busca la plataforma y por qué lo busca. Los **niveles de clúster** — Regional, Distrital, Local y Marginal — describen qué resultó ser un clúster una vez comprobadas todas las condiciones. Un clúster en el que están presentes los tres papeles puede quedar igualmente en el nivel más bajo si su alcance de captación es insuficiente.
 
-Las etiquetas de nivel y su significado se establecen en la [[co-location-tier-nomenclature|nomenclatura de niveles]]. Las condiciones que un clúster debe superar para obtener cada nivel se establecen en la [[catchment-ranking-methodology-v3|metodología de clasificación de captación]]. Este artículo trata las entradas de esas condiciones, no las condiciones en sí.
+Las etiquetas de nivel y su significado se establecen en la [[co-location-tier-nomenclature|nomenclatura de niveles]]. Las condiciones que un clúster debe superar para obtener cada nivel se establecen en la [[catchment-ranking-methodology|metodología de clasificación de captación]]. Este artículo trata las entradas de esas condiciones, no las condiciones en sí.
 
 ## Objetivo primario — el ancla de hipermercado
 
@@ -95,5 +95,5 @@ Tampoco es un perfil demográfico. La salida de co-ubicación registra la comuni
 ## Véase también
 
 - [[geographic-co-location-methodology]]
-- [[catchment-ranking-methodology-v3]]
+- [[catchment-ranking-methodology]]
 - [[co-location-anchors]]

@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
-title: "Pure-predicate catchment ranking methodology (V3)"
-slug: catchment-ranking-methodology-v3
+title: "Composition-based catchment ranking methodology"
+slug: catchment-ranking-methodology
 category: site-selection
 index_group: site-scoring-and-trade-areas
 type: topic
@@ -14,7 +14,7 @@ language_protocol: PROSE-TOPIC
 last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "The current predicate-gate system that assigns each co-location cluster to one of four tiers — Regional, District, Local, Fringe — using anchor composition, national catchment rank, civic infrastructure, and spatial independence, introduced May 2026 to replace an earlier composite-score model."
-paired_with: site-selection/catchment-ranking-methodology-v3.es.md
+paired_with: site-selection/catchment-ranking-methodology.es.md
 cites:
   - osm-odbl
   - overture-maps-cdla-2-0

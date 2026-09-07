@@ -47,7 +47,7 @@ Esas cifras se convierten a continuación en un rango dentro del propio país de
 
 La asignación de nivel aplica cuatro familias de compuerta binaria: **composición**, qué clases de ancla están presentes; **rango de captación**, el percentil nacional del clúster en población y gasto; **cívica**, si hay un hospital de la clasificación exigida dentro del anillo circundante; y **no solapamiento**, si un clúster más fuerte próximo ya domina el mismo nodo. Un clúster debe superar todas las compuertas que su nivel exige. Los resultados parciales no se acumulan, y un buen desempeño en una compuerta no compensa el fallo en otra: esa es precisamente la disciplina que las compuertas de predicado se introdujeron para imponer.
 
-Las tablas de compuertas no se reproducen aquí. Se mantienen en la [[catchment-ranking-methodology-v3|metodología V3 de clasificación de captación]], con el vocabulario definido en el [[gis-cluster-scoring-glossary|glosario de puntuación de clústeres]] y la lectura orientada al desarrollo en la [[geographic-co-location-methodology|metodología geográfica de co-ubicación]].
+Las tablas de compuertas no se reproducen aquí. Se mantienen en la [[catchment-ranking-methodology|metodología de clasificación de captación]], con el vocabulario definido en el [[gis-cluster-scoring-glossary|glosario de puntuación de clústeres]] y la lectura orientada al desarrollo en la [[geographic-co-location-methodology|metodología geográfica de co-ubicación]].
 
 ## Los cuatro niveles y el vocabulario al que sustituyen
 
@@ -78,7 +78,7 @@ Tampoco las capas son más sólidas que sus fuentes. Las zonas de demanda son ap
 ## Véase también
 
 - [[geographic-co-location-methodology]]
-- [[catchment-ranking-methodology-v3]]
+- [[catchment-ranking-methodology]]
 - [[od-catchment-methodology]]
 - [[trade-area-data-sources]]
 - [[spend-population-provenance]]

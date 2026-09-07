@@ -163,5 +163,5 @@ gis.woodfinegroup.com.
 ## Véase también
 
 - [[trade-area-methodology]] — cómo se define el polígono sobre el cual se suman la población y el gasto
-- [[catchment-ranking-methodology-v3]] — cómo la cifra de gasto alimenta el puntaje de fortaleza planeado
+- [[catchment-ranking-methodology]] — cómo la cifra de gasto alimenta el puntaje de fortaleza planeado
 - [[trade-area-data-sources]] — las fuentes de datos de población y gasto y la tabla de multiplicadores per cápita

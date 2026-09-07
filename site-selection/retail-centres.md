@@ -56,7 +56,7 @@ A cluster's tier is assigned by predicate gate, not by an accumulated score. Eve
 
 Span still matters, but as a clustering input rather than as the qualification test. Anchor-category retail locations are grouped into one candidate cluster only when they fall within a defined span of each other, so span determines what counts as a single cluster before any gate is tested. It does not, on its own, set the tier. The span conventions are platform parameters, re-tuned between rebuilds as anchor-chain coverage changes, and are not published here.
 
-The full gate definitions are maintained in [[catchment-ranking-methodology-v3|the catchment ranking methodology]]; the tier labels themselves are defined in [[co-location-tier-nomenclature|tier nomenclature]]. The T1–T4 tier labels used here are shared with the other Location Intelligence archetypes.
+The full gate definitions are maintained in [[catchment-ranking-methodology|the catchment ranking methodology]]; the tier labels themselves are defined in [[co-location-tier-nomenclature|tier nomenclature]]. The T1–T4 tier labels used here are shared with the other Location Intelligence archetypes.
 
 ## Coverage
 
@@ -71,7 +71,7 @@ Retail Centres anchor the entire Location Intelligence dataset because grocery-a
 ## See also
 
 - [[location-intelligence-archetypes]] — the full PRO/VWH/PKS co-location archetype overview
-- [[catchment-ranking-methodology-v3]] — the tier gate definitions in full
+- [[catchment-ranking-methodology]] — the tier gate definitions in full
 
 ## Data Sources
 

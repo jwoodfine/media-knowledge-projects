@@ -45,7 +45,7 @@ PRO clusters represent grocery-anchored commercial co-locations, assigned to
 one of four tiers by a predicate-gate test — each tier requires every listed
 condition to pass, not an additive score against a threshold. The gate
 definitions are set out in full in the
-[[catchment-ranking-methodology-v3|catchment ranking methodology]], which is
+[[catchment-ranking-methodology|catchment ranking methodology]], which is
 the canonical statement of the tier logic; what follows summarises what
 distinguishes each tier.
 
@@ -242,7 +242,7 @@ Map and location data © [OpenStreetMap contributors](https://www.openstreetmap.
 
 ## See also
 
-- [[catchment-ranking-methodology-v3|Catchment Ranking Methodology]] — the canonical statement of the PRO tier gates
+- [[catchment-ranking-methodology|Catchment Ranking Methodology]] — the canonical statement of the PRO tier gates
 - [[co-location-methodology|Co-location Methodology]] — the anchor-composition test that drives PRO tier assignment
 - [[co-location-ranking-system|Co-location Ranking System]] — the five-rank commercial density index that ranks PRO clusters
 - [[retail-brand-family-taxonomy|Retail Brand-Family Taxonomy]] — the anchor classes referenced throughout
