@@ -13,7 +13,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-09-04
 editor: pointsav-engineering
-short_description: "Provenance chain behind catchment population and spend estimates — WorldPop rasters, H3 aggregation, and per-capita multipliers, with their stated weaknesses."
+short_description: "Provenance chain behind catchment population and spend estimates — Kontur Population, H3 aggregation, and per-capita multipliers, with their stated weaknesses."
 paired_with: gis/spend-population-provenance.es.md
 cites: []
 ---
@@ -24,13 +24,13 @@ The Woodfine location intelligence map presents two synthesised demographic surf
 
 The spend figure shown on a cluster is the output of three sequential modelling steps. None of the error introduced at each step is currently propagated forward into the displayed value.
 
-### Step 1 — Population: WorldPop dasymetric raster
+### Step 1 — Population: Kontur Population, H3-native
 
-Population originates from the **WorldPop 2026 100-metre gridded population product** (CC BY 4.0). WorldPop is itself a model: census counts collected at coarse administrative units are redistributed to a 100 m grid using dasymetric techniques — satellite-derived settlement extent, land cover, and ancillary covariates reallocate people from the administrative unit to the cells where they are most likely to live. The 100 m cell is a modelled allocation, not a counted population. Its error is heteroscedastic: tighter where recent, high-quality census microdata exists (most of North America and Western Europe), looser where the underlying census is older or coarser.
+Population originates from **Kontur Population** (CC BY 4.0), delivered per country at **H3 resolution 8** — a finer hexagon grid than the resolution-7 level catchments are ultimately aggregated to. Because Kontur's population values are already bound to hexagon geometry at source, there is no raster-to-hexagon reprojection step and no dasymetric redistribution model in this stage of the chain; the modelling assumptions that produce Kontur's own resolution-8 figures are Kontur's, not this pipeline's, and are not independently documented here.
 
 ### Step 2 — Aggregation to H3 resolution 7
 
-The 100 m cells are filtered to those within 150 km of a co-location cluster centroid, then summed into their containing **H3 resolution-7 hexagon** (average area approximately 5.16 km²). Catchment population is the sum of cell populations over the H3 cells whose centroids fall inside a cluster's distance rings.
+Each resolution-8 cell is resolved to its containing **resolution-7 parent hexagon** (average area approximately 5.16 km²), and population values are summed across every resolution-8 child sharing that parent. Catchment population is the sum of resolution-7 cell populations over the cells whose centroids fall inside a cluster's distance rings.
 
 ### Step 3 — Spend: per-capita multiplier
 
@@ -58,7 +58,7 @@ The discipline that follows is therefore a presentation rule: **the map must not
 
 Both surfaces are aggregated to the H3 resolution-7 grid before catchment sums are taken. The modifiable-areal-unit problem (MAUP) is the well-established result that statistics computed over areal units change when the unit's size or boundary changes. Two consequences for this map:
 
-- **Scale effect.** Aggregating WorldPop's 100 m cells to approximately 5.16 km² hexagons smooths the population surface. A different resolution would produce different catchment totals for the same rings, because the H3 cells intersect the distance rings differently.
+- **Scale effect.** Rolling up Kontur's resolution-8 cells to the approximately 5.16 km² resolution-7 hexagon smooths the population surface. A different target resolution would produce different catchment totals for the same rings, because the hexagon lattice intersects the distance rings differently at each resolution.
 - **Edge effect.** A distance ring slices through hexagons at its boundary. A cell is counted as fully in or fully out based on its centroid, so the catchment total is sensitive to exactly how the hexagon lattice falls relative to the ring.
 
 MAUP is not a defect to be fixed; it is an inherent property of any areal aggregation. The obligation is to acknowledge it in the Method modal and to avoid over-interpreting small differences between clusters. The magnitude of the MAUP effect at resolution 7 for the distance rings in use has not yet been quantified; a sensitivity sweep across resolutions 6, 7, and 8 is a documented gap.
@@ -88,7 +88,7 @@ The on-map provenance line and the Data / Method modal both derive from this reg
 
 A persistent line on the map face, in the form:
 
-> Data: WorldPop 2026, OSM, Kontur CC-BY — updated [build month] · Method ⓘ
+> Data: Kontur Population CC-BY, OSM — updated [build month] · Method ⓘ
 
 OpenStreetMap attribution is a licence obligation under ODbL and remains present separately from the provenance line.
 
@@ -96,11 +96,10 @@ OpenStreetMap attribution is a licence obligation under ODbL and remains present
 
 | Source | Role | Vintage | Licence |
 |---|---|---|---|
-| WorldPop | 100 m gridded population — Step 1 of the spend chain | 2026 raster | CC BY 4.0 — WorldPop (www.worldpop.org) |
+| Kontur Population | H3-native gridded population, resolution 8 — Step 1 of the spend chain | 2023 per-country release | CC BY 4.0 |
 | OpenStreetMap | Retail and civic POI locations defining the clusters | Continuously updated; snapshot per build | ODbL 1.0 — © OpenStreetMap contributors |
 | Overture Maps — Places | Global POI theme for anchor resolution | 2026 release | CDLA-Permissive-2.0 — © Overture Maps Foundation |
 | Overture Maps — Addresses | Street-address backfill for null-address POI records | Release 2026-04-15.0 | ODbL 1.0 — © Overture Maps Foundation contributors |
-| Kontur Population | Auxiliary population reference (H3-native) | 2026 (HDX) | CC BY 4.0 |
 | BLS Consumer Expenditure Survey | US per-capita spend multiplier proxy | Latest published | US federal public data |
 | Statistics Canada — Household Expenditures | Canada per-capita spend multiplier proxy | Latest survey | StatCan Open Licence — adapted from Statistics Canada data; not an endorsement |
 | Eurostat — Household Budget Survey | EU per-capita spend multiplier proxy | Latest HBS | CC BY 4.0 — © European Union, 1995–2026 |
@@ -108,7 +107,9 @@ OpenStreetMap attribution is a licence obligation under ODbL and remains present
 
 ### Countries covered
 
-United States, Canada, Mexico, Great Britain, Germany, France, Netherlands, Austria, Portugal, Greece, Denmark, Iceland, and Poland — 13 countries at the current pipeline version. This is the set with published per-capita spend multipliers. It is a subset of the platform's broader co-location footprint, which spans 24 countries as of the most recent full processing run (2026-08-06). See [[co-location-intelligence-overview]] for full country coverage.
+The population layer covers United States, Canada, Mexico, Spain, France, Germany, Great Britain, Italy, Netherlands, Austria, Poland, Greece, and Portugal — 13 countries at the current pipeline version. This is a subset of the platform's broader co-location footprint, which spans 24 countries as of the most recent full processing run (2026-08-06). See [[co-location-intelligence-overview]] for full country coverage.
+
+**Open discrepancy, not resolved here:** the per-capita spend multiplier table below carries Denmark and Iceland rather than Spain and Italy — a different 13-country set than the population layer's own coverage above. Whether the spend multipliers genuinely apply to a different country set (e.g. a separate household-survey source with its own coverage) or the table is simply stale is not established by this article; flagged for the pipeline owner rather than silently reconciled.
 
 ### Per-capita annual spend multipliers
 
@@ -147,7 +148,7 @@ Multipliers are annual per-capita expenditure proxies expressed in local currenc
 
 | Item | State |
 |---|---|
-| WorldPop → H3 resolution-7 population surface | Shipped |
+| Kontur → H3 resolution-7 population surface | Shipped |
 | Per-capita spend multipliers (13 countries) | Shipped |
 | Confidence flag in `regional-markets.json` | Computed; not yet rendered |
 | On-map provenance and vintage line | Planned |

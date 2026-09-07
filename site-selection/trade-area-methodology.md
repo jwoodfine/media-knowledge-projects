@@ -76,7 +76,7 @@ The move away from straight-line rings is planned as a phased, country-by-countr
 
 ## Application
 
-Trade-area membership is the basis for population aggregation (WorldPop 2026), spend aggregation (modelled per-capita multipliers), and cross-cluster competitive ranking. The numbers attributed to a cluster are only as defensible as the polygon they are summed over — which is why the polygon's definition, parameters, and projection treatment are stated here rather than implied by a circle on a map.
+Trade-area membership is the basis for population aggregation (Kontur Population), spend aggregation (modelled per-capita multipliers), and cross-cluster competitive ranking. The numbers attributed to a cluster are only as defensible as the polygon they are summed over — which is why the polygon's definition, parameters, and projection treatment are stated here rather than implied by a circle on a map.
 
 ## See also
 

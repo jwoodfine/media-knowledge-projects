@@ -13,7 +13,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-09-04
 editor: pointsav-engineering
-short_description: "Population estimates from WorldPop 2026 and annual per-capita spend proxies from national household surveys underpin the trade area statistics for each co-location cluster."
+short_description: "Population estimates from Kontur Population and annual per-capita spend proxies from national household surveys underpin the trade area statistics for each co-location cluster."
 paired_with: gis/trade-area-data-sources.es.md
 cites:
   - osm-odbl
@@ -23,19 +23,19 @@ Population estimates and retail spend estimates are the two input layers that dr
 
 ## Population Data
 
-Population estimates are sourced from the **WorldPop 2026 100-metre population grid** (worldpop.org). WorldPop produces modelled population estimates derived from census microdata, satellite imagery, and dasymetric redistribution. The 100 m resolution places population at the sub-block level, enabling precise trade area delineation.
+Population estimates are sourced from **Kontur Population**, an H3-native population dataset delivered as per-country files at H3 resolution-8 — a finer grid than the resolution-7 hexagons the platform aggregates catchments to. Unlike a raster-based product, Kontur's population values are already bound to hexagon geometry at ingestion, so no raster-to-hexagon reprojection step is required.
 
 ### Processing pipeline
 
-1. **Spatial filter:** Only grid cells within 150 km of at least one co-location cluster centroid are retained, reducing data volume by approximately 80% while preserving all cells relevant to catchment computation.
+1. **Per-country ingestion:** Each country's resolution-8 population file is read directly; only cells with a positive population value are retained.
 
-2. **H3 aggregation:** Retained cells are assigned to their containing H3 resolution-7 hexagon and population values are summed. H3 resolution-7 cells have an average area of 5.16 km².
+2. **H3 rollup:** Each resolution-8 cell is resolved to its resolution-7 parent hexagon, and population values are summed across all resolution-8 children sharing a parent. H3 resolution-7 cells have an average area of 5.16 km².
 
-3. **Output:** Population is aggregated to one record per H3 cell, giving each cell's coordinates, population, and country.
+3. **Output:** Population is aggregated to one record per resolution-7 cell, giving each cell's coordinates, summed population, and the set of countries contributing to it.
 
 ### Countries covered
 
-United States, Canada, Mexico, Great Britain, Germany, France, Netherlands, Austria, Portugal, Greece, Denmark, Iceland, and Poland — 13 countries as of the current pipeline version. This is the set with published per-capita spend multipliers. It is a subset of the platform's broader co-location footprint, which spans 24 countries as of the most recent full processing run (2026-08-06). See [[co-location-intelligence-overview]] for full country coverage.
+United States, Canada, Mexico, Spain, France, Germany, Great Britain, Italy, Netherlands, Austria, Poland, Greece, and Portugal — 13 countries as of the current pipeline version. This is the set with published per-capita spend multipliers. It is a subset of the platform's broader co-location footprint, which spans 24 countries as of the most recent full processing run (2026-08-06). See [[co-location-intelligence-overview]] for full country coverage.
 
 ## Spend Data
 
@@ -82,10 +82,12 @@ The retail anchor and secondary operator locations that form co-location cluster
 ## References
 
 - [Trade area](https://en.wikipedia.org/wiki/Trade_area) — Wikipedia, accessed 2026-06-14
-- [WorldPop Global High Resolution Population Denominators Project](https://www.worldpop.org/) — WorldPop, University of Southampton, accessed 2026-06-14
+- [Kontur Population Dataset](https://data.humdata.org/dataset/kontur-population-dataset) — Kontur, accessed 2026-09-07
 - [H3: Uber's Hexagonal Hierarchical Spatial Index](https://h3geo.org/) — H3 Geo, accessed 2026-06-14
 
 *Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
+*Kontur Population data licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 *OpenStreetMap data © OpenStreetMap contributors, licensed under ODbL.*
 

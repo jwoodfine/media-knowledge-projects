@@ -111,7 +111,7 @@ El puntaje de fortaleza previsto es explicable, no opaco. Es una combinación tr
 
 Tres cantidades del lado de la demanda que las capas de datos ya admiten:
 
-1. **Población alcanzada** — población de la cuenca e hogares, de las estimaciones de población WorldPop 2026. Este es el tamaño del mercado direccionable.
+1. **Población alcanzada** — población de la cuenca e hogares, de las estimaciones de población de Kontur. Este es el tamaño del mercado direccionable.
 2. **Gasto capturado** — gasto minorista anual estimado en la cuenca, derivado de la población y proxies de gasto per cápita publicados por agencias estadísticas nacionales. Lleva las advertencias de estimación documentadas en [[spend-population-provenance]].
 3. **Accesibilidad** — qué tan accesible es la cuenca, expresada mediante demanda de origen-destino observada donde los datos de movilidad de un país lo permiten, y una aproximación por banda de distancia en los demás casos. Cuál de las dos sustenta cada clúster se divulga en el propio clúster, de modo que un sitio con movilidad observada y uno aproximado nunca se clasifican en el mismo grupo sin que el lector lo sepa.
 

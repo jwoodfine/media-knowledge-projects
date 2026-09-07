@@ -53,7 +53,7 @@ applicable continuous-disclosure standards.
 Woodfine Management Corp. makes reasonable efforts to maintain the accuracy of
 information in this wiki. However, this is a reference resource, not a legal document.
 Geographic data, cluster counts, and ranking scores are derived from third-party
-open datasets (OpenStreetMap, Wikidata, WorldPop, Kontur Population) and are subject
+open datasets (OpenStreetMap, Wikidata, Kontur Population) and are subject
 to the accuracy limitations of those sources. For authoritative source data, consult
 the original data providers and the Data Manifest.
 

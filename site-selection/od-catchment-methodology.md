@@ -65,7 +65,7 @@ The zone polygons displayed on the map are generated from the same 35 km / 150 k
 
 - [Catchment area](https://en.wikipedia.org/wiki/Catchment_area_(human_geography)) — Wikipedia, accessed 2026-06-14
 - [Trade area](https://en.wikipedia.org/wiki/Trade_area) — Wikipedia, accessed 2026-06-14
-- [WorldPop Global High Resolution Population Denominators Project](https://www.worldpop.org/) — WorldPop, University of Southampton, accessed 2026-06-14
+- [Kontur Population Dataset](https://data.humdata.org/dataset/kontur-population-dataset) — Kontur, accessed 2026-09-07
 
 *Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 

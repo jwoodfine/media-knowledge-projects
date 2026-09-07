@@ -65,7 +65,7 @@ Los polígonos de zona que aparecen en el mapa se generan a partir de los mismos
 
 - [Área de captación](https://en.wikipedia.org/wiki/Catchment_area_(human_geography)) — Wikipedia, acceso 2026-06-14
 - [Área comercial](https://en.wikipedia.org/wiki/Trade_area) — Wikipedia, acceso 2026-06-14
-- [WorldPop: Proyecto Global de Denominadores de Población de Alta Resolución](https://www.worldpop.org/) — WorldPop, Universidad de Southampton, acceso 2026-06-14
+- [Conjunto de datos de población Kontur](https://data.humdata.org/dataset/kontur-population-dataset) — Kontur, acceso 2026-09-07
 
 *Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 

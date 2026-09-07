@@ -13,7 +13,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-09-04
 editor: pointsav-engineering
-short_description: "Cadena de procedencia de las estimaciones de población y gasto — rásteres WorldPop, agregación H3 y multiplicadores per cápita, con sus debilidades declaradas."
+short_description: "Cadena de procedencia de las estimaciones de población y gasto — Kontur Population, agregación H3 y multiplicadores per cápita, con sus debilidades declaradas."
 paired_with: gis/spend-population-provenance.md
 cites: []
 ---
@@ -24,13 +24,13 @@ El mapa de inteligencia de ubicación de Woodfine presenta dos superficies demog
 
 La cifra de gasto mostrada en un clúster es la salida de tres pasos de modelado secuenciales. Ningún error introducido en cada paso se propaga actualmente hacia adelante al valor mostrado.
 
-### Paso 1 — Población: ráster dasymétreo WorldPop
+### Paso 1 — Población: Kontur Population, nativa de H3
 
-La población se origina del **producto de población cuadriculada de 100 metros WorldPop 2026** (CC BY 4.0). WorldPop es en sí mismo un modelo: los recuentos del censo recopilados en unidades administrativas gruesas se redistribuyen a una cuadrícula de 100 m usando técnicas dasymétricas. La celda de 100 m es una asignación modelada, no una población contada. Su error es heteroscedástico: más estrecho donde existen microdatos censales recientes y de alta calidad, más amplio donde el censo subyacente es más antiguo o más grueso.
+La población se origina de **Kontur Population** (CC BY 4.0), entregada por país en **resolución 8 de H3** — una rejilla más fina que el nivel de resolución 7 al que finalmente se agregan las cuencas. Dado que los valores de población de Kontur ya están vinculados a la geometría hexagonal desde el origen, no existe un paso de reproyección de ráster a hexágono ni un modelo de redistribución dasimétrica en esta etapa de la cadena; los supuestos de modelado que producen las propias cifras de resolución 8 de Kontur son de Kontur, no de esta canalización, y no están documentados de forma independiente aquí.
 
 ### Paso 2 — Agregación a la resolución 7 de H3
 
-Las celdas de 100 m se filtran a las que están dentro de 150 km del centroide de un clúster de co-ubicación, luego se suman en su **hexágono de resolución 7 de H3** (área promedio aproximadamente 5,16 km²). La población de la cuenca es la suma de las poblaciones de las celdas H3 cuyos centroides caen dentro de los anillos de distancia de un clúster.
+Cada celda de resolución 8 se resuelve a su **hexágono padre de resolución 7** (área promedio aproximadamente 5,16 km²), y los valores de población se suman entre todas las celdas hijas de resolución 8 que comparten ese padre. La población de la cuenca es la suma de las poblaciones de las celdas de resolución 7 cuyos centroides caen dentro de los anillos de distancia de un clúster.
 
 ### Paso 3 — Gasto: multiplicador per cápita
 
@@ -56,7 +56,7 @@ Cada paso arriba tiene su propio error, y se acumulan. La canalización actual n
 
 Ambas superficies se agregan a la cuadrícula de resolución 7 de H3 antes de que se tomen las sumas de la cuenca. El problema de la unidad areal modificable (MAUP) es el resultado bien establecido de que las estadísticas calculadas sobre unidades areales cambian cuando cambia el tamaño o el límite de la unidad. Dos consecuencias para este mapa:
 
-- **Efecto de escala.** Agregar las celdas de 100 m de WorldPop a hexágonos de aproximadamente 5,16 km² suaviza la superficie de población. Una resolución diferente produciría totales de cuenca distintos para los mismos anillos, porque las celdas H3 intersectan los anillos de distancia de manera diferente.
+- **Efecto de escala.** Consolidar las celdas de resolución 8 de Kontur en el hexágono de resolución 7, de aproximadamente 5,16 km², suaviza la superficie de población. Una resolución de destino diferente produciría totales de cuenca distintos para los mismos anillos, porque la retícula hexagonal intersecta los anillos de distancia de manera diferente en cada resolución.
 - **Efecto de borde.** Un anillo de distancia corta los hexágonos en su límite. Una celda se cuenta como totalmente dentro o totalmente fuera según su centroide, de modo que el total de la cuenca es sensible a exactamente cómo cae la retícula de hexágonos respecto al anillo.
 
 MAUP no es un defecto por corregir; es una propiedad inherente de cualquier agregación areal. La obligación es reconocerlo en el modal de Metodología y evitar sobreinterpretar pequeñas diferencias entre clústeres. La magnitud del efecto MAUP a la resolución 7 para los anillos de distancia en uso aún no se ha cuantificado; un barrido de sensibilidad entre las resoluciones 6, 7 y 8 es una brecha documentada.
@@ -79,7 +79,7 @@ registro.
 
 Una línea persistente en la superficie del mapa, con la forma:
 
-> Datos: WorldPop 2026, OSM, Kontur CC-BY — actualizado [mes de compilación] · Metodología ⓘ
+> Datos: Kontur Population CC-BY, OSM — actualizado [mes de compilación] · Metodología ⓘ
 
 La atribución de OpenStreetMap es una obligación de licencia bajo ODbL y permanece presente
 por separado de la línea de procedencia.
@@ -88,11 +88,10 @@ por separado de la línea de procedencia.
 
 | Fuente | Rol | Vigencia | Licencia |
 |---|---|---|---|
-| WorldPop | Población cuadriculada de 100 m — Paso 1 de la cadena de gasto | Ráster 2026 | CC BY 4.0 — WorldPop (www.worldpop.org) |
+| Kontur Population | Población cuadriculada nativa de H3, resolución 8 — Paso 1 de la cadena de gasto | Versión por país de 2023 | CC BY 4.0 |
 | OpenStreetMap | Ubicaciones de puntos de interés minoristas y cívicos que definen los clústeres | Actualización continua; instantánea por compilación | ODbL 1.0 — © colaboradores de OpenStreetMap |
 | Overture Maps — Places | Tema global de puntos de interés para la resolución de anclas | Versión 2026 | CDLA-Permissive-2.0 — © Overture Maps Foundation |
 | Overture Maps — Addresses | Relleno de direcciones postales para registros de POI sin dirección | Versión 2026-04-15.0 | ODbL 1.0 — © colaboradores de Overture Maps Foundation |
-| Kontur Population | Referencia de población auxiliar (nativa de H3) | 2026 (HDX) | CC BY 4.0 |
 | BLS Consumer Expenditure Survey | Proxy del multiplicador de gasto per cápita de EE. UU. | Última publicada | Datos públicos federales de EE. UU. |
 | Statistics Canada — Household Expenditures | Proxy del multiplicador de gasto per cápita de Canadá | Última encuesta | Licencia Abierta de StatCan — adaptado de datos de Statistics Canada; no constituye un aval |
 | Eurostat — Household Budget Survey | Proxy del multiplicador de gasto per cápita de la UE | Última HBS | CC BY 4.0 — © Unión Europea, 1995–2026 |
@@ -100,12 +99,19 @@ por separado de la línea de procedencia.
 
 ### Países cubiertos
 
-Estados Unidos, Canadá, México, Gran Bretaña, Alemania, Francia, Países Bajos, Austria,
-Portugal, Grecia, Dinamarca, Islandia y Polonia — 13 países en la versión actual de la
-canalización. Este es el conjunto con multiplicadores de gasto per cápita publicados. Es un
-subconjunto de la huella de co-ubicación más amplia de la plataforma, que abarca 24 países
-según la ejecución de procesamiento completa más reciente (2026-08-06). Véase [[co-location-intelligence-overview]]
-para la cobertura completa por país.
+La capa de población cubre Estados Unidos, Canadá, México, España, Francia, Alemania, Gran
+Bretaña, Italia, Países Bajos, Austria, Polonia, Grecia y Portugal — 13 países en la versión
+actual de la canalización. Es un subconjunto de la huella de co-ubicación más amplia de la
+plataforma, que abarca 24 países según la ejecución de procesamiento completa más reciente
+(2026-08-06). Véase [[co-location-intelligence-overview]] para la cobertura completa por país.
+
+**Discrepancia abierta, no resuelta aquí:** la tabla de multiplicadores de gasto per cápita
+más abajo lleva Dinamarca e Islandia en lugar de España e Italia — un conjunto de 13 países
+distinto al de la propia cobertura de la capa de población anterior. Si los multiplicadores
+de gasto realmente aplican a un conjunto de países diferente (por ejemplo, una fuente de
+encuesta de hogares separada con su propia cobertura) o si la tabla simplemente está
+desactualizada no lo establece este artículo; se señala para el responsable de la
+canalización en lugar de reconciliarse silenciosamente.
 
 ### Multiplicadores de gasto per cápita anual
 
@@ -145,7 +151,7 @@ entradas del Paso 3 y no están normalizados por tipo de cambio.
 
 | Elemento | Estado |
 |---|---|
-| Superficie de población WorldPop → resolución 7 de H3 | Implementado |
+| Superficie de población Kontur → resolución 7 de H3 | Implementado |
 | Multiplicadores de gasto per cápita (13 países) | Implementado |
 | Bandera de confianza en `regional-markets.json` | Calculada; aún no representada |
 | Línea de procedencia y vigencia en el mapa | Planeado |

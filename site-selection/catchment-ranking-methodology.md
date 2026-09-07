@@ -111,7 +111,7 @@ The intended strength score is explainable, not opaque. It is a transparent comb
 
 Three demand-side quantities the data layers already support:
 
-1. **Population reached** — catchment population and households, from the WorldPop 2026 population estimates. This is the size of the addressable market.
+1. **Population reached** — catchment population and households, from the Kontur Population estimates. This is the size of the addressable market.
 2. **Spend captured** — estimated annual retail spend in the catchment, derived from population and per-capita spend proxies published by national statistical agencies. This carries the estimation caveats documented in the [[spend-population-provenance]] article and must be displayed with that framing.
 3. **Accessibility** — how reachable the catchment is, expressed through observed origin-destination demand where a country's mobility data supports it, and a distance-band approximation elsewhere. Which of the two a cluster rests on is disclosed on the cluster itself, so an observed-mobility site and an approximated site are never ranked in one pool without the reader knowing.
 

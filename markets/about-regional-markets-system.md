@@ -46,7 +46,7 @@ Clusters are counted by tier — Regional, District, and Local anchors — on th
 
 **Kontur Population 2023 (CC BY 4.0).** A global H3 resolution-8 population hex grid covering all 24 countries; aggregated to H3 resolution-7 (≈1.22 km² per cell) for catchment calculations.
 
-**WorldPop 100-metre raster (2026 release, CC BY 4.0).** Used in combination with per-country spend multipliers from BLS (United States), Statistics Canada, and Eurostat household budget surveys to model grocery, hardware, and wholesale spend potential at the catchment level.
+**Per-country spend multipliers** from BLS (United States), Statistics Canada, and Eurostat household budget surveys are applied to the same Kontur-derived population figure to model grocery, hardware, and wholesale spend potential at the catchment level — spend is not drawn from a separate population source.
 
 Clusters are formed in two passes: the first identifies hypermarket and full-anchor cores, the second adds peripheral hardware and warehouse-club anchors that fall within the cluster's span.
 
@@ -134,7 +134,7 @@ The catchment model assigns each cluster a primary and secondary trade area defi
 | Primary | 35 km | Local-residence trade area |
 | Secondary | 150 km | Regional draw |
 
-Catchment population and spend are calculated by intersecting these rings with H3 resolution-7 hexagons (≈1.22 km² per cell) populated from Kontur Population 2023 and modelled spend from WorldPop combined with per-country household-budget multipliers.
+Catchment population and spend are calculated by intersecting these rings with H3 resolution-7 hexagons (≈1.22 km² per cell) populated from Kontur Population 2023; spend is modelled from that same population figure combined with per-country household-budget multipliers.
 
 ### Catchment dimensions and mobility catchments
 
@@ -156,7 +156,7 @@ Work planned or intended for the next iterations of the system.
 
 ---
 
-*Reference data current as of 30 May 2026. Sources: OpenStreetMap contributors (ODbL); Overture Maps Foundation (CDLA Permissive 2.0); Kontur Population 2023 (CC BY 4.0); WorldPop 2026 (CC BY 4.0); Beck et al. 2018 Köppen-Geiger raster (CC BY 4.0); WWF Ecoregions 2017 (CC BY 4.0); US LODES (public domain); Spain MITMA mobility (open data).*
+*Reference data current as of 30 May 2026. Sources: OpenStreetMap contributors (ODbL); Overture Maps Foundation (CDLA Permissive 2.0); Kontur Population 2023 (CC BY 4.0); Beck et al. 2018 Köppen-Geiger raster (CC BY 4.0); WWF Ecoregions 2017 (CC BY 4.0); US LODES (public domain); Spain MITMA mobility (open data).*
 
 ## See Also
 

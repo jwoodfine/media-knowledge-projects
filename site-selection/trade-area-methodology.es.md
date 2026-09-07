@@ -74,7 +74,7 @@ El paso desde los anillos de línea recta está previsto como una migración por
 
 ## Aplicación
 
-La pertenencia al área de atracción es la base para la agregación de población (WorldPop 2026), la agregación de gasto (multiplicadores per cápita modelados) y la clasificación competitiva entre clústeres. Las cifras atribuidas a un clúster son solo tan defendibles como el polígono sobre el que se suman — por lo que la definición del polígono, sus parámetros y el tratamiento de proyección se declaran aquí en lugar de darse por sentados en un círculo dibujado sobre un mapa.
+La pertenencia al área de atracción es la base para la agregación de población (Kontur Population), la agregación de gasto (multiplicadores per cápita modelados) y la clasificación competitiva entre clústeres. Las cifras atribuidas a un clúster son solo tan defendibles como el polígono sobre el que se suman — por lo que la definición del polígono, sus parámetros y el tratamiento de proyección se declaran aquí en lugar de darse por sentados en un círculo dibujado sobre un mapa.
 
 ## Véase también
 

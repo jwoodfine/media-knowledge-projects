@@ -59,7 +59,7 @@ Woodfine Management Corp. realiza esfuerzos razonables para mantener la exactitu
 información contenida en esta wiki. No obstante, se trata de un recurso de referencia,
 no de un documento jurídico. Los datos geográficos, los recuentos de clústeres y las
 puntuaciones de clasificación se derivan de conjuntos de datos abiertos de terceros
-(OpenStreetMap, Wikidata, WorldPop, Kontur Population) y están sujetos a las limitaciones
+(OpenStreetMap, Wikidata, Kontur Population) y están sujetos a las limitaciones
 de precisión de dichas fuentes. Para los datos de origen autorizados, consulte los
 proveedores de datos originales y el Manifiesto de Datos.
 

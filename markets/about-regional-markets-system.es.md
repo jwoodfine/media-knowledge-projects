@@ -46,7 +46,7 @@ Los recuentos de clústeres por nivel — anclas regionales, de distrito y local
 
 **Kontur Population 2023 (CC BY 4.0).** Una cuadrícula global de población H3 de resolución 8 que cubre los 24 países; agregada a resolución H3-7 (≈1,22 km² por celda) para los cálculos de captación.
 
-**WorldPop a 100 metros (edición 2026, CC BY 4.0).** Se utiliza en combinación con multiplicadores de gasto por país de BLS (Estados Unidos), Statistics Canada y encuestas de presupuesto familiar de Eurostat para modelar el potencial de gasto en alimentación, ferretería y mayoristas a nivel de captación.
+**Multiplicadores de gasto por país** de BLS (Estados Unidos), Statistics Canada y encuestas de presupuesto familiar de Eurostat se aplican a esa misma cifra de población de Kontur para modelar el potencial de gasto en alimentación, ferretería y mayoristas a nivel de captación — el gasto no procede de una fuente de población separada.
 
 Los clústeres se forman en dos pasadas: la primera identifica los núcleos de hipermercados y anclas completas; la segunda añade las anclas periféricas de ferretería y club de precio que caen dentro de la extensión del clúster.
 
@@ -134,7 +134,7 @@ El modelo de captación asigna a cada clúster un área de influencia primaria y
 
 ---
 
-*Datos de referencia actualizados al 30 de mayo de 2026. Fuentes: Colaboradores de OpenStreetMap (ODbL); Overture Maps Foundation (CDLA Permissive 2.0); Kontur Population 2023 (CC BY 4.0); WorldPop 2026 (CC BY 4.0); Beck et al. 2018 Köppen-Geiger (CC BY 4.0); WWF Ecorregiones 2017 (CC BY 4.0); US LODES (dominio público); MITMA España (datos abiertos).*
+*Datos de referencia actualizados al 30 de mayo de 2026. Fuentes: Colaboradores de OpenStreetMap (ODbL); Overture Maps Foundation (CDLA Permissive 2.0); Kontur Population 2023 (CC BY 4.0); Beck et al. 2018 Köppen-Geiger (CC BY 4.0); WWF Ecorregiones 2017 (CC BY 4.0); US LODES (dominio público); MITMA España (datos abiertos).*
 
 ## Trabajo en preparación
 

@@ -31,8 +31,8 @@ Mapas y Datos abarca los datos espaciales detrás del análisis: de dónde provi
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: data-overview-and-sources -->
 - [[gis-data-overview]] — Orientación a las capas de datos espaciales que sustentan el mapa de selección de emplazamientos: las entradas de puntos de interés, población y gasto, la clasificación de cuatro niveles por compuertas de predicado que alimentan, y dónde se documenta cada una en detalle.
-- [[trade-area-data-sources]] — Las estimaciones de población de WorldPop 2026 y los proxies de gasto per cápita anuales de encuestas nacionales de hogares sustentan las estadísticas de área de influencia para cada cluster de co-ubicación.
-- [[spend-population-provenance]] — Cadena de procedencia de las estimaciones de población y gasto — rásteres WorldPop, agregación H3 y multiplicadores per cápita, con sus debilidades declaradas.
+- [[trade-area-data-sources]] — Las estimaciones de población de Kontur Population y los proxies de gasto per cápita anuales de encuestas nacionales de hogares sustentan las estadísticas de área de influencia para cada cluster de co-ubicación.
+- [[spend-population-provenance]] — Cadena de procedencia de las estimaciones de población y gasto — Kontur Population, agregación H3 y multiplicadores per cápita, con sus debilidades declaradas.
 <!-- END AUTO-GENERATED -->
 
 ## Expansión de Cobertura

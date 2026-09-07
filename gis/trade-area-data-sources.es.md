@@ -13,7 +13,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-09-04
 editor: pointsav-engineering
-short_description: "Las estimaciones de población de WorldPop 2026 y los proxies de gasto per cápita anuales de encuestas nacionales de hogares sustentan las estadísticas de área de influencia para cada cluster de co-ubicación."
+short_description: "Las estimaciones de población de Kontur Population y los proxies de gasto per cápita anuales de encuestas nacionales de hogares sustentan las estadísticas de área de influencia para cada cluster de co-ubicación."
 paired_with: gis/trade-area-data-sources.md
 ---
 
@@ -21,17 +21,17 @@ Las estimaciones de población y de gasto minorista son las dos capas de entrada
 
 ## Datos de población
 
-Las estimaciones de población se obtienen de la **rejilla de población de 100 metros de WorldPop 2026** (worldpop.org). WorldPop produce estimaciones de población modeladas a partir de microdatos censales, imágenes satelitales y redistribución dasimétrica. La resolución de 100 m sitúa la población a nivel de sub-manzana, permitiendo una delimitación precisa del área de influencia.
+Las estimaciones de población provienen de **Kontur Population**, un conjunto de datos de población nativo de H3 entregado por país en **resolución 8 de H3** — una rejilla más fina que el nivel de resolución 7 al que finalmente se agregan las áreas de influencia. Dado que los valores de población de Kontur ya están vinculados a la geometría hexagonal desde el origen, no existe un paso de reproyección de ráster a hexágono.
 
 ### Proceso de tratamiento
 
-1. **Filtro espacial:** Solo se conservan las celdas de la rejilla situadas a menos de 150 km de al menos un centroide de cluster de co-ubicación, reduciendo el volumen de datos en aproximadamente un 80%.
-2. **Agregación H3:** Las celdas conservadas se asignan a su hexágono H3 de resolución 7 correspondiente y se suman los valores de población.
-3. **Salida:** La población se agrega en un registro por celda H3, con las coordenadas, la población y el país de cada celda.
+1. **Ingesta por país:** Se lee directamente el archivo de población de resolución 8 de cada país; solo se conservan las celdas con un valor de población positivo.
+2. **Agregación H3:** Cada celda de resolución 8 se resuelve a su hexágono padre de resolución 7, y se suman los valores de población de todas las celdas hijas de resolución 8 que comparten ese padre.
+3. **Salida:** La población se agrega en un registro por celda de resolución 7, con las coordenadas, la población sumada y el conjunto de países que contribuyen a ella.
 
 ### Países cubiertos
 
-Estados Unidos, Canadá, México, Gran Bretaña, Alemania, Francia, Países Bajos, Austria, Portugal, Grecia, Dinamarca, Islandia y Polonia — 13 países según la versión actual del proceso. Este es el conjunto con multiplicadores de gasto per cápita publicados. Es un subconjunto de la huella de co-ubicación más amplia de la plataforma, que abarca 24 países según la ejecución de procesamiento completa más reciente (2026-08-06). Véase [[co-location-intelligence-overview]] para la cobertura completa por país.
+Estados Unidos, Canadá, México, España, Francia, Alemania, Gran Bretaña, Italia, Países Bajos, Austria, Polonia, Grecia y Portugal — 13 países según la versión actual del proceso. Este es el conjunto con multiplicadores de gasto per cápita publicados. Es un subconjunto de la huella de co-ubicación más amplia de la plataforma, que abarca 24 países según la ejecución de procesamiento completa más reciente (2026-08-06). Véase [[co-location-intelligence-overview]] para la cobertura completa por país.
 
 ## Datos de gasto
 
@@ -74,9 +74,11 @@ Las ubicaciones de los anclajes minoristas y operadores secundarios que forman l
 ## Referencias
 
 - [Área comercial](https://en.wikipedia.org/wiki/Trade_area) — Wikipedia, acceso 2026-06-14
-- [WorldPop: Proyecto Global de Denominadores de Población de Alta Resolución](https://www.worldpop.org/) — WorldPop, Universidad de Southampton, acceso 2026-06-14
+- [Conjunto de datos de población Kontur](https://data.humdata.org/dataset/kontur-population-dataset) — Kontur, acceso 2026-09-07
 - [H3: Índice espacial hexagonal jerárquico de Uber](https://h3geo.org/) — H3 Geo, acceso 2026-06-14
 
 *Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
+*Datos de población de Kontur bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 *Datos de OpenStreetMap © colaboradores de OpenStreetMap, bajo licencia ODbL.*
