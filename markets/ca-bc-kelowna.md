@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Kelowna Regional Market"
+title: "Kelowna, Canada"
 slug: ca-bc-kelowna
 language: en
 language_protocol: PROSE-TOPIC

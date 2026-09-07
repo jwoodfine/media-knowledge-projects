@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Lethbridge"
+title: "Lethbridge, Canadá"
 slug: ca-ab-lethbridge
 language: es
 language_protocol: TRANSLATE-ES

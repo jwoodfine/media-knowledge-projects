@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Regina"
+title: "Regina, Canadá"
 slug: ca-sk-regina
 language: es
 language_protocol: TRANSLATE-ES

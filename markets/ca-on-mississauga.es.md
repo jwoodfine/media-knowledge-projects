@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 slug: ca-on-mississauga
 aliases:
   - topic-rm-mississauga-on.es
-title: "Mercado regional de Mississauga"
+title: "Mississauga, Canadá"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets

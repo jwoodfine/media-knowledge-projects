@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Lethbridge Regional Market"
+title: "Lethbridge, Canada"
 slug: ca-ab-lethbridge
 language: en
 language_protocol: PROSE-TOPIC

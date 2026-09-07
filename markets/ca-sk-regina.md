@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Regina Regional Market"
+title: "Regina, Canada"
 slug: ca-sk-regina
 language: en
 language_protocol: PROSE-TOPIC

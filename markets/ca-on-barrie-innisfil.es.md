@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Barrie–Innisfil"
+title: "Barrie–Innisfil, Canadá"
 slug: ca-on-barrie-innisfil
 language: es
 language_protocol: TRANSLATE-ES

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Kelowna"
+title: "Kelowna, Canadá"
 slug: ca-bc-kelowna
 language: es
 language_protocol: TRANSLATE-ES

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Barrie–Innisfil Regional Market"
+title: "Barrie–Innisfil, Canada"
 slug: ca-on-barrie-innisfil
 language: en
 language_protocol: PROSE-TOPIC

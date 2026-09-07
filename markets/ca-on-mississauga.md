@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 slug: ca-on-mississauga
 aliases:
   - topic-rm-mississauga-on
-title: "Mississauga Regional Market"
+title: "Mississauga, Canada"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
@@ -30,7 +30,7 @@ The city's commercial character is shaped by three intersecting forces. First, c
 
 ## Co-location Profile
 
-Five clusters define the Mississauga Regional Market. The two Tier 1 clusters pair full hypermarket coverage with hardware and price-club anchors, and one of them adds a hospital tie-in — a composition that signals both household-goods and household-service density in the surrounding catchment. The Tier 2 cluster substitutes a Loblaws-banner grocery anchor and brings the university into the mix. The two Tier 3 clusters round out the profile with narrower compositions but retain civic linkages: one to Credit Valley Hospital and UTM, the other to a community medical laboratory operator.
+Five clusters define Mississauga's market profile. The two Tier 1 clusters pair full hypermarket coverage with hardware and price-club anchors, and one of them adds a hospital tie-in — a composition that signals both household-goods and household-service density in the surrounding catchment. The Tier 2 cluster substitutes a Loblaws-banner grocery anchor and brings the university into the mix. The two Tier 3 clusters round out the profile with narrower compositions but retain civic linkages: one to Credit Valley Hospital and UTM, the other to a community medical laboratory operator.
 
 The Canadian retail context matters when reading these clusters. Canadian Tire occupies the role that The Home Depot fills in the United States for general-purpose hardware and automotive parts, and the two often co-anchor rather than compete. Real Canadian Superstore is the Loblaws Companies banner for full-line supermarket-plus-general-merchandise, and it functions alongside Walmart Supercentre as a hypermarket anchor in the Canadian market. The repeated co-occurrence of Walmart, Canadian Tire, Costco, and The Home Depot across the Mississauga clusters reflects a mature suburban retail geography in which all of the major North American big-box operators have established multiple stores within the municipal boundary.
 

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Moncton"
+title: "Moncton, Canadá"
 slug: ca-nb-moncton
 language: es
 language_protocol: TRANSLATE-ES

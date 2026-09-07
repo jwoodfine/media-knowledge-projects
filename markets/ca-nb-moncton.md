@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Moncton Regional Market"
+title: "Moncton, Canada"
 slug: ca-nb-moncton
 language: en
 language_protocol: PROSE-TOPIC
