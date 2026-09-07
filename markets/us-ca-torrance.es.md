@@ -27,7 +27,7 @@ aeroespacial poco habitual entre los mercados cubiertos con un solo clúster.
 
 Según Wikipedia (consultado el 10 de julio de 2026), Torrance registró una población de
 147.067 habitantes en el censo de 2020 (una estimación de 139.576 para 2024) en 20,516
-millas cuadradas de superficie terrestre, aproximadamente a 20 millas al suroeste del centro
+millas cuadradas de superficie terrestre, aproximadamente a 20 millas (distancia geográfica general de Wikipedia) al suroeste del centro
 de Los Ángeles. Los principales empleadores incluyen Torrance Memorial Health System (4.070
 empleados), el distrito escolar local (2.675) y Providence Little Company of Mary Medical
 Center (2.429); American Honda Motor Company mantiene operaciones significativas con 1.496

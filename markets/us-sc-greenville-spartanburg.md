@@ -34,11 +34,13 @@ Michelin's North American headquarters, Prisma Health, Duke Energy, and Bon Seco
 revitalization since the 1980s and 1990s includes the Peace Center (1990), Falls Park on the
 Reedy (2004), and the Liberty Bridge pedestrian suspension structure (2004).
 
-Spartanburg, roughly 30 miles northeast of Greenville, had 38,732 residents at the 2020
+Spartanburg, roughly 30 miles (straight-line, Wikipedia's general geographic distance —
+the platform's own metropolitan-reference distance to Greenville is 43.3 km) northeast of
+Greenville, had 38,732 residents at the 2020
 census across 20.37 square miles, positioned approximately 80 miles west of Charlotte. The
 city benefits substantially from the BMW manufacturing facility in nearby Greer — the
 company's only full manufacturing plant in the United States, and its largest worldwide by
-volume. That plant employed roughly 8,800 people as of February 2017.
+volume.
 
 Healthcare dominates local employment, led by Spartanburg
 Regional (9,648 positions), alongside county government, the school district, Wofford

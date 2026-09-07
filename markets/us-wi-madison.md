@@ -27,7 +27,8 @@ larger metro.
 According to Wikipedia (accessed 2026-07-10), Madison had 269,840 residents at the 2020
 census (a 2024 estimate of 285,300, and the fastest-growing city in Wisconsin as of 2024)
 across roughly 79.57 square miles of land — Wisconsin's second-most populous city. It sits 77
-miles west of Milwaukee and 122 miles northwest of Chicago, on an isthmus between Lake
+miles west of Milwaukee and 122 miles northwest of Chicago (general Wikipedia geographic
+distances), on an isthmus between Lake
 Mendota and Lake Monona. The University of Wisconsin–Madison, UW Health, and Wisconsin state
 government are the largest employers; Epic Systems, headquartered in nearby Verona,
 represents the largest private-sector employer. The economy emphasizes government, education,

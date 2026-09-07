@@ -28,7 +28,7 @@ Según Wikipedia (consultado el 10 de julio de 2026), Madison tenía 269.840 hab
 censo de 2020 (una estimación de 285.300 para 2024, y la ciudad de más rápido crecimiento de
 Wisconsin a fecha de 2024) en aproximadamente 79,57 millas cuadradas de superficie terrestre,
 la segunda ciudad más poblada de Wisconsin, situada a 77 millas al oeste de Milwaukee y 122
-millas al noroeste de Chicago, en un istmo entre el lago Mendota y el lago Monona. La
+millas al noroeste de Chicago (distancias geográficas generales de Wikipedia), en un istmo entre el lago Mendota y el lago Monona. La
 Universidad de Wisconsin-Madison, UW Health y el gobierno estatal de Wisconsin son los
 principales empleadores; Epic Systems, con sede en la cercana localidad de Verona, representa
 el mayor empleador del sector privado. La economía enfatiza el gobierno, la educación, la

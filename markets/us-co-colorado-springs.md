@@ -26,7 +26,9 @@ that Pueblo, CO is counted as a suburb *of*, rather than as a suburban market it
 
 According to Wikipedia (accessed 2026-07-10), Colorado Springs had 478,961 residents at the
 2020 census (an estimated 494,743 in 2025) across 195.761 square miles — Colorado's
-second-most populous city and largest by area — situated approximately 70 miles south of
+second-most populous city and largest by area — situated approximately 70 miles (a general
+Wikipedia geographic distance, not the platform's straight-line metropolitan-reference
+measurement) south of
 Denver (about an hour by car via I-25) at 6,035 feet elevation near Pikes Peak. The economy
 is driven primarily by the military, high-tech industry, and tourism: defense contractors and
 military installations, including Peterson Space Force Base and Fort Carson, account for over

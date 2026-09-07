@@ -27,7 +27,7 @@ Minnesota Vikings — la distingue de un suburbio puramente residencial.
 
 Según Wikipedia (consultado el 10 de julio de 2026), Eagan registró una población de 68.855
 habitantes en el censo de 2020 (una estimación de 67.534 para 2022) en 33,46 millas
-cuadradas, al sur de Saint Paul, en el río Minnesota aguas arriba de su confluencia con el
+cuadradas, al sur de Saint Paul (descripción geográfica general de Wikipedia), en el río Minnesota aguas arriba de su confluencia con el
 Misisipi. Los principales empleadores incluyen Thomson Reuters (5.000 empleados),
 BlueCross/BlueShield of Minnesota (3.000) y el Servicio Postal de EE. UU. (una estimación de
 2.100), junto con Prime Therapeutics, UPS, Ecolab y Coca-Cola Bottling. Originalmente una

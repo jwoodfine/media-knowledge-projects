@@ -26,7 +26,7 @@ the qualification applies.
 
 According to Wikipedia (accessed 2026-07-10), Spokane had 228,989 residents at the 2020
 census (metropolitan area approximately 600,000) across 69.49 square miles, situated 280
-miles east of Seattle via Interstate 90, the second-largest city in Washington state after
+miles (a general Wikipedia geographic distance) east of Seattle via Interstate 90, the second-largest city in Washington state after
 Seattle. Historically dependent on mining, timber, and agriculture, Spokane's economy has
 diversified significantly since the 1980s, with expansion of the University District's two
 medical school branches emphasizing medical and health sciences alongside technology

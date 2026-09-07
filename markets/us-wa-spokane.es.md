@@ -25,7 +25,7 @@ Norte — a 280 millas de Seattle ancla el Noroeste Interior como centro regiona
 
 Según Wikipedia (consultado el 10 de julio de 2026), Spokane tenía 228.989 habitantes en el
 censo de 2020 (área metropolitana aproximadamente 600.000) en 69,49 millas cuadradas, situada
-a 280 millas al este de Seattle a través de la Interestatal 90, la segunda ciudad más grande
+a 280 millas (distancia geográfica general de Wikipedia) al este de Seattle a través de la Interestatal 90, la segunda ciudad más grande
 del estado de Washington tras Seattle. Históricamente dependiente de la minería, la madera y
 la agricultura, la economía de Spokane se ha diversificado significativamente desde la
 década de 1980, con la expansión del distrito universitario y sus dos filiales de facultades

@@ -28,7 +28,8 @@ ella misma un mercado suburbano.
 Según Wikipedia (consultado el 10 de julio de 2026), Colorado Springs tenía 478.961
 habitantes en el censo de 2020 (una estimación de 494.743 para 2025) en 195,761 millas
 cuadradas — la segunda ciudad más poblada de Colorado y la de mayor superficie —, situada
-aproximadamente a 70 millas al sur de Denver (alrededor de una hora en coche por la I-25), a
+aproximadamente a 70 millas (distancia geográfica general de Wikipedia, no la medición de
+referencia metropolitana en línea recta de la propia plataforma) al sur de Denver (alrededor de una hora en coche por la I-25), a
 6.035 pies de altitud, cerca de Pikes Peak. La economía está impulsada principalmente por el
 sector militar, la alta tecnología y el turismo: los contratistas de defensa y las
 instalaciones militares, incluidas la Base Peterson de la Fuerza Espacial y Fort Carson,

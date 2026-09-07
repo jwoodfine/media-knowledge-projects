@@ -27,7 +27,7 @@ distinguishes it from a purely residential suburb.
 
 According to Wikipedia (accessed 2026-07-10), Eagan recorded a population of 68,855 at the
 2020 census (a 2022 estimate of 67,534) across 33.46 square miles. It sits south of Saint
-Paul on the Minnesota River upstream from its confluence with the Mississippi. Top employers
+Paul (a general Wikipedia geographic description) on the Minnesota River upstream from its confluence with the Mississippi. Top employers
 include Thomson Reuters (5,000 employees), BlueCross/BlueShield of Minnesota (3,000), and the
 U.S. Postal Service (an estimated 2,100), alongside Prime Therapeutics, UPS, Ecolab, and
 Coca-Cola Bottling. Originally an Irish farming community once known as the Onion Capital of

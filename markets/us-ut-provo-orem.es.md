@@ -27,7 +27,7 @@ descrita como el clúster "Silicon Slopes".
 
 Según Wikipedia (consultado el 10 de julio de 2026), Provo registró una población de 115.162
 habitantes en el censo de 2020 en 44,19 millas cuadradas, la cuarta ciudad más grande de
-Utah, situada a 43 millas (69 km) al sur de Salt Lake City a lo largo del Wasatch Front,
+Utah, situada a 43 millas (69 km, distancia geográfica general de Wikipedia) al sur de Salt Lake City a lo largo del Wasatch Front,
 entre Orem al norte y Springville al sur. La Universidad Brigham Young es el principal
 empleador local, con entre 5.000 y 6.999 empleados y unos 35.000 estudiantes; la ciudad
 también alberga el mayor Centro de Capacitación de Misioneros de la Iglesia SUD, el Utah

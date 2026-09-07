@@ -27,8 +27,10 @@ typical suburban Regional Market.
 
 According to Wikipedia (accessed 2026-07-10), Tempe recorded a population of 180,587 at the
 2020 census across a land area of 39.94 square miles. It sits approximately 2 miles
-southeast of Phoenix Sky Harbor International Airport, bordered by Mesa to the east and
-Phoenix to the west.
+southeast of Phoenix Sky Harbor International Airport (a general Wikipedia distance to the
+airport, not the city centre), bordered by Mesa to the east and
+Phoenix to the west. The platform's own straight-line metropolitan-reference distance to
+Phoenix is 15.2 km.
 
 Arizona State University is the leading employer with 8,010 employees,
 followed by State Farm Insurance (6,550) and Freedom Financial Network (2,300). The city

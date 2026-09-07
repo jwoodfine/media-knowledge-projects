@@ -18,7 +18,7 @@ last_edited: 2026-08-25
 editor: editorial
 ---
 
-Frisco, a Dallas suburb 44 kilometres north of the metro core, is a North American Regional
+Frisco, a Dallas suburb 44 kilometres (straight-line) north of the metro core, is a North American Regional
 Market built from three Regional-tier and one District-tier co-location cluster, with a
 confirmed civic anchor. The city's population grew sharply in the decade after 2010, driven
 by corporate relocations and large-format retail development, placing it among the

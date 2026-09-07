@@ -27,7 +27,7 @@ Slopes" cluster.
 
 According to Wikipedia (accessed 2026-07-10), Provo recorded a population of 115,162 at the
 2020 census across 44.19 square miles, the fourth-largest city in Utah, situated 43 miles (69
-km) south of Salt Lake City along the Wasatch Front between Orem to the north and Springville
+km, a general Wikipedia geographic distance) south of Salt Lake City along the Wasatch Front between Orem to the north and Springville
 to the south. Brigham Young University is the dominant local employer, with 5,000 to 6,999
 staff and roughly 35,000 students; the city also hosts the LDS Church's largest Missionary
 Training Center, Utah Valley Regional Medical Center, and Vivint. Provo functions as a

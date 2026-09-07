@@ -18,7 +18,7 @@ last_edited: 2026-08-25
 editor: editorial
 ---
 
-Frisco, suburbio de Dallas a 44 kilómetros al norte del núcleo metropolitano, es un Mercado
+Frisco, suburbio de Dallas a 44 kilómetros (en línea recta) al norte del núcleo metropolitano, es un Mercado
 Regional de América del Norte construido a partir de tres clústeres de nivel Regional y uno
 de nivel District, con un ancla cívica confirmada. La población de la ciudad creció con
 fuerza en la década posterior a 2010, impulsada por traslados corporativos y desarrollo

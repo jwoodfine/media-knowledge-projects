@@ -27,7 +27,7 @@ covered markets with only one cluster.
 
 According to Wikipedia (accessed 2026-07-10), Torrance recorded a population of 147,067 at
 the 2020 census (an estimated 139,576 by 2024) across 20.516 square miles of land,
-approximately 20 miles southwest of downtown Los Angeles. Leading employers include Torrance
+approximately 20 miles (a general Wikipedia geographic distance) southwest of downtown Los Angeles. Leading employers include Torrance
 Memorial Health System (4,070 employees), the local school district (2,675), and Providence
 Little Company of Mary Medical Center (2,429); American Honda Motor Company maintains
 significant operations with 1,496 employees, alongside Robinson Helicopter Company and
