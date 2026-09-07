@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Boca del Río Regional Market"
+title: "Boca del Río, Mexico"
 slug: mx-boca-del-rio
 language: en
 language_protocol: PROSE-TOPIC

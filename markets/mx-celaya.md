@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Celaya Regional Market"
+title: "Celaya, Mexico"
 slug: mx-celaya
 language: en
 language_protocol: PROSE-TOPIC

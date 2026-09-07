@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Boca del Río"
+title: "Boca del Río, México"
 slug: mx-boca-del-rio
 language: es
 language_protocol: TRANSLATE-ES

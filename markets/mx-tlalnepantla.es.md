@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Tlalnepantla de Baz"
+title: "Tlalnepantla de Baz, México"
 slug: mx-tlalnepantla
 language: es
 language_protocol: TRANSLATE-ES

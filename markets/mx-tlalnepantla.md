@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Tlalnepantla de Baz Regional Market"
+title: "Tlalnepantla de Baz, Mexico"
 slug: mx-tlalnepantla
 language: en
 language_protocol: PROSE-TOPIC

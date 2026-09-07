@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Playa del Carmen"
+title: "Playa del Carmen, México"
 slug: mx-playa-del-carmen
 language: es
 language_protocol: TRANSLATE-ES

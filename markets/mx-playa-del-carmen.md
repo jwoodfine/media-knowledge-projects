@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Playa del Carmen Regional Market"
+title: "Playa del Carmen, Mexico"
 slug: mx-playa-del-carmen
 language: en
 language_protocol: PROSE-TOPIC

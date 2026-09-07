@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Tuxtla Gutiérrez"
+title: "Tuxtla Gutiérrez, México"
 slug: mx-tuxtla-gutierrez
 language: es
 language_protocol: TRANSLATE-ES

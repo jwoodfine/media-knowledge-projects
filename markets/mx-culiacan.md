@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Culiacán Regional Market"
+title: "Culiacán, Mexico"
 slug: mx-culiacan
 language: en
 language_protocol: PROSE-TOPIC

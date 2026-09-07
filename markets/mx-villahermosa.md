@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Villahermosa Regional Market"
+title: "Villahermosa, Mexico"
 slug: mx-villahermosa
 language: en
 language_protocol: PROSE-TOPIC

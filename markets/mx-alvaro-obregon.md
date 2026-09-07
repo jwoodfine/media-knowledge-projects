@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Álvaro Obregón Regional Market"
+title: "Álvaro Obregón, Mexico"
 slug: mx-alvaro-obregon
 language: en
 language_protocol: PROSE-TOPIC

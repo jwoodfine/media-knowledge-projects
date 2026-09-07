@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Celaya"
+title: "Celaya, México"
 slug: mx-celaya
 language: es
 language_protocol: TRANSLATE-ES

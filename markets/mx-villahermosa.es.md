@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Villahermosa"
+title: "Villahermosa, México"
 slug: mx-villahermosa
 language: es
 language_protocol: TRANSLATE-ES

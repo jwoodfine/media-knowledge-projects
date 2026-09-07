@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Culiacán"
+title: "Culiacán, México"
 slug: mx-culiacan
 language: es
 language_protocol: TRANSLATE-ES
