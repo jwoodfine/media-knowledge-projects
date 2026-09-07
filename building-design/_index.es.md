@@ -12,7 +12,7 @@ index_scope: building-design
 status: active
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-26
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: building-design/_index.md
 ---
@@ -25,9 +25,19 @@ Diseño de Edificios abarca el sistema de diseño detrás de cada edificio Woodf
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
+## Por dónde empezar
+
+Dieciséis artículos definen el sistema de diseño detrás de cada edificio Woodfine. Estos cinco llevan el peso, y alcanzan los tres grupos de abajo.
+
+- [[fixed-floor-plates|Placas de piso fijas]] — La base estructural estandarizada de la que deriva cada edificio. El artículo más referenciado de esta categoría.
+- [[key-plans-and-tiles|Planos maestros y módulos]] — El sistema de planificación espacial autosimilar del que derivan las dimensiones de la placa de piso.
+- [[bim-design-philosophy|Filosofía de diseño BIM]] — Los edificios se diseñan para cumplir el código jurisdiccional en la etapa de diseño, no para verificarse después.
+- [[design-sequence-priority|Prioridad de secuencia de diseño]] — El orden de colaboración fijo detrás de cada paquete de diseño: Plan de Arrendamiento, luego Servicios del Edificio, luego Estructural.
+- [[geometry-of-sustainability|Geometría de la sostenibilidad]] — Estándares europeos de iluminación, suizos de renovación de aire y alemanes de circulación aplicados a la placa de piso fija para reducir el costo operativo.
+
 ## Filosofía y Sistema de Diseño
 
-[[bim-design-philosophy|Filosofía de Diseño BIM]] establece el compromiso central: los edificios se diseñan para cumplir con el código jurisdiccional en la etapa de diseño, no para verificarse después. [[bim-market-context|Contexto del Mercado BIM]] y [[open-bim-regulatory-acceptance|BIM Abierto y Aceptación Regulatoria]] cubren los mandatos gubernamentales que ya empujan a la industria AEC hacia esos mismos estándares abiertos. [[property-manager-bim-gap|La Brecha BIM del Administrador de Propiedades]] cubre el problema de entrega — modelos que la mayoría de los gerentes de instalaciones nunca llegan a usar — que esta práctica está diseñada para cerrar.
+El compromiso detrás del sistema de diseño, y el entorno regulatorio que lo recompensa. Cuatro artículos cubren el cumplimiento de código diseñado desde el origen en lugar de verificado después, los mandatos gubernamentales que ya empujan a la industria AEC hacia esos mismos estándares abiertos, y la brecha de entrega que esta práctica está construida para cerrar.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: design-philosophy-and-system -->
 - [[bim-design-philosophy]] — Los edificios de Woodfine se diseñan para cumplir con los códigos jurisdiccionales en la etapa de diseño, en lugar de verificarse después del hecho — una consecuencia de construir sobre estándares abiertos y portátiles desde el principio.
@@ -38,7 +48,7 @@ Diseño de Edificios abarca el sistema de diseño detrás de cada edificio Woodf
 
 ## Placas de Piso y Estándares de Medición
 
-[[fixed-floor-plates|Las Placas de Piso Fijas]] y [[key-plans-and-tiles|los Planos Maestros y Módulos]] establecen la base estructural estandarizada y el sistema de planificación espacial autosimilar del que deriva cada edificio Woodfine. [[boma-standard|El Estándar BOMA]] es la base de medición compartida para toda área de arrendamiento y comparación de edificios. [[asset-architecture-standard|El Estándar de Arquitectura de Activos]] fija los requisitos estructurales uniformes — construcción de concreto y acero, dimensionamiento previo a la adquisición — aplicados en toda la cartera.
+Aquello contra lo que se dimensiona cada edificio. Cuatro artículos establecen la base estructural estandarizada, el sistema de planificación espacial del que deriva, la base de medición compartida para toda área de arrendamiento, y los requisitos estructurales uniformes aplicados en toda la cartera.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: floor-plates-and-measurement-standards -->
 - [[fixed-floor-plates]] — La base estructural estandarizada e inmutable utilizada en todos los edificios Woodfine, derivada de la geometría optimizada de los equipos para permitir una construcción repetible y un rendimiento espacial predecible.
@@ -49,7 +59,7 @@ Diseño de Edificios abarca el sistema de diseño detrás de cada edificio Woodf
 
 ## Estándares de Sitio y Edificio
 
-[[design-sequence-priority|La Prioridad de Secuencia de Diseño]] fija el orden de colaboración detrás de cada paquete de diseño: primero el Plan de Arrendamiento, luego Servicios del Edificio, y por último Estructural. [[four-to-one-parking-ratio|La Relación de Estacionamiento 4:1]] y [[water-management-system|el Sistema de Gestión del Agua]] se aplican a nivel de sitio. [[common-building-code|El Código de Construcción Común]], la [[tile-level-climate-zoning|zonificación climática a nivel de módulo]] y la [[structural-bay-depth-discipline|disciplina de profundidad del vano estructural]] se aplican a nivel de edificio y espacio arrendable. [[geometry-of-sustainability|Geometría de la Sostenibilidad]] y [[dual-mandate-building-certifications|las Certificaciones de Edificio de Doble Mandato]] cubren la ingeniería de costos operativos y la estrategia de certificación BREEAM/WELL que se derivan de ella.
+Ocho artículos que cubren qué se aplica en cada nivel. El estacionamiento y la gestión del agua se aplican a nivel de sitio; la secuencia de diseño, el código de construcción, la zonificación climática y la disciplina de profundidad del vano se aplican a nivel de edificio y espacio arrendable. La ingeniería de costos operativos y la estrategia de certificación BREEAM/WELL se derivan de ambos.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: site-and-building-standards -->
 - [[design-sequence-priority]] — El orden fijo de colaboración detrás de cada paquete de diseño de Woodfine: primero el Plan de Arrendamiento, luego Servicios del Edificio, y por último Estructural — cada disciplina diseñando sobre una capa previa ya completada en lugar de negociar en paralelo.

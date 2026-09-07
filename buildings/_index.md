@@ -12,7 +12,7 @@ index_scope: buildings
 status: active
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-26
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
@@ -25,9 +25,18 @@ Development Classes names what Woodfine actually builds: four development classe
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
+## Where to start
+
+Eleven articles cover what Woodfine builds, and how a building fills and supplies itself. These four are the way in, one from each group below.
+
+- [[about-development-classes|Development classes]] — All six building types: what each is, who it serves, and how it is sited. Four are in force; two are planned.
+- [[about-development-class-economics|Development class economics]] — The economic characteristics that distinguish one class from another.
+- [[mix-of-use|Mix-of-use]] — The tenant curation model that assembles a five-category professional ecosystem inside every building.
+- [[woodfine-development-vocabulary|Development vocabulary]] — The proprietary terms this category uses, kept distinct from generic AEC industry usage.
+
 ## The Six Development Classes
 
-[[about-development-classes|Development Classes]] walks through all six: what each building type is, who it serves, and how it is sited. [[about-development-class-economics|Development Class Economics]] sets out the numbers behind each one. Four classes carry current, in-force definitions; two are planned and described in intended terms until their physical specifications are formally set.
+The two overviews and the six class definitions. Four classes carry current, in-force definitions; two are planned and described in intended terms until their physical specifications are formally set.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-six-development-classes -->
 - [[about-development-classes]] — The six development classes for Woodfine direct-hold deployments: Professional Centres, Suburban Office, Retail Select, Tech Industrial, Parking Structures, and Vertical Warehouses.
@@ -42,7 +51,7 @@ Development Classes names what Woodfine actually builds: four development classe
 
 ## Tenant Mix and Procurement
 
-Two further articles cover how a building fills and supplies itself. [[mix-of-use|Mix-of-Use]] is the tenant curation model that assembles a stable, five-category tenant ecosystem inside every Woodfine building. [[centralized-buying-program|The Centralized Buying Program]] aggregates materials purchasing across simultaneous projects to secure national pricing, with rebates flowing back to the Direct-Hold Solutions.
+How a building fills and supplies itself: the tenant curation model that assembles a stable five-category ecosystem, and the procurement structure that aggregates materials purchasing across simultaneous projects to secure national pricing, with rebates flowing back to the Direct-Hold Solutions.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: tenant-mix-and-procurement -->
 - [[mix-of-use]] — A strategic tenant curation model that assembles a professional ecosystem from five stability-anchored tenant categories within each Woodfine building.
@@ -51,7 +60,7 @@ Two further articles cover how a building fills and supplies itself. [[mix-of-us
 
 ## Vocabulary
 
-[[woodfine-development-vocabulary|The Development Vocabulary]] collects the proprietary terms used across this category — Development Class, Prototype, Fixed Floor Plate, and Rollout Program — kept distinct from generic AEC industry usage.
+The proprietary terms used across this category — Development Class, Prototype, Fixed Floor Plate, and Rollout Program — kept distinct from generic AEC industry usage.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: vocabulary -->
 - [[woodfine-development-vocabulary]] — A curated glossary of proprietary Woodfine direct-hold vocabulary — Development Classes, Prototype, Fixed Floor Plate, Rollout Program, and related terms — distinct from generic AEC industry terminology.

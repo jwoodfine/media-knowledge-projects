@@ -12,7 +12,7 @@ index_scope: building-design
 status: active
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-26
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
@@ -25,9 +25,19 @@ Building Design covers the design system behind every Woodfine building: fixed f
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
+## Where to start
+
+Sixteen articles define the design system behind every Woodfine building. These five carry the load, and reach all three groups below.
+
+- [[fixed-floor-plates|Fixed floor plates]] — The standardized structural base every building is derived from. The most-referenced article in this category.
+- [[key-plans-and-tiles|Key plans and tiles]] — The self-similar space-planning system the floor plate dimensions are derived from.
+- [[bim-design-philosophy|BIM design philosophy]] — Buildings are designed to comply with jurisdictional code at the design stage, not checked for compliance afterward.
+- [[design-sequence-priority|Design sequence priority]] — The fixed collaboration order behind every design package: Leasing Plan, then Building Services, then Structural.
+- [[geometry-of-sustainability|Geometry of sustainability]] — European lighting, Swiss air-exchange, and German circulation standards applied to the fixed floor plate to lower operating cost.
+
 ## Design Philosophy and System
 
-[[bim-design-philosophy|BIM Design Philosophy]] states the core commitment: buildings are designed to comply with jurisdictional code at the design stage, not checked for compliance afterward. [[bim-market-context|BIM Market Context]] and [[open-bim-regulatory-acceptance|Open BIM and Regulatory Acceptance]] cover the government mandates already pushing the AEC industry toward the same open standards. [[property-manager-bim-gap|The Property Manager BIM Gap]] covers the handover problem — models most facility managers never actually use — that this practice is designed to close.
+The commitment behind the design system, and the regulatory environment that rewards it. Four articles cover code compliance designed in rather than checked afterward, the government mandates already pushing the AEC industry toward the same open standards, and the handover gap this practice is built to close.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: design-philosophy-and-system -->
 - [[bim-design-philosophy]] — Woodfine's buildings are designed to comply with jurisdictional codes at the design stage, rather than being checked for compliance after the fact — a consequence of building on open, portable standards from the outset.
@@ -38,7 +48,7 @@ Building Design covers the design system behind every Woodfine building: fixed f
 
 ## Floor Plates and Measurement Standards
 
-[[fixed-floor-plates|Fixed Floor Plates]] and [[key-plans-and-tiles|Key Plans and Tiles]] set out the standardized structural base and the self-similar space-planning system every Woodfine building is derived from. [[boma-standard|The BOMA Standard]] is the shared measurement basis for every lease area and building comparison. [[asset-architecture-standard|The Asset Architecture Standard]] fixes the uniform structural requirements — concrete and steel construction, pre-acquisition dimensioning — applied across the portfolio.
+What every building is dimensioned against. Four articles set out the standardized structural base, the space-planning system it derives from, the shared measurement basis for every lease area, and the uniform structural requirements applied across the portfolio.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: floor-plates-and-measurement-standards -->
 - [[fixed-floor-plates]] — The standardized, immutable structural base used in all Woodfine buildings, derived from optimized equipment geometry to enable repeatable construction and predictable space performance.
@@ -49,7 +59,7 @@ Building Design covers the design system behind every Woodfine building: fixed f
 
 ## Site and Building Standards
 
-[[design-sequence-priority|Design Sequence Priority]] fixes the collaboration order behind every design package: Leasing Plan first, then Building Services, then Structural. [[four-to-one-parking-ratio|The 4:1 Parking Ratio]] and [[water-management-system|the Water Management System]] apply at the site level. [[common-building-code|The Common Building Code]], [[tile-level-climate-zoning|tile-level climate zoning]], and [[structural-bay-depth-discipline|structural bay depth discipline]] apply at the building and leasehold level. [[geometry-of-sustainability|Geometry of Sustainability]] and [[dual-mandate-building-certifications|Dual-Mandate Building Certifications]] cover the operating-cost engineering and the BREEAM/WELL certification strategy that follow.
+Eight articles covering what applies at each level. Parking and water management apply at the site; the design sequence, building code, climate zoning, and bay-depth discipline apply at the building and leasehold. The operating-cost engineering and the BREEAM/WELL certification strategy follow from both.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: site-and-building-standards -->
 - [[design-sequence-priority]] — The fixed collaboration order behind every Woodfine design package — the Leasing Plan first, then Building Services, then Structural — each discipline designing against a completed prior layer instead of in parallel.

@@ -12,7 +12,7 @@ index_scope: buildings
 status: active
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-26
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: buildings/_index.md
 ---
@@ -25,9 +25,18 @@ Clases de Desarrollo nombra lo que realmente construye Woodfine: cuatro clases d
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
+## Por dónde empezar
+
+Once artículos cubren lo que construye Woodfine, y cómo un edificio se llena y se abastece. Estos cuatro son la vía de entrada, uno por cada grupo de abajo.
+
+- [[about-development-classes|Clases de desarrollo]] — Los seis tipos de edificio: qué es cada uno, a quién sirve y cómo se ubica. Cuatro están vigentes; dos están planeadas.
+- [[about-development-class-economics|Economía de las clases de desarrollo]] — Las características económicas que distinguen una clase de otra.
+- [[mix-of-use|Mix-of-Use]] — El modelo de curaduría de inquilinos que ensambla un ecosistema profesional de cinco categorías dentro de cada edificio.
+- [[woodfine-development-vocabulary|Vocabulario de desarrollo]] — Los términos propios que usa esta categoría, mantenidos distintos del uso genérico de la industria AEC.
+
 ## Las Seis Clases de Desarrollo
 
-[[about-development-classes|Clases de Desarrollo]] recorre las seis: qué es cada tipo de edificio, a quién sirve y cómo se ubica. [[about-development-class-economics|Economía de las Clases de Desarrollo]] expone las cifras detrás de cada una. Cuatro clases tienen definiciones vigentes actuales; dos están planeadas y se describen en términos de intención hasta que se definan formalmente sus especificaciones físicas.
+Las dos panorámicas y las seis definiciones de clase. Cuatro clases tienen definiciones vigentes actuales; dos están planeadas y se describen en términos de intención hasta que se definan formalmente sus especificaciones físicas.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-six-development-classes -->
 - [[about-development-classes]] — Las seis clases de desarrollo para los desarrollos de tenencia directa de Woodfine: Centros Profesionales, Oficinas Suburbanas, Retail Select, Industrial Tecnológico, Estructuras de Estacionamiento y Almacenes Verticales.
@@ -42,7 +51,7 @@ Clases de Desarrollo nombra lo que realmente construye Woodfine: cuatro clases d
 
 ## Combinación de Inquilinos y Adquisiciones
 
-Dos artículos más explican cómo se llena y abastece un edificio. [[mix-of-use|Mix-of-Use]] es el modelo de curaduría de inquilinos que ensambla un ecosistema estable de cinco categorías dentro de cada edificio Woodfine. [[centralized-buying-program|El Programa de Compras Centralizadas]] agrega las compras de materiales entre proyectos simultáneos para asegurar precios nacionales, con reembolsos que regresan a las Soluciones de Tenencia Directa.
+Cómo se llena y se abastece un edificio: el modelo de curaduría de inquilinos que ensambla un ecosistema estable de cinco categorías, y la estructura de adquisiciones que agrega las compras de materiales entre proyectos simultáneos para asegurar precios nacionales, con reembolsos que regresan a las Soluciones de Tenencia Directa.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: tenant-mix-and-procurement -->
 - [[mix-of-use]] — Un modelo estratégico de selección de inquilinos que reúne un ecosistema profesional de cinco categorías de ocupantes de alta estabilidad dentro de cada edificio Woodfine.
@@ -51,7 +60,7 @@ Dos artículos más explican cómo se llena y abastece un edificio. [[mix-of-use
 
 ## Vocabulario
 
-[[woodfine-development-vocabulary|El Vocabulario de Desarrollo]] reúne los términos propios usados en esta categoría — Clase de Desarrollo, Prototipo, Placa de Piso Fija y Programa de Expansión — mantenidos distintos del uso genérico de la industria AEC.
+Los términos propios usados en esta categoría — Clase de Desarrollo, Prototipo, Placa de Piso Fija y Programa de Expansión — mantenidos distintos del uso genérico de la industria AEC.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: vocabulary -->
 - [[woodfine-development-vocabulary]] — Un glosario curado del vocabulario propio de tenencia directa de Woodfine — Clases de Desarrollo, Prototipo, Placa de Piso Fija, Programa de Expansión y términos relacionados — distinto de la terminología genérica de la industria AEC.
