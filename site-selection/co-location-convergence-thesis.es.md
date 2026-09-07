@@ -7,7 +7,7 @@ index_group: strategy-and-investment-thesis
 type: topic
 content_type: topic
 quality: complete
-short_description: "Tres tendencias convergen en un Power Centre -- el diseño live/work/play de los centros comerciales, el terreno de estacionamiento subutilizado y la escasez de espacio arrendable profesional -- y el arrendamiento en horario profesional de Woodfine está diseñado para capturar las tres."
+short_description: "Tres tendencias convergen en un Power Centre — el diseño live/work/play de los centros comerciales, el terreno de estacionamiento subutilizado y la escasez de espacio arrendable profesional — y el arrendamiento en horario profesional de Woodfine está diseñado para capturar las tres."
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
