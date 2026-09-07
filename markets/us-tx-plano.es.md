@@ -7,7 +7,7 @@ title: "Mercado regional de Plano"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
-index_group: north-american-market-profiles
+index_group: united-states-market-profiles
 type: reference
 content_type: topic
 quality: complete

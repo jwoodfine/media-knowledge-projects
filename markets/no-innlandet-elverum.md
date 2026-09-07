@@ -5,7 +5,7 @@ slug: no-innlandet-elverum
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
-index_group: nordic-market-profiles
+index_group: nordics-market-profiles
 type: reference
 content_type: topic
 quality: stub

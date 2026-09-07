@@ -5,7 +5,7 @@ slug: us-wi-madison
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
-index_group: north-american-market-profiles
+index_group: united-states-market-profiles
 type: topic
 content_type: topic
 quality: stub

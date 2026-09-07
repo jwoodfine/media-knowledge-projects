@@ -5,7 +5,7 @@ title: "Bielsko-Biała Regional Market"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
-index_group: iberian-and-central-european-market-profiles
+index_group: poland-market-profiles
 type: reference
 content_type: topic
 quality: stub

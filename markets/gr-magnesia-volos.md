@@ -5,7 +5,7 @@ slug: gr-magnesia-volos
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
-index_group: adriatic-and-greek-market-profiles
+index_group: new-europe-market-profiles
 type: reference
 content_type: topic
 quality: stub

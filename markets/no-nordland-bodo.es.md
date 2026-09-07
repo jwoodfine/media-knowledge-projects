@@ -5,7 +5,7 @@ slug: no-nordland-bodo
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
-index_group: nordic-market-profiles
+index_group: nordics-market-profiles
 type: reference
 content_type: topic
 quality: stub

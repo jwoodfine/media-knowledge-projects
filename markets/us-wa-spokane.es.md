@@ -5,7 +5,7 @@ slug: us-wa-spokane
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
-index_group: north-american-market-profiles
+index_group: united-states-market-profiles
 type: topic
 content_type: topic
 quality: stub

@@ -5,7 +5,7 @@ slug: ca-ab-lethbridge
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
-index_group: north-american-market-profiles
+index_group: canada-market-profiles
 type: topic
 content_type: topic
 quality: stub

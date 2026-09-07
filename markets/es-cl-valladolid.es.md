@@ -5,7 +5,7 @@ slug: es-cl-valladolid
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
-index_group: iberian-and-central-european-market-profiles
+index_group: spain-market-profiles
 type: topic
 content_type: topic
 quality: stub

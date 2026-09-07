@@ -5,7 +5,7 @@ slug: ca-sk-regina
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
-index_group: north-american-market-profiles
+index_group: canada-market-profiles
 type: topic
 content_type: topic
 quality: stub

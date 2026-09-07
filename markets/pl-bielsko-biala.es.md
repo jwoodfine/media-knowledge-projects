@@ -5,7 +5,7 @@ title: "Mercado regional de Bielsko-Biała"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
-index_group: iberian-and-central-european-market-profiles
+index_group: poland-market-profiles
 type: reference
 content_type: topic
 quality: stub

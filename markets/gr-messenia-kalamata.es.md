@@ -5,7 +5,7 @@ slug: gr-messenia-kalamata
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
-index_group: adriatic-and-greek-market-profiles
+index_group: new-europe-market-profiles
 type: reference
 content_type: topic
 quality: stub
