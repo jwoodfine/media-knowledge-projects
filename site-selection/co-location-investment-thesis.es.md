@@ -24,7 +24,7 @@ Cuando los minoristas de grado institucional seleccionan de forma independiente 
 
 - Los minoristas de grado institucional llevan a cabo procesos de selección de sitios independientes antes de comprometer capital; cuando varios operadores convergen en el mismo nodo, esa convergencia refleja el criterio de asignadores de capital independientes, no la visión de mercado de un único equipo directivo.
 - Un nodo multi-ancla es estructuralmente más defendible que un emplazamiento de ancla única, porque la pérdida de cualquier operador individual tiene un impacto proporcional menor sobre el área comercial.
-- La tesis identifica una clase verificable de inmuebles comerciales; no proyecta rendimientos específicos, y una puntuación de nivel elevada es condición necesaria, pero no suficiente, para la adquisición.
+- La tesis identifica una clase verificable de inmuebles comerciales; no proyecta rendimientos específicos, y una clasificación de nivel elevada es condición necesaria, pero no suficiente, para la adquisición.
 
 ## La observación subyacente
 
@@ -40,15 +40,15 @@ La convergencia de compromisos es la señal de inversión. Es reproducible; no d
 
 ## Operacionalización
 
-La metodología de co-ubicación traduce esta tesis en una matriz de clasificación. Un ancla de Objetivo Principal —definida como Walmart Supercentre en mercados norteamericanos e IKEA en mercados europeos— se puntúa frente a los operadores secundarios presentes dentro del radio de captación secundario del emplazamiento y frente a la infraestructura cívica terciaria (hospitales, instituciones de educación superior) presente dentro de un radio de captación cívico más amplio. Cada capa recibe una puntuación; la puntuación combinada produce una clasificación por niveles.
+La metodología de co-ubicación traduce esta tesis en una matriz de clasificación. Un ancla de Objetivo Principal —definida como Walmart Supercentre en mercados norteamericanos e IKEA en mercados europeos— se evalúa frente a los operadores secundarios presentes dentro del radio de captación secundario del emplazamiento y frente a la infraestructura cívica terciaria (hospitales, instituciones de educación superior) presente dentro de un radio de captación cívico más amplio. Cada capa supera o no su propia compuerta; el resultado combinado produce una clasificación por niveles, no una puntuación acumulada.
 
 La matriz opera sobre datos públicos de ubicación de minoristas y coordenadas de instalaciones cívicas, no sobre un conjunto de datos propietario. Sus insumos son la presencia o ausencia de operadores e instalaciones específicos dentro de los radios definidos por la plataforma, de modo que dos analistas que apliquen los mismos criterios a los mismos datos llegan a la misma clasificación. La estructura corporativa separa este trabajo tecnológico y analítico de la toma de decisiones de inversión a nivel de entidad.
 
 ## Alcance de la afirmación
 
-La tesis identifica una clase de inmuebles comerciales con convergencia de anclas objetivamente verificable. No proyecta rendimientos específicos. No afirma que estos emplazamientos superen al mercado en todos los ciclos. La evaluación de capital de cualquier emplazamiento específico parte de la puntuación por niveles como criterio de entrada y aplica después un análisis específico del activo —estado de la propiedad, estructura de los arrendamientos, titularidad, servicio de la deuda— antes de tomar una decisión de adquisición.
+La tesis identifica una clase de inmuebles comerciales con convergencia de anclas objetivamente verificable. No proyecta rendimientos específicos. No afirma que estos emplazamientos superen al mercado en todos los ciclos. La evaluación de capital de cualquier emplazamiento específico parte de la clasificación por niveles como criterio de entrada y aplica después un análisis específico del activo —estado de la propiedad, estructura de los arrendamientos, titularidad, servicio de la deuda— antes de tomar una decisión de adquisición.
 
-Una puntuación de nivel elevada es condición necesaria, pero no suficiente, para la adquisición.
+Una clasificación de nivel elevada es condición necesaria, pero no suficiente, para la adquisición.
 
 ## La conclusión
 
@@ -56,7 +56,7 @@ La tesis de inversión por co-ubicación se basa en una única observación veri
 
 ## Véase también
 
-- [[asset-evaluation-protocol|Protocolo de Evaluación de Activos]] — cómo la puntuación por niveles funciona como criterio de entrada en el proceso de adquisición de Woodfine
+- [[asset-evaluation-protocol|Protocolo de Evaluación de Activos]] — cómo la clasificación por niveles funciona como criterio de entrada en el proceso de adquisición de Woodfine
 - Estructura Corporativa — las entidades responsables de ejecutar las adquisiciones
 - Marco de Tenencia Directa — la estructura de propiedad aplicada a los activos adquiridos
 - [Metodología de Co-ubicación](https://projects.woodfinegroup.com/topic-co-location-methodology) — metodología analítica detallada que sustenta la tesis de inversión

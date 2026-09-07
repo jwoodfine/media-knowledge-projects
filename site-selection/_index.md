@@ -30,11 +30,11 @@ Site Selection covers the strategy and investment thesis behind "near Power Cent
 Twenty-seven articles cover how a Development Site is found, scored, and cleared for purchase. These eight run that sequence end to end and reach every group below.
 
 - [[co-location-methodology|Co-location methodology]] — The deterministic framework that classifies a commercial node by where capital-intensive retailers converge. The most-cited article on this wiki.
-- [[co-location-intelligence-overview|Retail co-location intelligence]] — The entry point: what the analysis produces, and how a ranked site list is built from public location data.
+- [[co-location-intelligence-overview|Retail co-location intelligence]] — The entry point: what the analysis produces, and how a classified site list is built from public location data.
 - [[co-location-strategy|Co-location strategy]] — Why professional centres are sited beside national retail anchors, and what that transposes onto office demand.
 - [[power-centres|Power Centres]] — The retail hubs every candidate site is measured against.
 - [[co-location-anchors|Co-location anchors]] — The large-format retailers whose verified presence qualifies a node. This is the binary test the dataset turns on.
-- [[co-location-ranking-system|Ranking system]] — How clusters are ranked within a country, how overlaps are resolved, and how ties are broken.
+- [[co-location-ranking-system|Ranking system]] — How clusters are tiered within a country, how overlaps are resolved, and how ties are broken.
 - [[catchment-ranking-methodology|Catchment ranking methodology]] — The current four tier gates: anchor composition, catchment rank, civic infrastructure, and spatial independence.
 - [[zoning-acquisition-rules|Zoning acquisition standard]] — No parcel is bought without a verified entitlement position and an active development timeline.
 
@@ -79,14 +79,14 @@ Two of the three co-location archetypes: transit-adjacent sites carrying signifi
 
 ## Site Scoring and Trade Areas
 
-How a qualifying anchor becomes a ranked cluster. Seven articles cover cluster formation, deduplication of overlapping candidates, the deterministic tier engine, and the distance bands scoring runs against — including the honest limits of straight-line measurement.
+How a qualifying anchor becomes a classified cluster. Seven articles cover cluster formation, deduplication of overlapping candidates, the deterministic tier engine, and the distance bands scoring runs against.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: site-scoring-and-trade-areas -->
 - [[co-location-cluster-formation]] — The pipeline step that converts each qualifying anchor store into a candidate co-location cluster; overlapping candidates from a single trade area are resolved by deduplication before ranking inputs are aggregated.
 - [[cluster-deduplication-threshold]] — The co-location index pipeline deduplicates overlapping clusters that represent the same commercial zone using a fixed, tightly-set proximity threshold, retaining the cluster with the higher secondary operator count.
 - [[co-location-ranking-system]] — The deterministic mechanics behind cluster ranking on the co-location platform — country-relative percentile ranking, the overlap test between neighbouring clusters, and the tiebreak order applied within a tier.
 - [[catchment-ranking-methodology]] — The current predicate-gate system that assigns each co-location cluster to one of four tiers — Regional, District, Local, Fringe — using anchor composition, national catchment rank, civic infrastructure, and spatial independence, introduced May 2026 to replace an earlier composite-score model.
-- [[geographic-co-location-methodology]] — Predicate-gate tier system scoring retail co-location clusters by anchor composition, catchment rank, and civic presence to rank development sites by anchor strength.
+- [[geographic-co-location-methodology]] — Predicate-gate tier system classifying retail co-location clusters by anchor composition, catchment rank, and civic presence to identify development sites by anchor strength.
 - [[od-catchment-methodology]] — Each co-location cluster is assigned two straight-line distance bands — a primary zone within 35 km and a secondary zone from 35 km to 150 km — that determine the population and spend attributed to it.
 - [[trade-area-methodology]] — Honest labelling of demand geography — why straight-line distance bands are never called catchments, and the planned move to isochrones and observed origins.
 <!-- END AUTO-GENERATED -->
@@ -97,7 +97,7 @@ The two tests a candidate site clears before purchase: a verified entitlement po
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: before-land-is-bought -->
 - [[zoning-acquisition-rules]] — Pre-purchase entitlement verification: every parcel is acquired against either a permitted use or an evidenced, achievable rezoning path, with an active development timeline and no speculative land banking.
-- [[asset-evaluation-protocol]] — How the co-location ranking matrix drives Woodfine's commercial asset acquisition targeting: the tier classification as the entry criterion, deterministic scoring on public location data as the verification method.
+- [[asset-evaluation-protocol]] — How the co-location classification matrix drives Woodfine's commercial asset acquisition targeting: the tier classification as the entry criterion, deterministic scoring on public location data as the verification method.
 <!-- END AUTO-GENERATED -->
 
 ## See also

@@ -7,7 +7,7 @@ index_group: site-scoring-and-trade-areas
 type: topic
 content_type: topic
 quality: complete
-short_description: "Predicate-gate tier system scoring retail co-location clusters by anchor composition, catchment rank, and civic presence to rank development sites by anchor strength."
+short_description: "Predicate-gate tier system classifying retail co-location clusters by anchor composition, catchment rank, and civic presence to identify development sites by anchor strength."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-08-26
@@ -19,7 +19,7 @@ paired_with: geographic-co-location-methodology.es.md
 cites: []
 ---
 
-The **Geographic Co-Location Methodology** is the spatial analysis discipline MCorp applies to identify and rank potential Development Sites across Woodfine's four qualified jurisdictions: Canada, the United States, Spain, and Mexico. The methodology scores retail nodes by the proximity and combination of anchor retailers operating in the geography, producing a ranked dataset of sites in which development investment is validated by the demonstrable commercial commitments of institutional retailers rather than by speculative demographic projections.
+The **Geographic Co-Location Methodology** is the spatial analysis discipline Woodfine applies to identify and classify potential Development Sites across its four qualified jurisdictions: Canada, the United States, Spain, and Mexico. The methodology classifies retail nodes by the proximity and combination of anchor retailers operating in the geography, producing a classified dataset of sites in which development investment is validated by the demonstrable commercial commitments of institutional retailers rather than by speculative demographic projections.
 
 The methodology assigns each cluster to one of four tiers by predicate gate, not by an accumulated score. A cluster earns a tier only when every gate required for that tier passes — anchor composition, catchment rank, and civic presence together, not any one factor alone. This gate structure replaced an earlier points-based scale on 2026-05-16; the retired scale, and its numeric labels, no longer describe any current cluster.
 

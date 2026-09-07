@@ -38,7 +38,7 @@ Each development region is defined by three components:
 
 ## Relationship to the co-location methodology
 
-Development-region definitions are the framework within which site-selection scoring operates. When a site-selection process is initiated, it specifies a development region; scoring then searches within that region's geographic boundary, applies its jurisdictional rules, and returns a ranked candidate list scoped to that region.
+Development-region definitions are the framework within which site-selection scoring operates. When a site-selection process is initiated, it specifies a development region; scoring then searches within that region's geographic boundary, applies its jurisdictional rules, and returns a classified candidate list scoped to that region.
 
 Development regions are stable definitions that change infrequently — when a new regulatory framework comes into effect, when coverage expands to a new geography, or when a jurisdictional boundary changes. Site-selection scoring is the runtime consumer of those definitions.
 

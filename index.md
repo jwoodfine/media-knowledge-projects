@@ -28,7 +28,7 @@ As of the most recent full processing run (2026-08-06), the co-location intellig
 covers 24 countries across North America and Europe. Current cluster counts are published live
 on the platform rather than restated here — a wiki snapshot goes stale between runs. This
 encyclopedia is the methodology reference for
-the [[co-location-ranking-system|ranking algorithm]], [[asset-architecture-standard|asset
+the [[co-location-ranking-system|tier classification system]], [[asset-architecture-standard|asset
 architecture]] standards, and the [[co-location-tier-system|co-location tier system]] applied
 across North America and Europe.
 The platform is live at gis.woodfinegroup.com.

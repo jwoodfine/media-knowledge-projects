@@ -40,7 +40,7 @@ The convergence of commitments is the investment signal. It is reproducible; it 
 
 ## Operationalization
 
-The co-location methodology translates this thesis into a ranking matrix. A Primary Target anchor — defined as Walmart Supercentre in North American markets and IKEA in European markets — is scored against secondary operators present within the site's secondary catchment radius and tertiary civic infrastructure (hospitals, post-secondary institutions) present within a wider civic catchment radius. Each layer receives a score; the combined score produces a tier classification.
+The co-location methodology translates this thesis into a classification matrix. A Primary Target anchor — defined as Walmart Supercentre in North American markets and IKEA in European markets — is evaluated against secondary operators present within the site's secondary catchment radius and tertiary civic infrastructure (hospitals, post-secondary institutions) present within a wider civic catchment radius. Each layer clears or fails its own gate; the combined result produces a tier classification, not an accumulated score.
 
 The matrix runs on publicly available retailer location data and civic facility coordinates rather than on a proprietary dataset. Its inputs are the presence or absence of specific operators and facilities within the platform's defined radii, so two analysts applying the same criteria to the same data reach the same classification. The corporate structure separates this technology and analytics work from investment decision-making at the entity level.
 
@@ -52,7 +52,7 @@ A high tier score is a necessary but not sufficient condition for acquisition.
 
 ## The bottom line
 
-The co-location investment thesis rests on a single, verifiable observation: institutional-grade retailers independently commit capital to the same geographic nodes, and that convergence is a more durable signal of site quality than any single-operator presence. Woodfine translates this observation into an objective ranking matrix built on public location data — no proprietary dataset and no management-team judgment about local sentiment is required to apply it. The thesis establishes the investment rationale; the asset evaluation protocol, the Direct-Hold framework, and the interest coverage discipline govern how that rationale is applied to specific acquisitions.
+The co-location investment thesis rests on a single, verifiable observation: institutional-grade retailers independently commit capital to the same geographic nodes, and that convergence is a more durable signal of site quality than any single-operator presence. Woodfine translates this observation into an objective classification matrix built on public location data — no proprietary dataset and no management-team judgment about local sentiment is required to apply it. The thesis establishes the investment rationale; the asset evaluation protocol, the Direct-Hold framework, and the interest coverage discipline govern how that rationale is applied to specific acquisitions.
 
 ## See also
 
