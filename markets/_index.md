@@ -98,12 +98,12 @@ The country index pages are the way into the profiles. Each `atlas-` page lists 
 country's markets in a single table, with the metropolitan reference point and cluster
 composition for every entry: [[atlas-canada|Canada]], [[atlas-united-states|United States]], [[atlas-mexico|Mexico]], [[atlas-united-kingdom|United Kingdom]], [[atlas-spain|Spain]], [[atlas-italy|Italy]], [[atlas-poland|Poland]], [[atlas-sweden|Sweden]], [[atlas-czechia|Czechia]], [[atlas-finland|Finland]], [[atlas-hungary|Hungary]], [[atlas-slovakia|Slovakia]], [[atlas-romania|Romania]], [[atlas-bulgaria|Bulgaria]], [[atlas-denmark|Denmark]], [[atlas-greece|Greece]], [[atlas-croatia|Croatia]], and [[atlas-norway|Norway]]. This page no longer enumerates every profile; the country tables do,
 and they carry the market-level detail an enumeration here cannot. Behind those tables the
-profiles are grouped by [[rollout-index|planned Direct-Hold jurisdiction]] — Canada, the
-United States, the United Kingdom, Spain, Poland, the Nordics, and New Europe carry profile
-pages today; Mexico and Italy do not have one yet — so the collection can be read a
+profiles are grouped by [[rollout-index|planned Direct-Hold jurisdiction]] — all nine
+jurisdictions (Canada, the United States, Mexico, Spain, Poland, the United Kingdom, Italy,
+the Nordics, and New Europe) now carry profile pages, so the collection can be read a
 jurisdiction at a time as coverage grows.
 
-57 individual market profile pages exist today (EN+ES pairs), each with population and
+73 individual market profile pages exist today (EN+ES pairs), each with population and
 economic context sourced from Wikipedia.
 
 Each profile page states its own position: a published entry in the Top 400 set, a metropolitan
