@@ -6,13 +6,13 @@ category: site-selection
 type: topic
 content_type: topic
 quality: complete
-short_description: "La estrategia detrás de "cerca de los Power Centres": las anclas minoristas, el análisis de zonas de captación y clústeres, la puntuación, y las pruebas que un sitio debe superar."
+short_description: "La estrategia detrás de «cerca de los Power Centres»: las anclas minoristas, el análisis de zonas de captación y clústeres, la puntuación, y las pruebas que un sitio debe superar."
 index_type: thematic
 index_scope: site-selection
 status: active
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-27
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: site-selection/_index.md
 ---
@@ -25,9 +25,22 @@ Selección de Sitios abarca la estrategia y la tesis de inversión detrás de "c
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
+## Por dónde empezar
+
+Veintisiete artículos cubren cómo se localiza, se puntúa y se autoriza para compra un Sitio de Desarrollo. Estos ocho recorren esa secuencia de principio a fin y alcanzan cada grupo de abajo.
+
+- [[co-location-methodology|Metodología de co-ubicación]] — El marco determinista que clasifica un nodo comercial por dónde convergen minoristas de capital intensivo. El artículo más citado de este wiki.
+- [[co-location-intelligence-overview|Inteligencia de co-ubicación minorista]] — El punto de entrada: qué produce el análisis y cómo se construye una lista de sitios clasificada a partir de datos públicos de localización.
+- [[co-location-strategy|Estrategia de co-localización]] — Por qué los centros profesionales se sitúan junto a anclas minoristas nacionales, y qué traslada eso a la demanda de oficinas.
+- [[power-centres|Power Centres]] — Los polos comerciales frente a los cuales se mide cada sitio candidato.
+- [[co-location-anchors|Anclas de co-ubicación]] — Los minoristas de gran formato cuya presencia verificada califica un nodo. Es la prueba binaria sobre la que gira el conjunto de datos.
+- [[co-location-ranking-system|Sistema de clasificación]] — Cómo se clasifican los clústeres dentro de un país, cómo se resuelven las superposiciones y cómo se deshacen los empates.
+- [[catchment-ranking-methodology-v3|Metodología de clasificación de captación, V3]] — Las cuatro compuertas de nivel actuales: composición de anclas, rango de captación, infraestructura cívica e independencia espacial.
+- [[zoning-acquisition-rules|Norma de adquisición de zonificación]] — Ninguna parcela se compra sin una posición de titulación verificada y un cronograma de desarrollo activo.
+
 ## Estrategia y Tesis de Inversión
 
-[[co-location-intelligence-overview|Inteligencia de Co-ubicación Minorista]] es el punto de entrada: análisis geográfico sistemático que clasifica sitios por dónde convergen los minoristas nacionales de gran formato. [[co-location-methodology|Metodología de Co-ubicación]], [[co-location-strategy|Estrategia de Co-localización]] y [[co-location-investment-thesis|la Tesis de Inversión por Co-ubicación]] exponen, en turno, el marco determinista, la lógica de posicionamiento de sitios y el caso de inversión subyacente. [[power-centre-co-location-thesis|La Tesis de Co-Ubicación en Power Centres]] y [[institutional-retail-halo|el Halo Minorista Institucional]] describen cómo la proximidad a un Power Centre en operación transfiere la estabilidad de demanda del comercio de necesidad a espacio de oficina adyacente. [[power-centre-land-availability|Disponibilidad de Terreno en Power Centres]] cubre de dónde provienen los Sitios de Desarrollo de Woodfine, y [[co-location-convergence-thesis|la Tesis de Convergencia de Co-Ubicación]] conecta ese método de abastecimiento de terreno con la ocupación profesional en horario extendido y el cambio de diseño live/work/play en los centros comerciales. [[location-intelligence-archetypes|Los Arquetipos de Inteligencia de Ubicación]] cubren los tres arquetipos de co-ubicación a los que puede pertenecer un sitio.
+Los nueve artículos detrás de «cerca de los Power Centres»: el marco de análisis, la lógica de posicionamiento de sitios, el caso de inversión y de dónde proviene el terreno. La proximidad a un Power Centre en operación transfiere la estabilidad de demanda del comercio de necesidad a la oficina adyacente — esa transferencia es la tesis que estos artículos argumentan.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: strategy-and-investment-thesis -->
 - [[co-location-intelligence-overview]] — Análisis geográfico sistemático que identifica y clasifica sitios minoristas donde las categorías de gran formato convergen dentro de radios de captación definidos.
@@ -43,7 +56,7 @@ Selección de Sitios abarca la estrategia y la tesis de inversión detrás de "c
 
 ## Anclas e Inquilinos
 
-[[power-centres|Los Power Centres]] son los polos comerciales frente a los cuales se mide un sitio, y [[co-location-anchors|los Anclas de Co-ubicación]] define a los minoristas nacionales de gran formato cuya presencia califica un nodo comercial. [[co-location-target-hierarchy|La Jerarquía de Objetivos]] y [[co-location-tier-nomenclature|la Nomenclatura de Niveles]] clasifican a los vecinos minoristas de un sitio en objetivos Primario, Secundario y Terciario bajo las cuatro etiquetas de nivel alineadas con el ICSC. [[national-tenants|Los Inquilinos Nacionales]] y [[retail-brand-family-taxonomy|la Taxonomía de Familias de Marcas Minoristas]] clasifican a los ocupantes y cadenas que anclan la credibilidad del edificio, y [[retail-centres|los Centros Comerciales de Barrio (PRO)]] son el producto cartográfico base — centros de proximidad anclados por supermercado, farmacia, banco y restauración informal.
+Aquello frente a lo cual se mide un sitio. Siete artículos definen los polos comerciales, las anclas calificadoras, las cuatro etiquetas de nivel que se les aplican y los ocupantes profesionales cuya identidad institucional ancla la credibilidad del edificio.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: anchors-and-tenants -->
 - [[power-centres]] — Polos comerciales anclados por múltiples minoristas nacionales de gran formato, que sirven como el principal ancla de selección de sitios para los desarrollos de co-localización de Woodfine.
@@ -57,7 +70,7 @@ Selección de Sitios abarca la estrategia y la tesis de inversión detrás de "c
 
 ## Cinturones de Cercanías y la Periferia Urbana
 
-[[commuter|Commuter (PKS)]] y [[urban-fringe|Periferia Urbana (VWH)]] son dos de los tres arquetipos de co-ubicación de Inteligencia de Ubicación: sitios adyacentes al transporte con estacionamiento significativo, y actividad minorista de gran formato y distribución-industrial en la periferia metropolitana, respectivamente. El tercer arquetipo es [[retail-centres|Centros Comerciales de Barrio (PRO)]], cubierto en Anclas e Inquilinos más arriba.
+Dos de los tres arquetipos de co-ubicación: sitios adyacentes al transporte con estacionamiento significativo, y actividad minorista de gran formato y distribución-industrial en la periferia metropolitana. El tercero, Centros Comerciales de Barrio, figura en Anclas e Inquilinos más arriba.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: commuter-belts-and-the-urban-fringe -->
 - [[commuter]] — Los clústeres de Viajero Habitual (PKS) identifican sitios comerciales adyacentes al tránsito con aparcamiento significativo — cercanías, intercambiadores de tránsito, aparcamientos de disuasión y comercio de salida de autopista — uno de los tres arquetipos de co-localización de Inteligencia de Localización.
@@ -66,7 +79,7 @@ Selección de Sitios abarca la estrategia y la tesis de inversión detrás de "c
 
 ## Puntuación de Sitios y Áreas de Influencia
 
-[[co-location-cluster-formation|La Formación de Agrupaciones]] y [[cluster-deduplication-threshold|el Umbral de Deduplicación]] describen cómo un ancla calificada se convierte en una agrupación candidata y cómo se resuelven las candidatas superpuestas. [[co-location-ranking-system|El Sistema de Clasificación]] y [[catchment-ranking-methodology-v3|la Metodología de Clasificación de Captación V3]] exponen el algoritmo de puntuación determinista y su motor actual de niveles por predicados binarios. [[geographic-co-location-methodology|La Metodología de Co-Ubicación Geográfica]] cubre el marco de análisis de clústeres a escala continental detrás del método. [[od-catchment-methodology|La Metodología de Bandas de Distancia]] y [[trade-area-methodology|la Metodología de Área de Atracción]] definen las áreas de influencia primaria y secundaria — y los límites honestos de la medición por distancia en línea recta — contra las que se puntúa.
+Cómo un ancla calificada se convierte en un clúster clasificado. Siete artículos cubren la formación de agrupaciones, la deduplicación de candidatas superpuestas, el motor determinista de niveles y las bandas de distancia contra las que se puntúa — incluidos los límites honestos de la medición en línea recta.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: site-scoring-and-trade-areas -->
 - [[co-location-cluster-formation]] — Paso del flujo que convierte cada tienda ancla calificada en una agrupación candidata de co-ubicación; las candidatas superpuestas en una misma área de comercio se resuelven mediante deduplicación antes de agregar los datos para el ranking.
@@ -80,7 +93,7 @@ Selección de Sitios abarca la estrategia y la tesis de inversión detrás de "c
 
 ## Antes de Comprar el Terreno
 
-[[zoning-acquisition-rules|La Norma de Adquisición de Zonificación]] exige una posición de titulación verificada en cada parcela — un uso permitido o una vía de rezonificación evidenciada y viable — antes de la compra. [[asset-evaluation-protocol|El Protocolo de Evaluación de Activos]] fija la puntuación por niveles como criterio de entrada y el análisis GIS independiente como el método de verificación que debe superar un sitio candidato.
+Las dos pruebas que un sitio candidato supera antes de la compra: una posición de titulación verificada sobre la parcela — un uso permitido o una vía de rezonificación evidenciada y viable — y la verificación GIS independiente de su nivel.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: before-land-is-bought -->
 - [[zoning-acquisition-rules]] — Verificación de titulación previa a la compra: cada parcela se adquiere sobre un uso permitido o una vía de rezonificación evidenciada y viable, con un cronograma de desarrollo activo y sin acumulación especulativa de terrenos.

@@ -12,7 +12,7 @@ index_scope: site-selection
 status: active
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-09-04
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
@@ -25,9 +25,22 @@ Site Selection covers the strategy and investment thesis behind "near Power Cent
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
+## Where to start
+
+Twenty-seven articles cover how a Development Site is found, scored, and cleared for purchase. These eight run that sequence end to end and reach every group below.
+
+- [[co-location-methodology|Co-location methodology]] — The deterministic framework that classifies a commercial node by where capital-intensive retailers converge. The most-cited article on this wiki.
+- [[co-location-intelligence-overview|Retail co-location intelligence]] — The entry point: what the analysis produces, and how a ranked site list is built from public location data.
+- [[co-location-strategy|Co-location strategy]] — Why professional centres are sited beside national retail anchors, and what that transposes onto office demand.
+- [[power-centres|Power Centres]] — The retail hubs every candidate site is measured against.
+- [[co-location-anchors|Co-location anchors]] — The large-format retailers whose verified presence qualifies a node. This is the binary test the dataset turns on.
+- [[co-location-ranking-system|Ranking system]] — How clusters are ranked within a country, how overlaps are resolved, and how ties are broken.
+- [[catchment-ranking-methodology-v3|Catchment ranking methodology, V3]] — The current four tier gates: anchor composition, catchment rank, civic infrastructure, and spatial independence.
+- [[zoning-acquisition-rules|Zoning acquisition standard]] — No parcel is bought without a verified entitlement position and an active development timeline.
+
 ## Strategy and Investment Thesis
 
-[[co-location-intelligence-overview|Retail Co-Location Intelligence]] is the entry point: systematic geographic analysis that ranks sites by where large-format national retailers converge. [[co-location-methodology|Co-Location Methodology]], [[co-location-strategy|Co-Location Strategy]], and [[co-location-investment-thesis|the Co-Location Investment Thesis]] set out the deterministic framework, the site-positioning logic, and the underlying investment case in turn. [[power-centre-co-location-thesis|The Power Centre Co-Location Thesis]] and [[institutional-retail-halo|the Institutional Retail Halo]] describe how proximity to an operating Power Centre transfers necessity-retail demand stability onto adjacent office space. [[power-centre-land-availability|Power Centre Land Availability]] covers where Woodfine's Development Sites come from, and [[co-location-convergence-thesis|the Co-Location Convergence Thesis]] connects that land-sourcing method to extended-hours professional occupancy and the live/work/play shift in shopping-centre design. [[location-intelligence-archetypes|Location Intelligence Archetypes]] covers the three co-location archetypes a site can belong to.
+The nine articles behind "near Power Centres": the analysis framework, the site-positioning logic, the investment case, and where the land itself comes from. Proximity to an operating Power Centre transfers necessity-retail demand stability onto adjacent office space — that transfer is the thesis these articles argue.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: strategy-and-investment-thesis -->
 - [[co-location-intelligence-overview]] — Systematic geographic analysis identifying and classifying retail sites where large-format categories converge within defined catchment radii.
@@ -43,7 +56,7 @@ Site Selection covers the strategy and investment thesis behind "near Power Cent
 
 ## Anchors and Tenants
 
-[[power-centres|Power Centres]] are the retail hubs a site is measured against, and [[co-location-anchors|Co-Location Anchors]] defines the large-format national retailers whose presence qualifies a commercial node. [[co-location-target-hierarchy|The Target Hierarchy]] and [[co-location-tier-nomenclature|Tier Nomenclature]] rank a site's retail neighbours into Primary, Secondary, and Tertiary targets under the four ICSC-aligned tier labels. [[national-tenants|National Tenants]] and [[retail-brand-family-taxonomy|the Retail Brand Family Taxonomy]] classify the occupiers and chains that anchor building credibility, and [[retail-centres|Retail Centres (PRO)]] is the base map product — neighbourhood centres anchored by grocery, pharmacy, bank, and casual dining.
+What a site is measured against. Seven articles define the retail hubs, the qualifying anchors, the four tier labels applied to them, and the professional occupiers whose institutional identity anchors building credibility.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: anchors-and-tenants -->
 - [[power-centres]] — Retail hubs anchored by multiple big-box national retailers, serving as the primary site-selection anchors for Woodfine co-location deployments.
@@ -57,7 +70,7 @@ Site Selection covers the strategy and investment thesis behind "near Power Cent
 
 ## Commuter Belts and the Urban Fringe
 
-[[commuter|Commuter (PKS)]] and [[urban-fringe|Urban Fringe (VWH)]] are two of the three Location Intelligence co-location archetypes: transit-adjacent sites with significant parking, and large-format retail and distribution-industrial activity on the metropolitan periphery, respectively. The third archetype is [[retail-centres|Retail Centres (PRO)]], covered under Anchors and Tenants above.
+Two of the three co-location archetypes: transit-adjacent sites carrying significant parking, and large-format retail and distribution-industrial activity on the metropolitan periphery. The third, Retail Centres, sits under Anchors and Tenants above.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: commuter-belts-and-the-urban-fringe -->
 - [[commuter]] — Commuter (PKS) clusters identify transit-adjacent commercial sites with significant parking — commuter rail, transit hubs, park-and-ride, and highway-exit commercial — one of three Location Intelligence co-location archetypes.
@@ -66,7 +79,7 @@ Site Selection covers the strategy and investment thesis behind "near Power Cent
 
 ## Site Scoring and Trade Areas
 
-[[co-location-cluster-formation|Cluster Formation]] and [[cluster-deduplication-threshold|the Deduplication Threshold]] describe how a qualifying anchor becomes a candidate cluster and how overlapping candidates are resolved. [[co-location-ranking-system|The Ranking System]] and [[catchment-ranking-methodology-v3|the V3 Catchment Ranking Methodology]] set out the deterministic scoring algorithm and its current binary-predicate tier engine. [[geographic-co-location-methodology|Geographic Co-Location Methodology]] covers the continental-scale cluster framework behind the method. [[od-catchment-methodology|Distance-Band Methodology]] and [[trade-area-methodology|Trade-Area Methodology]] define the primary and secondary trade areas — and the honest limits of straight-line distance-band measurement — that scoring runs against.
+How a qualifying anchor becomes a ranked cluster. Seven articles cover cluster formation, deduplication of overlapping candidates, the deterministic tier engine, and the distance bands scoring runs against — including the honest limits of straight-line measurement.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: site-scoring-and-trade-areas -->
 - [[co-location-cluster-formation]] — The pipeline step that converts each qualifying anchor store into a candidate co-location cluster; overlapping candidates from a single trade area are resolved by deduplication before ranking inputs are aggregated.
@@ -80,7 +93,7 @@ Site Selection covers the strategy and investment thesis behind "near Power Cent
 
 ## Before Land Is Bought
 
-[[zoning-acquisition-rules|Zoning Acquisition Standard]] requires a verified entitlement position on every parcel — either a permitted use or an evidenced, achievable rezoning path — before purchase. [[asset-evaluation-protocol|The Asset Evaluation Protocol]] sets tier score as the entry criterion and independent GIS analysis as the verification method a candidate site must clear.
+The two tests a candidate site clears before purchase: a verified entitlement position on the parcel — a permitted use or an evidenced, achievable rezoning path — and independent GIS verification of its tier.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: before-land-is-bought -->
 - [[zoning-acquisition-rules]] — Pre-purchase entitlement verification: every parcel is acquired against either a permitted use or an evidenced, achievable rezoning path, with an active development timeline and no speculative land banking.
