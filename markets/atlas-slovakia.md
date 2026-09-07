@@ -14,12 +14,12 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Index of Slovakia's 16 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
+short_description: "Index of Slovakia's 16 Regional Markets meeting the co-location composition gates."
 paired_with: markets/atlas-slovakia.es.md
 ---
 
 The **Slovakia regional market index** lists the 16 Slovak markets that meet the co-location
-system's composition gates under the current 2026-08-07 dataset. No Slovak market sits within
+system's composition gates. No Slovak market sits within
 32 kilometres of its metropolitan reference point — the country has no close-in
 metropolitan-fringe entries of the kind that dominate the British and Italian sets.
 

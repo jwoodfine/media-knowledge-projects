@@ -14,13 +14,12 @@ language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Índice de los 46 Mercados Regionales de México que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
+short_description: "Índice de los 46 Mercados Regionales de México que cumplen las puertas de composición de co-ubicación."
 paired_with: markets/atlas-mexico.md
 ---
 
 El **índice de mercados regionales de México** enumera los 46 mercados mexicanos que cumplen
-las puertas de composición del sistema de co-ubicación bajo el conjunto de datos vigente del
-07-08-2026. Los 46 mercados recorren el país desde Ensenada y Playas de Rosarito, en la
+las puertas de composición del sistema de co-ubicación. Los 46 mercados recorren el país desde Ensenada y Playas de Rosarito, en la
 frontera de Baja California, hasta Tapachula, en la frontera con Guatemala, y registran las
 mayores distancias de referencia de cualquiera de los dos conjuntos continentales.
 

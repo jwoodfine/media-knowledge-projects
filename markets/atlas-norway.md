@@ -14,11 +14,11 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-08-26
 editor: editorial
-short_description: "Index of Norway's nine Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
+short_description: "Index of Norway's nine Regional Markets meeting the co-location composition gates."
 paired_with: markets/atlas-norway.es.md
 ---
 
-The **Norway regional market index** lists the nine Norwegian markets that meet the co-location system's composition gates under the current 2026-08-07 dataset. The nine markets
+The **Norway regional market index** lists the nine Norwegian markets that meet the co-location system's composition gates. The nine markets
 run from Ullensaker, just north of Oslo, to Bodø, well north of the Arctic Circle — a spread far
 wider than any other European country in the current dataset.
 

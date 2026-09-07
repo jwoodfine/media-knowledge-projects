@@ -14,13 +14,12 @@ language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Índice de los 13 Mercados Regionales de Rumanía que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
+short_description: "Índice de los 13 Mercados Regionales de Rumanía que cumplen las puertas de composición de co-ubicación."
 paired_with: markets/atlas-romania.md
 ---
 
 El **índice de mercados regionales de Rumanía** enumera los 13 mercados rumanos que cumplen las
-puertas de composición del sistema de co-ubicación bajo el conjunto de datos vigente del
-07-08-2026. Cinco de los 13 se ubican en Transilvania y hacen referencia a Cluj-Napoca; el
+puertas de composición del sistema de co-ubicación. Cinco de los 13 se ubican en Transilvania y hacen referencia a Cluj-Napoca; el
 resto se distribuye por Valaquia, Moldavia y el Banato, en lugar de agruparse en un único
 núcleo metropolitano.
 

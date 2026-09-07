@@ -12,7 +12,7 @@ quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Los 400 Mercados Regionales norteamericanos publicados a partir de un conjunto calificado de 1.121 bajo el conjunto de datos 2026-08-07 — 298 de Estados Unidos, 56 de Canadá, 46 de México. No se publica posición ni puntuación."
+short_description: "Los 400 Mercados Regionales norteamericanos publicados a partir de un conjunto calificado de 1.121 — 298 de Estados Unidos, 56 de Canadá, 46 de México. No se publica posición ni puntuación."
 paired_with: markets/atlas-top-400-north-america.md
 last_edited: 2026-09-06
 editor: editorial
@@ -29,12 +29,6 @@ El conjunto identifica mercados comerciales fuera de los núcleos metropolitanos
 institucional ya cubre, y fuera de las zonas genuinamente rurales. Se produce por separado de las
 listas de núcleos metropolitanos y ciudades secundarias independientes. Los dos continentes se
 puntúan y seleccionan como dos series, no como una lista combinada.
-
-**Reconstruida (2026-09-06).** Esta página se reconstruyó con el conjunto de datos 2026-08-07,
-confirmado con el equipo de análisis geoespacial de origen el 2026-09-06. La versión anterior
-describía una selección de 369 mercados de Estados Unidos, 23 de Canadá y 8 de México. Los recuentos
-confirmados son 298, 56 y 46. Los recuentos por país, los recuentos de clústeres y las distancias de
-referencia que figuran a continuación proceden del conjunto de datos confirmado.
 
 ## Desgloses por país
 
@@ -165,7 +159,9 @@ Mercados Regionales]]. La lista equivalente para Europa se encuentra en
 
 ---
 
-*Datos de referencia procedentes de la construcción del conjunto de datos 2026-08-07. Fuentes:
+*Datos de referencia procedentes de la construcción del conjunto de datos 2026-08-07 (298
+mercados de Estados Unidos, 56 de Canadá y 46 de México; una reconstrucción de septiembre de
+2026 sustituyó una selección anterior incompleta de 369, 23 y 8 respectivamente). Fuentes:
 Colaboradores de OpenStreetMap (ODbL); Overture Maps Foundation (CDLA Permissive 2.0).*
 
 ## Véase también

@@ -12,7 +12,7 @@ quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "The 400 European Regional Markets published from a 650-market qualifying pool under the 2026-08-07 dataset, across fifteen countries. No rank or score is published; country tables carry the market-level detail."
+short_description: "The 400 European Regional Markets published from a 650-market qualifying pool across fifteen countries. No rank or score is published; country tables carry the market-level detail."
 paired_with: markets/atlas-top-400-europe.es.md
 last_edited: 2026-09-06
 editor: editorial
@@ -26,14 +26,8 @@ Markets enter this set by that test, not by a published rank or score.
 The set identifies commercial markets outside the metropolitan cores that institutional
 metro-market research already covers, and outside genuinely rural areas. It is produced separately
 from lists of metro cores and standalone secondary cities. The two continents are scored and
-selected as two series, not one combined list.
-
-**Rebuilt (2026-09-06).** This page was rebuilt against the 2026-08-07 dataset, confirmed with the
-originating geospatial analysis team on 2026-09-06. The prior version described an eleven-country
-selection that included Germany, France, and the Netherlands. Those three countries are excluded
-from the current methodology, locked 2026-06-30 — a deliberate methodology change, not a data gap.
-Their index pages and city profiles were retired accordingly. The country counts, cluster counts,
-and reference distances below all come from the confirmed dataset.
+selected as two series, not one combined list. Germany, France, and the Netherlands are excluded
+from the current methodology, locked 2026-06-30 — a deliberate scope decision, not a data gap.
 
 ## Country breakouts
 
@@ -180,8 +174,10 @@ The North American equivalent list is at
 
 ---
 
-*Reference data from the 2026-08-07 dataset build. Sources: OpenStreetMap contributors (ODbL);
-Overture Maps Foundation (CDLA Permissive 2.0); Eurostat GISCO LAU 2021.*
+*Reference data from the 2026-08-07 dataset build (fifteen countries; a September 2026 rebuild
+superseded an earlier eleven-country selection that had included Germany, France, and the
+Netherlands, retired under the 2026-06-30 methodology lock). Sources: OpenStreetMap
+contributors (ODbL); Overture Maps Foundation (CDLA Permissive 2.0); Eurostat GISCO LAU 2021.*
 
 ## See Also
 

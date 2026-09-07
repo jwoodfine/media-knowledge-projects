@@ -14,12 +14,12 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Index of Mexico's 46 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
+short_description: "Index of Mexico's 46 Regional Markets meeting the co-location composition gates."
 paired_with: markets/atlas-mexico.es.md
 ---
 
 The **Mexico regional market index** lists the 46 Mexican markets that meet the co-location
-system's composition gates under the current 2026-08-07 dataset. The 46 markets span the
+system's composition gates. The 46 markets span the
 country from Ensenada and Playas de Rosarito on the Baja California border to Tapachula on the
 Guatemalan frontier, and carry the longest recorded reference distances in either continental
 set.

@@ -14,11 +14,11 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-08-26
 editor: editorial
-short_description: "Index of Greece's seven Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
+short_description: "Index of Greece's seven Regional Markets meeting the co-location composition gates."
 paired_with: markets/atlas-greece.es.md
 ---
 
-The **Greece regional market index** lists the seven Greek markets that meet the co-location system's composition gates under the current 2026-08-07 dataset — the smallest
+The **Greece regional market index** lists the seven Greek markets that meet the co-location system's composition gates — the smallest
 country entry among the fifteen European countries the framework's newest data build covers. The
 seven markets span the length of the Greek mainland and two islands, from Thrace in the northeast
 to Crete in the south, rather than clustering around a single metropolitan core.

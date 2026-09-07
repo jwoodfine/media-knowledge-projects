@@ -14,11 +14,11 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-08-26
 editor: editorial
-short_description: "Index of Croatia's nine Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
+short_description: "Index of Croatia's nine Regional Markets meeting the co-location composition gates."
 paired_with: markets/atlas-croatia.es.md
 ---
 
-The **Croatia regional market index** lists the nine Croatian markets that meet the co-location system's composition gates under the current 2026-08-07 dataset. The nine markets run
+The **Croatia regional market index** lists the nine Croatian markets that meet the co-location system's composition gates. The nine markets run
 the length of the country, from Zagreb in the north to Split, Zadar, and Šibenik along the
 Dalmatian coast, rather than clustering around a single metropolitan core.
 

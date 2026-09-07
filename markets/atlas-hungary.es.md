@@ -14,13 +14,12 @@ language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Índice de los 19 Mercados Regionales de Hungría que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
+short_description: "Índice de los 19 Mercados Regionales de Hungría que cumplen las puertas de composición de co-ubicación."
 paired_with: markets/atlas-hungary.md
 ---
 
 El **índice de mercados regionales de Hungría** enumera los 19 mercados húngaros que cumplen
-las puertas de composición del sistema de co-ubicación bajo el conjunto de datos vigente del
-07-08-2026. Hungría publica la totalidad de su reserva calificada: los 19 mercados que
+las puertas de composición del sistema de co-ubicación. Hungría publica la totalidad de su reserva calificada: los 19 mercados que
 superaron una puerta de composición están en el conjunto publicado, sin ninguno retenido por el
 límite continental de 400 mercados.
 

@@ -14,18 +14,12 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-09-06
 editor: woodfine-editorial
-short_description: "Index of the 298 United States Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
+short_description: "Index of the 298 United States Regional Markets meeting the co-location composition gates."
 paired_with: markets/atlas-united-states.es.md
 ---
 
-**Rebuilt (2026-09-06).** This page was rebuilt against the confirmed 2026-08-07 dataset, the
-same build now live on
-[[atlas-top-400-north-america|Top 400 Regional Markets — North America]]. The prior version
-listed 369 United States entries from a superseded selection; the confirmed count is 298. Every
-market, reference point, distance, and cluster count below comes from that dataset.
-
-The **the United States regional market index** lists the 298 markets in the United States that
-meet the co-location system's composition gates under the current 2026-08-07 dataset, drawn
+The **United States regional market index** lists the 298 markets in the United States that
+meet the co-location system's composition gates, drawn
 from a qualifying pool of 916. That is the deepest reserve in either continental set — under a
 third of the markets that clear a composition gate are published. This page is a filtered,
 country-specific view of the continental table — not a separate dataset. No rank or score is
@@ -391,3 +385,7 @@ A Regional-tier site clears the same predicate gates as any Regional cluster pla
 - [[co-location-tier-system]]
 - [[co-location-methodology]]
 - [[co-location-ranking-system]]
+
+---
+
+*Regional Markets index reference data from the 2026-08-07 dataset build (298 of a 916-market qualifying pool; a September 2026 rebuild superseded an earlier, incomplete 369-entry selection).*

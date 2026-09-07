@@ -14,13 +14,12 @@ language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Índice de los 32 Mercados Regionales de Suecia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
+short_description: "Índice de los 32 Mercados Regionales de Suecia que cumplen las puertas de composición de co-ubicación."
 paired_with: markets/atlas-sweden.md
 ---
 
 El **índice de mercados regionales de Suecia** enumera los 32 mercados suecos que cumplen las
-puertas de composición del sistema de co-ubicación bajo el conjunto de datos vigente del
-07-08-2026 — la mayor entrada nórdica y la quinta entrada nacional del conjunto europeo. Los 32
+puertas de composición del sistema de co-ubicación — la mayor entrada nórdica y la quinta entrada nacional del conjunto europeo. Los 32
 mercados van desde Täby, en el borde norte de Estocolmo, hasta Sundsvall y Luleå en el golfo de
 Botnia, con una amplitud superior a los 320 kilómetros en distancia de referencia registrada.
 

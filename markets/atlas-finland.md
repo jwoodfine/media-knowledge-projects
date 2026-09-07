@@ -14,12 +14,12 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Index of Finland's 19 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
+short_description: "Index of Finland's 19 Regional Markets meeting the co-location composition gates."
 paired_with: markets/atlas-finland.es.md
 ---
 
 The **Finland regional market index** lists the 19 Finnish markets that meet the co-location
-system's composition gates under the current 2026-08-07 dataset. The 19 markets run from Espoo,
+system's composition gates. The 19 markets run from Espoo,
 on Helsinki's western edge, to Rovaniemi at the Arctic Circle and Joensuu on the eastern
 frontier, rather than clustering around a single metropolitan core.
 

@@ -14,13 +14,12 @@ language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Índice de los 11 Mercados Regionales de Bulgaria que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
+short_description: "Índice de los 11 Mercados Regionales de Bulgaria que cumplen las puertas de composición de co-ubicación."
 paired_with: markets/atlas-bulgaria.md
 ---
 
 El **índice de mercados regionales de Bulgaria** enumera los 11 mercados búlgaros que cumplen
-las puertas de composición del sistema de co-ubicación bajo el conjunto de datos vigente del
-07-08-2026. Bulgaria publica la totalidad de su reserva calificada: los 11 mercados que
+las puertas de composición del sistema de co-ubicación. Bulgaria publica la totalidad de su reserva calificada: los 11 mercados que
 superaron una puerta de composición están en el conjunto publicado, sin ninguno retenido por el
 límite continental de 400 mercados.
 

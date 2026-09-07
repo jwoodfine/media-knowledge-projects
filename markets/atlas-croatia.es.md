@@ -14,13 +14,12 @@ language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-08-26
 editor: editorial
-short_description: "Índice de los nueve Mercados Regionales de Croacia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
+short_description: "Índice de los nueve Mercados Regionales de Croacia que cumplen las puertas de composición de co-ubicación."
 paired_with: markets/atlas-croatia.md
 ---
 
 El **índice de mercados regionales de Croacia** enumera los nueve mercados croatas que cumplen las
-puertas de composición del sistema de co-ubicación bajo el conjunto de datos vigente
-del 07-08-2026. Los nueve mercados se distribuyen a lo largo de todo el país, desde Zagreb en el
+puertas de composición del sistema de co-ubicación. Los nueve mercados se distribuyen a lo largo de todo el país, desde Zagreb en el
 norte hasta Split, Zadar y Šibenik en la costa dálmata, en lugar de agruparse en torno a un único
 núcleo metropolitano.
 

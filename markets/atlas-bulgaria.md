@@ -14,12 +14,12 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Index of Bulgaria's 11 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
+short_description: "Index of Bulgaria's 11 Regional Markets meeting the co-location composition gates."
 paired_with: markets/atlas-bulgaria.es.md
 ---
 
 The **Bulgaria regional market index** lists the 11 Bulgarian markets that meet the co-location
-system's composition gates under the current 2026-08-07 dataset. Bulgaria publishes its entire
+system's composition gates. Bulgaria publishes its entire
 qualifying pool: all 11 markets that cleared a composition gate are in the published set, with
 none held back by the 400-market continental cap.
 

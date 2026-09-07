@@ -14,7 +14,7 @@ language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Índice de los 16 Mercados Regionales de Eslovaquia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
+short_description: "Índice de los 16 Mercados Regionales de Eslovaquia que cumplen las puertas de composición de co-ubicación."
 paired_with: markets/atlas-slovakia.md
 ---
 

@@ -50,8 +50,8 @@ Los tres artículos de referencia detrás del conjunto de mercados cubiertos: el
 Los dos conjuntos calificados: cuatrocientos mercados por continente que cumplen las condiciones de composición de anclas de co-localización. Europa extrae sus cuatrocientos de un conjunto calificado de 650 en quince países; América del Norte extrae los suyos de un conjunto de 1.121 en tres. No se publica posición ni puntuación para ningún mercado en ninguno de los dos conjuntos. Ambas páginas se reconstruyeron el 2026-09-06 con el conjunto de datos confirmado 2026-08-07.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-top-400-markets -->
-- [[atlas-top-400-north-america]] — Los 400 Mercados Regionales norteamericanos publicados a partir de un conjunto calificado de 1.121 bajo el conjunto de datos 2026-08-07 — 298 de Estados Unidos, 56 de Canadá, 46 de México. No se publica posición ni puntuación.
-- [[atlas-top-400-europe]] — Los 400 Mercados Regionales europeos publicados a partir de un conjunto calificado de 650 bajo el conjunto de datos 2026-08-07, en quince países. No se publica posición ni puntuación; las tablas por país contienen el detalle a nivel de mercado.
+- [[atlas-top-400-north-america]] — Los 400 Mercados Regionales norteamericanos publicados a partir de un conjunto calificado de 1.121 — 298 de Estados Unidos, 56 de Canadá, 46 de México. No se publica posición ni puntuación.
+- [[atlas-top-400-europe]] — Los 400 Mercados Regionales europeos publicados a partir de un conjunto calificado de 650, en quince países. No se publica posición ni puntuación; las tablas por país contienen el detalle a nivel de mercado.
 <!-- END AUTO-GENERATED -->
 
 ## Índices de Co-ubicación por País
@@ -72,24 +72,24 @@ Dieciocho índices de Mercado Regional por país filtran las tablas continentale
 El conjunto de datos confirmado 2026-08-07 abarca dieciocho países y todos tienen página propia. La tabla de cada página se construye a partir de ese conjunto de datos, de modo que los recuentos de esta página, de las páginas por país y de las dos tablas continentales concuerdan entre sí.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: top-400-markets-by-country -->
-- [[atlas-canada]] — Índice de los 56 Mercados Regionales de Canadá que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
-- [[atlas-united-states]] — Índice de los 298 Mercados Regionales de Estados Unidos que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
-- [[atlas-mexico]] — Índice de los 46 Mercados Regionales de México que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
-- [[atlas-united-kingdom]] — Índice de los 55 Mercados Regionales del Reino Unido que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
-- [[atlas-spain]] — Índice de los 55 Mercados Regionales de España que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
-- [[atlas-italy]] — Índice de los 62 Mercados Regionales de Italia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
-- [[atlas-poland]] — Índice de los 55 Mercados Regionales de Polonia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
-- [[atlas-sweden]] — Índice de los 32 Mercados Regionales de Suecia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
-- [[atlas-czechia]] — Índice de los 27 Mercados Regionales de Chequia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
-- [[atlas-finland]] — Índice de los 19 Mercados Regionales de Finlandia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
-- [[atlas-hungary]] — Índice de los 19 Mercados Regionales de Hungría que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
-- [[atlas-slovakia]] — Índice de los 16 Mercados Regionales de Eslovaquia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
-- [[atlas-romania]] — Índice de los 13 Mercados Regionales de Rumanía que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
-- [[atlas-bulgaria]] — Índice de los 11 Mercados Regionales de Bulgaria que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
-- [[atlas-denmark]] — Índice de los 11 Mercados Regionales de Dinamarca que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
-- [[atlas-greece]] — Índice de los siete Mercados Regionales de Grecia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
-- [[atlas-croatia]] — Índice de los nueve Mercados Regionales de Croacia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
-- [[atlas-norway]] — Índice de los nueve Mercados Regionales de Noruega que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
+- [[atlas-canada]] — Índice de los 56 Mercados Regionales de Canadá que cumplen las puertas de composición de co-ubicación.
+- [[atlas-united-states]] — Índice de los 298 Mercados Regionales de Estados Unidos que cumplen las puertas de composición de co-ubicación.
+- [[atlas-mexico]] — Índice de los 46 Mercados Regionales de México que cumplen las puertas de composición de co-ubicación.
+- [[atlas-united-kingdom]] — Índice de los 55 Mercados Regionales del Reino Unido que cumplen las puertas de composición de co-ubicación.
+- [[atlas-spain]] — Índice de los 55 Mercados Regionales de España que cumplen las puertas de composición de co-ubicación.
+- [[atlas-italy]] — Índice de los 62 Mercados Regionales de Italia que cumplen las puertas de composición de co-ubicación.
+- [[atlas-poland]] — Índice de los 55 Mercados Regionales de Polonia que cumplen las puertas de composición de co-ubicación.
+- [[atlas-sweden]] — Índice de los 32 Mercados Regionales de Suecia que cumplen las puertas de composición de co-ubicación.
+- [[atlas-czechia]] — Índice de los 27 Mercados Regionales de Chequia que cumplen las puertas de composición de co-ubicación.
+- [[atlas-finland]] — Índice de los 19 Mercados Regionales de Finlandia que cumplen las puertas de composición de co-ubicación.
+- [[atlas-hungary]] — Índice de los 19 Mercados Regionales de Hungría que cumplen las puertas de composición de co-ubicación.
+- [[atlas-slovakia]] — Índice de los 16 Mercados Regionales de Eslovaquia que cumplen las puertas de composición de co-ubicación.
+- [[atlas-romania]] — Índice de los 13 Mercados Regionales de Rumanía que cumplen las puertas de composición de co-ubicación.
+- [[atlas-bulgaria]] — Índice de los 11 Mercados Regionales de Bulgaria que cumplen las puertas de composición de co-ubicación.
+- [[atlas-denmark]] — Índice de los 11 Mercados Regionales de Dinamarca que cumplen las puertas de composición de co-ubicación.
+- [[atlas-greece]] — Índice de los siete Mercados Regionales de Grecia que cumplen las puertas de composición de co-ubicación.
+- [[atlas-croatia]] — Índice de los nueve Mercados Regionales de Croacia que cumplen las puertas de composición de co-ubicación.
+- [[atlas-norway]] — Índice de los nueve Mercados Regionales de Noruega que cumplen las puertas de composición de co-ubicación.
 <!-- END AUTO-GENERATED -->
 
 ## Perfiles de Mercado

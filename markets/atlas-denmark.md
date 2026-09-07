@@ -14,12 +14,12 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Index of Denmark's 11 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
+short_description: "Index of Denmark's 11 Regional Markets meeting the co-location composition gates."
 paired_with: markets/atlas-denmark.es.md
 ---
 
 The **Denmark regional market index** lists the 11 Danish markets that meet the co-location
-system's composition gates under the current 2026-08-07 dataset. Denmark has the shortest
+system's composition gates. Denmark has the shortest
 median reference distance of any Nordic entry in the set at 57 kilometres, and 10 of its 11
 markets sit within 80 kilometres of their reference point.
 

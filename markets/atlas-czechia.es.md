@@ -14,13 +14,12 @@ language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Índice de los 27 Mercados Regionales de Chequia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
+short_description: "Índice de los 27 Mercados Regionales de Chequia que cumplen las puertas de composición de co-ubicación."
 paired_with: markets/atlas-czechia.md
 ---
 
 El **índice de mercados regionales de Chequia** enumera los 27 mercados checos que cumplen las
-puertas de composición del sistema de co-ubicación bajo el conjunto de datos vigente del
-07-08-2026. Es la entrada nacional más compacta del conjunto europeo: todos los mercados checos
+puertas de composición del sistema de co-ubicación. Es la entrada nacional más compacta del conjunto europeo: todos los mercados checos
 se ubican a menos de 101 kilómetros de su punto de referencia metropolitano, sin excepción.
 
 ## Cobertura

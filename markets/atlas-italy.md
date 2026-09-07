@@ -14,17 +14,12 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Index of Italy's 62 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
+short_description: "Index of Italy's 62 Regional Markets meeting the co-location composition gates."
 paired_with: markets/atlas-italy.es.md
 ---
 
-**Rebuilt (2026-09-06).** This page was rebuilt against the confirmed 2026-08-07 dataset, the
-same build now live on [[atlas-top-400-europe|Top 400 Regional Markets — Europe]]. The prior
-version listed 21 Italian entries from a superseded selection; the confirmed count is 62. Every
-market, reference point, distance, and cluster count below comes from that dataset.
-
 The **Italy regional market index** lists the 62 Italian markets that meet the co-location
-system's composition gates under the current 2026-08-07 dataset. Italy is the largest country
+system's composition gates. Italy is the largest country
 entry in the European set, drawn from a qualifying pool of 108. This page is a filtered,
 Italy-specific view of the continental table — not a separate dataset. No rank or score is
 published for any market.
@@ -148,9 +143,6 @@ A District-tier node pairs the IKEA primary anchor with a hardware or warehouse 
 
 *The site index for Italy, classified under the current tier system, is available at [gis.woodfinegroup.com](https://gis.woodfinegroup.com).*
 
-### Provenance
-- **Verification:** Anchor network data sourced from OpenStreetMap records as of May 2026.
-
 ## See also
 
 - [[atlas-top-400-europe]] — the full European market set this page filters
@@ -159,3 +151,7 @@ A District-tier node pairs the IKEA primary anchor with a hardware or warehouse 
 - [[co-location-tier-system]]
 - [[co-location-methodology]]
 - [[co-location-ranking-system]]
+
+---
+
+*Regional Markets index reference data from the 2026-08-07 dataset build (62 of a 108-market qualifying pool; a September 2026 rebuild superseded an earlier, incomplete selection). Anchor network data sourced from OpenStreetMap records as of May 2026.*

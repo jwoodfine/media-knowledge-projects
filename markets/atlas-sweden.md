@@ -14,12 +14,12 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Index of Sweden's 32 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
+short_description: "Index of Sweden's 32 Regional Markets meeting the co-location composition gates."
 paired_with: markets/atlas-sweden.es.md
 ---
 
 The **Sweden regional market index** lists the 32 Swedish markets that meet the co-location
-system's composition gates under the current 2026-08-07 dataset — the largest Nordic entry and
+system's composition gates — the largest Nordic entry and
 the fifth-largest country entry in the European set. The 32 markets run from Täby, on
 Stockholm's northern edge, to Sundsvall and Luleå on the Gulf of Bothnia, a spread of more than
 320 kilometres in recorded reference distance.

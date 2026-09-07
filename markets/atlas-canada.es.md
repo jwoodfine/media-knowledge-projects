@@ -14,22 +14,15 @@ language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-09-06
 editor: woodfine-editorial
-short_description: "Índice de los 56 Mercados Regionales de Canadá que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
+short_description: "Índice de los 56 Mercados Regionales de Canadá que cumplen las puertas de composición de co-ubicación."
 paired_with: markets/atlas-canada.md
 ---
 
-**Reconstruida (06-09-2026).** Esta página se reconstruyó frente al conjunto de datos confirmado
-del 07-08-2026, la misma generación ahora vigente en
-[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]. La versión
-anterior listaba 23 entradas canadienses de una selección superada; el recuento confirmado es
-de 56. Cada mercado, punto de referencia, distancia y recuento de clústeres a continuación
-procede de ese conjunto de datos.
-
 El **índice de mercados regionales de Canadá** enumera los 56 mercados de Canadá que cumplen
-las puertas de composición del sistema de co-ubicación bajo el conjunto de datos vigente del
-07-08-2026, extraídos de una reserva calificada de 112. Esta página es una vista filtrada,
-específica del país, de la tabla continental — no un conjunto de datos aparte. No se publica
-ninguna clasificación ni puntuación para ningún mercado.
+las puertas de composición del sistema de co-ubicación, extraídos de una reserva calificada de
+112. Esta página es una vista filtrada, específica del país, de la tabla continental — no un
+conjunto de datos aparte. Ningún mercado está clasificado por rango; todo mercado listado ha
+calificado bajo las mismas puertas de composición.
 
 ## Cobertura
 
@@ -155,9 +148,6 @@ Los siguientes municipios ilustran la composición de nivel Regional: un ancla p
 
 *Nota: El índice canadiense completo, clasificado bajo el sistema actual de cuatro niveles (Regional, Distrital, Local, Marginal), se publica a través de la plataforma [gis.woodfinegroup.com](https://gis.woodfinegroup.com).*
 
-### Procedencia
-- **Verificación:** Listados municipales y cobertura de anclas verificadas contra los resultados de la plataforma GIS al 2 de mayo de 2026.
-
 ## Véase también
 
 - [[atlas-top-400-north-america]] — el conjunto norteamericano completo que esta página filtra
@@ -166,3 +156,11 @@ Los siguientes municipios ilustran la composición de nivel Regional: un ancla p
 - [[co-location-tier-system]]
 - [[co-location-methodology]]
 - [[co-location-ranking-system]]
+
+---
+
+*Datos de referencia del índice de Mercados Regionales del conjunto de datos del 07-08-2026 (56
+de una reserva calificada de 112 mercados; una reconstrucción de septiembre de 2026 sustituyó
+una selección anterior incompleta de 23 entradas). La ilustración de la red de anclas de
+co-ubicación anterior se verificó contra los resultados de la plataforma GIS al 2 de mayo de
+2026.*

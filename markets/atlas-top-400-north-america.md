@@ -12,7 +12,7 @@ quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "The 400 North American Regional Markets published from a 1,121-market qualifying pool under the 2026-08-07 dataset — 298 United States, 56 Canadian, 46 Mexican. No rank or score is published."
+short_description: "The 400 North American Regional Markets published from a 1,121-market qualifying pool — 298 United States, 56 Canadian, 46 Mexican. No rank or score is published."
 paired_with: markets/atlas-top-400-north-america.es.md
 last_edited: 2026-09-06
 editor: editorial
@@ -28,11 +28,6 @@ The set identifies commercial markets outside the metropolitan cores that instit
 metro-market research already covers, and outside genuinely rural areas. It is produced separately
 from lists of metro cores and standalone secondary cities. The two continents are scored and
 selected as two series, not one combined list.
-
-**Rebuilt (2026-09-06).** This page was rebuilt against the 2026-08-07 dataset, confirmed with the
-originating geospatial analysis team on 2026-09-06. The prior version described a selection of 369
-United States, 23 Canadian, and 8 Mexican markets. The confirmed counts are 298, 56, and 46. The
-country counts, cluster counts, and reference distances below all come from the confirmed dataset.
 
 ## Country breakouts
 
@@ -154,8 +149,10 @@ The European equivalent list is at [[atlas-top-400-europe|Top 400 Regional Marke
 
 ---
 
-*Reference data from the 2026-08-07 dataset build. Sources: OpenStreetMap contributors (ODbL);
-Overture Maps Foundation (CDLA Permissive 2.0).*
+*Reference data from the 2026-08-07 dataset build (298 United States, 56 Canadian, and 46
+Mexican markets; a September 2026 rebuild superseded an earlier, incomplete selection of 369,
+23, and 8 respectively). Sources: OpenStreetMap contributors (ODbL); Overture Maps Foundation
+(CDLA Permissive 2.0).*
 
 ## See Also
 

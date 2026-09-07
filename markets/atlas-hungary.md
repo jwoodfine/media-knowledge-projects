@@ -14,12 +14,12 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Index of Hungary's 19 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
+short_description: "Index of Hungary's 19 Regional Markets meeting the co-location composition gates."
 paired_with: markets/atlas-hungary.es.md
 ---
 
 The **Hungary regional market index** lists the 19 Hungarian markets that meet the co-location
-system's composition gates under the current 2026-08-07 dataset. Hungary publishes its entire
+system's composition gates. Hungary publishes its entire
 qualifying pool: all 19 markets that cleared a composition gate are in the published set, with
 none held back by the 400-market continental cap.
 

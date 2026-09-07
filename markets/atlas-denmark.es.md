@@ -14,13 +14,12 @@ language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Índice de los 11 Mercados Regionales de Dinamarca que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
+short_description: "Índice de los 11 Mercados Regionales de Dinamarca que cumplen las puertas de composición de co-ubicación."
 paired_with: markets/atlas-denmark.md
 ---
 
 El **índice de mercados regionales de Dinamarca** enumera los 11 mercados daneses que cumplen
-las puertas de composición del sistema de co-ubicación bajo el conjunto de datos vigente del
-07-08-2026. Dinamarca presenta la distancia mediana de referencia más corta de todas las
+las puertas de composición del sistema de co-ubicación. Dinamarca presenta la distancia mediana de referencia más corta de todas las
 entradas nórdicas del conjunto, 57 kilómetros, y 10 de sus 11 mercados se ubican a menos de 80
 kilómetros de su punto de referencia.
 

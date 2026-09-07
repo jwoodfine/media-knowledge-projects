@@ -12,7 +12,7 @@ quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Los 400 Mercados Regionales europeos publicados a partir de un conjunto calificado de 650 bajo el conjunto de datos 2026-08-07, en quince países. No se publica posición ni puntuación; las tablas por país contienen el detalle a nivel de mercado."
+short_description: "Los 400 Mercados Regionales europeos publicados a partir de un conjunto calificado de 650, en quince países. No se publica posición ni puntuación; las tablas por país contienen el detalle a nivel de mercado."
 paired_with: markets/atlas-top-400-europe.md
 last_edited: 2026-09-06
 editor: editorial
@@ -28,15 +28,9 @@ conjunto por esa prueba, no por una posición o puntuación publicada.
 El conjunto identifica mercados comerciales fuera de los núcleos metropolitanos que la
 investigación institucional ya cubre, y fuera de las zonas genuinamente rurales. Se produce por
 separado de las listas de núcleos metropolitanos y ciudades secundarias independientes. Los dos
-continentes se puntúan y seleccionan como dos series, no como una lista combinada.
-
-**Reconstruida (2026-09-06).** Esta página se reconstruyó con el conjunto de datos 2026-08-07,
-confirmado con el equipo de análisis geoespacial de origen el 2026-09-06. La versión anterior
-describía una selección de once países que incluía Alemania, Francia y los Países Bajos. Esos tres
-países quedan excluidos de la metodología vigente, fijada el 2026-06-30 — un cambio deliberado de
-metodología, no una laguna de datos. Sus páginas índice y perfiles de ciudad se retiraron en
-consecuencia. Los recuentos por país, los recuentos de clústeres y las distancias de referencia que
-figuran a continuación proceden del conjunto de datos confirmado.
+continentes se puntúan y seleccionan como dos series, no como una lista combinada. Alemania,
+Francia y los Países Bajos quedan excluidos de la metodología vigente, fijada el 2026-06-30 —
+un cambio deliberado de alcance, no una laguna de datos.
 
 ## Desgloses por país
 
@@ -194,9 +188,11 @@ Mercados Regionales]]. La lista equivalente para América del Norte se encuentra
 
 ---
 
-*Datos de referencia procedentes de la construcción del conjunto de datos 2026-08-07. Fuentes:
-Colaboradores de OpenStreetMap (ODbL); Overture Maps Foundation (CDLA Permissive 2.0); GISCO LAU
-2021 de Eurostat.*
+*Datos de referencia procedentes de la construcción del conjunto de datos 2026-08-07 (quince
+países; una reconstrucción de septiembre de 2026 sustituyó una selección anterior de once
+países que incluía Alemania, Francia y los Países Bajos, retirados bajo el bloqueo
+metodológico del 2026-06-30). Fuentes: Colaboradores de OpenStreetMap (ODbL); Overture Maps
+Foundation (CDLA Permissive 2.0); GISCO LAU 2021 de Eurostat.*
 
 ## Véase también
 

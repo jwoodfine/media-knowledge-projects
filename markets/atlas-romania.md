@@ -14,12 +14,12 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Index of Romania's 13 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
+short_description: "Index of Romania's 13 Regional Markets meeting the co-location composition gates."
 paired_with: markets/atlas-romania.es.md
 ---
 
 The **Romania regional market index** lists the 13 Romanian markets that meet the co-location
-system's composition gates under the current 2026-08-07 dataset. Five of the 13 sit in
+system's composition gates. Five of the 13 sit in
 Transylvania and reference Cluj-Napoca; the rest are distributed across Wallachia, Moldavia,
 and the Banat rather than clustering on a single metropolitan core.
 

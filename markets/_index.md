@@ -50,8 +50,8 @@ The three reference articles behind the covered market set: the co-location anal
 The two qualifying sets: four hundred markets per continent that meet the co-location anchor-composition gates. Europe draws its four hundred from a 650-market qualifying pool across fifteen countries; North America draws its four hundred from a pool of 1,121 across three. No rank or score is published for any market in either set. Both pages were rebuilt on 2026-09-06 against the confirmed 2026-08-07 dataset.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-top-400-markets -->
-- [[atlas-top-400-north-america]] — The 400 North American Regional Markets published from a 1,121-market qualifying pool under the 2026-08-07 dataset — 298 United States, 56 Canadian, 46 Mexican. No rank or score is published.
-- [[atlas-top-400-europe]] — The 400 European Regional Markets published from a 650-market qualifying pool under the 2026-08-07 dataset, across fifteen countries. No rank or score is published; country tables carry the market-level detail.
+- [[atlas-top-400-north-america]] — The 400 North American Regional Markets published from a 1,121-market qualifying pool — 298 United States, 56 Canadian, 46 Mexican. No rank or score is published.
+- [[atlas-top-400-europe]] — The 400 European Regional Markets published from a 650-market qualifying pool across fifteen countries. No rank or score is published; country tables carry the market-level detail.
 <!-- END AUTO-GENERATED -->
 
 ## Co-Location Indices by Country
@@ -72,24 +72,24 @@ Eighteen country-level Regional Market indices filter the continental Top 400 ta
 The confirmed 2026-08-07 dataset covers eighteen countries, and every one has a country page. Each page's table is built from that dataset, so the counts here, on the country pages, and on the two continental tables reconcile.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: top-400-markets-by-country -->
-- [[atlas-canada]] — Index of Canada's 56 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
-- [[atlas-united-states]] — Index of the 298 United States Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
-- [[atlas-mexico]] — Index of Mexico's 46 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
-- [[atlas-united-kingdom]] — Index of the United Kingdom's 55 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
-- [[atlas-spain]] — Index of Spain's 55 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
-- [[atlas-italy]] — Index of Italy's 62 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
-- [[atlas-poland]] — Index of Poland's 55 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
-- [[atlas-sweden]] — Index of Sweden's 32 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
-- [[atlas-czechia]] — Index of Czechia's 27 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
-- [[atlas-finland]] — Index of Finland's 19 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
-- [[atlas-hungary]] — Index of Hungary's 19 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
-- [[atlas-slovakia]] — Index of Slovakia's 16 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
-- [[atlas-romania]] — Index of Romania's 13 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
-- [[atlas-bulgaria]] — Index of Bulgaria's 11 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
-- [[atlas-denmark]] — Index of Denmark's 11 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
-- [[atlas-greece]] — Index of Greece's seven Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
-- [[atlas-croatia]] — Index of Croatia's nine Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
-- [[atlas-norway]] — Index of Norway's nine Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
+- [[atlas-canada]] — Index of Canada's 56 Regional Markets meeting the co-location composition gates.
+- [[atlas-united-states]] — Index of the 298 United States Regional Markets meeting the co-location composition gates.
+- [[atlas-mexico]] — Index of Mexico's 46 Regional Markets meeting the co-location composition gates.
+- [[atlas-united-kingdom]] — Index of the United Kingdom's 55 Regional Markets meeting the co-location composition gates.
+- [[atlas-spain]] — Index of Spain's 55 Regional Markets meeting the co-location composition gates.
+- [[atlas-italy]] — Index of Italy's 62 Regional Markets meeting the co-location composition gates.
+- [[atlas-poland]] — Index of Poland's 55 Regional Markets meeting the co-location composition gates.
+- [[atlas-sweden]] — Index of Sweden's 32 Regional Markets meeting the co-location composition gates.
+- [[atlas-czechia]] — Index of Czechia's 27 Regional Markets meeting the co-location composition gates.
+- [[atlas-finland]] — Index of Finland's 19 Regional Markets meeting the co-location composition gates.
+- [[atlas-hungary]] — Index of Hungary's 19 Regional Markets meeting the co-location composition gates.
+- [[atlas-slovakia]] — Index of Slovakia's 16 Regional Markets meeting the co-location composition gates.
+- [[atlas-romania]] — Index of Romania's 13 Regional Markets meeting the co-location composition gates.
+- [[atlas-bulgaria]] — Index of Bulgaria's 11 Regional Markets meeting the co-location composition gates.
+- [[atlas-denmark]] — Index of Denmark's 11 Regional Markets meeting the co-location composition gates.
+- [[atlas-greece]] — Index of Greece's seven Regional Markets meeting the co-location composition gates.
+- [[atlas-croatia]] — Index of Croatia's nine Regional Markets meeting the co-location composition gates.
+- [[atlas-norway]] — Index of Norway's nine Regional Markets meeting the co-location composition gates.
 <!-- END AUTO-GENERATED -->
 
 ## Market Profiles

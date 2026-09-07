@@ -14,20 +14,12 @@ language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-09-06
 editor: woodfine-editorial
-short_description: "Índice de los 55 Mercados Regionales del Reino Unido que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
+short_description: "Índice de los 55 Mercados Regionales del Reino Unido que cumplen las puertas de composición de co-ubicación."
 paired_with: markets/atlas-united-kingdom.md
 ---
 
-**Reconstruida (06-09-2026).** Esta página se reconstruyó frente al conjunto de datos confirmado
-del 07-08-2026, la misma generación ahora vigente en
-[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. La versión anterior listaba un
-conjunto menor de entradas británicas de una selección superada; el recuento confirmado es de
-55. Cada mercado, punto de referencia, distancia y recuento de clústeres a continuación procede
-de ese conjunto de datos.
-
-El **índice de mercados regionales de el Reino Unido** enumera los 55 mercados de el Reino
-Unido que cumplen las puertas de composición del sistema de co-ubicación bajo el conjunto de
-datos vigente del 07-08-2026, extraídos de una reserva calificada de 161. Esa reserva es la más
+El **índice de mercados regionales del Reino Unido** enumera los 55 mercados de el Reino
+Unido que cumplen las puertas de composición del sistema de co-ubicación, extraídos de una reserva calificada de 161. Esa reserva es la más
 profunda de cualquier país europeo del conjunto: el Reino Unido publica apenas un tercio de los
 mercados que superan una puerta de composición. Esta página es una vista filtrada, específica
 del país, de la tabla continental — no un conjunto de datos aparte. No se publica ninguna
@@ -134,3 +126,7 @@ clasificación ni puntuación para ningún mercado.
 - [[atlas-top-400-europe]] — el conjunto europeo completo que esta página filtra
 - [[about-regional-markets-system]] — la metodología de co-ubicación y los criterios de selección de
   mercados
+
+---
+
+*Datos de referencia del índice de Mercados Regionales del conjunto de datos del 07-08-2026 (55 de una reserva calificada de 161 mercados; una reconstrucción de septiembre de 2026 sustituyó una selección anterior incompleta).*

@@ -14,20 +14,12 @@ language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-09-06
 editor: woodfine-editorial
-short_description: "Índice de los 298 Mercados Regionales de Estados Unidos que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
+short_description: "Índice de los 298 Mercados Regionales de Estados Unidos que cumplen las puertas de composición de co-ubicación."
 paired_with: markets/atlas-united-states.md
 ---
 
-**Reconstruida (06-09-2026).** Esta página se reconstruyó frente al conjunto de datos confirmado
-del 07-08-2026, la misma generación ahora vigente en
-[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]. La versión
-anterior listaba 369 entradas estadounidenses de una selección superada; el recuento confirmado
-es de 298. Cada mercado, punto de referencia, distancia y recuento de clústeres a continuación
-procede de ese conjunto de datos.
-
 El **índice de mercados regionales de Estados Unidos** enumera los 298 mercados de Estados
-Unidos que cumplen las puertas de composición del sistema de co-ubicación bajo el conjunto de
-datos vigente del 07-08-2026, extraídos de una reserva calificada de 916. Es la reserva más
+Unidos que cumplen las puertas de composición del sistema de co-ubicación, extraídos de una reserva calificada de 916. Es la reserva más
 profunda de cualquiera de los dos conjuntos continentales: se publica menos de un tercio de los
 mercados que superan una puerta de composición. Esta página es una vista filtrada, específica
 del país, de la tabla continental — no un conjunto de datos aparte. No se publica ninguna
@@ -396,3 +388,7 @@ Un sitio de nivel Regional supera las mismas compuertas predicativas que cualqui
 - [[co-location-tier-system]]
 - [[co-location-methodology]]
 - [[co-location-ranking-system]]
+
+---
+
+*Datos de referencia del índice de Mercados Regionales del conjunto de datos del 07-08-2026 (298 de una reserva calificada de 916 mercados; una reconstrucción de septiembre de 2026 sustituyó una selección anterior incompleta de 369 entradas).*

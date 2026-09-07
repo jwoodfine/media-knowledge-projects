@@ -14,12 +14,12 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Index of Czechia's 27 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
+short_description: "Index of Czechia's 27 Regional Markets meeting the co-location composition gates."
 paired_with: markets/atlas-czechia.es.md
 ---
 
 The **Czechia regional market index** lists the 27 Czech markets that meet the co-location
-system's composition gates under the current 2026-08-07 dataset. It is the most tightly bounded
+system's composition gates. It is the most tightly bounded
 country entry in the European set: every Czech market sits within 101 kilometres of its
 metropolitan reference point, and none exceeds that.
 

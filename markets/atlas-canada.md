@@ -14,20 +14,14 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-09-06
 editor: woodfine-editorial
-short_description: "Index of Canada's 56 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
+short_description: "Index of Canada's 56 Regional Markets meeting the co-location composition gates."
 paired_with: markets/atlas-canada.es.md
 ---
 
-**Rebuilt (2026-09-06).** This page was rebuilt against the confirmed 2026-08-07 dataset, the
-same build now live on
-[[atlas-top-400-north-america|Top 400 Regional Markets — North America]]. The prior version
-listed 23 Canadian entries from a superseded selection; the confirmed count is 56. Every
-market, reference point, distance, and cluster count below comes from that dataset.
-
 The **Canada regional market index** lists the 56 markets in Canada that meet the co-location
-system's composition gates under the current 2026-08-07 dataset, drawn from a qualifying pool
-of 112. This page is a filtered, country-specific view of the continental table — not a
-separate dataset. No rank or score is published for any market.
+system's composition gates, drawn from a qualifying pool of 112. This page is a filtered,
+country-specific view of the continental table — not a separate dataset. No market is ranked;
+every market listed has qualified against the same composition gates.
 
 ## Coverage
 
@@ -151,9 +145,6 @@ The following municipalities illustrate Regional-tier composition: a Walmart Sup
 
 *Note: The complete Canadian index, classified under the current four-tier system (Regional, District, Local, Fringe), is published via the [gis.woodfinegroup.com](https://gis.woodfinegroup.com) platform.*
 
-### Provenance
-- **Verification:** Municipal listings and anchor coverage verified against GIS platform build results as of 2 May 2026.
-
 ## See also
 
 - [[atlas-top-400-north-america]] — the full North American market set this page filters
@@ -161,3 +152,10 @@ The following municipalities illustrate Regional-tier composition: a Walmart Sup
 - [[co-location-tier-system]]
 - [[co-location-methodology]]
 - [[co-location-ranking-system]]
+
+---
+
+*Regional Markets index reference data from the 2026-08-07 dataset build (56 of a 112-market
+qualifying pool; a September 2026 rebuild superseded an earlier, incomplete 23-entry
+selection). The co-location anchor-network illustration above was verified against GIS
+platform build results as of 2 May 2026.*
