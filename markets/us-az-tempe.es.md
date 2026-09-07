@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional en América del Norte — suburbio de Phoenix; 1 clúster de nivel Regional y 2 de nivel Local."
 paired_with: markets/us-az-tempe.md
+wikipedia_sourced: true
 last_edited: 2026-08-25
 editor: editorial
 ---
@@ -25,11 +26,11 @@ denso y urbanizado que el de un Mercado Regional suburbano típico.
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), Tempe registró una población de 180.587
+Tempe registró una población de 180.587
 habitantes en el censo de 2020 en un área de 39,94 millas cuadradas, ubicada
 aproximadamente a 2 millas al sureste del Aeropuerto Internacional Sky Harbor de Phoenix
 (distancia general de Wikipedia hasta el aeropuerto, no el centro de la ciudad) y
-limítrofe con Mesa al este y Phoenix al oeste. La distancia de referencia metropolitana en
+limítrofe con Mesa al este y Phoenix al oeste. <!-- wikipedia-sourced: population/description --> La distancia de referencia metropolitana en
 línea recta de la propia plataforma hasta Phoenix es de 15,2 km. La Universidad Estatal de
 Arizona es el
 principal empleador con 8.010 empleados, seguida de State Farm Insurance (6.550) y Freedom

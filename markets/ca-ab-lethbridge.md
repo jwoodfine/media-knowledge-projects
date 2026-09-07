@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Southern Alberta's commercial and industrial centre, 215 km from Calgary — a regional centre in its own right."
 paired_with: markets/ca-ab-lethbridge.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -25,8 +26,8 @@ framework records against each market but does not qualify on. This distance is 
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Lethbridge recorded 106,550 residents in the
-2023 municipal census (98,406 at the 2021 federal census) across 121.12 square kilometres. It
+Lethbridge recorded 106,550 residents in the
+2023 municipal census (98,406 at the 2021 federal census) across 121.12 square kilometres. <!-- wikipedia-sourced: population/description --> It
 is situated approximately 215 km southeast of Calgary, 169 km west of Medicine Hat, and 105 km
 northwest of the Canada–US border. The city functions as southern Alberta's commercial,
 distribution, financial, and industrial centre. Employment concentrates in health, education,

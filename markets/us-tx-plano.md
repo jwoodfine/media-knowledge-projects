@@ -16,6 +16,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "North American Regional Market — suburb of Dallas, 28.1 km; 3 Regional-tier, 2 District-tier, and 1 Local-tier co-location cluster."
 paired_with: markets/us-tx-plano.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-25
 editor: editorial
 ---
@@ -24,7 +25,7 @@ Plano, a Dallas suburb of 285,000 people 28 kilometres (straight-line) north of 
 
 ## Overview
 
-According to Wikipedia (accessed 2026-05-30), Plano had a population of 285,494 at the 2020 census, making it the ninth most-populous city in Texas and the 73rd in the United States. The city covers approximately 72 square miles, the majority within Collin County, with a small western portion extending into Denton County. Plano lies approximately 17 miles (28 kilometres, Wikipedia's general geographic distance, consistent with the platform's own straight-line metropolitan-reference measurement) northeast of downtown Dallas and is one of the principal suburbs of the Dallas–Fort Worth metroplex. The city's name derives from the Spanish word for "flat surface," a reference to the local prairie terrain.
+Plano had a population of 285,494 at the 2020 census, making it the ninth most-populous city in Texas and the 73rd in the United States. <!-- wikipedia-sourced: population/description --> The city covers approximately 72 square miles, the majority within Collin County, with a small western portion extending into Denton County. Plano lies approximately 17 miles (28 kilometres, Wikipedia's general geographic distance, consistent with the platform's own straight-line metropolitan-reference measurement) northeast of downtown Dallas and is one of the principal suburbs of the Dallas–Fort Worth metroplex. The city's name derives from the Spanish word for "flat surface," a reference to the local prairie terrain.
 
 Plano's economic profile is distinct from that of a conventional residential suburb. The city hosts the headquarters of Frito-Lay, JCPenney, Pizza Hut, and Toyota Motor North America, the last of which relocated from California in 2014. Top employers reported for 2025 include JPMorgan Chase (11,261 employees), Capital One Finance (5,649), and Toyota Motor North America (4,938), reflecting a concentration of financial-services and corporate back-office operations alongside the legacy consumer-brand headquarters. The city's growth trajectory has been rapid: population rose from 17,872 in 1970 to 128,713 in 1990 and to 285,494 by 2020, driven by corporate relocations and accompanying infrastructure investment. The 2020 census recorded a diversified population, with 46.3 percent non-Hispanic white, 24.08 percent Asian, 16.04 percent Hispanic or Latino, and 8.77 percent Black or African American.
 

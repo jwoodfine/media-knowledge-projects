@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Cheshire heritage city; the Cheshire West and Chester Top-400 entry sits 35.8 km (straight-line) from Wigan, its platform metropolitan reference — not currently included under Chester's own name."
 paired_with: markets/gb-eng-chester.es.md
+wikipedia_sourced: true
 last_edited: 2026-09-07
 editor: editorial
 ---
@@ -27,8 +28,8 @@ boundary and naming, not of distance.
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Chester's built-up area had 92,760 residents at
-the 2021 census (138,875 for the official city area including charter trustee wards). Wikipedia
+Chester's built-up area had 92,760 residents at
+the 2021 census (138,875 for the official city area including charter trustee wards). <!-- wikipedia-sourced: population/description --> Wikipedia
 describes it as situated roughly 17 to 19 miles southwest of Liverpool by road via the M53
 motorway — a general geographic description, distinct from the platform's own straight-line
 metropolitan-reference measurement noted above.

@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Punto de referencia metropolitano de la región Upstate de Carolina del Sur para los mercados suburbanos circundantes — no es en sí una entrada Top-400 publicada."
 paired_with: markets/us-sc-greenville-spartanburg.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -25,10 +26,10 @@ como suburbios, en lugar de ser ella misma un mercado suburbano.
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), la ciudad propia de Greenville tenía
+la ciudad propia de Greenville tenía
 70.720 habitantes en el censo de 2020 en 30,02 millas cuadradas (área metropolitana
 aproximadamente 1 millón), sirviendo como ciudad ancla de la región Upstate de Carolina del
-Sur, situada aproximadamente a medio camino entre Charlotte y Atlanta. Históricamente "la
+Sur, situada aproximadamente a medio camino entre Charlotte y Atlanta. <!-- wikipedia-sourced: population/description --> Históricamente "la
 Capital Textil del Mundo", Greenville ha hecho la transición hacia la manufactura avanzada y
 la producción automotriz; entre los principales empleadores se encuentran la sede
 norteamericana de Michelin, Prisma Health, Duke Energy y Bon Secours. La revitalización del

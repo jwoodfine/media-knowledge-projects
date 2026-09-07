@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Ciudad histórica de Cheshire; la entrada Top-400 'Cheshire West and Chester' se sitúa a 35,8 km en línea recta de Wigan, su referencia metropolitana en la plataforma — no figura aún bajo el nombre de Chester."
 paired_with: markets/gb-eng-chester.md
+wikipedia_sourced: true
 last_edited: 2026-09-07
 editor: editorial
 ---
@@ -27,9 +28,9 @@ de Chester es una cuestión de delimitación y nomenclatura del mercado, no de d
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), el área urbanizada de Chester tenía
+el área urbanizada de Chester tenía
 92.760 habitantes en el censo de 2021 (138.875 para el área de la ciudad oficial, incluidas
-las circunscripciones de administradores fiduciarios). Wikipedia la sitúa aproximadamente a
+las circunscripciones de administradores fiduciarios). <!-- wikipedia-sourced: population/description --> Wikipedia la sitúa aproximadamente a
 17-19 millas al suroeste de Liverpool por carretera a través de la autopista M53 — una
 descripción geográfica general, distinta de la medición en línea recta de referencia
 metropolitana de la propia plataforma indicada arriba. El sector servicios domina la

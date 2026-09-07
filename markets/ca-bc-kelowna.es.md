@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado del valle de Okanagan, a 390 km de Vancouver — el centro comercial del interior de Columbia Británica."
 paired_with: markets/ca-bc-kelowna.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -25,10 +26,10 @@ que no califica. Esta distancia es una medición en línea recta (a vuelo de pá
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), la ciudad propia de Kelowna tenía
+la ciudad propia de Kelowna tenía
 165.907 habitantes a fecha de 2025 (área metropolitana censal 254.605) en 214 kilómetros
 cuadrados, situada en el interior sur de Columbia Británica, a orillas del lago Okanagan,
-aproximadamente a 390 km al este de Vancouver. El sector servicios domina el empleo en esta
+aproximadamente a 390 km al este de Vancouver. <!-- wikipedia-sourced: population/description --> El sector servicios domina el empleo en esta
 región orientada al turismo; el turismo genera aproximadamente 1.000 millones de dólares al
 año. Los principales sectores incluyen la producción vitivinícola, el ocio al aire libre
 (esquí, náutica, golf) y la manufactura ligera, junto con el campus Okanagan de la UBC y el

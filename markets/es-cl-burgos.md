@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Castile and León city, 244 km from Madrid — a regional centre in its own right."
 paired_with: markets/es-cl-burgos.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -24,9 +25,9 @@ market but does not qualify on. This distance is a straight-line (crow-flies) me
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Burgos had 176,551 residents as of 2024 across
+Burgos had 176,551 residents as of 2024 across
 107.06 square kilometres (metropolitan area approximately 200,000), situated 244 km north of
-Madrid in northern Spain's Castile and León region at 865 metres elevation.
+Madrid in northern Spain's Castile and León region at 865 metres elevation. <!-- wikipedia-sourced: population/description -->
 
 Burgos's economy combines manufacturing, agriculture, and services. Key employers include Grupo Antolin (automotive
 components) and Benteler International's regional headquarters operations. The city hosts

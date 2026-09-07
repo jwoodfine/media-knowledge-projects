@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Scottish Highlands capital, well beyond commuting distance of Edinburgh or Glasgow — not among the markets published in the current Top-400 set."
 paired_with: markets/gb-sct-inverness.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -25,8 +26,8 @@ applied for qualification.
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Inverness had 47,790 residents in 2020 (Greater
-Inverness 65,210 in 2021) across 24.3 square kilometres. It sits at the mouth of the River
+Inverness had 47,790 residents in 2020 (Greater
+Inverness 65,210 in 2021) across 24.3 square kilometres. <!-- wikipedia-sourced: population/description --> It sits at the mouth of the River
 Ness in the Scottish Highlands and connects to Edinburgh and Glasgow via the A9 and A82
 trunk roads. Between 1998 and 2008, the city and the wider central Highlands recorded the
 largest growth in average economic productivity per person in Scotland. Traditional

@@ -16,6 +16,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional de América del Norte — suburbio de Toronto, 24,9 km; 2 clústeres de Nivel Regional, 1 de Nivel Distrito y 2 de Nivel Local."
 paired_with: markets/ca-on-mississauga.md
+wikipedia_sourced: true
 last_edited: 2026-08-25
 editor: editorial
 ---
@@ -24,7 +25,7 @@ Mississauga, en la orilla noroccidental del lago Ontario a 25 km al oeste del ce
 
 ## Descripción general
 
-Según Wikipedia (consultado el 30 de mayo de 2026), Mississauga registró una población de 717.961 habitantes en el censo de 2021, lo que la sitúa como el séptimo municipio más poblado de Canadá y el tercero de Ontario. La ciudad ocupa la orilla noroccidental del lago Ontario dentro del Municipio Regional de Peel, limitando con el distrito de Etobicoke de Toronto al este, Brampton al norte, Milton al noroeste y Oakville al suroeste. Después de Toronto, es el segundo municipio más grande del Área Metropolitana de Toronto.
+Mississauga registró una población de 717.961 habitantes en el censo de 2021, lo que la sitúa como el séptimo municipio más poblado de Canadá y el tercero de Ontario. <!-- wikipedia-sourced: population/description --> La ciudad ocupa la orilla noroccidental del lago Ontario dentro del Municipio Regional de Peel, limitando con el distrito de Etobicoke de Toronto al este, Brampton al norte, Milton al noroeste y Oakville al suroeste. Después de Toronto, es el segundo municipio más grande del Área Metropolitana de Toronto.
 
 El carácter comercial de la ciudad está moldeado por tres fuerzas convergentes. En primer lugar, la concentración de sedes corporativas: más de sesenta empresas del Fortune 500 operan desde Mississauga, incluidas TD Bank, Royal Bank of Canada, Purolator y Laura Secord Chocolates, junto con las operaciones canadienses de Walmart Canada, Kellogg's, Hewlett-Packard y Oracle. En segundo lugar, la proximidad del Aeropuerto Internacional Toronto Pearson, situado en el barrio de Malton en el extremo norte de la ciudad. Pearson es el aeropuerto más transitado de Canadá y el principal motor de la actividad logística, de carga y aeroespacial de Mississauga, con Magellan Aerospace y Honeywell Aerospace entre los principales empleadores. En tercer lugar, la amplitud sectorial: productos farmacéuticos, banca y finanzas, electrónica, aeroespacial y fabricación de equipos de transporte tienen presencia sustancial. La población de la ciudad se encuentra entre las más diversas demográficamente de Canadá, con un 25,4% de residentes de origen sudasiático y una población combinada de origen europeo del 37,6%.
 

@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Ciudad de Castilla y León, a 244 km de Madrid — un centro regional por derecho propio."
 paired_with: markets/es-cl-burgos.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -24,9 +25,9 @@ en cada mercado pero sobre la que no califica. Esta distancia es una medición e
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), Burgos tenía 176.551 habitantes a fecha
+Burgos tenía 176.551 habitantes a fecha
 de 2024 en 107,06 kilómetros cuadrados (área metropolitana aproximadamente 200.000), situada
-244 km al norte de Madrid, en la región de Castilla y León, a una altitud de 865 metros. La
+244 km al norte de Madrid, en la región de Castilla y León, a una altitud de 865 metros. <!-- wikipedia-sourced: population/description --> La
 economía de Burgos combina manufactura, agricultura y servicios. Entre los principales
 empleadores se encuentran Grupo Antolin (componentes automotrices) y las operaciones
 regionales de la sede de Benteler International. La ciudad alberga Villalonquéjar, el mayor

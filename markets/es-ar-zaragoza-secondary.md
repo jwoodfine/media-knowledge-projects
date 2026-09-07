@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Aragon's regional capital, roughly 300 km from Madrid, Barcelona, and Valencia alike — not among the markets published in the current Top-400 set."
 paired_with: markets/es-ar-zaragoza-secondary.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -25,8 +26,8 @@ own right rather than a satellite of any single metro core.
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Zaragoza had 691,037 municipal residents as of
-2024 across 973.78 square kilometres. It sits roughly 300 kilometres — straight-line, general geographic distance, not the
+Zaragoza had 691,037 municipal residents as of
+2024 across 973.78 square kilometres. <!-- wikipedia-sourced: population/description --> It sits roughly 300 kilometres — straight-line, general geographic distance, not the
 platform's own metropolitan-reference measurement — from Madrid, Barcelona,
 Valencia, and Bilbao, occupying the geographical centre of the hexagon formed by those
 Spanish cities plus Bordeaux and Toulouse in France. Key industries include automotive

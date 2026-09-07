@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional en Europa — suburbio de Leeds; 1 clúster de nivel District y 2 de nivel Local."
 paired_with: markets/gb-eng-york.md
+wikipedia_sourced: true
 last_edited: 2026-08-25
 editor: editorial
 ---
@@ -24,9 +25,9 @@ dual universitaria, de turismo patrimonial y del sector público los sostiene.
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), York registró una población de 202.800
+York registró una población de 202.800
 habitantes en el censo de 2021 (198.051 en 2011), aproximadamente a 22 millas (35 km) al
-noreste de Leeds — distancia geográfica general de Wikipedia. La distancia de referencia
+noreste de Leeds — distancia geográfica general de Wikipedia. <!-- wikipedia-sourced: population/description --> La distancia de referencia
 metropolitana en línea recta de la propia plataforma es de 37,4 km. Entre los
 principales empleadores se encuentran el Ayuntamiento de York (más de 7.500 empleados),
 Aviva, Network Rail, Northern Trains, York Hospitals NHS Trust y la Universidad de York (cada

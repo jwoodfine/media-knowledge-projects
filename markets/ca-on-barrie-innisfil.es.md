@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado del centro de Ontario, a 90 km de Toronto, en el borde exterior del cinturón de desplazamiento diario."
 paired_with: markets/ca-on-barrie-innisfil.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -25,10 +26,10 @@ califica. Esta distancia es una medición en línea recta (a vuelo de pájaro), 
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), Barrie tenía 147.829 habitantes en el
+Barrie tenía 147.829 habitantes en el
 censo de 2021 (área metropolitana censal 212.856) en 99,01 kilómetros cuadrados, situada
 aproximadamente a 90 km al norte de Toronto, en la región del Golden Horseshoe del centro de
-Ontario. La ciudad funciona tanto como comunidad dormitorio de Toronto como centro económico
+Ontario. <!-- wikipedia-sourced: population/description --> La ciudad funciona tanto como comunidad dormitorio de Toronto como centro económico
 cada vez más diversificado, con empleo concentrado en educación, salud, tecnología de la
 información y manufactura. Entre los principales empleadores se encuentran el Simcoe County
 District School Board, Georgian College, el Royal Victoria Regional Health Centre y empresas

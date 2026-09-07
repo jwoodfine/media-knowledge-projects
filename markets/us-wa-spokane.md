@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Eastern Washington's second-largest city, 280 miles from Seattle — not among the markets published in the current Top-400 set."
 paired_with: markets/us-wa-spokane.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -24,10 +25,10 @@ the qualification applies.
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Spokane had 228,989 residents at the 2020
+Spokane had 228,989 residents at the 2020
 census (metropolitan area approximately 600,000) across 69.49 square miles, situated 280
 miles (a general Wikipedia geographic distance) east of Seattle via Interstate 90, the second-largest city in Washington state after
-Seattle. Historically dependent on mining, timber, and agriculture, Spokane's economy has
+Seattle. <!-- wikipedia-sourced: population/description --> Historically dependent on mining, timber, and agriculture, Spokane's economy has
 diversified significantly since the 1980s, with expansion of the University District's two
 medical school branches emphasizing medical and health sciences alongside technology
 companies and research facilities. Spokane International Airport serves as a regional

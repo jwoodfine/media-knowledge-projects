@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado del sur de Alberta, a 215 km de Calgary — un centro regional por derecho propio."
 paired_with: markets/ca-ab-lethbridge.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -26,10 +27,10 @@ metropolitano importante. Esta distancia es una medición en línea recta (a vue
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), Lethbridge registró 106.550 habitantes
+Lethbridge registró 106.550 habitantes
 en el censo municipal de 2023 (98.406 en el censo federal de 2021) en 121,12 kilómetros
 cuadrados, situada aproximadamente a 215 km al sureste de Calgary, 169 km al oeste de
-Medicine Hat y 105 km al noroeste de la frontera entre Canadá y Estados Unidos. La ciudad
+Medicine Hat y 105 km al noroeste de la frontera entre Canadá y Estados Unidos. <!-- wikipedia-sourced: population/description --> La ciudad
 funciona como el centro comercial, de distribución, financiero e industrial del sur de
 Alberta, con empleo concentrado en salud, educación, comercio minorista y hostelería; el
 gobierno se encuentra entre los cinco principales empleadores. La economía evolucionó de la

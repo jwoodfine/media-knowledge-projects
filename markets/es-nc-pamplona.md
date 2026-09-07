@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Navarre's regional capital, 117 km from Bilbao — not among the markets published in the current Top-400 set."
 paired_with: markets/es-nc-pamplona.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -24,8 +25,8 @@ right rather than a satellite of a larger metro.
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Pamplona had 209,676 municipal residents as of
-2025 (metropolitan area 319,208) across 25.14 square kilometres. It is situated in Navarre at
+Pamplona had 209,676 municipal residents as of
+2025 (metropolitan area 319,208) across 25.14 square kilometres. <!-- wikipedia-sourced: population/description --> It is situated in Navarre at
 approximately 450 metres elevation — 92 km from San Sebastián, 117 km from Bilbao, and 407
 km from Madrid, all straight-line general geographic distances, not the platform's own
 metropolitan-reference measurement. The city has transitioned from a small administrative centre to a

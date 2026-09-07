@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Basque Country capital — not among the markets published in the current Top-400 set."
 paired_with: markets/es-pv-vitoria-gasteiz.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -23,10 +24,10 @@ Top-400 Regional Markets list.
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Vitoria-Gasteiz had 260,402 residents as of
+Vitoria-Gasteiz had 260,402 residents as of
 2025 across 276.96 square kilometres — the second most populous city in the Basque Country
 and the 17th-largest in Spain — situated in Álava Province and serving as the capital and
-seat of government for the autonomous community. The economy is notably diverse, with
+seat of government for the autonomous community. <!-- wikipedia-sourced: population/description --> The economy is notably diverse, with
 strengths in healthcare, aeronautics, automotive manufacturing, and viticulture; major
 employers include Mercedes-Benz, Michelin, Gamesa (renewable energy), and Heraclio Fournier
 (playing-card manufacturer, headquartered locally). Vitoria Airport ranks fourth nationally

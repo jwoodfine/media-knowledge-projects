@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Capital regional de Aragón, a unos 300 km tanto de Madrid como de Barcelona y Valencia — no figura entre los mercados publicados en el conjunto Top-400 actual."
 paired_with: markets/es-ar-zaragoza-secondary.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -25,11 +26,11 @@ propio y no como satélite de ningún núcleo metropolitano concreto.
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), Zaragoza tenía 691.037 habitantes
+Zaragoza tenía 691.037 habitantes
 municipales a fecha de 2024 en 973,78 kilómetros cuadrados, situada aproximadamente a 300
 kilómetros — distancia general en línea recta, no la medición de referencia metropolitana
 propia de la plataforma — de Madrid, Barcelona, Valencia y Bilbao — ocupando el centro geográfico del
-hexágono formado por estas ciudades españolas más Burdeos y Toulouse en Francia. Entre las
+hexágono formado por estas ciudades españolas más Burdeos y Toulouse en Francia. <!-- wikipedia-sourced: population/description --> Entre las
 industrias clave se encuentran la manufactura automotriz (una fábrica de Opel en
 funcionamiento desde 1982), electrodomésticos (Balay), material rodante ferroviario (CAF) y
 producción de papelería; el aeropuerto de la ciudad es un importante centro de carga,

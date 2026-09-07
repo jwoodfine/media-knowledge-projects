@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "European Regional Market — suburb of Leeds; 1 District-tier and 2 Local-tier co-location clusters."
 paired_with: markets/gb-eng-york.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-25
 editor: editorial
 ---
@@ -24,9 +25,9 @@ heritage-tourism, and public-sector employment base supports them.
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), York recorded a population of 202,800 at the
+York recorded a population of 202,800 at the
 2021 census (198,051 in 2011), approximately 22 miles (35 km) northeast of Leeds — Wikipedia's
-general geographic distance. The platform's own straight-line metropolitan-reference distance
+general geographic distance. <!-- wikipedia-sourced: population/description --> The platform's own straight-line metropolitan-reference distance
 is 37.4 km.
 
 Major employers include the City of York

@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Capital y segunda ciudad más grande de Wisconsin, a 77 millas de Milwaukee — no figura entre los mercados publicados en el conjunto Top-400 actual."
 paired_with: markets/us-wi-madison.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -24,11 +25,11 @@ metrópolis mayor.
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), Madison tenía 269.840 habitantes en el
+Madison tenía 269.840 habitantes en el
 censo de 2020 (una estimación de 285.300 para 2024, y la ciudad de más rápido crecimiento de
 Wisconsin a fecha de 2024) en aproximadamente 79,57 millas cuadradas de superficie terrestre,
 la segunda ciudad más poblada de Wisconsin, situada a 77 millas al oeste de Milwaukee y 122
-millas al noroeste de Chicago (distancias geográficas generales de Wikipedia), en un istmo entre el lago Mendota y el lago Monona. La
+millas al noroeste de Chicago (distancias geográficas generales de Wikipedia), en un istmo entre el lago Mendota y el lago Monona. <!-- wikipedia-sourced: population/description --> La
 Universidad de Wisconsin-Madison, UW Health y el gobierno estatal de Wisconsin son los
 principales empleadores; Epic Systems, con sede en la cercana localidad de Verona, representa
 el mayor empleador del sector privado. La economía enfatiza el gobierno, la educación, la

@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "La ciudad más grande de Castilla y León, a 235 km de Madrid — no figura entre los mercados publicados en el conjunto Top-400 actual."
 paired_with: markets/es-cl-valladolid.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -24,12 +25,12 @@ núcleo metropolitano importante.
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), la ciudad propia de Valladolid tenía
+la ciudad propia de Valladolid tenía
 299.816 habitantes a fecha de 2024 en 197,47 kilómetros cuadrados — el municipio más poblado
 de su región —, situada en el centro-norte de España, a unos 235 km (en línea recta, no la
 medición de referencia metropolitana propia de la plataforma) al norte de Madrid (un
 trayecto de 56 minutos en tren de alta velocidad), en la confluencia de los ríos Pisuerga y
-Esgueva, a aproximadamente 735 metros de altitud. La ciudad es un importante centro económico
+Esgueva, a aproximadamente 735 metros de altitud. <!-- wikipedia-sourced: population/description --> La ciudad es un importante centro económico
 de España; la manufactura domina, particularmente el sector automotriz a través de Renault
 España e Iveco, aunque el sector servicios representa la mayor proporción del empleo, con un
 74,2%. El procesamiento de alimentos, la metalurgia y la manufactura química también

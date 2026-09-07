@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Castile and León's largest city, 235 km from Madrid — not among the markets published in the current Top-400 set."
 paired_with: markets/es-cl-valladolid.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -24,12 +25,12 @@ than a satellite of a major metro core.
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Valladolid's city proper had 299,816 residents
+Valladolid's city proper had 299,816 residents
 as of 2024 across 197.47 square kilometres — the most populated municipality in its region —
 situated in north-central Spain roughly 235 km (straight-line, not the platform's own
 metropolitan-reference measurement) north of Madrid (a 56-minute journey by
 high-speed rail), at the confluence of the Pisuerga and Esgueva rivers at approximately 735
-metres elevation. The city is a major economic centre; manufacturing dominates, particularly
+metres elevation. <!-- wikipedia-sourced: population/description --> The city is a major economic centre; manufacturing dominates, particularly
 the automotive sector through Renault España and Iveco, though the service industry
 represents the largest share of employment at 74.2 percent. Food processing, metallurgy, and
 chemical manufacturing also contribute significantly. By 2013 turnover, leading companies

@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "European Regional Market — suburb of Oxford; 2 Local-tier co-location clusters."
 paired_with: markets/gb-eng-cherwell.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-25
 editor: editorial
 ---
@@ -24,8 +25,8 @@ toward London, Birmingham, and Oxford support the district's retail geography.
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Cherwell district had a population of 170,426
-in 2024 across 227.3 square miles (588.8 square kilometres). It sits roughly 15 to 20 miles
+Cherwell district had a population of 170,426
+in 2024 across 227.3 square miles (588.8 square kilometres). <!-- wikipedia-sourced: population/description --> It sits roughly 15 to 20 miles
 (a general Wikipedia description) north of Oxford in South East England — consistent with the
 platform's own straight-line metropolitan-reference distance of 25.4 km. Banbury, where the district council is based, and
 Bicester are the primary towns; Kidlington is cited as a contender for the largest village in

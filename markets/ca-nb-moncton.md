@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Maritime Canada's commercial hub — not among the markets published in the current Top-400 set."
 paired_with: markets/ca-nb-moncton.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -24,8 +25,8 @@ against which the qualification system's suburban-regional distance band would a
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Moncton's city proper had 79,470 residents at
-the 2021 census (metropolitan area 157,717) across 140.67 square kilometres. It is situated in
+Moncton's city proper had 79,470 residents at
+the 2021 census (metropolitan area 157,717) across 140.67 square kilometres. <!-- wikipedia-sourced: population/description --> It is situated in
 southeastern New Brunswick at the geographic centre of the Maritime Provinces along the
 Petitcodiac River. The economy is stable and diversified, built on transportation,
 distribution, retailing, and commercial heritage, and supplemented by education, healthcare,

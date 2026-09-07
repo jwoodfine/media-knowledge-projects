@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "North American Regional Market — suburb of Phoenix; 1 Regional-tier and 2 Local-tier co-location clusters."
 paired_with: markets/us-az-tempe.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-25
 editor: editorial
 ---
@@ -25,8 +26,8 @@ typical suburban Regional Market.
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Tempe recorded a population of 180,587 at the
-2020 census across a land area of 39.94 square miles. It sits approximately 2 miles
+Tempe recorded a population of 180,587 at the
+2020 census across a land area of 39.94 square miles. <!-- wikipedia-sourced: population/description --> It sits approximately 2 miles
 southeast of Phoenix Sky Harbor International Airport (a general Wikipedia distance to the
 airport, not the city centre), bordered by Mesa to the east and
 Phoenix to the west. The platform's own straight-line metropolitan-reference distance to

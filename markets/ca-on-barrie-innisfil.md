@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Central Ontario market, 90 km from Toronto, at the outer edge of the commuter belt."
 paired_with: markets/ca-on-barrie-innisfil.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -24,8 +25,8 @@ belt — a distance the framework records against each market but does not quali
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Barrie had 147,829 residents at the 2021
-census (census metropolitan area 212,856) across 99.01 square kilometres. It is situated
+Barrie had 147,829 residents at the 2021
+census (census metropolitan area 212,856) across 99.01 square kilometres. <!-- wikipedia-sourced: population/description --> It is situated
 approximately 90 km north of Toronto in Central Ontario's Greater Golden Horseshoe region.
 The city functions as both a bedroom community for Toronto and an increasingly diversified
 economic centre, with employment concentrated in education, healthcare, information

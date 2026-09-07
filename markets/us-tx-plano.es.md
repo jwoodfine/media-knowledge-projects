@@ -16,6 +16,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional de América del Norte — suburbio de Dallas, 28,1 km; 3 clústeres de Nivel Regional, 2 de Nivel Distrito y 1 de Nivel Local."
 paired_with: markets/us-tx-plano.md
+wikipedia_sourced: true
 last_edited: 2026-08-25
 editor: editorial
 ---
@@ -24,7 +25,7 @@ Plano, suburbio de Dallas con 285.000 habitantes a 28 kilómetros (en línea rec
 
 ## Descripción general
 
-Según Wikipedia (consultado el 30 de mayo de 2026), Plano tenía una población de 285.494 habitantes en el censo de 2020, lo que la convierte en la novena ciudad más poblada de Texas y la 73.ª de Estados Unidos. La ciudad cubre aproximadamente 72 millas cuadradas, la mayor parte en el condado de Collin, con una pequeña porción occidental que se extiende hacia el condado de Denton. Plano se encuentra aproximadamente a 17 millas (28 kilómetros, distancia geográfica general de Wikipedia, coherente con la medición de referencia metropolitana en línea recta de la propia plataforma) al noreste del centro de Dallas y es uno de los principales suburbios del área metropolitana de Dallas-Fort Worth. El nombre de la ciudad deriva de la palabra española para "superficie plana", en referencia al terreno de pradera local.
+Plano tenía una población de 285.494 habitantes en el censo de 2020, lo que la convierte en la novena ciudad más poblada de Texas y la 73.ª de Estados Unidos. <!-- wikipedia-sourced: population/description --> La ciudad cubre aproximadamente 72 millas cuadradas, la mayor parte en el condado de Collin, con una pequeña porción occidental que se extiende hacia el condado de Denton. Plano se encuentra aproximadamente a 17 millas (28 kilómetros, distancia geográfica general de Wikipedia, coherente con la medición de referencia metropolitana en línea recta de la propia plataforma) al noreste del centro de Dallas y es uno de los principales suburbios del área metropolitana de Dallas-Fort Worth. El nombre de la ciudad deriva de la palabra española para "superficie plana", en referencia al terreno de pradera local.
 
 El perfil económico de Plano es distinto al de un suburbio residencial convencional. La ciudad alberga las sedes de Frito-Lay, JCPenney, Pizza Hut y Toyota Motor North America, esta última trasladada desde California en 2014. Los principales empleadores de 2025 incluyen JPMorgan Chase (11.261 empleados), Capital One Finance (5.649) y Toyota Motor North America (4.938), lo que refleja una concentración de servicios financieros y operaciones de back-office corporativas junto con las sedes históricas de marcas de consumo. La trayectoria de crecimiento de la ciudad ha sido rápida: la población pasó de 17.872 habitantes en 1970 a 128.713 en 1990 y a 285.494 en 2020, impulsada por traslados corporativos e inversión en infraestructura asociada. El censo de 2020 registró una población diversificada, con un 46,3% de blancos no hispanos, un 24,08% de asiáticos, un 16,04% de hispanos o latinos y un 8,77% de negros o afroamericanos.
 

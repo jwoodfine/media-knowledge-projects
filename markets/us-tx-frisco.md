@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "North American Regional Market — suburb of Dallas, 44 km; 3 Regional-tier and 1 District-tier co-location clusters with a confirmed civic anchor."
 paired_with: markets/us-tx-frisco.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-25
 editor: editorial
 ---
@@ -26,9 +27,9 @@ fastest-growing cities in the United States.
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Frisco recorded a population of 200,509 at
+Frisco recorded a population of 200,509 at
 the 2020 census across a land area of approximately 68.64 square miles, split between
-Collin and Denton counties. It sits roughly 25 miles from both Dallas Love Field and
+Collin and Denton counties. <!-- wikipedia-sourced: population/description --> It sits roughly 25 miles from both Dallas Love Field and
 Dallas/Fort Worth International Airport. The city markets itself under the slogan
 "Progress in Motion" and was the fastest-growing city in the United States in 2017. Leading
 employers as of 2023 include the Frisco Independent School District, the City of Frisco,

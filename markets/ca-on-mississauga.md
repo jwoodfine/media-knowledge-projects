@@ -16,6 +16,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "North American Regional Market — suburb of Toronto, 24.9 km; 2 Regional-tier, 1 District-tier, and 2 Local-tier co-location clusters."
 paired_with: markets/ca-on-mississauga.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-25
 editor: editorial
 ---
@@ -24,7 +25,7 @@ Mississauga, on the northwestern shore of Lake Ontario 25 km west of downtown To
 
 ## Overview
 
-According to Wikipedia (accessed 2026-05-30), Mississauga recorded a 2021 census population of 717,961, placing it as the seventh-most populous municipality in Canada and the third-most populous in Ontario. The city occupies the northwestern shore of Lake Ontario within the Regional Municipality of Peel, bordered by Toronto's Etobicoke district to the east, Brampton to the north, Milton to the northwest, and Oakville to the southwest. After Toronto itself, it is the second-largest municipality in the Greater Toronto Area.
+Mississauga recorded a 2021 census population of 717,961, placing it as the seventh-most populous municipality in Canada and the third-most populous in Ontario. <!-- wikipedia-sourced: population/description --> The city occupies the northwestern shore of Lake Ontario within the Regional Municipality of Peel, bordered by Toronto's Etobicoke district to the east, Brampton to the north, Milton to the northwest, and Oakville to the southwest. After Toronto itself, it is the second-largest municipality in the Greater Toronto Area.
 
 The city's commercial character is shaped by three intersecting forces. First, corporate headquarters concentration: more than sixty Fortune 500 companies operate from Mississauga, including TD Bank, Royal Bank of Canada, Purolator, and Laura Secord Chocolates, alongside the Canadian operations of Walmart Canada, Kellogg's, Hewlett-Packard, and Oracle. Second, the proximity of Toronto Pearson International Airport, located in the Malton neighbourhood in the city's north end. Pearson is Canada's busiest airport and the principal driver of Mississauga's logistics, freight, and aerospace activity, with Magellan Aerospace and Honeywell Aerospace among the major employers. Third, sectoral breadth: pharmaceuticals, banking and finance, electronics, aerospace, and transportation equipment manufacturing all maintain substantial footprints. The city's population is among the most demographically diverse in Canada, with South Asians comprising 25.4 percent of residents and a combined European-origin population of 37.6 percent.
 

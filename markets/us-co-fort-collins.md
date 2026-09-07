@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Northern Colorado market, 60 miles from Denver, beyond the immediate commuter belt."
 paired_with: markets/us-co-fort-collins.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -24,8 +25,8 @@ records against each market but does not qualify on. This distance is a straight
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Fort Collins had 169,810 residents at the 2020
-census (an estimated 170,924 in 2024) across approximately 58.5 square miles. It is the county
+Fort Collins had 169,810 residents at the 2020
+census (an estimated 170,924 in 2024) across approximately 58.5 square miles. <!-- wikipedia-sourced: population/description --> It is the county
 seat of Larimer County, roughly 60 miles north of Denver. The city maintains a diversified
 economy anchored by Colorado State University (8,850 employees) and the University of Colorado
 Hospital Authority (5,900 employees), with manufacturing, technology, and education

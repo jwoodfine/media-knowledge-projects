@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional europeo — suburbio de Oxford; 2 clústeres de Nivel Local."
 paired_with: markets/gb-eng-cherwell.md
+wikipedia_sourced: true
 last_edited: 2026-08-25
 editor: editorial
 ---
@@ -25,11 +26,11 @@ comercial del distrito.
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), el distrito de Cherwell tenía una
+el distrito de Cherwell tenía una
 población de 170.426 habitantes en 2024 en 227,3 millas cuadradas (588,8 kilómetros
 cuadrados), aproximadamente entre 15 y 20 millas (una descripción general de Wikipedia) al
 norte de Oxford, en el sureste de Inglaterra — coherente con la distancia de referencia
-metropolitana en línea recta de la propia plataforma, de 25,4 km. Banbury, sede del ayuntamiento del distrito, y Bicester son los principales
+metropolitana en línea recta de la propia plataforma, de 25,4 km. <!-- wikipedia-sourced: population/description --> Banbury, sede del ayuntamiento del distrito, y Bicester son los principales
 núcleos urbanos; Kidlington se cita como candidata a mayor aldea de Inglaterra. La mitad
 norte del distrito presenta colinas suavemente onduladas hacia el río Cherwell, mientras que
 el área sur en torno a Bicester es notablemente más llana, con el noroeste alcanzando el

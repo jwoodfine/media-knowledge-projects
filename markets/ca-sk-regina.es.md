@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Capital provincial de Saskatchewan, que funciona como centro comercial propio y no como satélite de un metro mayor."
 paired_with: markets/ca-sk-regina.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -24,9 +25,9 @@ satélite de ningún núcleo metropolitano importante.
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), Regina tenía 226.404 habitantes en el
+Regina tenía 226.404 habitantes en el
 censo de 2021 (área metropolitana 249.217) en 178,81 kilómetros cuadrados, situada
-inmediatamente al este de Moose Jaw, en una llanura amplia, plana y sin árboles. La ciudad
+inmediatamente al este de Moose Jaw, en una llanura amplia, plana y sin árboles. <!-- wikipedia-sourced: population/description --> La ciudad
 sirve como capital provincial y centro comercial del sur de Saskatchewan, albergando el
 Edificio de la Legislatura Provincial y numerosas instituciones provinciales. La economía se
 ha diversificado más allá de la dependencia agrícola, con los sectores agrícola, minorista y

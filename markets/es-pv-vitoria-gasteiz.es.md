@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Capital del País Vasco — no figura entre los mercados publicados en el conjunto Top-400 actual."
 paired_with: markets/es-pv-vitoria-gasteiz.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -23,10 +24,10 @@ Mercados Regionales de Europa.
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), Vitoria-Gasteiz tenía 260.402
+Vitoria-Gasteiz tenía 260.402
 habitantes a fecha de 2025 en 276,96 kilómetros cuadrados — la segunda ciudad más poblada del
 País Vasco y la 17.ª de España —, situada en la provincia de Álava y sirviendo como capital y
-sede del gobierno de la comunidad autónoma. La economía es notablemente diversa, con
+sede del gobierno de la comunidad autónoma. <!-- wikipedia-sourced: population/description --> La economía es notablemente diversa, con
 fortalezas en salud, aeronáutica, manufactura automotriz y viticultura; entre los principales
 empleadores se encuentran Mercedes-Benz, Michelin, Gamesa (energía renovable) y Heraclio
 Fournier (fabricante de naipes, con sede local). El aeropuerto de Vitoria ocupa el cuarto

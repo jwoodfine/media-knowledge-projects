@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Segunda ciudad más grande del este de Washington, a 280 millas de Seattle — no figura entre los mercados publicados en el conjunto Top-400 actual."
 paired_with: markets/us-wa-spokane.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -23,10 +24,10 @@ Norte — a 280 millas de Seattle ancla el Noroeste Interior como centro regiona
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), Spokane tenía 228.989 habitantes en el
+Spokane tenía 228.989 habitantes en el
 censo de 2020 (área metropolitana aproximadamente 600.000) en 69,49 millas cuadradas, situada
 a 280 millas (distancia geográfica general de Wikipedia) al este de Seattle a través de la Interestatal 90, la segunda ciudad más grande
-del estado de Washington tras Seattle. Históricamente dependiente de la minería, la madera y
+del estado de Washington tras Seattle. <!-- wikipedia-sourced: population/description --> Históricamente dependiente de la minería, la madera y
 la agricultura, la economía de Spokane se ha diversificado significativamente desde la
 década de 1980, con la expansión del distrito universitario y sus dos filiales de facultades
 de medicina enfatizando las ciencias médicas y de la salud, junto con empresas tecnológicas e

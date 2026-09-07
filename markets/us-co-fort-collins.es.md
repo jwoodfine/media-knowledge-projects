@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado del norte de Colorado, a 60 millas de Denver, más allá del cinturón inmediato de desplazamiento diario."
 paired_with: markets/us-co-fort-collins.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -24,9 +25,9 @@ diario — una distancia que el marco registra pero sobre la que no califica. Es
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), Fort Collins tenía 169.810 habitantes en
+Fort Collins tenía 169.810 habitantes en
 el censo de 2020 (una estimación de 170.924 para 2024) en aproximadamente 58,5 millas
-cuadradas, sede del condado de Larimer, a unas 60 millas al norte de Denver. La ciudad
+cuadradas, sede del condado de Larimer, a unas 60 millas al norte de Denver. <!-- wikipedia-sourced: population/description --> La ciudad
 mantiene una economía diversificada anclada en la Universidad Estatal de Colorado (8.850
 empleados) y la University of Colorado Hospital Authority (5.900 empleados), con la
 manufactura, la tecnología y la educación dominando el empleo; entre los principales

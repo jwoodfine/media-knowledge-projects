@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "European Regional Market — suburb of Wigan; 1 District-tier and 1 Local-tier co-location cluster."
 paired_with: markets/gb-eng-warrington.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-25
 editor: editorial
 ---
@@ -24,10 +25,10 @@ from heavy industry to retail, distribution, and technology employment underpins
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Warrington recorded a population of 174,970
+Warrington recorded a population of 174,970
 for the built-up area at the 2021 census (210,900 across the wider borough), covering 44.89
 square kilometres, situated 16 miles east of Liverpool and 16 miles west of Manchester — a
-general geographic description; Wikipedia's article does not specify the distance to Wigan.
+general geographic description; Wikipedia's article does not specify the distance to Wigan. <!-- wikipedia-sourced: population/description -->
 The platform's own metropolitan reference is Wigan, recorded 16.0 km away on a straight-line
 basis, a different city and a different measurement from the Liverpool/Manchester figures
 above. Major employers include

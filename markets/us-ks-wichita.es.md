@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "La ciudad más grande de Kansas, muy lejos de cualquier metrópoli importante — no figura entre los mercados publicados en el conjunto Top-400 actual."
 paired_with: markets/us-ks-wichita.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -25,11 +26,11 @@ derecho propio.
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), Wichita tenía 397.532 habitantes en el
+Wichita tenía 397.532 habitantes en el
 censo de 2020 en 166,52 millas cuadradas, la ciudad más grande de Kansas y la 52.ª más
 grande de Estados Unidos, situada aproximadamente a 157 millas al norte de Oklahoma City y a
 181 millas al suroeste de Kansas City, Misuri — distancias geográficas generales de Wikipedia,
-no cifras medidas por la plataforma. La fabricación de aeronaves domina la economía
+no cifras medidas por la plataforma. <!-- wikipedia-sourced: population/description --> La fabricación de aeronaves domina la economía
 — la Cámara de Comercio Aeronáutica bautizó a la ciudad como la "Capital Aérea del Mundo" en
 1929 —, con la salud como segundo sector en importancia; entre los principales empleadores se
 encuentran Koch, Inc., Cargill y los proveedores aeroespaciales Spirit AeroSystems y Textron

@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Okanagan Valley market, 390 km from Vancouver — the commercial hub of British Columbia's interior."
 paired_with: markets/ca-bc-kelowna.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -24,10 +25,10 @@ rather than as a satellite — a distance the framework records but does not qua
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Kelowna's city proper had 165,907 residents as
+Kelowna's city proper had 165,907 residents as
 of 2025 (census metropolitan area 254,605) across 214 square kilometres, situated in the
 southern interior of British Columbia on Okanagan Lake, approximately 390 km east of
-Vancouver. The service industry dominates employment in this tourist-oriented region;
+Vancouver. <!-- wikipedia-sourced: population/description --> The service industry dominates employment in this tourist-oriented region;
 tourism generates roughly $1 billion annually. Major sectors include wine production, outdoor
 recreation (skiing, boating, golf), and light manufacturing, alongside UBC's Okanagan campus
 and Okanagan College. Orchard Park Shopping Centre is the region's dominant retail complex.

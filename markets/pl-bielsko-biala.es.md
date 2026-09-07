@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional en Europa — suburbio de Katowice, 48 km; 2 clústeres de nivel Regional con ancla cívica confirmada."
 paired_with: markets/pl-bielsko-biala.md
+wikipedia_sourced: true
 last_edited: 2026-08-25
 editor: editorial
 ---
@@ -24,10 +25,10 @@ nivel Regional y un ancla cívica confirmada.
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), Bielsko-Biała tenía aproximadamente
+Bielsko-Biała tenía aproximadamente
 165.127 habitantes a fecha de diciembre de 2024, lo que la convierte en la 22.ª ciudad más
 grande de Polonia; el área metropolitana más amplia abarca alrededor de 335.000 personas en
-124,51 kilómetros cuadrados. La ciudad se encuentra en el sur de Polonia, en el Voivodato de
+124,51 kilómetros cuadrados. <!-- wikipedia-sourced: population/description --> La ciudad se encuentra en el sur de Polonia, en el Voivodato de
 Silesia, aproximadamente a 48 kilómetros (en línea recta, coherente con la medición de
 referencia metropolitana de la propia plataforma de 47,5 km) de Katowice. Históricamente un importante centro de
 la industria textil, Bielsko-Biała desarrolló posteriormente la fabricación de automóviles

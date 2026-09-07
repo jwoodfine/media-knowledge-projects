@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "European Regional Market — suburb of Katowice, 48 km; 2 Regional-tier co-location clusters with a confirmed civic anchor."
 paired_with: markets/pl-bielsko-biala.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-25
 editor: editorial
 ---
@@ -24,9 +25,9 @@ clusters and a confirmed civic anchor.
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Bielsko-Biała had approximately 165,127
+Bielsko-Biała had approximately 165,127
 residents as of December 2024, making it the 22nd-largest city in Poland; the wider
-metropolitan area encompasses around 335,000 people across 124.51 square kilometres. The
+metropolitan area encompasses around 335,000 people across 124.51 square kilometres. <!-- wikipedia-sourced: population/description --> The
 city sits in southern Poland's Silesian Voivodeship, roughly 48 kilometres (straight-line,
 consistent with the platform's own 47.5 km metropolitan-reference measurement) from Katowice.
 Historically a major textile-industry centre, Bielsko-Biała later developed automotive

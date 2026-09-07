@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Colorado metro-core reference point for a surrounding suburban market — not itself a published Top-400 entry."
 paired_with: markets/us-co-colorado-springs.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -24,12 +25,12 @@ that Pueblo, CO is counted as a suburb *of*, rather than as a suburban market it
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Colorado Springs had 478,961 residents at the
+Colorado Springs had 478,961 residents at the
 2020 census (an estimated 494,743 in 2025) across 195.761 square miles — Colorado's
 second-most populous city and largest by area — situated approximately 70 miles (a general
 Wikipedia geographic distance, not the platform's straight-line metropolitan-reference
 measurement) south of
-Denver (about an hour by car via I-25) at 6,035 feet elevation near Pikes Peak. The economy
+Denver (about an hour by car via I-25) at 6,035 feet elevation near Pikes Peak. <!-- wikipedia-sourced: population/description --> The economy
 is driven primarily by the military, high-tech industry, and tourism: defense contractors and
 military installations, including Peterson Space Force Base and Fort Carson, account for over
 40 percent of regional economic activity. Tourism generated $2.4 billion from 23 million

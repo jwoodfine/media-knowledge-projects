@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "South Carolina Upstate metro-core reference point for surrounding suburban markets — not itself a published Top-400 entry."
 paired_with: markets/us-sc-greenville-spartanburg.es.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -25,8 +26,8 @@ rather than Greenville being counted as a suburban market itself.
 
 ## Overview
 
-According to Wikipedia (accessed 2026-07-10), Greenville's city proper had 70,720 residents
-at the 2020 census across 30.02 square miles (metropolitan area approximately 1 million). It
+Greenville's city proper had 70,720 residents
+at the 2020 census across 30.02 square miles (metropolitan area approximately 1 million). <!-- wikipedia-sourced: population/description --> It
 serves as the anchor city of Upstate South Carolina, positioned roughly midway between
 Charlotte and Atlanta. Historically "The Textile Capital of the World," Greenville has
 transitioned toward advanced manufacturing and automotive production. Major employers include

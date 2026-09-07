@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Centro comercial de la Canadá marítima — no figura entre los mercados publicados en el conjunto Top-400 actual."
 paired_with: markets/ca-nb-moncton.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -24,10 +25,10 @@ regional y no como satélite de una metrópolis mayor.
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), la ciudad propia de Moncton tenía 79.470
+la ciudad propia de Moncton tenía 79.470
 habitantes en el censo de 2021 (área metropolitana 157.717) en 140,67 kilómetros cuadrados,
 situada en el sureste de Nuevo Brunswick, en el centro geográfico de las provincias
-marítimas, a lo largo del río Petitcodiac. La economía es estable y diversificada, basada en
+marítimas, a lo largo del río Petitcodiac. <!-- wikipedia-sourced: population/description --> La economía es estable y diversificada, basada en
 el transporte, la distribución, el comercio minorista y el patrimonio comercial, complementada
 por educación, salud, finanzas, TI y seguros. Moncton se beneficia de una fuerza laboral
 bilingüe y de la mayor zona de captación del Atlántico canadiense — 1,6 millones de personas

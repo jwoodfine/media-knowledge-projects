@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Capital de las Tierras Altas escocesas, muy lejos de Edimburgo o Glasgow — no figura entre los mercados publicados en el conjunto Top-400 actual."
 paired_with: markets/gb-sct-inverness.md
+wikipedia_sourced: true
 last_edited: 2026-08-26
 editor: editorial
 ---
@@ -24,10 +25,10 @@ metrópolis más cercanas, la deja sirviendo a las Tierras Altas como centro reg
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), Inverness tenía 47.790 habitantes en
+Inverness tenía 47.790 habitantes en
 2020 (Gran Inverness 65.210 en 2021) en 24,3 kilómetros cuadrados, situada en la
 desembocadura del río Ness, en las Tierras Altas escocesas, y conectada con Edimburgo y
-Glasgow a través de las carreteras principales A9 y A82. Entre 1998 y 2008, la ciudad y las
+Glasgow a través de las carreteras principales A9 y A82. <!-- wikipedia-sourced: population/description --> Entre 1998 y 2008, la ciudad y las
 Tierras Altas centrales registraron el mayor crecimiento de productividad económica per
 cápita de Escocia. Industrias tradicionales como la destilería han dado paso en gran medida a
 los sectores tecnológico y médico, incluida la fabricación de diagnóstico de diabetes por

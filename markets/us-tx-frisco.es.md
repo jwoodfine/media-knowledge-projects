@@ -14,6 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional en América del Norte — suburbio de Dallas, 44 km; 3 clústeres de nivel Regional y 1 de nivel District con ancla cívica confirmada."
 paired_with: markets/us-tx-frisco.md
+wikipedia_sourced: true
 last_edited: 2026-08-25
 editor: editorial
 ---
@@ -27,10 +28,10 @@ Estados Unidos.
 
 ## Descripción general
 
-Según Wikipedia (consultado el 10 de julio de 2026), Frisco registró una población de
+Frisco registró una población de
 200.509 habitantes en el censo de 2020 en un área de aproximadamente 68,64 millas
 cuadradas, repartida entre los condados de Collin y Denton, a unas 25 millas tanto de Dallas
-Love Field como del Aeropuerto Internacional de Dallas/Fort Worth. La ciudad se promociona
+Love Field como del Aeropuerto Internacional de Dallas/Fort Worth. <!-- wikipedia-sourced: population/description --> La ciudad se promociona
 bajo el lema "Progress in Motion" y fue la ciudad de más rápido crecimiento de Estados Unidos
 en 2017. Los principales empleadores en 2023 incluyen el Distrito Escolar Independiente de
 Frisco, la Ciudad de Frisco, T-Mobile USA y Keurig Dr Pepper. El ingreso familiar medio pasó
