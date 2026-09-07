@@ -22,7 +22,7 @@ The Regional Markets Intelligence System is a continental-scale geographic analy
 
 The research addresses a gap in institutional commercial real estate analysis. Established research coverage concentrates on primary metro markets — London, Paris, New York, Chicago, Dallas, Toronto, and their immediate urban cores. The belt of named municipalities beyond those cores is analysed far less consistently. This is where large-format retail, hospital systems, and university campuses co-locate in patterns that function as leading indicators of demographic and economic activity at the sub-metropolitan scale. The Regional Markets dataset is the analytical surface for that belt.
 
-The current dataset spans several thousand co-location clusters across 24 countries in North America and Europe, classified into three compositional tiers (T1, T2, T3) and aggregated into named Regional Markets. The Top 400 is the flagship published output of this system: a curated, editorially-selected subset of roughly 400 markets for each continent. Selection method below.
+The current dataset spans several thousand co-location clusters across 24 countries in North America and Europe, classified into four tiers (Regional, District, Local, Fringe) and aggregated into named Regional Markets. The Top 400 is the flagship published output of this system: a curated, editorially-selected subset of roughly 400 markets for each continent. Selection method below.
 
 ## Dataset Scope
 
@@ -52,19 +52,20 @@ Clusters are formed in two passes: the first identifies hypermarket and full-anc
 
 ## Co-location Tier System
 
-Each cluster is assigned one of three tiers based on the composition of retail anchors present within the cluster boundary.
+Each cluster is assigned one of four tiers by clearing a set of predicate gates spanning anchor composition, catchment population rank, civic infrastructure, and non-overlap with neighbouring clusters. Full methodology: [[co-location-tier-system]].
 
 | Tier | Label | Composition rule |
 |---|---|---|
-| **T1** | Regional | Hypermarket + hardware + warehouse-club (or full equivalent across three independent anchor categories) |
-| **T2** | District | Hypermarket + hardware (two independent anchor categories) |
-| **T3** | Local | Any single qualifying anchor category |
+| **T1** | Regional | Hypermarket + hardware + warehouse-club (or full equivalent across three independent anchor categories), plus catchment population in the highest national band and a regional hospital within the civic ring |
+| **T2** | District | Hypermarket + hardware (two independent anchor categories), plus catchment population in a high national band and hospital access within the civic ring |
+| **T3** | Local | Any single qualifying anchor category, plus catchment population above the national midpoint and any hospital within the civic ring |
+| **T4** | Fringe | Retail co-tenancy is present, but catchment reach, composition, or civic support falls short of Local |
 
 The tier rule is compositional rather than count-based. A site with four co-located hypermarket banners and no hardware or warehouse-club anchor remains T3, because the compositional signal that distinguishes regional draw from local convenience is the presence of *independent* anchor categories, not the count of stores within a single category.
 
-### Span ranking and anchor categories
+### Geometric span and anchor categories
 
-**Geometric span ranking within tiers.** Within each tier, clusters are ordered by span — the diameter of the smallest circle containing all member anchors. Compact clusters rank ahead of dispersed ones, because anchors within walking or short-driving distance of each other represent a genuinely shared trade position. An upper limit prevents a long arterial corridor being treated as one cluster.
+**Span ordering within tiers.** Within each tier, clusters are ordered by span — the diameter of the smallest circle containing all member anchors. Compact clusters are classified ahead of dispersed ones, because anchors within walking or short-driving distance of each other represent a genuinely shared trade position. An upper limit prevents a long arterial corridor being treated as one cluster.
 
 **Anchor categories.** Six anchor categories are recognised in the current build: `hypermarket`, `hardware`, `warehouse_club`, `electronics`, `sporting_goods`, and `pharmacy`. Hypermarket, hardware, and warehouse-club are weighted as tier-determining; electronics, sporting-goods, and pharmacy are recognised as supporting anchors and contribute to the descriptive fields but do not alter tier classification.
 

@@ -22,7 +22,7 @@ El Sistema de Inteligencia de Mercados Regionales es un marco de análisis geogr
 
 La investigación aborda una brecha en el análisis institucional de bienes raíces comerciales. La cobertura de investigación establecida se concentra en los mercados metropolitanos primarios: Londres, París, Nueva York, Chicago, Dallas, Toronto y sus núcleos urbanos inmediatos. El cinturón de municipios con nombre propio situados más allá de esos núcleos se analiza con mucha menos constancia. Es precisamente aquí donde los grandes formatos minoristas, los sistemas hospitalarios y los campus universitarios se co-localizan en patrones que funcionan como indicadores anticipados de actividad demográfica y económica a escala sub-metropolitana. El conjunto de datos de Mercados Regionales es la superficie analítica para ese cinturón.
 
-El conjunto de datos actual abarca varios miles de clústeres de co-localización en 24 países de América del Norte y Europa, clasificados en tres niveles de composición (T1, T2, T3) y agregados en Mercados Regionales con nombre propio. El Top 400 es el producto publicado insignia de este sistema: un subconjunto curado y seleccionado editorialmente de aproximadamente 400 mercados por continente. Método de selección más abajo.
+El conjunto de datos actual abarca varios miles de clústeres de co-localización en 24 países de América del Norte y Europa, clasificados en cuatro niveles (Regional, Distrital, Local, Marginal) y agregados en Mercados Regionales con nombre propio. El Top 400 es el producto publicado insignia de este sistema: un subconjunto curado y seleccionado editorialmente de aproximadamente 400 mercados por continente. Método de selección más abajo.
 
 ## Alcance del Conjunto de Datos
 
@@ -52,13 +52,14 @@ Los clústeres se forman en dos pasadas: la primera identifica los núcleos de h
 
 ## Sistema de Niveles de Co-localización
 
-Cada clúster se asigna a uno de tres niveles según la composición de anclas minoristas presentes dentro del límite del clúster.
+Cada clúster se asigna a uno de cuatro niveles al superar un conjunto de compuertas predicativas que abarcan la composición de anclas, la posición de la población de captación, la infraestructura cívica y la no superposición con clústeres vecinos. Metodología completa: [[co-location-tier-system]].
 
 | Nivel | Etiqueta | Regla de composición |
 |---|---|---|
-| **T1** | Regional | Hipermercado + ferretería + club de precio (o equivalente completo en tres categorías de ancla independientes) |
-| **T2** | Distrito | Hipermercado + ferretería (dos categorías de ancla independientes) |
-| **T3** | Local | Cualquier categoría de ancla calificada única |
+| **T1** | Regional | Hipermercado + ferretería + club de precio (o equivalente completo en tres categorías de ancla independientes), más población de captación en la banda nacional más alta y un hospital regional dentro del anillo cívico |
+| **T2** | Distrito | Hipermercado + ferretería (dos categorías de ancla independientes), más población de captación en una banda nacional alta y acceso hospitalario dentro del anillo cívico |
+| **T3** | Local | Cualquier categoría de ancla calificada única, más población de captación por encima del punto medio nacional y cualquier hospital dentro del anillo cívico |
+| **T4** | Marginal | Existe co-ubicación comercial, pero el alcance de captación, la composición o el respaldo cívico no alcanzan el nivel Local |
 
 La regla de nivel es composicional, no basada en conteo. Un sitio con cuatro hipermercados co-localizados y ninguna ferretería ni club de precio sigue siendo T3, porque la señal composicional que distingue el atractivo regional de la conveniencia local es la presencia de categorías de ancla *independientes*, no el recuento de tiendas dentro de una sola categoría.
 
