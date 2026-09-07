@@ -12,22 +12,26 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Cheshire heritage city, 30-40 miles from Liverpool — not currently included as a Top-400 entry despite sitting within the suburban-regional distance band."
+short_description: "Cheshire heritage city; the Cheshire West and Chester Top-400 entry sits 35.8 km (straight-line) from Wigan, its platform metropolitan reference — not currently included under Chester's own name."
 paired_with: markets/gb-eng-chester.es.md
-last_edited: 2026-08-26
+last_edited: 2026-09-07
 editor: editorial
 ---
 
 Chester, a historic Cheshire city near the Welsh border, does not currently appear under its
-own name in the European Top-400 Regional Markets list. It sits close to Liverpool — roughly 17
-to 19 miles by road — so its absence is a question about how the market is bounded and named in
-the source build, not about distance.
+own name in the European Top-400 Regional Markets list. The administrative unit "Cheshire West
+and Chester" does appear, with a platform-recorded metropolitan reference of Wigan at 35.8 km
+straight-line — a different city and a different measurement than Chester's Wikipedia-cited
+distance from Liverpool below, so its absence under its own name is a question of market
+boundary and naming, not of distance.
 
 ## Overview
 
 According to Wikipedia (accessed 2026-07-10), Chester's built-up area had 92,760 residents at
-the 2021 census (138,875 for the official city area including charter trustee wards). It is
-situated roughly 17 to 19 miles southwest of Liverpool via the M53 motorway.
+the 2021 census (138,875 for the official city area including charter trustee wards). Wikipedia
+describes it as situated roughly 17 to 19 miles southwest of Liverpool by road via the M53
+motorway — a general geographic description, distinct from the platform's own straight-line
+metropolitan-reference measurement noted above.
 
 The
 service sector dominates the economy — tourism, retail, public administration, and financial
@@ -43,9 +47,9 @@ Cheshire Oaks Designer Outlet and Broughton Retail Park nearby. The Storyhouse a
 
 Chester does not currently appear under its own name in the [[atlas-top-400-europe|Top 400
 Regional Markets — Europe]] list. The administrative unit "Cheshire West and Chester" does appear in the
-Top-400 set (suburb of Wigan), but that entry covers a different administrative boundary
-than the city of Chester itself. This article does not assert they are the same market
-without further verification.
+Top-400 set, recorded 35.8 km straight-line from Wigan, its platform metropolitan reference —
+but that entry covers a different administrative boundary than the city of Chester itself. This
+article does not assert they are the same market without further verification.
 
 ## See Also
 

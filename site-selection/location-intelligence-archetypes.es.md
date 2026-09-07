@@ -14,7 +14,7 @@ language_protocol: TRANSLATE-ES
 language: es
 last_edited: 2026-09-04
 editor: pointsav-engineering
-short_description: "Tres arquetipos de co-localización — Centros Comerciales de Barrio, Periferia Urbana y Viajero Habitual — que identifican patrones de agrupación comercial diferenciados en 17 países de Norteamérica y Europa."
+short_description: "Tres arquetipos de co-localización — Centros Comerciales de Barrio, Periferia Urbana y Viajero Habitual — que identifican patrones de agrupación comercial diferenciados en 18 países de Norteamérica y Europa."
 paired_with: site-selection/location-intelligence-archetypes.md
 ---
 
@@ -145,7 +145,7 @@ establecimientos de ferretería sirven como ancla proxy perfilada, y la
 agrupación de suministro industrial se validó antes de que la clasificación
 pasara a producción.
 
-El conjunto de datos abarca miles de clústeres en los 17 países cubiertos,
+El conjunto de datos abarca miles de clústeres en los 18 países cubiertos,
 con la concentración más alta en Estados Unidos y una cobertura significativa
 en varios otros mercados de Norteamérica y Europa.
 

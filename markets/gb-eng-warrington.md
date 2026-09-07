@@ -26,8 +26,11 @@ from heavy industry to retail, distribution, and technology employment underpins
 
 According to Wikipedia (accessed 2026-07-10), Warrington recorded a population of 174,970
 for the built-up area at the 2021 census (210,900 across the wider borough), covering 44.89
-square kilometres, situated 16 miles east of Liverpool and 16 miles west of Manchester;
-Wikipedia's article does not specify the distance to Wigan. Major employers include
+square kilometres, situated 16 miles east of Liverpool and 16 miles west of Manchester — a
+general geographic description; Wikipedia's article does not specify the distance to Wigan.
+The platform's own metropolitan reference is Wigan, recorded 16.0 km away on a straight-line
+basis, a different city and a different measurement from the Liverpool/Manchester figures
+above. Major employers include
 Warrington Council, Warrington & Halton Hospitals NHS Foundation Trust, a large Unilever
 detergent factory, and ESR Technology. The town transitioned from heavy industry — steel,
 wire, textiles, brewing, chemicals — to light industry, retail, distribution, and technology
@@ -40,7 +43,7 @@ when the retailer entered the market in 1987.
 
 | Field | Value |
 |---|---|
-| Suburb of | Wigan |
+| Suburb of | Wigan (16.0 km, straight-line) |
 
 Warrington has one District-tier and one Local-tier co-location cluster. Cluster-level
 detail — the specific retail and civic anchors composing each cluster — is pending the

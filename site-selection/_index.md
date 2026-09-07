@@ -51,7 +51,7 @@ The nine articles behind "near Power Centres": the analysis framework, the site-
 - [[institutional-retail-halo]] — Economic thesis that co-location with grocery-anchored Power Centres transfers the cash-flow stability of necessity retail to adjacent Woodfine professional office space.
 - [[power-centre-land-availability]] — Woodfine's land-sourcing thesis: the excess parking Power Centre owners reserve against future National Retailer demand is frequently underutilized and available for purchase.
 - [[co-location-convergence-thesis]] — Three trends converge at a Power Centre — live/work/play shopping-centre design, underutilized parking land, and a shortage of professional leasable space — and Woodfine's professional-hours tenancy is built to capture each of them.
-- [[location-intelligence-archetypes]] — Three co-location archetypes — Retail Centres, Urban Fringe, and Commuter — identifying distinct commercial clustering patterns across 17 countries in North America and Europe.
+- [[location-intelligence-archetypes]] — Three co-location archetypes — Retail Centres, Urban Fringe, and Commuter — identifying distinct commercial clustering patterns across 18 countries in North America and Europe.
 <!-- END AUTO-GENERATED -->
 
 ## Anchors and Tenants

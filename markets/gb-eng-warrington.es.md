@@ -27,8 +27,11 @@ la industria pesada hacia el empleo minorista, logístico y tecnológico sostien
 Según Wikipedia (consultado el 10 de julio de 2026), Warrington registró una población de
 174.970 habitantes en el área urbanizada según el censo de 2021 (210.900 en todo el
 municipio), cubriendo 44,89 kilómetros cuadrados, situada a 16 millas al este de Liverpool y
-16 millas al oeste de Manchester; el artículo de Wikipedia no especifica la distancia a
-Wigan. Entre los principales empleadores se encuentran el Ayuntamiento de Warrington,
+16 millas al oeste de Manchester — una descripción geográfica general; el artículo de
+Wikipedia no especifica la distancia a Wigan. La referencia metropolitana de la propia
+plataforma es Wigan, registrada a 16,0 km en línea recta, una ciudad y una medición distintas
+de las cifras de Liverpool/Manchester anteriores. Entre los principales empleadores se
+encuentran el Ayuntamiento de Warrington,
 Warrington & Halton Hospitals NHS Foundation Trust, una gran fábrica de detergentes de
 Unilever y ESR Technology. La ciudad pasó de la industria pesada — acero, alambre, textiles,
 cervecería, química — a la industria ligera, el comercio minorista, la logística y la
@@ -42,7 +45,7 @@ el minorista entró en el mercado en 1987.
 
 | Campo | Valor |
 |---|---|
-| Suburbio de | Wigan |
+| Suburbio de | Wigan (16,0 km, línea recta) |
 
 Warrington tiene un clúster de nivel District y uno de nivel Local. El detalle a nivel de
 clúster — las anclas minoristas y cívicas específicas que componen cada clúster — está

@@ -51,7 +51,7 @@ Los nueve artículos detrás de «cerca de los Power Centres»: el marco de aná
 - [[institutional-retail-halo]] — Tesis económica según la cual la co-ubicación con Power Centres anclados en comestibles transfiere la estabilidad del comercio de necesidad a las oficinas adyacentes.
 - [[power-centre-land-availability]] — Tesis de abastecimiento de terreno de Woodfine: el exceso de estacionamiento que los propietarios de Power Centres reservan ante una futura demanda de Minoristas Nacionales suele estar subutilizado y disponible para su compra.
 - [[co-location-convergence-thesis]] — Tres tendencias convergen en un Power Centre — el diseño live/work/play de los centros comerciales, el terreno de estacionamiento subutilizado y la escasez de espacio arrendable profesional — y el arrendamiento en horario profesional de Woodfine está diseñado para capturar las tres.
-- [[location-intelligence-archetypes]] — Tres arquetipos de co-localización — Centros Comerciales de Barrio, Periferia Urbana y Viajero Habitual — que identifican patrones de agrupación comercial diferenciados en 17 países de Norteamérica y Europa.
+- [[location-intelligence-archetypes]] — Tres arquetipos de co-localización — Centros Comerciales de Barrio, Periferia Urbana y Viajero Habitual — que identifican patrones de agrupación comercial diferenciados en 18 países de Norteamérica y Europa.
 <!-- END AUTO-GENERATED -->
 
 ## Anclas e Inquilinos

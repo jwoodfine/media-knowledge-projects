@@ -12,23 +12,27 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Ciudad histórica de Cheshire, a unas 17-19 millas de Liverpool — no figura bajo su propio nombre como entrada Top-400."
+short_description: "Ciudad histórica de Cheshire; la entrada Top-400 'Cheshire West and Chester' se sitúa a 35,8 km en línea recta de Wigan, su referencia metropolitana en la plataforma — no figura aún bajo el nombre de Chester."
 paired_with: markets/gb-eng-chester.md
-last_edited: 2026-08-26
+last_edited: 2026-09-07
 editor: editorial
 ---
 
 Chester, una ciudad histórica de Cheshire cerca de la frontera galesa, no aparece actualmente
-bajo su propio nombre en la lista Top-400 de Mercados Regionales de Europa. Se sitúa cerca de
-Liverpool — unas 17 a 19 millas por carretera —, de modo que su ausencia es una cuestión sobre
-cómo se delimita y se nombra el mercado en la versión de origen, no sobre la distancia.
+bajo su propio nombre en la lista Top-400 de Mercados Regionales de Europa. La unidad
+administrativa "Cheshire West and Chester" sí aparece, con una referencia metropolitana en la
+plataforma de Wigan a 35,8 km en línea recta — una ciudad y una medición distintas de la
+distancia a Liverpool citada por Wikipedia más abajo —, de modo que su ausencia bajo el nombre
+de Chester es una cuestión de delimitación y nomenclatura del mercado, no de distancia.
 
 ## Descripción general
 
 Según Wikipedia (consultado el 10 de julio de 2026), el área urbanizada de Chester tenía
 92.760 habitantes en el censo de 2021 (138.875 para el área de la ciudad oficial, incluidas
-las circunscripciones de administradores fiduciarios), situada aproximadamente a 17-19 millas
-al suroeste de Liverpool a través de la autopista M53. El sector servicios domina la
+las circunscripciones de administradores fiduciarios). Wikipedia la sitúa aproximadamente a
+17-19 millas al suroeste de Liverpool por carretera a través de la autopista M53 — una
+descripción geográfica general, distinta de la medición en línea recta de referencia
+metropolitana de la propia plataforma indicada arriba. El sector servicios domina la
 economía — turismo, comercio minorista, administración pública y servicios financieros —,
 con empleadores como Bank of America, NFU Mutual, Lloyds Bank, Virgin Money y Quilter, junto
 con la Universidad de Chester y el Countess of Chester Hospital. La cercana fábrica de Airbus
@@ -42,9 +46,10 @@ millones de libras) representa una inversión cultural reciente.
 
 Chester no aparece bajo su propio nombre en la lista
 [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]; la unidad administrativa "Cheshire West
-and Chester" sí aparece en el conjunto Top-400 (suburbio de Wigan), pero esa entrada cubre un
-límite administrativo distinto al de la propia ciudad de Chester, y este artículo no afirma
-que se trate del mismo mercado sin una verificación adicional.
+and Chester" sí aparece en el conjunto Top-400, registrada a 35,8 km en línea recta de Wigan, su
+referencia metropolitana en la plataforma, pero esa entrada cubre un límite administrativo
+distinto al de la propia ciudad de Chester, y este artículo no afirma que se trate del mismo
+mercado sin una verificación adicional.
 
 ## Véase también
 

@@ -13,7 +13,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-09-04
 editor: pointsav-engineering
-short_description: "Three co-location archetypes — Retail Centres, Urban Fringe, and Commuter — identifying distinct commercial clustering patterns across 17 countries in North America and Europe."
+short_description: "Three co-location archetypes — Retail Centres, Urban Fringe, and Commuter — identifying distinct commercial clustering patterns across 18 countries in North America and Europe."
 paired_with: site-selection/location-intelligence-archetypes.es.md
 ---
 
@@ -133,7 +133,7 @@ Urban Fringe classification is production-grade. Hardware retailers serve as
 the profiled proxy anchor, and the trade-supply clustering was validated
 before the classification was promoted to production.
 
-The dataset spans thousands of clusters across the 17 display countries,
+The dataset spans thousands of clusters across the 18 display countries,
 concentrated most heavily in the United States with meaningful coverage
 across several other North American and European markets.
 
