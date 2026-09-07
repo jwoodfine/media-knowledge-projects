@@ -20,7 +20,7 @@ editor: editorial
 
 Fort Collins is carried in the confirmed 2026-08-07 Regional Markets dataset. It sits roughly
 60 miles (97 km) from Denver, beyond the immediate commuter belt — a distance the framework
-records against each market but does not qualify on.
+records against each market but does not qualify on. This distance is a straight-line (crow-flies) measurement, not a drive-time or commuting estimate.
 
 ## Overview
 

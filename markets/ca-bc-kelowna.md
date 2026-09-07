@@ -20,7 +20,7 @@ editor: editorial
 
 Kelowna, the commercial hub of British Columbia's Okanagan Valley, is carried in the confirmed
 2026-08-07 Regional Markets dataset. At 390 kilometres from Vancouver it functions independently
-rather than as a satellite — a distance the framework records but does not qualify on.
+rather than as a satellite — a distance the framework records but does not qualify on. This distance is a straight-line (crow-flies) measurement, not a drive-time or commuting estimate.
 
 ## Overview
 

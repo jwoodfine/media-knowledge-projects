@@ -21,7 +21,7 @@ editor: editorial
 Lethbridge, southern Alberta's commercial and industrial centre, is carried in the confirmed
 2026-08-07 Regional Markets dataset. At 215 kilometres from Calgary it functions as its own
 regional commercial centre rather than a suburb of a major metro core — a distance the
-framework records against each market but does not qualify on.
+framework records against each market but does not qualify on. This distance is a straight-line (crow-flies) measurement, not a drive-time or commuting estimate.
 
 ## Overview
 

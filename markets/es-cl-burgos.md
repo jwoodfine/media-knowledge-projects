@@ -20,7 +20,7 @@ editor: editorial
 
 Burgos is carried in the confirmed 2026-08-07 Regional Markets dataset. At 244 kilometres from
 Madrid it functions as its own regional centre — a distance the framework records against each
-market but does not qualify on.
+market but does not qualify on. This distance is a straight-line (crow-flies) measurement, not a drive-time or commuting estimate.
 
 ## Overview
 

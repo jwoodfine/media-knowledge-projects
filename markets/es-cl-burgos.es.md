@@ -20,7 +20,7 @@ editor: editorial
 
 Burgos figura en el conjunto de datos confirmado de Mercados Regionales de 2026-08-07. A 244
 kilómetros de Madrid funciona como centro regional propio — una distancia que el marco registra
-en cada mercado pero sobre la que no califica.
+en cada mercado pero sobre la que no califica. Esta distancia es una medición en línea recta (a vuelo de pájaro), no una estimación de tiempo de viaje ni de desplazamiento diario.
 
 ## Descripción general
 

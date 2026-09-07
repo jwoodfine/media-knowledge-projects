@@ -20,7 +20,7 @@ editor: editorial
 
 Barrie, together with neighbouring Innisfil, is carried in the confirmed 2026-08-07 Regional
 Markets dataset. It sits roughly 90 kilometres from Toronto, at the outer edge of the commuter
-belt — a distance the framework records against each market but does not qualify on.
+belt — a distance the framework records against each market but does not qualify on. This distance is a straight-line (crow-flies) measurement, not a drive-time or commuting estimate.
 
 ## Overview
 

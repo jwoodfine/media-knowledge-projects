@@ -21,7 +21,7 @@ editor: editorial
 Barrie, junto con la vecina Innisfil, figura en el conjunto de datos confirmado de Mercados
 Regionales de 2026-08-07. Se sitúa a unos 90 kilómetros de Toronto, en el borde exterior del
 cinturón de desplazamiento diario — una distancia que el marco registra pero sobre la que no
-califica.
+califica. Esta distancia es una medición en línea recta (a vuelo de pájaro), no una estimación de tiempo de viaje ni de desplazamiento diario.
 
 ## Descripción general
 

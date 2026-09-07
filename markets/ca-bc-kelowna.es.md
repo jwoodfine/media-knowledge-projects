@@ -21,7 +21,7 @@ editor: editorial
 Kelowna, el centro comercial del valle de Okanagan en Columbia Británica, figura en el conjunto
 de datos confirmado de Mercados Regionales de 2026-08-07. A 390 kilómetros de Vancouver funciona
 de forma independiente y no como satélite — una distancia que el marco registra pero sobre la
-que no califica.
+que no califica. Esta distancia es una medición en línea recta (a vuelo de pájaro), no una estimación de tiempo de viaje ni de desplazamiento diario.
 
 ## Descripción general
 

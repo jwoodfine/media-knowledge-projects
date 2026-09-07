@@ -20,7 +20,7 @@ editor: editorial
 
 Fort Collins figura en el conjunto de datos confirmado de Mercados Regionales de 2026-08-07. Se
 sitúa a unas 60 millas (97 km) de Denver, más allá del cinturón inmediato de desplazamiento
-diario — una distancia que el marco registra pero sobre la que no califica.
+diario — una distancia que el marco registra pero sobre la que no califica. Esta distancia es una medición en línea recta (a vuelo de pájaro), no una estimación de tiempo de viaje ni de desplazamiento diario.
 
 ## Descripción general
 

@@ -22,7 +22,7 @@ Lethbridge, el centro comercial e industrial del sur de Alberta, figura en el co
 confirmado de Mercados Regionales de 2026-08-07. A 215 kilómetros de Calgary funciona como su
 propio centro comercial regional — una distancia que el marco registra en cada mercado pero
 sobre la que no califica, en lugar de un suburbio de un núcleo
-metropolitano importante.
+metropolitano importante. Esta distancia es una medición en línea recta (a vuelo de pájaro), no una estimación de tiempo de viaje ni de desplazamiento diario.
 
 ## Descripción general
 
