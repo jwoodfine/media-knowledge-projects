@@ -12,7 +12,7 @@ quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Los 400 Mercados Regionales norteamericanos publicados a partir de un conjunto calificado de 1.121 — 298 de Estados Unidos, 56 de Canadá, 46 de México. No se publica posición ni puntuación."
+short_description: "Los 400 Mercados Regionales norteamericanos publicados a partir de un conjunto calificado de 1.121 — 298 de Estados Unidos, 56 de Canadá, 46 de México."
 paired_with: markets/atlas-top-400-north-america.md
 last_edited: 2026-09-06
 editor: editorial
@@ -75,11 +75,11 @@ Centros Regionales Independientes — nueve en México, cinco en Canadá y cuatr
 Ninguna entrada norteamericana califica como Ancla de Distrito. La clase independiente es donde el
 conjunto alcanza centros regionales genuinamente aislados, no asentamientos en órbita metropolitana.
 
-La selección a partir del conjunto calificado toma los 400 de mayor puntuación por continente, sin
-cupo alguno por país. Un pequeño mínimo por país impide que un país con mercados calificados reales
-quede excluido por completo, pero no altera el orden. Una puntuación compuesta respalda esa
-selección internamente y nunca se muestra al lector. El orden publicado es alfabético, no ordinal.
-Los recuentos por país son, por tanto, un resultado observado del corte, no un cupo.
+La selección a partir del conjunto calificado toma los 400 mercados con la composición de anclas
+más sólida por continente, sin cupo alguno por país. Un pequeño mínimo por país impide que un país
+con mercados calificados reales quede excluido por completo, pero no altera cuáles mercados se
+incluyen. El orden publicado es alfabético, no ordinal — no se publica ninguna comparación entre
+mercados. Los recuentos por país son, por tanto, un resultado observado del corte, no un cupo.
 
 Las cifras de población y gasto de consumo del área de captación acompañan a cada mercado como
 contexto descriptivo. No participan en la selección. La población está correlacionada negativamente

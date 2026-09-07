@@ -59,8 +59,7 @@ Nivel 3. Diecisiete de los 19 cuentan con al menos un clúster de Nivel 1, y uno
 ## Mercados
 
 Esta tabla es una vista específica del país sobre el conjunto continental
-[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. No se publica ninguna
-clasificación ni puntuación para ningún mercado.
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]].
 
 | Mercado | Referencia metropolitana | km | N1 | N2 | N3 |
 |---|---|---|---|---|---|

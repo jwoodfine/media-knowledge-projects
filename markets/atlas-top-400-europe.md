@@ -12,7 +12,7 @@ quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "The 400 European Regional Markets published from a 650-market qualifying pool across fifteen countries. No rank or score is published; country tables carry the market-level detail."
+short_description: "The 400 European Regional Markets published from a 650-market qualifying pool across fifteen countries; country tables carry the market-level detail."
 paired_with: markets/atlas-top-400-europe.es.md
 last_edited: 2026-09-06
 editor: editorial
@@ -71,11 +71,11 @@ in a market isolated from any other qualifying market beyond the outer geographi
 Of the four hundred European entries, 399 qualify as Regional Markets and one as a District Anchor.
 No European entry qualifies as a Standalone Regional Centre.
 
-Selection from the qualifying pool takes the highest-scoring 400 per continent, with no per-country
-budget. A small per-country minimum floor prevents a country with real qualifying markets from
-being excluded outright, but does not otherwise affect ordering. A composite score supports that
-selection internally and is never surfaced to a reader. The published order is alphabetical, not
-ordinal. The per-country counts below are therefore an observed result of the cutoff, not a quota.
+Selection from the qualifying pool takes the 400 markets with the strongest anchor composition per
+continent, with no per-country budget. A small per-country minimum floor prevents a country with
+real qualifying markets from being excluded outright, but does not otherwise affect which markets
+are included. The published order is alphabetical, not ordinal — no market-to-market comparison is
+published. The per-country counts below are therefore an observed result of the cutoff, not a quota.
 
 Catchment population and consumer-spend figures accompany each market as descriptive context. They
 take no part in selection. Population is negatively correlated with the composition score in every

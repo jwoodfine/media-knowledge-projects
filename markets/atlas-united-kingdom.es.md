@@ -22,8 +22,7 @@ El **índice de mercados regionales del Reino Unido** enumera los 55 mercados de
 Unido que cumplen las puertas de composición del sistema de co-ubicación, extraídos de una reserva calificada de 161. Esa reserva es la más
 profunda de cualquier país europeo del conjunto: el Reino Unido publica apenas un tercio de los
 mercados que superan una puerta de composición. Esta página es una vista filtrada, específica
-del país, de la tabla continental — no un conjunto de datos aparte. No se publica ninguna
-clasificación ni puntuación para ningún mercado.
+del país, de la tabla continental — no un conjunto de datos aparte.
 
 ## Cobertura
 
@@ -60,8 +59,7 @@ cualquier país europeo del conjunto.
 ## Mercados
 
 Esta tabla es una vista específica del país sobre el conjunto continental
-[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. No se publica ninguna
-clasificación ni puntuación para ningún mercado.
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]].
 
 | Mercado | Referencia metropolitana | km | N1 | N2 | N3 |
 |---|---|---|---|---|---|

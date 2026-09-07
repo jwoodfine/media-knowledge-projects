@@ -56,8 +56,7 @@ cluster, and none qualifies on Tier 3 clusters alone.
 ## Markets
 
 This table is a country-specific view of the continental
-[[atlas-top-400-north-america|Top 400 Regional Markets — North America]] set. No rank or score is published for
-any market.
+[[atlas-top-400-north-america|Top 400 Regional Markets — North America]] set.
 
 | Market | Metropolitan reference | km | T1 | T2 | T3 |
 |---|---|---|---|---|---|

@@ -23,7 +23,7 @@ that meet the co-location system's composition gates,
 drawn from a qualifying pool of 161. That pool is the deepest of any European country in the
 set — the United Kingdom publishes barely a third of the markets that clear a composition gate.
 This page is a filtered, country-specific view of the continental table — not a separate
-dataset. No rank or score is published for any market.
+dataset.
 
 ## Coverage
 
@@ -56,8 +56,7 @@ alone. The nine Tier 2 clusters are the highest count of any European country in
 ## Markets
 
 This table is a country-specific view of the continental
-[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] set. No rank or score is published for
-any market.
+[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] set.
 
 | Market | Metropolitan reference | km | T1 | T2 | T3 |
 |---|---|---|---|---|---|

@@ -50,13 +50,13 @@ The three reference articles behind the covered market set: the co-location anal
 The two qualifying sets: four hundred markets per continent that meet the co-location anchor-composition gates. Europe draws its four hundred from a 650-market qualifying pool across fifteen countries; North America draws its four hundred from a pool of 1,121 across three. No rank or score is published for any market in either set. Both pages were rebuilt on 2026-09-06 against the confirmed 2026-08-07 dataset.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-top-400-markets -->
-- [[atlas-top-400-north-america]] — The 400 North American Regional Markets published from a 1,121-market qualifying pool — 298 United States, 56 Canadian, 46 Mexican. No rank or score is published.
-- [[atlas-top-400-europe]] — The 400 European Regional Markets published from a 650-market qualifying pool across fifteen countries. No rank or score is published; country tables carry the market-level detail.
+- [[atlas-top-400-north-america]] — The 400 North American Regional Markets published from a 1,121-market qualifying pool — 298 United States, 56 Canadian, 46 Mexican.
+- [[atlas-top-400-europe]] — The 400 European Regional Markets published from a 650-market qualifying pool across fifteen countries; country tables carry the market-level detail.
 <!-- END AUTO-GENERATED -->
 
 ## Co-Location Indices by Country
 
-Two country-level co-location indices remain as standalone pages — [[atlas-co-location-index-mexico|Mexico]] and [[atlas-co-location-index-nordics|the Nordics]]. The other five were merged into their country pages on 2026-09-05 and are read there: [[atlas-united-states|United States]], [[atlas-canada|Canada]], [[atlas-spain|Spain]], [[atlas-italy|Italy]], and [[atlas-poland|Poland]], each under a Co-location anchor network section. Every index ranks named-anchor convergence node by node within its own country and supplies the underlying cluster data the continental sets are built from.
+Two country-level co-location indices remain as standalone pages — [[atlas-co-location-index-mexico|Mexico]] and [[atlas-co-location-index-nordics|the Nordics]]. The other five were merged into their country pages on 2026-09-05 and are read there: [[atlas-united-states|United States]], [[atlas-canada|Canada]], [[atlas-spain|Spain]], [[atlas-italy|Italy]], and [[atlas-poland|Poland]], each under a Co-location anchor network section. Every index classifies named-anchor convergence node by node within its own country and supplies the underlying cluster data the continental sets are built from.
 
 Both now have country pages alongside them — [[atlas-mexico|Mexico]], and for the Nordics [[atlas-sweden|Sweden]], [[atlas-denmark|Denmark]], [[atlas-finland|Finland]], and [[atlas-norway|Norway]]. Whether they are folded in the way the other five were remains open.
 
@@ -107,8 +107,7 @@ economic context sourced from Wikipedia.
 
 Each profile page states its own position: a published entry in the Top 400 set, a metropolitan
 reference point that other entries are measured against, or a market that did not qualify on
-anchor composition. No rank or score is published for any entry. **The country tables are the
-authoritative view of what is published.**
+anchor composition. **The country tables are the authoritative view of what is published.**
 
 Two hand-maintained lists previously drew that published/reference-only distinction on this page.
 They covered 32 of the 57 profiles, were never rebuilt after the confirmed 2026-08-07 dataset was

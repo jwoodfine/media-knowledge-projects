@@ -50,8 +50,8 @@ Los tres artículos de referencia detrás del conjunto de mercados cubiertos: el
 Los dos conjuntos calificados: cuatrocientos mercados por continente que cumplen las condiciones de composición de anclas de co-localización. Europa extrae sus cuatrocientos de un conjunto calificado de 650 en quince países; América del Norte extrae los suyos de un conjunto de 1.121 en tres. No se publica posición ni puntuación para ningún mercado en ninguno de los dos conjuntos. Ambas páginas se reconstruyeron el 2026-09-06 con el conjunto de datos confirmado 2026-08-07.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-top-400-markets -->
-- [[atlas-top-400-north-america]] — Los 400 Mercados Regionales norteamericanos publicados a partir de un conjunto calificado de 1.121 — 298 de Estados Unidos, 56 de Canadá, 46 de México. No se publica posición ni puntuación.
-- [[atlas-top-400-europe]] — Los 400 Mercados Regionales europeos publicados a partir de un conjunto calificado de 650, en quince países. No se publica posición ni puntuación; las tablas por país contienen el detalle a nivel de mercado.
+- [[atlas-top-400-north-america]] — Los 400 Mercados Regionales norteamericanos publicados a partir de un conjunto calificado de 1.121 — 298 de Estados Unidos, 56 de Canadá, 46 de México.
+- [[atlas-top-400-europe]] — Los 400 Mercados Regionales europeos publicados a partir de un conjunto calificado de 650, en quince países; las tablas por país contienen el detalle a nivel de mercado.
 <!-- END AUTO-GENERATED -->
 
 ## Índices de Co-ubicación por País
@@ -113,8 +113,7 @@ de población y economía procedente de Wikipedia.
 
 Cada página de perfil declara su propia posición: entrada publicada del conjunto Top 400, punto de
 referencia metropolitano frente al que se miden otras entradas, o mercado que no calificó por
-composición de anclas. No se publica posición ni puntuación para ninguna entrada. **Las tablas por
-país son la vista autorizada de lo que está publicado.**
+composición de anclas. **Las tablas por país son la vista autorizada de lo que está publicado.**
 
 Dos listas mantenidas a mano trazaban antes esa distinción en esta página. Cubrían 32 de los 57
 perfiles, nunca se rehicieron tras adoptarse el conjunto de datos confirmado 2026-08-07 — cinco

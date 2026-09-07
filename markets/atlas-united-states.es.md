@@ -22,8 +22,7 @@ El **índice de mercados regionales de Estados Unidos** enumera los 298 mercados
 Unidos que cumplen las puertas de composición del sistema de co-ubicación, extraídos de una reserva calificada de 916. Es la reserva más
 profunda de cualquiera de los dos conjuntos continentales: se publica menos de un tercio de los
 mercados que superan una puerta de composición. Esta página es una vista filtrada, específica
-del país, de la tabla continental — no un conjunto de datos aparte. No se publica ninguna
-clasificación ni puntuación para ningún mercado.
+del país, de la tabla continental — no un conjunto de datos aparte.
 
 ## Cobertura
 
@@ -68,8 +67,7 @@ recuentos estatales del conjunto.
 ## Mercados
 
 Esta tabla es una vista específica del país sobre el conjunto continental
-[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]. No se publica ninguna
-clasificación ni puntuación para ningún mercado.
+[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]].
 
 | Mercado | Referencia metropolitana | km | N1 | N2 | N3 |
 |---|---|---|---|---|---|

@@ -54,8 +54,7 @@ qualifies on exactly one Tier 1 cluster and nothing else.
 ## Markets
 
 This table is a country-specific view of the continental
-[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] set. No rank or score is published
-for any market.
+[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] set.
 
 The dataset records Bulgarian market names in Cyrillic. They appear here in standard Latin
 transliteration, matching the Latin forms the dataset itself carries in its market identifiers.

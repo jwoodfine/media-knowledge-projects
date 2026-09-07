@@ -22,8 +22,7 @@ The **United States regional market index** lists the 298 markets in the United 
 meet the co-location system's composition gates, drawn
 from a qualifying pool of 916. That is the deepest reserve in either continental set — under a
 third of the markets that clear a composition gate are published. This page is a filtered,
-country-specific view of the continental table — not a separate dataset. No rank or score is
-published for any market.
+country-specific view of the continental table — not a separate dataset.
 
 ## Coverage
 
@@ -66,8 +65,7 @@ kind. California contributes 30 markets and Texas 25, the two largest state coun
 ## Markets
 
 This table is a country-specific view of the continental
-[[atlas-top-400-north-america|Top 400 Regional Markets — North America]] set. No rank or score is published for
-any market.
+[[atlas-top-400-north-america|Top 400 Regional Markets — North America]] set.
 
 | Market | Metropolitan reference | km | T1 | T2 | T3 |
 |---|---|---|---|---|---|

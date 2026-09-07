@@ -60,8 +60,7 @@ débil.
 ## Mercados
 
 Esta tabla es una vista específica del país sobre el conjunto continental
-[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]. No se publica
-ninguna clasificación ni puntuación para ningún mercado.
+[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]].
 
 | Mercado | Referencia metropolitana | km | N1 | N2 | N3 |
 |---|---|---|---|---|---|

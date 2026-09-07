@@ -12,7 +12,7 @@ quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Los 400 Mercados Regionales europeos publicados a partir de un conjunto calificado de 650, en quince países. No se publica posición ni puntuación; las tablas por país contienen el detalle a nivel de mercado."
+short_description: "Los 400 Mercados Regionales europeos publicados a partir de un conjunto calificado de 650, en quince países; las tablas por país contienen el detalle a nivel de mercado."
 paired_with: markets/atlas-top-400-europe.md
 last_edited: 2026-09-06
 editor: editorial
@@ -77,11 +77,11 @@ cualquier otro mercado calificado más allá de la banda geográfica exterior.
 De las cuatrocientas entradas europeas, 399 califican como Mercados Regionales y una como Ancla de
 Distrito. Ninguna entrada europea califica como Centro Regional Independiente.
 
-La selección a partir del conjunto calificado toma los 400 de mayor puntuación por continente, sin
-cupo alguno por país. Un pequeño mínimo por país impide que un país con mercados calificados reales
-quede excluido por completo, pero no altera el orden. Una puntuación compuesta respalda esa
-selección internamente y nunca se muestra al lector. El orden publicado es alfabético, no ordinal.
-Los recuentos por país son, por tanto, un resultado observado del corte, no un cupo.
+La selección a partir del conjunto calificado toma los 400 mercados con la composición de anclas
+más sólida por continente, sin cupo alguno por país. Un pequeño mínimo por país impide que un país
+con mercados calificados reales quede excluido por completo, pero no altera cuáles mercados se
+incluyen. El orden publicado es alfabético, no ordinal — no se publica ninguna comparación entre
+mercados. Los recuentos por país son, por tanto, un resultado observado del corte, no un cupo.
 
 Las cifras de población y gasto de consumo del área de captación acompañan a cada mercado como
 contexto descriptivo. No participan en la selección. La población está correlacionada negativamente

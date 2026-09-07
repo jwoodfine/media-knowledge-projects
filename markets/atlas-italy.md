@@ -21,8 +21,7 @@ paired_with: markets/atlas-italy.es.md
 The **Italy regional market index** lists the 62 Italian markets that meet the co-location
 system's composition gates. Italy is the largest country
 entry in the European set, drawn from a qualifying pool of 108. This page is a filtered,
-Italy-specific view of the continental table — not a separate dataset. No rank or score is
-published for any market.
+Italy-specific view of the continental table — not a separate dataset.
 
 ## Coverage
 
@@ -57,8 +56,7 @@ the highest count of Tier 3-only markets of any country in the European set.
 ## Markets
 
 This table is a country-specific view of the continental
-[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] set. No rank or score is published for
-any market.
+[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] set.
 
 | Market | Metropolitan reference | km | T1 | T2 | T3 |
 |---|---|---|---|---|---|

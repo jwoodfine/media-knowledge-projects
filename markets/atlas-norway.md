@@ -47,8 +47,7 @@ plainly rather than presenting an unavailable figure as zero or omitting the gap
 ## Markets
 
 This table is a country-specific view of the continental
-[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] set. No rank or score is published for
-any market.
+[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] set.
 
 | Market | Metropolitan reference | km | T1 | T2 | T3 |
 |---|---|---|---|---|---|

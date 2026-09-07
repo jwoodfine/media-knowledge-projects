@@ -12,7 +12,7 @@ quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "The 400 North American Regional Markets published from a 1,121-market qualifying pool — 298 United States, 56 Canadian, 46 Mexican. No rank or score is published."
+short_description: "The 400 North American Regional Markets published from a 1,121-market qualifying pool — 298 United States, 56 Canadian, 46 Mexican."
 paired_with: markets/atlas-top-400-north-america.es.md
 last_edited: 2026-09-06
 editor: editorial
@@ -71,10 +71,11 @@ Regional Centres — nine in Mexico, five in Canada, and four in the United Stat
 entry qualifies as a District Anchor. The standalone class is where the set reaches genuinely
 isolated regional centres rather than settlements in a metropolitan orbit.
 
-Selection from the qualifying pool takes the highest-scoring 400 per continent, with no per-country
-budget. A small per-country minimum floor prevents a country with real qualifying markets from being
-excluded outright, but does not otherwise affect ordering. A composite score supports that selection
-internally and is never surfaced to a reader. The published order is alphabetical, not ordinal. The
+Selection from the qualifying pool takes the 400 markets with the strongest anchor composition per
+continent, with no per-country budget. A small per-country minimum floor prevents a country with
+real qualifying markets from being excluded outright, but does not otherwise affect which markets
+are included. The published order is alphabetical, not ordinal — no market-to-market comparison is
+published. The
 per-country counts below are therefore an observed result of the cutoff, not a quota.
 
 Catchment population and consumer-spend figures accompany each market as descriptive context. They

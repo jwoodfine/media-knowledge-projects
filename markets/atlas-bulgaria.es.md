@@ -56,8 +56,7 @@ todos los mercados califican con exactamente un clúster de Nivel 1 y nada más.
 ## Mercados
 
 Esta tabla es una vista específica del país sobre el conjunto continental
-[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. No se publica ninguna
-clasificación ni puntuación para ningún mercado.
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]].
 
 El conjunto de datos registra los nombres de los mercados búlgaros en alfabeto cirílico. Aquí
 aparecen en transliteración latina estándar, coincidente con las formas latinas que el propio

@@ -57,8 +57,7 @@ califica únicamente con clústeres de Nivel 3.
 ## Mercados
 
 Esta tabla es una vista específica del país sobre el conjunto continental
-[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. No se publica ninguna
-clasificación ni puntuación para ningún mercado.
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]].
 
 Los nombres de los mercados siguen los registros municipales del propio conjunto de datos, con
 el prefijo administrativo rumano *Municipiul* suprimido para facilitar la lectura.

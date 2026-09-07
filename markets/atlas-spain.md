@@ -21,7 +21,7 @@ paired_with: markets/atlas-spain.es.md
 The **Spain regional market index** lists the 55 markets in Spain that meet the co-location
 system's composition gates, drawn from a qualifying pool
 of 79. This page is a filtered, country-specific view of the continental table — not a separate
-dataset. No rank or score is published for any market.
+dataset.
 
 ## Coverage
 
@@ -55,8 +55,7 @@ alone.
 ## Markets
 
 This table is a country-specific view of the continental
-[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] set. No rank or score is published for
-any market.
+[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] set.
 
 | Market | Metropolitan reference | km | T1 | T2 | T3 |
 |---|---|---|---|---|---|

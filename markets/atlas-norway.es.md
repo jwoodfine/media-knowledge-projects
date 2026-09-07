@@ -25,7 +25,7 @@ europeo en el conjunto de datos vigente.
 
 ## Cobertura
 
-No se publica ningún rango ni puntuación para ningún mercado en esta tabla. Todos los mercados a
+No se publica ninguna clasificación ni puntuación para ningún mercado de esta tabla. Todos los mercados a
 continuación califican bajo la puerta de composición de Mercado Regional del marco — un ancla de
 hipermercado combinada con al menos dos de {ferretería, club de precios, estilo de vida,
 electrónica, deporte} en los clústeres de co-ubicación del mercado. Metodología completa:
@@ -53,8 +53,7 @@ disponible como cero u omitir la laguna en silencio.
 ## Mercados
 
 Esta tabla es una vista específica del país dentro del conjunto continental
-[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. No se publica ningún rango ni
-puntuación para ningún mercado.
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]].
 
 | Mercado | Referencia metropolitana | km | T1 | T2 | T3 |
 |---|---|---|---|---|---|
