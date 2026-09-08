@@ -11,7 +11,7 @@ short_description: "Disciplina de ingeniería que aplica normas europeas, suizas
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-08-24
+last_edited: 2026-09-08
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -20,17 +20,23 @@ paired_with: building-design/geometry-of-sustainability.md
 cites: []
 ---
 
-La **Geometría de la Sostenibilidad** es el enfoque de Woodfine para el rendimiento ambiental de los edificios: ingenierizar tres estándares regulatorios — la Norma Europea de Iluminación, los Requisitos Suizos de Intercambio de Aire y la Ley Alemana de Circulación — directamente en la geometría de la Planta Fija de cada Woodfine Building, en lugar de buscar el cumplimiento de certificaciones una vez completado el diseño. La consecuencia práctica es que cada edificio en el portafolio de Woodfine logra una reducción significativa en los costos operativos para los Arrendatarios de Oficinas en relación con la construcción de oficinas convencional.
+La **Geometría de la Sostenibilidad** es el enfoque de Woodfine para el rendimiento ambiental de los edificios: ingenierizar tres estándares regulatorios — la Norma Europea de Iluminación, los Requisitos Suizos de Intercambio de Aire y la Ordenanza Alemana de Circulación — directamente en la geometría de la Planta Fija de cada Woodfine Building, en lugar de buscar el cumplimiento de certificaciones una vez completado el diseño. La consecuencia práctica es que cada edificio en el portafolio de Woodfine logra una reducción significativa en los costos operativos para los Arrendatarios de Oficinas en relación con la construcción de oficinas convencional.
 
 ## Los Tres Estándares Regulatorios
 
-La Geometría de la Sostenibilidad opera mediante la adhesión a tres marcos regulatorios específicos aplicados como restricciones de diseño a nivel de la planta.
+La Geometría de la Sostenibilidad opera mediante tres instrumentos regulatorios específicos, aplicados como restricciones de diseño a nivel de la planta.
 
-**Norma Europea de Iluminación.** La norma especifica requisitos mínimos tanto para el acceso a la luz natural como para la calidad de la iluminación artificial en espacios de trabajo ocupados. Anclar la geometría de la Planta Fija a este estándar rige la profundidad de la planta, el posicionamiento de las ventanas y la altura interior del techo. Los edificios diseñados con estos parámetros reducen la dependencia de la iluminación artificial durante las horas de luz solar y producen mejoras medibles en la calidad del entorno del ocupante sin requerir intervenciones tecnológicas posteriores a la construcción.
+**Norma Europea de Iluminación.** El instrumento regulador es la EN 12464-1, la norma europea para la iluminación de espacios de trabajo interiores, actualizada por última vez en 2021. Para las tareas típicas de oficina — escribir, leer, introducir datos — establece una iluminancia mantenida de 500 lux sobre la superficie del escritorio, un límite de deslumbramiento (Unified Glare Rating) de 19 o menos, y un índice mínimo de reproducción cromática para la fuente de luz. Anclar la geometría de la Planta Fija a este estándar rige la profundidad de la planta, el posicionamiento de las ventanas y la altura interior del techo. Los edificios diseñados con estos parámetros reducen la dependencia de la iluminación artificial durante las horas de luz solar. La mejora en la calidad del entorno del ocupante es medible y no requiere intervenciones tecnológicas posteriores a la construcción.
 
-**Requisitos Suizos de Intercambio de Aire.** El estándar suizo para el intercambio mecánico de aire en espacios de trabajo ocupados especifica el volumen mínimo de aire fresco por persona ocupante por hora. Incorporar este estándar en la sección del edificio — la dimensión vertical del prototipo — impulsa el dimensionamiento de los sistemas mecánicos, la altura entre losas y la asignación de zonas de conductos. La consecuencia es que la calidad del aire en los Woodfine Buildings cumple un umbral cuantitativo definido independientemente del nivel de ocupación del edificio.
+**Requisitos Suizos de Intercambio de Aire.** El documento regulador es la SIA 382/1, *Lüftungs- und Klimaanlagen — Allgemeine Grundlagen und Anforderungen* ("Instalaciones de Ventilación y Climatización — Bases Generales y Requisitos"), publicada por la Sociedad Suiza de Ingenieros y Arquitectos (SIA). Especifica el volumen mínimo de aire fresco por persona ocupante por hora, dimensionado para mantener una calidad del aire interior aceptable sin un consumo energético excesivo. Incorporar este requisito en la sección del edificio — la dimensión vertical del prototipo — impulsa el dimensionamiento de los sistemas mecánicos, la altura entre losas y la asignación de zonas de conductos. La calidad del aire en los Woodfine Buildings cumple así un umbral cuantitativo definido, independientemente del nivel de ocupación. Los sistemas convencionales, optimizados para condiciones promedio y no máximas, producen en cambio un resultado variable.
 
-**Ley Alemana de Circulación.** La ley rige el ancho del corredor, la salida de emergencia y la capacidad de circulación vertical interna en relación con el área de la planta y el número de ocupantes. El Núcleo Retrocedido Desplazado implementado en los Woodfine Buildings está dimensionado para satisfacer este requisito: corredor continuo con línea de visión directa a los vestíbulos de los ascensores en cada planta.
+**Ordenanza Alemana de Circulación.** El instrumento regulador es la Ordenanza Alemana de Lugares de Trabajo (Arbeitsstättenverordnung, ArbStättV), y específicamente sus disposiciones del §12 sobre rutas de circulación (Verkehrswege). El §12 exige que las rutas de circulación estén dispuestas y dimensionadas de modo que puedan usarse fácil y seguramente para su propósito previsto, dimensionadas según el número de usuarios probables y la naturaleza del lugar de trabajo — un estándar que el conjunto de tokens interiores publicado en `bim.woodfinegroup.com` traduce en anchos libres mínimos de 875 mm para el paso de una persona y 1.200 mm para el paso en dos sentidos. El Núcleo Retrocedido Desplazado implementado en los Woodfine Buildings está dimensionado para satisfacer esa restricción: un corredor continuo con línea de visión directa a los vestíbulos de los ascensores en cada planta. Esta configuración cumple el requisito de holgura mientras preserva el área arrendable perimetral que los diseños de núcleo central sacrifican.
+
+## Dónde Se Publican Estos Estándares
+
+- La **EN 12464-1** es emitida por el Comité Europeo de Normalización (CEN) y se vende a través de los organismos nacionales de normalización (por ejemplo, BSI en el Reino Unido, DIN en Alemania).
+- La **SIA 382/1** es publicada y vendida directamente por la Sociedad Suiza de Ingenieros y Arquitectos en [shop.sia.ch](https://shop.sia.ch/normenwerk/architekt/382-1_2014_d/D/Product); una edición de 2025 ha reemplazado desde entonces a la edición de 2014 citada arriba.
+- La **ArbStättV** es una ordenanza federal y, a diferencia de las dos normas anteriores, se publica de forma íntegra y gratuita por el Ministerio Federal de Justicia de Alemania en [gesetze-im-internet.de](https://www.gesetze-im-internet.de/arbst_ttv_2004/BJNR217910004.html).
 
 ## Vocabulario ESG y Rendimiento Regulatorio
 
