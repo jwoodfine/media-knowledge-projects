@@ -27,11 +27,14 @@ Development Classes names what Woodfine actually builds: four development classe
 
 ## Where to start
 
-Eleven articles cover what Woodfine builds, and how a building fills and supplies itself. These three are the way in, one from each group below — the category's vocabulary is its own short reference, linked from its own section further down.
+Eleven articles cover what Woodfine builds, and how a building fills and supplies itself. The way in is the six development classes themselves — four in force, two planned. Everything else in this category (economics, tenant mix, vocabulary) is reached from its own section further down.
 
-- [[about-development-classes|Development classes]] — All six building types: what each is, who it serves, and how it is sited. Four are in force; two are planned.
-- [[about-development-class-economics|Development class economics]] — The economic characteristics that distinguish one class from another.
-- [[mix-of-use|Mix-of-use]] — The tenant curation model that assembles a five-category professional ecosystem inside every building.
+- [[class-professional-centres|Professional Centres]] — Three-to-five-floor office buildings for professional service tenants, built within 1.0 km of a power centre anchor.
+- [[class-suburban-office|Suburban Office]] — Extends the Professional Centres office product to a 2.0-kilometre radius where 1.0-kilometre siting is not feasible.
+- [[class-retail-select|Retail Select]] — The single-storey commercial-retail class that complements Woodfine's multi-storey office buildings.
+- [[class-tech-industrial|Tech Industrial]] — A single-format industrial-retail building serving last-mile logistics and workshop tenants.
+- [[class-parking-structures|Parking Structures]] — Planned for regional transit hubs and airport catchment zones.
+- [[class-vertical-warehouses|Vertical Warehouses]] — Planned as a purpose-built vertical-stacking industrial and logistics class.
 
 ## The Six Development Classes
 

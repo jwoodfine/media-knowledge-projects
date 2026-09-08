@@ -27,11 +27,14 @@ Clases de Desarrollo nombra lo que realmente construye Woodfine: cuatro clases d
 
 ## Por dónde empezar
 
-Once artículos cubren lo que construye Woodfine, y cómo un edificio se llena y se abastece. Estos tres son la vía de entrada, uno por cada grupo de abajo — el vocabulario de la categoría es su propia referencia breve, enlazada desde su propia sección más abajo.
+Once artículos cubren lo que construye Woodfine, y cómo un edificio se llena y se abastece. La vía de entrada son las seis clases de desarrollo mismas — cuatro vigentes, dos planeadas. Todo lo demás en esta categoría (economía, combinación de inquilinos, vocabulario) se alcanza desde su propia sección más abajo.
 
-- [[about-development-classes|Clases de desarrollo]] — Los seis tipos de edificio: qué es cada uno, a quién sirve y cómo se ubica. Cuatro están vigentes; dos están planeadas.
-- [[about-development-class-economics|Economía de las clases de desarrollo]] — Las características económicas que distinguen una clase de otra.
-- [[mix-of-use|Mix-of-Use]] — El modelo de curaduría de inquilinos que ensambla un ecosistema profesional de cinco categorías dentro de cada edificio.
+- [[class-professional-centres|Professional Centres]] — Edificios de oficina de tres a cinco pisos para arrendatarios de servicios profesionales, construidos a menos de 1.0 km de un ancla de Power Centre.
+- [[class-suburban-office|Suburban Office]] — Extiende el producto de oficinas de Professional Centres a un radio de 2.0 kilómetros donde el emplazamiento a 1.0 kilómetro no es viable.
+- [[class-retail-select|Retail Select]] — La clase comercial-minorista de un solo piso que complementa los edificios de oficina de varios pisos de Woodfine.
+- [[class-tech-industrial|Tech Industrial]] — Un edificio de formato único industrial-comercial para inquilinos de logística de última milla y taller.
+- [[class-parking-structures|Parking Structures]] — Planificadas para centros de tránsito regionales y zonas de captación aeroportuaria.
+- [[class-vertical-warehouses|Vertical Warehouses]] — Planificados como una clase industrial y logística de apilamiento vertical construida a propósito.
 
 ## Las Seis Clases de Desarrollo
 
