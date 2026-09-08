@@ -27,12 +27,11 @@ Development Classes names what Woodfine actually builds: four development classe
 
 ## Where to start
 
-Eleven articles cover what Woodfine builds, and how a building fills and supplies itself. These four are the way in, one from each group below.
+Eleven articles cover what Woodfine builds, and how a building fills and supplies itself. These three are the way in, one from each group below — the category's vocabulary is its own short reference, linked from its own section further down.
 
 - [[about-development-classes|Development classes]] — All six building types: what each is, who it serves, and how it is sited. Four are in force; two are planned.
 - [[about-development-class-economics|Development class economics]] — The economic characteristics that distinguish one class from another.
 - [[mix-of-use|Mix-of-use]] — The tenant curation model that assembles a five-category professional ecosystem inside every building.
-- [[woodfine-development-vocabulary|Development vocabulary]] — The proprietary terms this category uses, kept distinct from generic AEC industry usage.
 
 ## The Six Development Classes
 

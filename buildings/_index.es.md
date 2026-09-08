@@ -27,12 +27,11 @@ Clases de Desarrollo nombra lo que realmente construye Woodfine: cuatro clases d
 
 ## Por dónde empezar
 
-Once artículos cubren lo que construye Woodfine, y cómo un edificio se llena y se abastece. Estos cuatro son la vía de entrada, uno por cada grupo de abajo.
+Once artículos cubren lo que construye Woodfine, y cómo un edificio se llena y se abastece. Estos tres son la vía de entrada, uno por cada grupo de abajo — el vocabulario de la categoría es su propia referencia breve, enlazada desde su propia sección más abajo.
 
 - [[about-development-classes|Clases de desarrollo]] — Los seis tipos de edificio: qué es cada uno, a quién sirve y cómo se ubica. Cuatro están vigentes; dos están planeadas.
 - [[about-development-class-economics|Economía de las clases de desarrollo]] — Las características económicas que distinguen una clase de otra.
 - [[mix-of-use|Mix-of-Use]] — El modelo de curaduría de inquilinos que ensambla un ecosistema profesional de cinco categorías dentro de cada edificio.
-- [[woodfine-development-vocabulary|Vocabulario de desarrollo]] — Los términos propios que usa esta categoría, mantenidos distintos del uso genérico de la industria AEC.
 
 ## Las Seis Clases de Desarrollo
 
