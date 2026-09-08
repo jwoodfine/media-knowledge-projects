@@ -39,8 +39,8 @@ Canadá. Las referencias a la Sovereign Data Foundation en este wiki describen u
 planificada o prevista únicamente, no una titular de capital actual ni un órgano de gobierno
 activo.
 
-**Marcas registradas.** Consulte `TRADEMARK.md` en este repositorio para conocer el aviso de
-marcas completo.
+**Marcas registradas.** El aviso de marcas completo aparece en el pie de página de cada
+página de este sitio.
 
 **Licencia de contenido.** El texto de este wiki está licenciado bajo [Creative Commons
 Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/).

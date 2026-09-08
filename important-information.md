@@ -35,7 +35,7 @@ are available on request.
 References to the Sovereign Data Foundation on this wiki describe a planned or intended
 initiative only, not a current equity holder or active governance body.
 
-**Trademarks.** See `TRADEMARK.md` in this repository for the full trademark notice.
+**Trademarks.** The full trademark notice appears in the footer of every page on this site.
 
 **Content licence.** The text of this wiki is licensed under [Creative Commons
 Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/).
