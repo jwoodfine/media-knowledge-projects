@@ -49,7 +49,7 @@ Floor plate geometry accommodates European lighting directives that specify maxi
 
 ## See also
 
-- [[key-plans-and-tiles]] — the tile geometry the floor plate is derived from
+- [[key-plans-and-tiles]] — the Key Plan and Tile geometry the floor plate is derived from
 - [[design-sequence-priority]] — the collaboration order that fixes the floor plate before Building Services and Structural design
 - [[structural-bay-depth-discipline]] — why bay depth within the fixed grid follows tenant need, not beam economics
 - [[four-to-one-parking-ratio]] — the site-level parking standard that bounds floor count for the same prototypes

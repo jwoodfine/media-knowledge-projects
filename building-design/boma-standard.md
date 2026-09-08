@@ -35,7 +35,7 @@ Woodfine [[fixed-floor-plates|fixed floor plates]] are designed to optimize the 
 
 Floor plate subdivisions — 1/8, 1/4, 1/2, 3/4, and full floor — are measured and leased on a BOMA Rentable Area basis. Each subdivision's Rentable Area is derived from the Usable Area of the demised portion plus the subdivision's proportionate share of the building's common areas.
 
-Because the [[key-plans-and-tiles|Key Plans and Tiles]] system defines subdivision boundaries at tile module boundaries — not at arbitrary points — each subdivision produces a geometrically clean BOMA Rentable Area calculation without fractional module remnants.
+Because the [[key-plans-and-tiles|Key Plans and Tiles]] system fixes subdivision boundaries at Key Plan and Tile boundaries — not at arbitrary points — each subdivision produces a geometrically complete BOMA Rentable Area calculation. Where a subdivision's boundary does not divide evenly against the standard Tile module, smaller purpose-built configurations absorb the difference rather than leaving a fractional, unleasable remnant.
 
 ## BOMA and building class classification
 

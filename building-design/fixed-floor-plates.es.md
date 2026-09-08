@@ -23,7 +23,7 @@ Una placa de piso fija es la huella estructural estandarizada e inmutable de un 
 
 ## Derivación de la geometría del equipo
 
-Las dimensiones de la placa de piso no se derivan de preferencias arquitectónicas ni de la disponibilidad del sitio. Se derivan de la geometría física de las configuraciones de mobiliario y equipos — estaciones de trabajo, salas de reuniones, mesadas de laboratorio, salas de tratamiento médico — que requiere cada una de las cinco categorías de [[mix-of-use|inquilinos profesionales]]. El sistema de [[key-plans-and-tiles|Planos Maestros y Módulos]] traduce la geometría de los equipos en una cuadrícula estructural optimizada, que fija el espaciado de las columnas, las dimensiones del núcleo y la relación entre área útil y área bruta de la placa.
+Las dimensiones de la placa de piso no se derivan de preferencias arquitectónicas ni de la disponibilidad del sitio. Se derivan de la geometría física de las configuraciones de mobiliario y equipos — estaciones de trabajo, salas de reuniones, mesadas de laboratorio, salas de tratamiento médico — que requiere cada una de las cinco categorías de [[mix-of-use|inquilinos profesionales]]. El sistema de [[key-plans-and-tiles|Key Plans y Tiles]] traduce la geometría de los equipos en una cuadrícula estructural optimizada, que fija el espaciado de las columnas, las dimensiones del núcleo y la relación entre área útil y área bruta de la placa.
 
 Esta secuencia de derivación — equipo del inquilino → geometría optimizada → cuadrícula estructural fija → placa de piso — produce un edificio donde la placa de piso ya está calibrada para los requisitos espaciales del ocupante antes de que se conozca al ocupante. Cualquier inquilino dentro de la categoría aplicable puede ser alojado sin modificación estructural.
 
@@ -49,7 +49,7 @@ La geometría de la placa de piso cumple con las directivas europeas de iluminac
 
 ## Véase también
 
-- [[key-plans-and-tiles]] — la geometría de módulos de la que se deriva la placa de piso
+- [[key-plans-and-tiles]] — la geometría de Key Plan y Tile de la que se deriva la placa de piso
 - [[design-sequence-priority]] — el orden de colaboración que fija la placa de piso antes de Servicios del Edificio y el diseño Estructural
 - [[structural-bay-depth-discipline]] — por qué la profundidad del vano dentro de la cuadrícula fija sigue las necesidades del inquilino, no la economía de vigas
 - [[four-to-one-parking-ratio]] — el estándar de estacionamiento a nivel de sitio que limita el número de pisos para estos mismos prototipos

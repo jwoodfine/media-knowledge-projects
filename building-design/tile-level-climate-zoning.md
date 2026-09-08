@@ -21,7 +21,7 @@ Woodfine sizes climate control to the [[key-plans-and-tiles|Tile]], not to the i
 
 ## Why the Tile is the right unit
 
-A [[key-plans-and-tiles|Tile]] is already the smallest geometrically complete leasehold unit Woodfine leases against, sized to the equipment and circulation geometry of a specific professional use. Matching the climate zone to that same unit means a Building Services Collaborator is zoning against a boundary that already exists in the leasing geometry, rather than inventing a separate zoning boundary that has to be reconciled with it afterward. Special Tiles are the one case sized differently — larger configurations built for leaseholds that take up to three-quarters of a floor around the Elevator Lobbies. Because a Special Tile is large enough to function as its own leasehold, it is given a self-controlled climate zone rather than sharing the standard Tile-sized zone.
+A [[key-plans-and-tiles|Tile]] is built from the same real furniture and circulation geometry as the Key Plans it contains, so matching the climate zone to the Tile means a Building Services Collaborator is zoning against a boundary that already exists in the leasing geometry, rather than inventing a separate zoning boundary that has to be reconciled with it afterward. Special Tiles are the one case sized differently — smaller, purpose-built configurations near the building's core and Elevator Lobbies, sized to whatever that location actually requires rather than to the standard Tile module. Because a Special Tile is a complete, self-contained fit at its own scale, it is given its own self-controlled climate zone rather than sharing a standard Tile-sized zone.
 
 ## What it replaces
 

@@ -35,7 +35,7 @@ Las [[fixed-floor-plates|placas de piso fijas]] de Woodfine están diseñadas pa
 
 Las subdivisiones de la placa de piso — 1/8, 1/4, 1/2, 3/4 y piso completo — se miden y arriendan sobre la base del Área Arrendable BOMA. El Área Arrendable de cada subdivisión se deriva del Área Utilizable de la porción demisada más la participación proporcional de la subdivisión en las áreas comunes del edificio.
 
-Dado que el sistema de [[key-plans-and-tiles|Planos Maestros y Módulos]] define los límites de subdivisión en los límites del módulo — no en puntos arbitrarios — cada subdivisión produce un cálculo limpio del Área Arrendable BOMA sin remanentes fraccionarios del módulo.
+Dado que el sistema de [[key-plans-and-tiles|Key Plans y Tiles]] fija los límites de subdivisión en los límites de Key Plan y Tile — no en puntos arbitrarios — cada subdivisión produce un cálculo geométricamente completo del Área Arrendable BOMA. Donde el límite de una subdivisión no divide de forma exacta el módulo estándar de Tile, configuraciones más pequeñas y de propósito específico absorben la diferencia en lugar de dejar un remanente fraccionario y no arrendable.
 
 ## BOMA y la clasificación de edificios
 
