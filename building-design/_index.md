@@ -30,7 +30,7 @@ Building Design covers the design system behind every Woodfine building: fixed f
 Sixteen articles define the design system behind every Woodfine building. These five carry the load, and reach all three groups below.
 
 - [[fixed-floor-plates|Fixed floor plates]] — The standardized structural base every building is derived from. The most-referenced article in this category.
-- [[key-plans-and-tiles|Key plans and tiles]] — The self-similar space-planning system the floor plate dimensions are derived from.
+- [[key-plans-and-tiles|Key plans and tiles]] — The nested Key Plan, Tile, and Floor Plate hierarchy every building is planned from.
 - [[bim-design-philosophy|BIM design philosophy]] — Buildings are designed to comply with jurisdictional code at the design stage, not checked for compliance afterward.
 - [[design-sequence-priority|Design sequence priority]] — The fixed collaboration order behind every design package: Leasing Plan, then Building Services, then Structural.
 - [[geometry-of-sustainability|Geometry of sustainability]] — European lighting, Swiss air-exchange, and German circulation standards applied to the fixed floor plate to lower operating cost.
@@ -52,7 +52,7 @@ What every building is dimensioned against. Four articles set out the standardiz
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: floor-plates-and-measurement-standards -->
 - [[fixed-floor-plates]] — The standardized, immutable structural base used in all Woodfine buildings, derived from optimized equipment geometry to enable repeatable construction and predictable space performance.
-- [[key-plans-and-tiles]] — A geometric, self-similar space planning system derived from tenant equipment and circulation geometry, used to derive fixed floor plate dimensions.
+- [[key-plans-and-tiles]] — The nested Key Plan, Tile, and Floor Plate hierarchy Woodfine designs from — space planned from real furniture and circulation outward, rather than from a floor-plate area formula inward.
 - [[boma-standard]] — The Building Owners and Managers Association measurement standard for commercial floor area, used as the common measurement basis for Woodfine lease areas and building comparisons.
 - [[asset-architecture-standard]] — Uniform structural requirements for Woodfine developments: concrete and steel construction, pre-acquisition dimensioning, and standardized configuration applied across the portfolio.
 <!-- END AUTO-GENERATED -->

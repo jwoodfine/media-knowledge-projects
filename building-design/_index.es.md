@@ -30,7 +30,7 @@ Diseño de Edificios abarca el sistema de diseño detrás de cada edificio Woodf
 Dieciséis artículos definen el sistema de diseño detrás de cada edificio Woodfine. Estos cinco llevan el peso, y alcanzan los tres grupos de abajo.
 
 - [[fixed-floor-plates|Placas de piso fijas]] — La base estructural estandarizada de la que deriva cada edificio. El artículo más referenciado de esta categoría.
-- [[key-plans-and-tiles|Planos maestros y módulos]] — El sistema de planificación espacial autosimilar del que derivan las dimensiones de la placa de piso.
+- [[key-plans-and-tiles|Key Plans y Tiles]] — La jerarquía anidada de Key Plan, Tile y Floor Plate desde la que se planifica cada edificio.
 - [[bim-design-philosophy|Filosofía de diseño BIM]] — Los edificios se diseñan para cumplir el código jurisdiccional en la etapa de diseño, no para verificarse después.
 - [[design-sequence-priority|Prioridad de secuencia de diseño]] — El orden de colaboración fijo detrás de cada paquete de diseño: Plan de Arrendamiento, luego Servicios del Edificio, luego Estructural.
 - [[geometry-of-sustainability|Geometría de la sostenibilidad]] — Estándares europeos de iluminación, suizos de renovación de aire y alemanes de circulación aplicados a la placa de piso fija para reducir el costo operativo.
@@ -52,7 +52,7 @@ Aquello contra lo que se dimensiona cada edificio. Cuatro artículos establecen 
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: floor-plates-and-measurement-standards -->
 - [[fixed-floor-plates]] — La base estructural estandarizada e inmutable utilizada en todos los edificios Woodfine, derivada de la geometría optimizada de los equipos para permitir una construcción repetible y un rendimiento espacial predecible.
-- [[key-plans-and-tiles]] — Un sistema de planificación espacial geométrico y autosimilar derivado de la geometría de equipos y circulación de los inquilinos, utilizado para determinar las dimensiones de las placas de piso fijas.
+- [[key-plans-and-tiles]] — La jerarquía anidada de Key Plan, Tile y Floor Plate desde la que diseña Woodfine — espacio planificado desde el mobiliario y la circulación reales hacia afuera, no desde una fórmula de área de placa de piso hacia adentro.
 - [[boma-standard]] — El estándar de medición de área de piso de la Building Owners and Managers Association, base de medición común para las áreas de arrendamiento y comparaciones de edificios de Woodfine.
 - [[asset-architecture-standard]] — Requisitos estructurales uniformes para los desarrollos Woodfine: construcción de concreto y acero, dimensionamiento previo a la adquisición y configuración estandarizada en toda la cartera.
 <!-- END AUTO-GENERATED -->
@@ -66,7 +66,7 @@ Ocho artículos que cubren qué se aplica en cada nivel. El estacionamiento y la
 - [[four-to-one-parking-ratio]] — El estándar de estacionamiento de cuatro cajones por cada 1.000 pies cuadrados de área arrendable neta que Woodfine aplica en los Mercados Regionales, donde el automóvil privado es la única forma práctica en que los clientes de un inquilino llegan al edificio.
 - [[water-management-system]] — Un mecanismo de conservación de agua para el día a día — almacenamiento en cisterna y galería de irrigación, un sistema de plomería de aguas grises, pavimento permeable y biozanjas — que hace que el paisajismo de un Sitio de Desarrollo sea autosuficiente en lugar de depender de la infraestructura pluvial municipal.
 - [[common-building-code]] — El estándar interno de provisión de baños de Woodfine, superpuesto al código de construcción jurisdiccional y determinado por la Combinación de Inquilinos y el tráfico peatonal diario, no solo por los mínimos de código.
-- [[tile-level-climate-zoning]] — El estándar de granularidad de servicios del edificio de Woodfine: cada Módulo tiene su propio termostato, con Módulos Especiales que reciben una zona climática autocontrolada, en lugar de zonificar a nivel de espacio arrendable individual o de piso completo.
+- [[tile-level-climate-zoning]] — El estándar de granularidad de servicios del edificio de Woodfine: cada Tile tiene su propio termostato, con Special Tiles que reciben una zona climática autocontrolada, en lugar de zonificar a nivel de espacio arrendable individual o de piso completo.
 - [[structural-bay-depth-discipline]] — Una disciplina de la cuadrícula estructural que exige fijar la profundidad del vano de un espacio arrendable según las necesidades del inquilino, no según el vano de viga más económico disponible, dado que la profundidad no arrendable de un vano sobredimensionado nunca se recupera durante la vida del contrato de arrendamiento.
 - [[geometry-of-sustainability]] — Disciplina de ingeniería que aplica normas europeas, suizas y alemanas de iluminación, aire y circulación a la Planta Fija, para mejorar la eficiencia de los costos operativos del edificio.
 - [[dual-mandate-building-certifications]] — Estrategia de arrendamiento que certifica cada Woodfine Building bajo los estándares BREEAM y WELL, dirigida a Arrendatarios Nacionales que dejan oficinas heredadas obsoletas.
